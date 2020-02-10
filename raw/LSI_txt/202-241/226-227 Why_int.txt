@@ -1,0 +1,432 @@
+	Japanese	naze
+	Ainu	hemanda gusu
+	Korean	uei (or wei)
+		ueikoro
+		etji
+	Turkī	nī-aūchūn
+	Manchu	bide
+		àinu
+	Mongolian	yàɣunu tulà
+	Saukpà	t’àrich’in
+	Basque	zer-gatik
+850.	Burušaskī	bisē
+2a.	Malay	maṅàpà
+2b.	Cham	hàbàr
+1.	Salôn	…
+	K’mēr	debàt oi
+3a.	Talaing, written	mū huit
+3b. 	Talaing, spoken	mᵘ hǒᵗ
+	Sakai	yà-mà
+		yà-mo
+	Sěmang	ailöō
+4a.	Palaung	s’ē
+		šē
+		šī ’n ña (what is it?)
+4b.	Katuṟṟ	…
+4c.	Darāng	…
+5.	Wa	much p’e
+	Sǒn	…
+	En	…
+	Tai-loi	…
+	A Mǒk	…
+	Āng-kū	…
+	Möng Lwe	…
+	Danå	töṅ-yå-tà
+	Yin/Riang	…
+	K’a Muk	…
+8.	K’āsī, Standard	bàlei
+12.	Wār	ai ni
+13.	Nicobarese	chāwe
+		chūa
+15a. 	K’erwārī, Santālī	chēᵗ-iạ̄-tä
+16. (15b.)	Muṇḍārī	chikạ̄n mäntē
+26. 	Kūrkū	chōᶜʰ-ten
+		chōen
+27.	K’aṛiā	ina
+28.	Juāṅg	biri-te
+29.	Savara	etenāsan
+		ētāsan
+30.	Gadabā	maṅ-pulaī
+		nāyi-duvāru
+	Mandarin	˦˨ wä ˨˦ san ˨˦ må
+	Cantonese	˦ yan ˨ hå
+	Gyåmi	šå-chū
+45a.	Siamese, written	˧ dāṁ ˧ mai
+		˨ hētu ˧ tai
+45b.	Siamese, spoken	˧ t’àm ˧ mai
+		˨ hēᵗ ˧ dai
+	Lao	…
+46.	Lü	hit s’àṅ
+47.	K’ün	hit s’àṅ
+49.	Šàn	˦ hit ˨˦ s’àṅ ˦˨ lä
+51.	Āhom	bā
+52.	K’āmtī	het saṅ
+	Annamese	˦˥ ko ˧ chi
+35a.	Pwo, literary	˧ mwai = ba ˧ sö = nå = lai
+35b.	Pwo Bassein	bà lai
+35c.	Pwo Maulmein	bà lä
+36.	Taungθu	pu tà mai
+34a.	Sgå, literary	˥˦ ba ˧ ma = nü ˥˦ lä
+34b.	Sgå, spoken	bà m^ànü
+32.	Bwè	bä tä rä kyi
+41a.	Wewaw	bi m^àtä
+33.	Karenbyu	mà nä
+	Bräo	…
+40a.	Karenni	bä ti te
+(40b.)	Yintalä	…
+(40c.)	Sin-hmå Mäpauk	…
+39. 	Gheko	m^àrà
+37. 	Padaung	mà rà
+38. 	Yeinbå	n kà
+	Manö	…
+41.	Zayein	…
+	Mopwa, Bilichi	bà mà cho
+	Mopwa, Dermuha	yu le kå lä
+43a.	Miao-tsü (Hmōng)	˦ wa ˦ le ˦ ˦˨ chʸaṅ
+43b.	Hē-Miao	…
+43c.	Pē-Miao	å-le-jaṅ
+(42a.)	Man	tso hā-nā
+42b.	Lanten-Yao	…
+42c.	Man-lan-tiēn	föi ˨˦ yuṅ
+42d.	Man-ta-pan	fāy ˨˦ yuṅ
+72.	Manchāṭī/Paṭnī	ch’a-riṅ
+73. 	Chamba Lāhulī	ch’ā-rī
+76.	Kanāšī	kwe
+77.	Kanaurī	tū
+78.	Rangkas	k’a-lai
+83.	D’īmāl	hai på-li
+84.	T’āmī	hā-rā-bu-ri
+85.	Limbū	t’ī-aṅ
+86.	Yāk’ā	i-juk
+87.	K’ambū	ū-do-ho-e
+90.	Bāhing	māra-ṅā
+91.	Bālālī	ū-k’ā-lo
+92.	Sāngpāng	yā̃-pi
+93.	Lōhōrōng	i-maṅ mu-si
+94.	Lāmbich’ōng	t’im-mā
+95.	Wāling	dē-hā-nā
+96.	Ch’ingtāng	mēch-ch’ā
+97.	Rūngch’ēnbūng	dē-na
+		dē-ne
+98.	Dūngmāli	te-nā
+99.	Rōdōng/Chāmling	dē-ma
+100.	Nāch’erēng	ū-mū
+101.	Kūlung	dā-i
+		dā-tūk-wa
+102.	T’ūlung	hā-ṅa
+		ham-ta
+103.	Chaurāsya	ā-sē
+		ā-mā
+104.	K’āling	mā-bi
+105.	Dūmī	mā-pū-ne
+88.	Rai/Jimdār	ma-ka
+106.	Vāyu/Hāyu	mische-pā
+111. 	Gurung	ta-le
+112.	Murmi	ti-si
+113. 	Sunwār	mur-ne
+114.	Mãgarī	hi-ki
+116.	Nēwārī	ch’āe
+117.	Paḍ’ī /Pahrī/Pahī	chāe
+118.	Róng/Lepcha	šū-māt-nun
+121. 	Ṭōṭō	hā-rāṅ-gā
+122. 	Aka	han-do
+123.	Abor	kā-pī-lā
+124.	Miri	kā-pī-lā
+125.	Daflā	hog-ba
+126a.	Mišmi, Digārū	mjā kanoṅ
+		kadī
+126b.	Mījū	chendo
+		siga
+	Si-hia	…
+273a.	Lolo, ˨˦Ñⁱ	˧ k’a ˨˦ di
+		˧ a ˧ mⁱ ˨˦ di
+273b.	A-hi	a° ˨ mi d0°
+		ka° ˨ mi do°
+273c.	Lo-lo p’o	a° ˨ tsa ˦˨ mo
+276. (273d.)	A-ka (Kå)	àde gai ö
+277a. (273e.)	A-kö	…
+275a.	Lisu	˦ à ˨ šⁱ ˦ wū
+275b.	Lis’å/Yåyin	ǎšö wu
+274a.	Mo-s’o	sē ta
+274b.	Lahu	àtu mà te lä
+		à mà lä
+277a.	Pyen/Pyin	…
+277a.	Nung	rà wà tà kàṅ
+	Gyårūng	t’us-pai
+	Mànyàk	hå-mi (? nu)-lai
+	T’auchū	nib-lin
+		ni-ši
+	Tàkpà	sā-gyak
+	Haurpà	å-chū-ṅau
+58a.	B’ōṭiā, Tibetan, written	gaṅ-la
+58b.	B’ōṭiā, Tibetan, spoken	g’aṅ-la
+59. (58c.)	Baltī	chī-p’arī
+60. (58d.)	of Purik	chī-la
+61. (58e.)	Ladak’ī	chi-p’i-la
+63. (58f.)	of Spiti	chi-la
+70. (58g.)	Kāgate	che-la
+67. (58h.)	Šarpa	gaṅ-la
+68. (58i.)	Dänjongkä	kam-be
+69. (58j.)	Hloke	gan-chi-bewo
+128.	Bodo/Båṛå	mā-nǔ
+130. 	Lālung	nindā-nē
+		mi-nā
+131.	Dīmā-sā	šūm-jabā-ni
+135.	Gārō, Āchik	mai-nā
+142.	Kōch	mā-nā
+151.	Tipurā	tāmǒ-ni
+152. 	Deurī-Chutiyā	dām-māi
+154.	Angāmi	ki-di
+159.	Semā	kiu-šia
+162.	Rengmā	ṅute-ho
+165.	Kēžāmā	ditcho (?)
+194.	Sopvomā	ada-lē
+166.	Āo	ke-chi-bā
+169.	Hlōtā	ntsōle
+170.	Tengsa	kadō
+171.	T’ukumi	tusāuonašo
+172. 	Yachumi	tumusiwālē
+173.	Tableng	hàṅ-i
+174.	Tamlu	hmi-kai
+175. 	Banparā	tem-mok-pu
+178.	Namsangiā	vē-tō
+179.	Chāng	ai-la
+181.	Mōšāng	k’am-la
+183.	Ēmpēo	endai-lo-ši
+187.	Kabui	ta-bui-kāṅ-cho
+188.	K’oirāo	ka-di gūibo
+189.	Mikir	pī ā-påt
+195.	Marām	kau-yai-yū
+197.	Kwoireng	n-dē-gō-lō
+199a.	Tāngk’ul	k’i sā-ta
+200. (199b.)	P’adāng	kī-gā
+201. (199c.)	K’angoi	kī-kallō
+202.	Maring	kaū-woi-yā-bai-yo
+204a.	Chingpå/Kachin	p’à-pyin-nai
+204b.	Maran	…
+205. (204c.)	Singp’o	mà-k’ai dī
+	Old Meit’ei	kā-ri nā-no
+206.	Meit’ei	ka-ri-gi-no
+207.	T’ādo	ī-dā
+		ī-bol-ā
+213.	Siyin	a-bāṅ-kōm
+219.	Lai	ᵃ-yai ti-à
+224. 	Lušēi	e-ṅa-tān-ṅe
+227.	Banjōgi	jei-to-me
+		zē-rūn-tla
+228.	Pānk’ū	i-raṅ-ā
+229.	Hrāngk’ol	ī-mā-nī
+232.	Hallām	ī-raṅ-må
+		hā-pṅ-må
+236.	Langrong	ī-d’iṅ-må
+237.	Aimol	i-rani-hi-mo
+238.	Chiru	i-raṅ-a-mo
+239.	Kolhreng	aṅ-sik-ē-ni
+240.	Kōm	hāi-hlai-yā-mo
+246.	Pūrūm	i-yē a-jē
+247.	Anāl	dā-wa-wa-di
+248.	Hirōi-Lamgāng	ta-ki
+255.	Taungθa	t^à-l^à-ǒm chǒṅ
+252.	Chinbōk	…
+	Yådwin	…
+254.	Chinbōn	à-pyi-kyan-su
+	Thayetmyo Chin	bauṅ-kᵃti
+256.	Šö/K’yang	pa-k’ā-ti-nü
+257.	K’ami	…
+279.	Andro	hà-niṅ-à gà
+279.	Sengmai	mē-kà-rà
+280.	Chairel	tī-sī-kà
+281.	Kadu	miṅ ṅa (? tone)
+261.	Szi/Atsi	…
+262.	Laši/Lechi	…
+263.	Maru	pe-muṅ
+260.	Maingθa/Ngachang	…
+272a.	P’un, Samong	…
+272b.	Me-gyå	…
+264.	Mrū	toṅ-p’ā
+265a.	Burmese, written	ab’ay krōṅ° lō
+		ab’ay p’rach lō
+265b.	Burmese, spoken	˧ bā ˥˦ dyauṅ° ˨˩ lä
+		˧ bā pyiᵗ ˥˦ lo° ˨˩ lä
+266.	Arakanese	zà pyaiᵏ lo lä [R. ᵃzå rūṅ]
+	Taungyo	tsā
+269.	Danu	bà pyi lo
+268.	Inθa	mᵃsà lå
+270.	Tavoyan	pà yà bu dí
+285a.	Tamil̤	ēṉ
+287. (285b.)	Korava	yā̃tka
+291. (285c.)	Kaikāḍī	mitka
+289. (285d.)	Irula	yenna
+294.	Malayāḷam	endᵘkoṇḍᵘ
+		endinnᵘ
+297a.	Kanarese	yākᵉ
+298. (297b.)	Baḍaga	yēka
+301.	Koḍagu	…
+302.	Tuḷu	dāye
+303.	Toda	āed
+304.	Kōta	yendea
+305.	Kurunꭓ/Orāō̃	endergē
+307.	Malto/Maler	indrik
+308.	Kui/Kand’ī/Khond	ināki
+310.	Kōlāmī	…
+314.	Gōṇḍi	bārī
+320.	Telugu	yendukᵘ
+328.	Brāhūī	antae
+	Arabic	lima
+	Old Persian	…
+	Avesta	…
+	Pahlavī	…
+331.	Persian	chi-rā
+339.	Paṣ̌tō, of Peshawar	walē
+		ṡᵃ-la
+353. (339b.)	Wazīrī	wēlē
+354. (339c.)	of Kandahar	walē
+360.	Ōrmuṛī	kī
+		kīyē
+363a.	Balōchī, Makrānī	par-chi
+		chiyā
+366. (363b.)	Eastern	pa-ch’i
+370.	Waꭓī	tsīz-are
+371a.	Šiɣnī	chīz-ard
+372. (371b.)	Sarīkolī	tsēiz-ar
+376.	Iškāšmī, Zēbakī	tsīz-bā
+377a.	Munjānī/Mungī	chi
+378. (377b.)	Yüdɣa	…
+379.	Bašgali	kā-gẽ
+380.	Wai-alā	kasuš
+381.	Wasĩ-veri/Veron	pts’ezni
+383.	Kalāšā	kō
+384.	Gawar-bati	kenia
+386.	Pašai, Eastern	ꭓul
+387.	Pašai, Western	kadē
+390.	K’ōwār/Chitrālī	ko
+392a.	Šiṇā, Gilgitī	kyä
+394. (392b.)	Chilāsi	keh
+396. (392c.)	of Drās	kēī
+397. (392d.)	of Ḍāh-Hanū	yēra
+400a.	Kašmīrī	kyāzi
+401. (400b.)	Kašṭawāṛī	kyāzi
+		kyāza
+403. (400c.)	Pǒgulī	guzzi
+404. (400d.)	Ḍōḍā Sirājī	kī
+405. (400e.)	Rāmbanī	kī
+		kīlā
+		kizug
+408a.	Kōhistānī, Gārwī	kā
+409. (408b.)	Tōrwālī	kai
+411. (408c.)	Maiyā̃	gin
+	Gypsy, European	sǒstār
+		sǒstē
+		sǒskē
+	Gypsy, Syrian	kēkǎ
+	Sanskrit	kutaḥ
+		kiṁ
+	Prakrit	kaō
+		kiṁ
+		kīsa
+430.	K’ētrānī	…
+417a.	Lahndā, of Shahpur	kiū̃
+426. (417b.)	Mūltānī	kiū̃
+428. (417c.)	Hindkī	kiyū̃
+432. (417d.)	T’aḷī	kiū̃
+433. (417e.)	D’annī	kiyō̃
+435. (417f.)	Tināulī	kī
+442. (417g.)	of Salt Range	kiū̃
+437. (417h.)	Pōṭ’wārī	kiō̃
+		kīā̃
+440. (417i.)	Chib’āli	kiō̃
+441. (417j.)	Punch’ī	kīā̃
+446a.	Sind’ī, Vichōlī	ch’ā-kāṇᵉ
+450. (446b.)	Lāṛī	ch’ā-k’ā̃
+		kō
+452. (446c.)	Kachch’ī	ku-lāe
+		kurē-lāe
+456a.	Marāṭ’ī, Dēšī	kā
+478. (456b.)	Nāgpurī	kāhūn
+494. (456c.)	Kōṅkaṇī	kityāk
+499.	Singhalese	manda
+		makuisāda
+502.	Oṛiyā	kāhĩki
+		kimpā
+507a.	Bihārī, Mait’ilī	kiaik
+516. (507b.)	Magahī	kāhē
+		kāhē-lā
+521. (507c.)	B’ojpurī, Northern	kāhē
+520. (507d.)	B’ojpurī, Southern	kāhē
+526. (507e.)	Nagpuriā	kāhē
+530a.	Bengali, written	kena
+530b.	Bengali, spoken	kǎno
+537. (530c.)	South-western	kiske
+541. (530d.)	Siripuriā	kiā̃e
+546. (530e.)	Eastern	kērē
+		kena
+548. (530f.)	of Cachar	kēnē
+		kitār lāgi
+550. (530g.)	of Chittagong	kēā
+551. (530h.)	Chākmā	kyā
+		kyā jadē
+553.	Assamese	kiyā
+		kelåi
+558a.	Eastern Hindī, Awad’ī	kāhē
+560. (558b.)	Bag’ēlī	kāhē
+573. (558c.)	Ch’attīsgaṛ’ī	kā-bar
+582a.	Western Hindī, Hindōstānī	kyū̃
+		kāhē-kō
+583. (582b.)	Vernacular Hindōstānī	kyū̃
+587. (582c.)	Dak’inī	kyū̃
+589. (582d.)	Bāngarū	kyū̃
+593. (582e.)	Braj B’āk’ā	kāē-kū̃
+		kāhē-kū̃
+605. (582f.)	Kanaujī	kyaũ
+611. (582g.)	Bundēlī	kyō̃
+		kāhē
+		kāyē
+616. (582h.)	Banāp’arī	kāhē
+633a.	Pañjābī, written	kiũ
+633b.	Pañjābī, spoken	kyū̃
+		˥˦ kā de jōgā
+		˥˦ kēṛī galle
+639. (633c.)	Pōwād’ī	kāhnū̃
+648. (633d.)	Ḍōgrī	kī
+650. (633e.)	Kāṅgrā	kajō
+653a.	Gujarātī, Standard	šā-māṭē
+661. (653b.)	Charōtarī	šā-harũ
+		tsyam
+666. (653c.)	Kāṭ’iyāwāḍī	chyam
+		kim
+		chim
+673. (653d.)	K’ārᵃwā	kam
+676. (653e.)	G’isāḍī	kā
+713a.	Rājast’ānī, Mārwāṛi	kiū̃
+742. (713b.)	Jaipuri	kyō̃
+755. (713c.)	Mēwātī	kyū̃
+777. (713d.)	Gujurī of Hazara	kīū̃
+761. (713e.)	Mālvī	kyū̃
+		kyō̃
+		kā̃
+770. (713f.)	Nīmāḍī	kyaũ
+771. (713g.)	Lab’ānī of Berar	kašā-ṇa
+708.	K’āndēšī	kasē
+		kā̃
+678.	B’īlī	kīm
+782.	Eastern Pahāṛī/K’as-kurā	kyena
+		kina
+785a.	Central Pahāṛī, Kumaunī	kē-lai
+805. (785b.)	Gaṛ’wālī	kē-lāī
+815a.	Western Pahāṛī, Jaunsārī	kāhi
+		kāi
+		kāik’
+816. (815b.)	Sirmaurī	kaĩī̃
+820. (815c.)	Bag’āṭī	kannī-k’ē
+822. (815d.)	Kiū̃ṭ’alī	kǒnnī-k’ē
+		kōē
+830. (815e.)	Šǒdōchī	kīlē
+		kīlai
+833. (815f.)	Kuḷuī	kībě
+837. (815g.)	Maṇḍěāḷī	kī
+842. (815h.)	Chaměaḷī	kiñjō
+843. (815i.)	Gādī	kajō
+845. (815j.)	Paṅgwāḷī	kis
+847. (815k.)	B’adrawāhī	kujō
+		kī
+849. (815l.)	Pāḍarī	kyěs
