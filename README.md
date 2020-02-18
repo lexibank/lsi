@@ -11,7 +11,6 @@ Conceptlists in Concepticon:
 - [Castro-2015-608](https://concepticon.clld.org/contributions/Castro-2015-608)
 ## Notes
 
-This dataset was taken from the original data published by Andy Castro, who was so friendly to also share his original concept list with us in digital form. It comprises 16 varieties of the Sui branch of Tai-Kadai, in plain IPA with morphological segmentation.
 
 
 
