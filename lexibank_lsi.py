@@ -2,7 +2,7 @@ from collections import OrderedDict, defaultdict
 
 import attr
 from pathlib import Path
-from pylexibank import Concept, Language
+from pylexibank import Concept, Language, FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank import progressbar
 
@@ -25,6 +25,16 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     concept_class = CustomConcept
     language_class = CustomLanguage
+    form_spec = FormSpec(
+            separators = ";,~/",
+            missing_data = (
+                "-",
+                "?",
+                "...",
+                "-"
+                ),
+            first_form_only=True,
+            strip_inside_brackets=True)
 
     def cmd_makecldf(self, args):
 
@@ -48,11 +58,12 @@ class Dataset(BaseDataset):
         languages = {}
         for language in progressbar(self.languages, desc='add languages'):
             args.writer.add_language(
-                    ID=language['Name'],
+                    ID=slug(language['Name'], lowercase=False),
                     Name=language['Name'],
                     Glottocode=language['Glottocode'],
                     NameInSource=language['NameInSource'])
-            languages[slug(language['NameInSource'])] = language['Name']
+            languages[slug(language['NameInSource'])] = slug(language['Name'],
+                    lowercase=False)
 
         D = {
                 0: ['doculect', 'concept', 'number', 'form']
@@ -89,9 +100,8 @@ class Dataset(BaseDataset):
         for idx, doculect, concept, number, form in progressbar(wl.iter_rows(
                 'doculect', 'concept', 'number', 'form'), desc='cldfify'):
             if concept in concepts and slug(doculect) in languages:
-                args.writer.add_form(
+                args.writer.add_forms_from_value(
                         Value=form,
-                        Form=form,
                         Parameter_ID=concepts[concept],
                         Language_ID=languages[slug(doculect)]
                         )
