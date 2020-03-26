@@ -669,7 +669,7 @@ sⁱs	sⁱs	awa ásⁱstam, hasa ásⁱstai	KHOWARORCHITRALI	5	U+0073 U+2071 U
 rᵃh	rᵃh	girᵃhast, girᵃhath	MAGAHI, BHOJPURINORTHERN, BHOJPURISOUTHERN, SIRIPURIA	5	U+0072 U+1d43 U+0068
 ^A	A	Allā, Allāh	CHIBHALI, AVESTAN, TURKI, POWADHI, DAKHINI	5	U+005e U+0041
 ^À	À	Àpī mīyē, Àbkà-i ejen	AKAKA, MANCHU, CHAM, AKO, MALAY	5	U+005e U+00c0
-ẕ$	<?>	pēnḏẕ, wērḏẕ	SHIYNI, ORMURI	4	U+1e95 U+0024
+ẕ$	NULL	pēnḏẕ, wērḏẕ	SHIYNI, ORMURI	4	U+1e95 U+0024
 ẓ̌$	ẓ̌	ɣwaẓ̌, bēẓ̌	PASHTOOFKANDAHAR, ORMURI	4	U+1e93 U+030c U+0024
 ṣ$	ṣ	ṣaṣ-, puruṣ	BENGALIWRITTEN, SANSKRIT, SIAMESEWRITTEN	4	U+1e63 U+0024
 ^m$	m	-m, m	PAHLAVI, GYPSYSYRIAN, PERSIAN, MOPWABILICHI	4	U+005e U+006d U+0024
@@ -721,7 +721,7 @@ kⁱ$	kⁱ	mīdikⁱ, beṅkⁱ	KANARESE, TELUGU	4	U+006b U+2071 U+0024
 āᵗ$	āᵗ	˦˨ t’āᵗ, vāᵗ	KATURR, SIYIN, MARU, SIAMESESPOKEN	4	U+0101 U+1d57 U+0024
 aᵗ	aᵗ	˦ paᵗ ˨˩ šī, ˨˩ yaᵗ ˨ t’au	CANTONESE, TAUNGTHA, MARAN	4	U+0061 U+1d57
 pᵘ$	pᵘ	kāpᵘ, neruppᵘ	TAMIL, TELUGU	4	U+0070 U+1d58 U+0024
-0	<?>	a-mā0ni a-šē, o0ve	AHI, BANPARA, TANGKHUL, CHIRU	4	U+0030
+0	NONE	a-mā0ni a-šē, o0ve	AHI, BANPARA, TANGKHUL, CHIRU	4	U+0030
 mⁱ$	mⁱ	˧ a ˧ mⁱ, yēmⁱ	TELUGU, KARENBYU, LOLONI	4	U+006d U+2071 U+0024
 ^ōs	ōs	ōsü, ōspana	PANJABISPOKEN, PASHTOOFPESHAWAR, HLOTA, CHILASI	4	U+005e U+014d U+0073
 ^ǒ$	ǒ	ǒ	PURUM, HIROILAMGANG, CHIRU, KOLHRENG	4	U+005e U+01d2 U+0024
@@ -736,27 +736,27 @@ mⁱ$	mⁱ	˧ a ˧ mⁱ, yēmⁱ	TELUGU, KARENBYU, LOLONI	4	U+006d U+2071 U+002
 bᵃ$	bᵃ	irimbᵃ, jjibᵃ	MALAYALAM, PASHTOOFPESHAWAR, KANARESE, LARI	4	U+0062 U+1d43 U+0024
 ṭᵉ$	ṭᵉ	hoṭṭᵉ, puṭᵉ	KANARESE, LARI, BADAGA	4	U+1e6d U+1d49 U+0024
 ḷⁱ$	ḷⁱ	veḷḷⁱ, bātuukōḷⁱ	KANARESE, MALAYALAM, TAMIL	4	U+1e37 U+2071 U+0024
-^Ā	<?>	Āllā, Ār-nām	MIKIR, EASTERNBENGALI, AHOM, YACHUMI	4	U+005e U+0100
-K	<?>	˧ Ka ˦˨ sa, Nǎᵗ ˨˩ Kauṅ	SGALITERARY, PWOLITERARY, BURMESESPOKEN, BURMESEWRITTEN	4	U+004b
-^Īs	<?>	Īsur, Īsǒl	BHOJPURISOUTHERN, MEWATI, BUNDELI, GAROACHIK	4	U+005e U+012a U+0073
-^Ī	<?>	Īšwar, Īšᵛar	MAGAHI, GUJARATISTANDARD, EASTERNBENGALIOFCHITTAGONG, EASTERNBENGALI	4	U+005e U+012a
+^Ā	Ā	Āllā, Ār-nām	MIKIR, EASTERNBENGALI, AHOM, YACHUMI	4	U+005e U+0100
+K	K	˧ Ka ˦˨ sa, Nǎᵗ ˨˩ Kauṅ	SGALITERARY, PWOLITERARY, BURMESESPOKEN, BURMESEWRITTEN	4	U+004b
+^Īs	NONE	Īsur, Īsǒl	BHOJPURISOUTHERN, MEWATI, BUNDELI, GAROACHIK	4	U+005e U+012a U+0073
+^Ī	Ī	Īšwar, Īšᵛar	MAGAHI, GUJARATISTANDARD, EASTERNBENGALIOFCHITTAGONG, EASTERNBENGALI	4	U+005e U+012a
 bᵃ	bᵃ	kōmbᵃḍā, obᵃrī	NAGPURI, KANAUJI, MARATHIDESHI, KHANDESI	4	U+0062 U+1d43
 ms$	ms	šams, ꭓams	ARABIC, KANAURI	3	U+006d U+0073 U+0024
 ěh$	ěh	trěh, šěh	KASHMIRI	3	U+011b U+0068 U+0024
 ṟṟ$	<?>	b’uṟṟ, jàṟṟ	KATURR	3	U+1e5f U+1e5f U+0024
 ṭh$	ṭh	āṭh, uṭh	MANCHATIORPATNI, MAGARI, KURUXORORAO	3	U+1e6d U+0068 U+0024
 š́	š́	nīr š́ījen, waš́t	SHIYNI	3	U+0161 U+0301
-’s	<?>	k’såt, ē-k’serr	CHINBOK, MOENGLWE, SINHMAOMAEPAUK	3	U+2019 U+0073
+’s	NONE	k’såt, ē-k’serr	CHINBOK, MOENGLWE, SINHMAOMAEPAUK	3	U+2019 U+0073
 àà	àà	là-àl, sààn-ke	TAILOI, DARANG, SALON	3	U+00e0 U+00e0
 ^c̣	c̣	c̣ḥäi, c̣ḥēi	SHINAGILGITI, CHILASI	3	U+005e U+0063 U+0323
-^ṅᵃ	<?>	ṅᵃ-āī chī, ṅᵃ-āī lauṅ-nü	KHAMI	3	U+005e U+1e45 U+1d43
+^ṅᵃ	ṅᵃ	ṅᵃ-āī chī, ṅᵃ-āī lauṅ-nü	KHAMI	3	U+005e U+1e45 U+1d43
 iᵘ	iᵘ	piᵘ-jō, piᵘ-k’ē	SINDHIVICHOLI	3	U+0069 U+1d58
 chⁱ$	chⁱ	taṇḍrⁱ-daggirⁱ-nuñchⁱ, taṅgachchⁱ	TELUGU, TAMIL	3	U+0063 U+0068 U+2071 U+0024
 tᵃ$	tᵃ	i-piē lāstᵃ, ōratᵃ	ORMURI, LARI	3	U+0074 U+1d43 U+0024
 ìh	ìh	däθi mö d^ìhe, p’ä d^ìhe ^à-	KARENNI	3	U+00ec U+0068
 éh$	éh	àméh, di-réh	SAKAI	3	U+00e9 U+0068 U+0024
 hs	hs	˦ hsiṅ, ˦˨ hsya	MANDARIN	3	U+0068 U+0073
-ꭓ́$	<?>	yaꭓ́, ɣāꭓ́	PASHTOOFPESHAWAR, SARIKOLI	3	U+ab53 U+0301 U+0024
+ꭓ́$	ꭓ́	yaꭓ́, ɣāꭓ́	PASHTOOFPESHAWAR, SARIKOLI	3	U+ab53 U+0301 U+0024
 ó$	ó	hó, dam-byó	RONGORLEPCHA	3	U+00f3 U+0024
 ^jw	jw	jwānas, jwe	CENTRALPAHARIKUMAUNI, BWE, KIUTHALI	3	U+005e U+006a U+0077
 jʸ	jʲ	sujʸu, b’ājʸā	SOUTHWESTERNBENGALI	3	U+006a U+02b8
@@ -767,7 +767,7 @@ chᵃ	chᵃ	dīchᵃrīyū̃, dīchᵃrī	KATHIYAWADI	3	U+0063 U+0068 U+1d4
 ^fⁱs	fⁱs	fⁱsā-zǔ-fur, fⁱsā-zǔ	BODOORBARA	3	U+005e U+0066 U+2071 U+0073
 rᵉ	rᵉ	kudurᵉ-gaḷᵘ, ḍōrᵉkī	KANARESE, KHANDESI	3	U+0072 U+1d49
 ṛᵃ$	ṛᵃ	g’wöṛᵃ, g’uöṛᵃ	POGULI	3	U+1e5b U+1d43 U+0024
-ǖᵏ$	<?>	chà°  à-t’ǖᵏ, bē à-t’ǖᵏ	PALAUNG	3	U+01d6 U+1d4f U+0024
+ǖᵏ$	ǖᵏ	chà°  à-t’ǖᵏ, bē à-t’ǖᵏ	PALAUNG	3	U+01d6 U+1d4f U+0024
 r̥	r̥	vr̥ṣāḥ, pr̥ṣṭ’ataḥ	SANSKRIT	3	U+0072 U+0325
 ^ẽ	ẽ	ẽṛ, ẽṛe	WAIALA, BENGALISPOKEN, NICOBARESE	3	U+005e U+1ebd
 ǐ	ǐ	ǎǐyāl, gǎǐv	TINAULIOFSALTRANGE, THALI, PUNCHHI	3	U+01d0
@@ -786,9 +786,9 @@ mʸ	mʲ	b’āla mʸāyā-lōk, b’āla mʸāyā-lōk-gā	SOUTHWESTERN
 oᵗ$	oᵗ	kạr-nạ̄m ka-oᵗ, rà-pyā kà-oᵗ	PALAUNG	3	U+006f U+1d57 U+0024
 àᵘ$	àᵘ	tàᵘ, ku làᵘ	PWOMAULMEIN, PWOBASSEIN, SGASPOKEN	3	U+00e0 U+1d58 U+0024
 aᵗ$	aᵗ	˨˩ yaᵗ, ᵃtaᵗ	ARAKANESE, TALAINGSPOKEN, CANTONESE	3	U+0061 U+1d57 U+0024
-ȧ$	<?>	ᵃpȧ, nȧ	AKA, INTHA	3	U+0227 U+0024
+ȧ$	ȧ	ᵃpȧ, nȧ	AKA, INTHA	3	U+0227 U+0024
 ụ$	ụ	˦˨ taụ, ˨˦ paụ	SHAN	3	U+1ee5 U+0024
-’ᵉ$	<?>	hēṭ’ᵉ, puṭ’ᵉ	SINDHIVICHOLI, LARI	3	U+2019 U+1d49 U+0024
+’ᵉ$	NONE	hēṭ’ᵉ, puṭ’ᵉ	SINDHIVICHOLI, LARI	3	U+2019 U+1d49 U+0024
 mⁱ	mⁱ	tamⁱ mårun, ˧ a ˧ mⁱ ˨˦ di	LOLONI, KASHMIRI	3	U+006d U+2071
 ^kᵘ	kᵘ	kᵘlᵃoᵖ, kᵘṅ ke	DANU, YEINBA, TAUNGYO	3	U+005e U+006b U+1d58
 ōhᵘ$	ōhᵘ	kōhᵘ, lōhᵘ	SINDHIVICHOLI, LARI	3	U+014d U+0068 U+1d58 U+0024
@@ -811,10 +811,10 @@ vᵉ$	vᵉ	nāvᵘ hōguttēvᵉ, nāvᵘ iddēvᵉ	KANARESE, BADAGA	3	U+00
 ēᵃ$	ēᵃ	tū t’ēᵃ, sě t’ēᵃ	PADARI	3	U+0113 U+1d43 U+0024
 ^nn	nn	nnok, nnāṅgaḷ irundōm	TAMIL, HLOTA, LU	3	U+005e U+006e U+006e
 ēᵉ$	ēᵉ	tāhṇᵃ t’ēᵉ, tus t’ēᵉ	PADARI	3	U+0113 U+1d49 U+0024
-ǟ̃	<?>	ṅǟ̃ gyab-in, ṅǟ̃ gyab ban	LADAKHIOFSPITI	3	U+01df U+0303
+ǟ̃	ǟ̃	ṅǟ̃ gyab-in, ṅǟ̃ gyab ban	LADAKHIOFSPITI	3	U+01df U+0303
 ü̃$	ũ̈	māraü̃, bā byü̃	CHILASIOFDAHHANU, PRAKRIT	3	U+00fc U+0303 U+0024
 ᵏ$	<?>	do-i teṅ-dza-ᵏ, do-i teṅ-ṅa te-ᵏ	MANCHATIORPATNI	3	U+1d4f U+0024
-’ⁱ$	<?>	ō lokᵃni màrᵃt’īn’ⁱ, ō lokᵃni mārat’ⁱ	BIHARIMAITHILI	3	U+2019 U+2071 U+0024
+’ⁱ$	NONE	ō lokᵃni màrᵃt’īn’ⁱ, ō lokᵃni mārat’ⁱ	BIHARIMAITHILI	3	U+2019 U+2071 U+0024
 tsʸ	tsʲ	tu tsʸēkē, afō tsʸēk	ORMURI	3	U+0074 U+0073 U+02b8
 ạ$	ạ	fạ, vānạ	TANGKHUL, KODAGU	3	U+1ea1 U+0024
 àà$	àà	de làpàà-, v-jyà-à	MOPWADERMUHA, GYAOMI, HAURPA	3	U+00e0 U+00e0 U+0024
@@ -823,12 +823,12 @@ tsʸ	tsʲ	tu tsʸēkē, afō tsʸēk	ORMURI	3	U+0074 U+0073 U+02b8
 ^ns	ns	nsē, nsu	AKA, RENGMA	3	U+005e U+006e U+0073
 ị̄	ị̄	sà-mị̄ṅ, kị̄ṅ påṅ	PALAUNG	3	U+1ecb U+0304
 īᵗ$	īᵗ	tītīᵗ, bīᵗ	KATURR, KURKU, CANTONESE	3	U+012b U+1d57 U+0024
-’ᵘ$	<?>	gurast’ᵘ, uṭ’ᵘ	KASHTAWARI, SINDHIVICHOLI, KASHMIRI	3	U+2019 U+1d58 U+0024
-^J	<?>	Jaungoiko, Jainko	BASQUE, TALAINGSPOKEN	3	U+005e U+004a
-^Ṯs̱	<?>	Ṯs̱au-p’rà, Ṯs̱uṅrem	AO, WA, THUKUMI	3	U+005e U+1e6e U+0073 U+0331
-^W	<?>	Wāh-gurū, Wå-råṅ	DHIMAL, PANJABIWRITTEN, POWADHI	3	U+005e U+0057
+’ᵘ$	NONE	gurast’ᵘ, uṭ’ᵘ	KASHTAWARI, SINDHIVICHOLI, KASHMIRI	3	U+2019 U+1d58 U+0024
+^J	J	Jaungoiko, Jainko	BASQUE, TALAINGSPOKEN	3	U+005e U+004a
+^Ṯs̱	Ṯs̱	Ṯs̱au-p’rà, Ṯs̱uṅrem	AO, WA, THUKUMI	3	U+005e U+1e6e U+0073 U+0331
+^W	W	Wāh-gurū, Wå-råṅ	DHIMAL, PANJABIWRITTEN, POWADHI	3	U+005e U+0057
 ēsw	ēsw	Pramēswera, Parᵃmēswar	BIHARIMAITHILI, EASTERNHINDIAWADHI, GURUNG	3	U+0113 U+0073 U+0077
-^Īsw	<?>	Īswal, Īswar	RAJASTHANIMARWARI, TOTO, ASSAMESE	3	U+005e U+012a U+0073 U+0077
+^Īsw	NONE	Īswal, Īswar	RAJASTHANIMARWARI, TOTO, ASSAMESE	3	U+005e U+012a U+0073 U+0077
 ^bᵉ	bᵉ	bᵉyā-pō, bᵉtēu	SEMANG, BALTI, BHOTIAOFPURIK	3	U+005e U+0062 U+1d49
 ^š́	š́	š́tarḏẕ, š́tur	SHIYNI	3	U+005e U+0161 U+0301
 āsᵃ	āsᵃ	wāsᵃdī, bāsᵃdēw	MALVI, RAJASTHANIMARWARI	3	U+0101 U+0073 U+1d43
@@ -839,7 +839,7 @@ t̤$	tʱ	ḥaišt̤, ḥōt̤	GYPSYSYRIAN	2	U+0074 U+0324 U+0024
 ^ǔw	ǔw	ǔw pūṟṟ yat, ǔw kuṟ	KATURR	2	U+005e U+01d4 U+0077
 ^rw	rw	rwàn, rwi kàt	SINHMAOMAEPAUK, TAUNGTHA	2	U+005e U+0072 U+0077
 ^uu	uː	uum, uun-rō	GADABA, DANAO	2	U+005e U+0075 U+0075
-^ṡ	<?>	ṡōk, ṡalōr	PASHTOOFPESHAWAR	2	U+005e U+1e61
+^ṡ	ṡ	ṡōk, ṡalōr	PASHTOOFPESHAWAR	2	U+005e U+1e61
 ^s̄	s̄	s̄ir, s̄n-pā cha-rā	ANAL, EASTERNBENGALIOFCACHAR	2	U+005e U+0073 U+0304
 iᵘ$	iᵘ	d’iᵘ, piᵘ	SINDHIVICHOLI	2	U+0069 U+1d58 U+0024
 ōᵏ$	ōᵏ	mà mā yōᵏ, ᵃp’ā hai yōᵏ	ARAKANESE, MEGYAO	2	U+014d U+1d4f U+0024
@@ -855,7 +855,7 @@ lᵉ$	lᵉ	chellᵉ, mēlᵉ	KANARESE, TELUGU	2	U+006c U+1d49 U+0024
 üs$	üs	mō̃ hüs, mnüs	KHMER, CHILASIOFDAHHANU	2	U+00fc U+0073 U+0024
 rs$	rs	hoyaltars, murs	BURUSHASKI, KHETRANI	2	U+0072 U+0073 U+0024
 kh$	kʰ	bēṭī-māṇukh, māṇukh	WESTERNPAHARIJAUNSARI	2	U+006b U+0068 U+0024
-’ᵃ$	<?>	ōlat’ᵃ, jjib’ᵃ	SINDHIVICHOLI, LARI	2	U+2019 U+1d43 U+0024
+’ᵃ$	NONE	ōlat’ᵃ, jjib’ᵃ	SINDHIVICHOLI, LARI	2	U+2019 U+1d43 U+0024
 ṇs	n̩s	sōhṇī juāṇsā, juāṇsā	BAGHATI	2	U+1e47 U+0073
 ^ṭᵃ	ṭᵃ	ṭᵃḷī	BHADRAWAHI	2	U+005e U+1e6d U+1d43
 ṇᵘ$	ṇᵘ	haraṇᵘ, g’iōṇᵘ	SINDHIVICHOLI, PADARI	2	U+1e47 U+1d58 U+0024
@@ -866,7 +866,7 @@ kh$	kʰ	bēṭī-māṇukh, māṇukh	WESTERNPAHARIJAUNSARI	2	U+006b U+0068 
 ^fⁱ	fⁱ	fⁱ-sā, fⁱ-sā zᵃ-lā	BODOORBARA	2	U+005e U+0066 U+2071
 ^bᵃ	bᵃ	bᵃ-sā, bᵃ-sā-lā	TIPURA	2	U+005e U+0062 U+1d43
 ṭᵃw	ṭᵃw	peṭᵃwā, bēṭᵃwā	KANAUJI, EASTERNHINDIAWADHI	2	U+1e6d U+1d43 U+0077
-ṯs̱ᵃ	<?>	dīṯs̱ᵃrō, diṯs̱ᵃrē	CHAROTARI	2	U+1e6f U+0073 U+0331 U+1d43
+ṯs̱ᵃ	ṯs̱ᵃ	dīṯs̱ᵃrō, diṯs̱ᵃrē	CHAROTARI	2	U+1e6f U+0073 U+0331 U+1d43
 ls	ls	melsimā  chyē, golsaṅ	KANAURI, KHALING	2	U+006c U+0073
 ^bs	bs	bsā-juk, bsā-juk-rǒk	TIPURA	2	U+005e U+0062 U+0073
 ^fᵃ	fᵃ	fᵃ-nu hnà, fᵃ-nū	LAI	2	U+005e U+0066 U+1d43
@@ -875,7 +875,7 @@ wᵃ$	wᵃ	māriuwᵃ, dūwᵃ	ORMURI, SINDHIVICHOLI	2	U+0077 U+1d43 U+0024
 ^mʸ	mʲ	mʸāyā-j’i, mʸāyā-j’i-mēne	SOUTHWESTERNBENGALI	2	U+005e U+006d U+02b8
 tⁱ	tⁱ	nīk byaktⁱ lokᵃni, kumārttⁱ-gaḷ	BIHARIMAITHILI, TAMIL	2	U+0074 U+2071
 ḷᵘ	ḷᵘ	magaḷᵘ-gaḷ, ākaḷᵘ-gaḷᵘ	MALAYALAM, KANARESE	2	U+1e37 U+1d58
-2	<?>	àn-teṅ ṅa2 ai, mya2ṅ	SZIORATSI, MARAN	2	U+0032
+2	NONE	àn-teṅ ṅa2 ai, mya2ṅ	SZIORATSI, MARAN	2	U+0032
 iᵃ$	iᵃ	peṇ kudriᵃ, tiᵃ	MALAYALAM, LAI	2	U+0069 U+1d43 U+0024
 ḍh	ḍh	saṇḍhar-ki, saṇḍha	JUANG	2	U+1e0d U+0068
 ꭓw	<?>	sꭓwandar, sꭓwandarī	ORMURI	2	U+ab53 U+0077
@@ -899,7 +899,7 @@ vⁱ$	vⁱ	jān mahanivⁱ, nīvᵘ uṇṭivⁱ	KASHMIRI, TELUGU	2	U+0076 U+2
 āhᵃ	āhᵃ	chāhᵃlē mānūs, sāhᵃmī	KHANDESI, VERNACULARHINDOSTANI	2	U+0101 U+0068 U+1d43
 ɯ̃	ɯ̃	˨ rà ˨ mɯ̃ ˨ rà = jī	LISU	2	U+026f U+0303
 kᵘ	kᵘ	num-šà kᵘjà ai, kukᵘṛi	MANCHATIORPATNI, CHINGPAORKACHIN	2	U+006b U+1d58
-ꭓ́ᵃ	<?>	ꭓ́a ꭓ́ᵃża, ꭓ́ē ꭓ́ᵃżē	PASHTOOFPESHAWAR	2	U+ab53 U+0301 U+1d43
+ꭓ́ᵃ	ꭓ́ᵃ	ꭓ́a ꭓ́ᵃża, ꭓ́ē ꭓ́ᵃżē	PASHTOOFPESHAWAR	2	U+ab53 U+0301 U+1d43
 ṣ̌ᵃ	ṣ̌ᵃ	ṣ̌ē ṣ̌ᵃzē, ṣ̌a ṣ̌ᵃza	WAZIRI	2	U+1e63 U+030c U+1d43
 ’h	<?>	elūē roro m’hmō, nūṅōrr m’hmō	HLOTA	2	U+2019 U+0068
 θᵃ	θᵃ	so dä mi må θᵃṅā, so dä lu pä θᵃṅā	TAUNGYO	2	U+03b8 U+1d43
@@ -916,7 +916,7 @@ aᵃ	aᵃ	hmaᵃrā lokᵃni t’ikáh^ü, baᵃand	BIHARIMAITHILI, MUNJANIOR
 ^ē̃	ẽ̄	ē̃gar, ē̃-kai	BANAPHARI, EMPEO	2	U+005e U+0113 U+0303
 ṭᵃ$	ṭᵃ	mundaṭᵃ, loṭṭipiṭṭᵃ	TELUGU	2	U+1e6d U+1d43 U+0024
 ś	ś	˨˦ śan, paścāt	SANSKRIT, MANDARIN	2	U+015b
-ǖ$	<?>	˦ leṅ ˦ tǖ, yǖ	PALAUNG, MIAOTSUHMONG	2	U+01d6 U+0024
+ǖ$	ǖ	˦ leṅ ˦ tǖ, yǖ	PALAUNG, MIAOTSUHMONG	2	U+01d6 U+0024
 ^jᵃ	jᵃ	jᵃbba, jᵃlu	PASHTOOFPESHAWAR, TAUNGYO	2	U+005e U+006a U+1d43
 ^mᵃs	mᵃs	mᵃsà lå, mᵃsu lå	INTHA	2	U+005e U+006d U+1d43 U+0073
 ēᵗ$	ēᵗ	chēᵗ, ˨ pēᵗ	KHERWARISANTHALI, SIAMESESPOKEN	2	U+0113 U+1d57 U+0024
@@ -937,16 +937,17 @@ gs$	gs	lags, lchags	BHOTIATIBETANWRITTEN	2	U+0067 U+0073 U+0024
 ē̃h$	ē̃h	mē̃h, tū̃ ē̃h	TINAULIOFSALTRANGE, PUNCHHI	2	U+0113 U+0303 U+0068 U+0024
 ^ā̃w$	ā̃w	ā̃w	SIRMAURI	2	U+005e U+0101 U+0303 U+0077 U+0024
 ^k$	k	k-	LIMBU, AO	2	U+005e U+006b U+0024
-4$	<?>	tu4, m’ē ch’ā4	JAIPURI, KHAMTI	2	U+0034 U+0024
+4$	NONE	tu4, m’ē ch’ā4	JAIPURI, KHAMTI	2	U+0034 U+0024
 g̱$	g̠	ɣwag̱, za mū̃g̱	PASHTOOFPESHAWAR	2	U+0067 U+0331 U+0024
 ô$	ô	sô, nô	CHANG, GADI	2	U+00f4 U+0024
 üᵏ$	üᵏ	θüᵏ, dz^à tüᵏ	YEINBA	2	U+00fc U+1d4f U+0024
 ^ēs	ēs	ēstādan, ēspana	WAZIRI, PAHLAVI	2	U+005e U+0113 U+0073
 wh	wh	ubō whai-, k’aṛō whā-	JAIPURI, MEWATI	2	U+0077 U+0068
 ös$	ös	kᵉbös, mō̃ gös	SEMANG, CHILASIOFDAHHANU	2	U+00f6 U+0073 U+0024
-’ʸ	<?>	lak’ʸitri, d’ʸā̃yā jā-	SOUTHWESTERNBENGALI	2	U+2019 U+02b8
-3	<?>	˦˨ t’àn 3 pen, # pa 3 mwai  ˦ yū	SIAMESESPOKEN, PWOLITERARY	2	U+0033
-U	<?>	Ūī, vārU unnārᵘ	DAFLA, TELUGU	2	U+0055
+’ʸ	NONE	lak’ʸitri, d’ʸā̃yā jā-	SOUTHWESTERNBENGALI	2	U+2019 U+02b8
+k’ʸ	k’ʸ	lak’ʸitri, d’ʸā̃yā jā-	SOUTHWESTERNBENGALI	2	U+2019 U+02b8
+3	NONE	˦˨ t’àn 3 pen, # pa 3 mwai  ˦ yū	SIAMESESPOKEN, PWOLITERARY	2	U+0033
+U	U	Ūī, vārU unnārᵘ	DAFLA, TELUGU	2	U+0055
 ı$	ı	pàṇı, ˩˨ k’ui ˨˩ haı	CENTRALPAHARIKUMAUNI, CANTONESE	2	U+0131 U+0024
 ü̃s$	ü̃s	bā hü̃s, bā gyēü̃s	CHILASIOFDAHHANU	2	U+00fc U+0303 U+0073 U+0024
 ösⁱ$	ösⁱ	asⁱ ösⁱ, tim ösⁱ	KASHMIRI	2	U+00f6 U+0073 U+2071 U+0024
@@ -973,13 +974,13 @@ ks$	ks	chaks, lchaks	LADAKHIOFSPITI, LADAKHI	2	U+006b U+0073 U+0024
 ^t̤	tʱ	t̤illā, t̤air	ARABIC, PERSIAN	2	U+005e U+0074 U+0324
 ḍⁱ$	ḍⁱ	kuḍⁱ, veṇḍⁱ	MALAYALAM, TELUGU	2	U+1e0d U+2071 U+0024
 ^dh	dh	dhoraī, dhā̃gar	GADABA, NAGPURIA	2	U+005e U+0064 U+0068
-B	<?>	Pāk Bādšāh, ˦ Brǎ ˦˨ chau	SIAMESEWRITTEN, TORWALI	2	U+0042
-P	<?>	˦ P’rā, ˦ P’rǎ ˦˨ chau	SIAMESESPOKEN, SHAN	2	U+0050
+B	B	Pāk Bādšāh, ˦ Brǎ ˦˨ chau	SIAMESEWRITTEN, TORWALI	2	U+0042
+P	P	˦ P’rā, ˦ P’rǎ ˦˨ chau	SIAMESESPOKEN, SHAN	2	U+0050
 ^Y	<?>	Yuà	PWOMAULMEIN, PWOBASSEIN	2	U+005e U+0059
 ^Kᵃ	<?>	Kᵃ-yiṅ, Kᵃnī-yᵃlōṅ	LAI, KHAMI	2	U+005e U+004b U+1d43
-^Ṭ	<?>	Ṭ’ākar, Ṭ’āukur	KANGRA, KIUTHALI	2	U+005e U+1e6c
+^Ṭ	Ṭ	Ṭ’ākar, Ṭ’āukur	KANGRA, KIUTHALI	2	U+005e U+1e6c
 chᵃ$	chᵃ	pūchchᵃ, pišāchᵃ	MALAYALAM	2	U+0063 U+0068 U+1d43 U+0024
-^Ah	<?>	Ahrman, Ahraman	PERSIAN, PAHLAVI	2	U+005e U+0041 U+0068
+^Ah	Ah	Ahrman, Ahraman	PERSIAN, PAHLAVI	2	U+005e U+0041 U+0068
 m̊	m̥	˨ a ˦˨ la ˦ li m̊°, ˨ a ˦ lö m̊°	AHI	2	U+006d U+030a
 ǎᵏ$	ǎᵏ	cheǎᵏ, chǎᵏ	DANU, TAUNGYO	2	U+01ce U+1d4f U+0024
 ṣ̌ʳ$	ṣ̌ʳ	mēṣ̌ʳ, mērṣ̌ʳ	ORMURI	2	U+1e63 U+030c U+02b3 U+0024
@@ -987,7 +988,8 @@ m̊	m̥	˨ a ˦˨ la ˦ li m̊°, ˨ a ˦ lö m̊°	AHI	2	U+006d U+030a
 ēwᵃ	ēwᵃ	dēwᵃtā	GUJARATISTANDARD, CHAROTARI	2	U+0113 U+0077 U+1d43
 ^õ$	õ	õ	MAN	1	U+005e U+00f5 U+0024
 lh$	lh	mulh	AKA	1	U+006c U+0068 U+0024
-^ṯs̱s	<?>	ṯs̱saṅ	HLOTA	1	U+005e U+1e6f U+0073 U+0331 U+0073
+^ṯs̱s	NONE	ṯs̱saṅ	HLOTA	1	U+005e U+1e6f U+0073 U+0331 U+0073
+^ṯs̱	ṯs̱	ṯs̱saṅ	HLOTA	1	U+005e U+1e6f U+0073 U+0331 U+0073
 ^ōw	ōw	ōwa	WAZIRI	1	U+005e U+014d U+0077
 ṫh$	<?>	aṫh	KANASHI	1	U+1e6b U+0068 U+0024
 ṭw	ṭw	ašṭwā	EASTERNBENGALIOFCHITTAGONG	1	U+1e6d U+0077
@@ -996,13 +998,13 @@ lh$	lh	mulh	AKA	1	U+006c U+0068 U+0024
 ù	ù	hù-tù	ANDRO	1	U+00f9
 ù$	ù	hù-tù	ANDRO	1	U+00f9 U+0024
 ḥ̣$	ḥ̣	ekaḥ̣	SANSKRIT	1	U+1e25 U+0323 U+0024
-^ȳ	<?>	ȳek	JAIPURI	1	U+005e U+0233
+^ȳ	ȳ	ȳek	JAIPURI	1	U+005e U+0233
 ìs	ìs	kìsi	PWOBASSEIN	1	U+00ec U+0073
 ȯ	ȯ	dȯš	SHODOCHI	1	U+022f
 ^å̃$	ḁ̃	å̃	LAHU	1	U+005e U+00e5 U+0303 U+0024
 ^̱ch	̠ch	̱chār	CHILASI	1	U+005e U+0331 U+0063 U+0068
 pᵃs	pᵃs	bapᵃsī	BHOJPURINORTHERN	1	U+0070 U+1d43 U+0073
-……	<?>	atā-nīng  ……ī	TURKI	1	U+2026 U+2026
+……	NONE	atā-nīng  ……ī	TURKI	1	U+2026 U+2026
 ^˦˨$	⁴²	˦˨	MANDARIN	1	U+005e U+02e6 U+02e8 U+0024
 r̤ᵉ$	r̤ᵉ	achch’an-r̤ᵉ	MALAYALAM	1	U+0072 U+0324 U+1d49 U+0024
 lⁱ	lⁱ	mölⁱ-sondᵘ	KASHMIRI	1	U+006c U+2071
@@ -1012,8 +1014,8 @@ dū pidarān)	<???>	dū pidarān)	PERSIAN	1	U+0064 U+0075 U+0304 U+0020 U+00
 ^zᵃh	zᵃh	zᵃh mölⁱ	KASHMIRI	1	U+005e U+007a U+1d43 U+0068
 ī̃h	ī̃h	dī̃h bābb	RAMBANI	1	U+012b U+0303 U+0068
 __	__	atā-lār-nīng ..... ī	TURKI	1	U+005f U+005f
-ṝ	<?>	pitṝṇām	SANSKRIT	1	U+1e5d
-ḵ	<?>	bābu-haru-ḵō	EASTERNPAHARIORKHASKURA	1	U+1e35
+ṝ	ṝ	pitṝṇām	SANSKRIT	1	U+1e5d
+ḵ	ḵ	bābu-haru-ḵō	EASTERNPAHARIORKHASKURA	1	U+1e35
 åw	åw	tātåw-bā	ISHKASHMIZEBAKI	1	U+00e5 U+0077
 ˨4	²⁴	˨ tä ˨4 lāi ˦˨ p’å	SIAMESESPOKEN	1	U+02e8 U+0034
 åw$	åw	ṯs̱a tātåw	ISHKASHMIZEBAKI	1	U+00e5 U+0077 U+0024
@@ -1033,19 +1035,19 @@ bⁱ$	bⁱ	tambⁱ	TAMIL	1	U+0062 U+2071 U+0024
 ïw	ïw	b’aïwā	MAGAHI	1	U+00ef U+0077
 ^ḇ	b̠	ḇai	TALAINGWRITTEN	1	U+005e U+1e07
 ˥˧	⁵³	˦˨ pü ˥˧ mü	SGALITERARY	1	U+02e5 U+02e7
-ṯs̱ⁱ$	<?>	˦ à ˧ ṯs̱ⁱ	LISU	1	U+1e6f U+0073 U+0331 U+2071 U+0024
+ṯs̱ⁱ$	ṯs̱ⁱ	˦ à ˧ ṯs̱ⁱ	LISU	1	U+1e6f U+0073 U+0331 U+2071 U+0024
 mà mā [R. mei mei]	<???>	mà mā [R. mei mei]	ARAKANESE	1	U+006d U+0061 U+0300 U+0020 U+006d U+0061 U+0304 U+0020 U+005b U+0052 U+002e U+0020 U+006d U+0065 U+0069 U+0020 U+006d U+0065 U+0069 U+005d
 ñi mà še [R. ᵃsei kä]	<???>	ñi mà še [R. ᵃsei kä]	ARAKANESE	1	U+006e U+0303 U+0069 U+0020 U+006d U+0061 U+0300 U+0020 U+0073 U+030c U+0065 U+0020 U+005b U+0052 U+002e U+0020 U+1d43 U+0073 U+0065 U+0069 U+0020 U+006b U+0061 U+0308 U+005d
 ë	ë	baën	SOUTHWESTERNBENGALI	1	U+00eb
 ǐ$	ǐ	b’ǒnǐ	ASSAMESE	1	U+01d0 U+0024
-ǖh	<?>	bǖhṇ	KIUTHALI	1	U+01d6 U+0068
+ǖh	ǖh	bǖhṇ	KIUTHALI	1	U+01d6 U+0068
 āᵖ	āᵖ	yāᵖ-mi	YAKHA	1	U+0101 U+1d56
 ^yᵃ	yᵃ	yᵃyå	TAUNGYO	1	U+005e U+0079 U+1d43
 ṛs	ṛs	muṛse	MALTOORMALER	1	U+1e5b U+0073
 ṇs$	n̩s	muṇs	MULTANI	1	U+1e47 U+0073 U+0024
 ṛsᵉ$	ṛsᵉ	muṛsᵉ	LARI	1	U+1e5b U+0073 U+1d49 U+0024
 eᵍ	eᵍ	meᵍ-cho	VAYUORHAYU	1	U+0065 U+1d4d
-ṅ̇$	<?>	nū-pāṅ̇	LANGRONG	1	U+1e45 U+0307 U+0024
+ṅ̇$	ṅ̇	nū-pāṅ̇	LANGRONG	1	U+1e45 U+0307 U+0024
 ɯ̃$	ɯ̃	˨ rà = mɯ̃	LISU	1	U+026f U+0303 U+0024
 ēʰ	ēʰ	mrēʰ-ali	KUIKANDHIORKHOND	1	U+0113 U+02b0
 dh	dh	vadhūḥ	SANSKRIT	1	U+0064 U+0068
@@ -1059,7 +1061,7 @@ lʸ	lʲ	koplʸa	SOUTHWESTERNBENGALI	1	U+006c U+02b8
 chᵃw	chᵃw	bachᵃwā	KANAUJI	1	U+0063 U+0068 U+1d43 U+0077
 ṅᵉ$	<?>	˨ ṅᵉ	MANDARIN	1	U+1e45 U+1d49 U+0024
 wᵘ$	wᵘ	něchyuwᵘ	KASHMIRI	1	U+0077 U+1d58 U+0024
-θᵃmei [R. θᵃmiṅ]	<???>	θᵃmei [R. θᵃmiṅ]	ARAKANESE	1	U+03b8 U+1d43 U+006d U+0065 U+0069 U+0020 U+005b U+0052 U+002e U+0020 U+03b8 U+1d43 U+006d U+0069 U+006e U+0307 U+005d
+θᵃmei [R. θᵃmiṅ]	NONE	θᵃmei [R. θᵃmiṅ]	ARAKANESE	1	U+03b8 U+1d43 U+006d U+0065 U+0069 U+0020 U+005b U+0052 U+002e U+0020 U+03b8 U+1d43 U+006d U+0069 U+006e U+0307 U+005d
 īᵘ$	īᵘ	dīᵘ	LARI	1	U+012b U+1d58 U+0024
 iᵃ	iᵃ	g’ōṛiᵃtī	BANGARU	1	U+0069 U+1d43
 å̄	ḁ̄	må̄ p’à yåmyà	AKAKA	1	U+00e5 U+0304
@@ -1100,7 +1102,7 @@ lä byo še [R. ko le še]	<???>	lä byo še [R. ko le še]	ARAKANESE	1	U+
 ōʳ	ōʳ	k’arāb ch’ōʳā	DAKHINI	1	U+014d U+02b3
 ds$	ds	mar tsetsāds	KANAURI	1	U+0064 U+0073 U+0024
 āhⁱ	āhⁱ	ad’ᵃlāhⁱ kanyā	BIHARIMAITHILI	1	U+0101 U+0068 U+2071
-ǚᵗ$	<?>	yǚᵗ	PALAUNG	1	U+01da U+1d57 U+0024
+ǚᵗ$	ǚᵗ	yǚᵗ	PALAUNG	1	U+01da U+1d57 U+0024
 ö̃$	ṏ	mö̃	LAHU	1	U+00f6 U+0303 U+0024
 ^chᵃ	chᵃ	chᵃg	WAZIRI	1	U+005e U+0063 U+0068 U+1d43
 chch$	chch	uchch	BIHARIMAITHILI	1	U+0063 U+0068 U+0063 U+0068 U+0024
@@ -1111,7 +1113,8 @@ lᵉ	lᵉ	sàṅ-lᵉtà	MARAN	1	U+006c U+1d49
 ^lᵃw	lᵃw	lᵃwu	CHINGPAORKACHIN	1	U+005e U+006c U+1d43 U+0077
 ^ōᵏ	ōᵏ	ōᵏ-mā	MEGYAO	1	U+005e U+014d U+1d4f
 ^ǒᵏ$	ǒᵏ	ǒᵏ	DANU	1	U+005e U+01d2 U+1d4f U+0024
-ṫ	<?>	˩˨ ēṫ’ā̃	PANJABISPOKEN	1	U+1e6b
+ṫ	ṫ	˩˨ ēṫ’ā̃	PANJABISPOKEN	1	U+1e6b
+ṫ’	ṫ’	˩˨ ēṫ’ā̃	PANJABISPOKEN	1	U+1e6b
 ạᵗ$	ạᵗ	dạᵗ	PALAUNG	1	U+1ea1 U+1d57 U+0024
 ēᶜʰ$	ēᶜʰ	nāṛēᶜʰ	MUNDARI	1	U+0113 U+1d9c U+02b0 U+0024
 [àṅ] lü	<???>	[àṅ] lü	PYENORPYIN	1	U+005b U+0061 U+0300 U+006e U+0307 U+005d U+0020 U+006c U+0075 U+0308
@@ -1122,7 +1125,7 @@ lᵉ	lᵉ	sàṅ-lᵉtà	MARAN	1	U+006c U+1d49
 mᵃh	mᵃh	lamᵃhar	BHOJPURINORTHERN	1	U+006d U+1d43 U+0068
 ^yy	yː	yyem ˦˥ hiēn	MANLANTIEN	1	U+005e U+0079 U+0079
 bᵉ$	bᵉ	munbᵉ	MALAYALAM	1	U+0062 U+1d49 U+0024
-ꭓᵃ$	<?>	i-muꭓᵃ	ORMURI	1	U+ab53 U+1d43 U+0024
+ꭓᵃ$	ꭓᵃ	i-muꭓᵃ	ORMURI	1	U+ab53 U+1d43 U+0024
 tsᵃ$	tsᵃ	i-pētsᵃ	ORMURI	1	U+0074 U+0073 U+1d43 U+0024
 ā̄	ā	pā̄lē	GYPSYEUROPEAN	1	U+0101 U+0304
 sᵃw	sᵃw	pasᵃwāḍē	KATHIYAWADI	1	U+0073 U+1d43 U+0077
@@ -1130,9 +1133,10 @@ sᵃw	sᵃw	pasᵃwāḍē	KATHIYAWADI	1	U+0073 U+1d43 U+0077
 ^ᵃθ	ᵃθ	ᵃθu lä	ARAKANESE	1	U+005e U+1d43 U+03b8
 ^mᵘ$	mᵘ	mᵘ	TALAINGSPOKEN	1	U+005e U+006d U+1d58 U+0024
 ōᶜʰ$	ōᶜʰ	chōᶜʰ	KURKU	1	U+014d U+1d9c U+02b0 U+0024
-ᵃ$	<?>	tᵃ-ᵃ	TAUNGTHA	1	U+1d43 U+0024
-ṉᵃ$	<?>	eṉṉᵃ	TAMIL	1	U+1e49 U+1d43 U+0024
-^ṡᵃ$	<?>	ṡᵃ	PASHTOOFPESHAWAR	1	U+005e U+1e61 U+1d43 U+0024
+ᵃ$	NONE	tᵃ-ᵃ	TAUNGTHA	1	U+1d43 U+0024
+tᵃ-ᵃ$	tᵃ-ᵃ	tᵃ-ᵃ	TAUNGTHA	1	U+1d43 U+0024
+ṉᵃ$	ṉᵃ	eṉṉᵃ	TAMIL	1	U+1e49 U+1d43 U+0024
+^ṡᵃ$	ṡᵃ	ṡᵃ	PASHTOOFPESHAWAR	1	U+005e U+1e61 U+1d43 U+0024
 ^mᵘ	mᵘ	mᵘ hǒᵗ	TALAINGSPOKEN	1	U+005e U+006d U+1d58
 ōᶜʰ	ōᶜʰ	chōᶜʰ-ten	KURKU	1	U+014d U+1d9c U+02b0
 šⁱ	šⁱ	˦ à ˨ šⁱ ˦ wū	LISU	1	U+0161 U+2071
@@ -1145,7 +1149,7 @@ dᵘ	dᵘ	endᵘkoṇḍᵘ	MALAYALAM	1	U+0064 U+1d58
 ^aᵗ$	aᵗ	aᵗ	MUNDARI	1	U+005e U+0061 U+1d57 U+0024
 ^ᵃ_	ᵃ_	ᵃ ˧ bye	LISU	1	U+005e U+1d43 U+005f
 ōⁿ$	ōⁿ	hōⁿ	SAKAI	1	U+014d U+207f U+0024
-^ȫ	<?>	ȫꭓ	PALAUNG	1	U+005e U+022b
+^ȫ	ȫ	ȫꭓ	PALAUNG	1	U+005e U+022b
 ^ãã$	ãː	ã-ã	KURKU	1	U+005e U+00e3 U+00e3 U+0024
 ^ōō$	ōō	ōō	GADABA	1	U+005e U+014d U+014d U+0024
 õõ$	õ	hõ-õ	YAKHA	1	U+00f5 U+00f5 U+0024
@@ -1166,7 +1170,7 @@ hh$	hh	lehh	KATURR	1	U+0068 U+0068 U+0024
 –$	<?>	gachch’ –	PRAKRIT	1	U+2013 U+0024
 ạ̄ᵖ$	ạ̄ᵖ	bạ̄ᵖ	PALAUNG	1	U+1ea1 U+0304 U+1d56 U+0024
 ^ᵃi$	ᵃi	ᵃi	LAI	1	U+005e U+1d43 U+0069 U+0024
-^ꭓʷ	<?>	ꭓʷur-	ORMURI	1	U+005e U+ab53 U+02b7
+^ꭓʷ	ꭓʷ	ꭓʷur-	ORMURI	1	U+005e U+ab53 U+02b7
 ē̃w$	ē̃w	jē̃w-	EASTERNHINDIAWADHI	1	U+0113 U+0303 U+0077 U+0024
 ^sⁱ	sⁱ	sⁱ nà	WEWAW	1	U+005e U+0073 U+2071
 ^chʸ	chʲ	chʸuēi	MANLANTIEN	1	U+005e U+0063 U+0068 U+02b8
@@ -1190,7 +1194,7 @@ zz$	zz	nīzz	CHAMBALAHULI	1	U+007a U+007a U+0024
 ɣw	ɣw	putuɣwo	SEMA	1	U+0263 U+0077
 ǎᵗ$	ǎᵗ	yǎᵗ	BURMESESPOKEN	1	U+01ce U+1d57 U+0024
 oᶜʰ$	oᶜʰ	goᶜʰ	KHARIA	1	U+006f U+1d9c U+02b0 U+0024
-ė	<?>	˦˥ chėt	VIETNAMESE	1	U+0117
+ė	ė	˦˥ chėt	VIETNAMESE	1	U+0117
 ^dᵃw	dᵃw	dᵃwai	KHAMI	1	U+005e U+0064 U+1d43 U+0077
 r̥$	r̥	mr̥-	SANSKRIT	1	U+0072 U+0325 U+0024
 à̄$	ā	pi là̄	PWOBASSEIN	1	U+00e0 U+0304 U+0024
@@ -1201,7 +1205,7 @@ r̤$	rʱ	kor̤	TULU	1	U+0072 U+0324 U+0024
 ^ṭh	ṭh	ṭhorataṅ	KANASHI	1	U+005e U+1e6d U+0068
 wᵘ	wᵘ	nå wᵘ  å	WEWAW	1	U+0077 U+1d58
 p̄	p̄	naṅ-mā nē-p̄m	HRANGKHOL	1	U+0070 U+0304
-ḣ	<?>	ñaḣ dah	TALAINGWRITTEN	1	U+1e23
+ḣ	ḣ	ñaḣ dah	TALAINGWRITTEN	1	U+1e23
 ᵗ$	<?>	du šu-ᵗ	MANCHATIORPATNI	1	U+1d57 U+0024
 achch’aha or -hu)	<???>	achch’aha or -hu)	PRAKRIT	1	U+0061 U+0063 U+0068 U+0063 U+0068 U+2019 U+0061 U+0068 U+0061 U+0020 U+006f U+0072 U+0020 U+002d U+0068 U+0075 U+0029
 hᵘ̃$	hᵘ̃	ahā̃ t’ikáhᵘ̃	BIHARIMAITHILI	1	U+0068 U+1d58 U+0303 U+0024
@@ -1250,7 +1254,7 @@ _ᵏ	_ᵏ	ᵃ-ni ᵏ-kaˡ	LAI	1	U+005f U+1d4f
 ^s$	s	-s	GYPSYSYRIAN	1	U+005e U+0073 U+0024
 ^ěs	ěs	ěsā	PANGWALI	1	U+005e U+011b U+0073
 [aēšãm ]	<???>	[aēšãm ]	AVESTAN	1	U+005b U+0061 U+0065 U+0304 U+0073 U+030c U+0061 U+0303 U+006d U+0020 U+005d
-ḅ$	<?>	hastaḅ	SANSKRIT	1	U+1e05 U+0024
+ḅ$	ḅ	hastaḅ	SANSKRIT	1	U+1e05 U+0024
 ^äh	äh	ähä	SINGHALESE	1	U+005e U+00e4 U+0068
 ^ā̃s$	ā̃s	ā̃s	CHAROTARI	1	U+005e U+0101 U+0303 U+0073 U+0024
 tsw	tsw	˨˦ tswä	MANDARIN	1	U+0074 U+0073 U+0077
@@ -1285,7 +1289,7 @@ bᵘ$	bᵘ	irumbᵘ	TAMIL	1	U+0062 U+1d58 U+0024
 ē̃w	ē̃w	sē̃war	MAIYA	1	U+0113 U+0303 U+0077
 ^rhw	rhw	rhwē	BURMESEWRITTEN	1	U+005e U+0072 U+0068 U+0077
 ṣ̌ʳ	ṣ̌ʳ	sūṣ̌ʳ zar	ORMURI	1	U+1e63 U+030c U+02b3
-^ṟ	<?>	ṟön	KATURR	1	U+005e U+1e5f
+^ṟ	ṟ	ṟön	KATURR	1	U+005e U+1e5f
 δ̱δ̱	<?>	fiδ̱δ̱a	ARABIC	1	U+03b4 U+0331 U+03b4 U+0331
 ^sᵃ$	sᵃ	sᵃ	LAI	1	U+005e U+0073 U+1d43 U+0024
 āsᵃ$	āsᵃ	dāsᵃ	KANARESE	1	U+0101 U+0073 U+1d43 U+0024
@@ -1334,22 +1338,23 @@ tʸ	tʲ	daitʸi	SOUTHWESTERNBENGALI	1	U+0074 U+02b8
 ṇⁱ$	ṇⁱ	pāaiṇⁱ	PADARI	1	U+1e47 U+2071 U+0024
 ^oᵏ$	oᵏ	oᵏ	KHARIA	1	U+005e U+006f U+1d4f U+0024
 šᵃ	šᵃ	gō̃šᵃg	PASHAIEASTERN	1	U+0161 U+1d43
-’ᵉ	<?>	b’ak’ᵉrī	BUNDELI	1	U+2019 U+1d49
+’ᵉ	NONE	b’ak’ᵉrī	BUNDELI	1	U+2019 U+1d49
+k’ᵉ	k’ᵉ	b’ak’ᵉrī	BUNDELI	1	U+2019 U+1d49
 hᵘ$	hᵘ	gaḍḍahᵘ	SINDHIVICHOLI	1	U+0068 U+1d58 U+0024
 ^uᵗ$	uᵗ	uᵗ	TALAINGSPOKEN	1	U+005e U+0075 U+1d57 U+0024
 ǎw	ǎw	dǎwai	GYPSYSYRIAN	1	U+01ce U+0077
 äᵘ$	äᵘ	s^à näᵘ	PWOMAULMEIN	1	U+00e4 U+1d58 U+0024
 ^v$	v	v	MOPWABILICHI	1	U+005e U+0076 U+0024
-ṅᵃ	<?>	ṅànsir ṅᵃmà	NUNG	1	U+1e45 U+1d43
+ṅᵃ	ṅᵃ	ṅànsir ṅᵃmà	NUNG	1	U+1e45 U+1d43
 ēᵏ$	ēᵏ	lēᵏ	SAKAI	1	U+0113 U+1d4f U+0024
-^ṯs̱w	<?>	ṯs̱wi	ZAVEIN	1	U+005e U+1e6f U+0073 U+0331 U+0077
+^ṯs̱w	ṯs̱	ṯs̱wi	ZAVEIN	1	U+005e U+1e6f U+0073 U+0331 U+0077
 ūᵒ	ūᵒ	hūᵒ-wā	LOHORONG	1	U+016b U+1d52
 π	<?>	oπάxα	OLDPERSIAN	1	U+03c0
 ά	<?>	oπάxα	OLDPERSIAN	1	U+03ac
 α$	<?>	oπάxα	OLDPERSIAN	1	U+03b1 U+0024
 ā́	á	tā́-ni-la	CHANG	1	U+0101 U+0301
 ^chᵃ$	chᵃ	chᵃ	TAUNGYO	1	U+005e U+0063 U+0068 U+1d43 U+0024
-^ṅh	<?>	ṅhak	BURMESEWRITTEN	1	U+005e U+1e45 U+0068
+^ṅh	ṅh	ṅhak	BURMESEWRITTEN	1	U+005e U+1e45 U+0068
 ksⁱ$	ksⁱ	paksⁱ	MALAYALAM	1	U+006b U+0073 U+2071 U+0024
 ṣⁱ$	ṣⁱ	pakṣⁱ	TELUGU	1	U+1e63 U+2071 U+0024
 ɣᵃ$	ɣᵃ	marɣᵃ	PASHTOOFPESHAWAR	1	U+0263 U+1d43 U+0024
