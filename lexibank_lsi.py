@@ -5,6 +5,7 @@ from pathlib import Path
 from pylexibank import Concept, Language, FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank import progressbar
+import unicodedata
 
 from lingpy import *
 from clldutils.misc import slug
@@ -69,14 +70,16 @@ class Dataset(BaseDataset):
                 0: ['doculect', 'concept', 'number', 'form']
                 }
         idx = 1
-        current_language = ''
+
         for f in files:
+            current_language = ''
             concept = f.name[:-4]
             args.log.info('Parsing {0}'.format(concept))
             with open(f) as this_file:
                 data = this_file.readlines()
                 for line in data:
-                    if line.startswith('NOTE'):
+                    line = unicodedata.normalize('NFD', line) 
+                    if line.strip().startswith('NOTE'):
                         continue
                     cells = line.strip('\n').split('\t')
                     if len(cells) != 3:
