@@ -32,7 +32,8 @@ class Dataset(BaseDataset):
                 "-",
                 "?",
                 "...",
-                "-"
+                "-",
+                '…'
                 ),
             first_form_only=True,
             strip_inside_brackets=True)

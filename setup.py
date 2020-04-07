@@ -17,6 +17,9 @@ setup(
     entry_points={
         'lexibank.dataset': [
             'lsi=lexibank_lsi:Dataset',
+        ],
+        'cldfbench.commands': [
+            'lsi=lsicommands',
         ]
     },
     install_requires=[
