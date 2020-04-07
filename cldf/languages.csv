@@ -1,0 +1,371 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,NameInSource
+MAINGTHAORNGACHANG,MAINGTHA_OR_NGACHANG,acha1249,,,,,,,Maingθa/Ngachang
+AHOM,AHOM,ahom1240,,,,,,,Āhom
+AIMOL,AIMOL,aimo1244,,,,,,,Aimol
+AKAKA,A_KA_KA,akha1245,,,,,,,A-ka (Kå)
+AKO,A_KO,akoo1247,,,,,,,A-kö
+ANAL,ANAL,anal1239,,,,,,,Anāl
+ANGAMI,ANGAMI,anga1288,,,,,,,Angāmi
+AO,AO,aona1235,,,,,,,Āo
+SHOORKHYANG,SHO_OR_KHYANG,asho1236,,,,,,,Šö/K’yang
+ASSAMESE,ASSAMESE,assa1263,,,,,,,Assamese
+RAIORJIMDAR,RAI_OR_JIMDAR,athp1241,,,,,,,Rai/Jimdār
+AVESTAN,AVESTAN,aves1237,,,,,,,Avesta
+EASTERNHINDIAWADHI,EASTERN_HINDI_AWADHI,awad1243,,,,,,,"Eastern Hindī, Awad’ī"
+LOLONI,LOLO_NI,axiy1235,,,,,,,"Lolo, ˨˦Ñ^i"
+MALAY,MALAY,baba1267,,,,,,,Malay
+BADAGA,BADAGA,bada1257,,,,,,,Baḍaga
+BAGHATI,BAGHATI,bagh1249,,,,,,,Bag’āṭī
+BAGHELI,BAGHELI,bagh1251,,,,,,,Bag’ēlī
+BAHING,BAHING,bahi1252,,,,,,,Bāhing
+BALTI,BALTI,balt1258,,,,,,,Baltī
+BANAPHARI,BANAPHARI,bana1281,,,,,,,Banāp’arī
+RUNGCHHENBUNG,RUNGCHHENBUNG,bant1281,,,,,,,Rūngch’ēnbūng
+BASQUE,BASQUE,basq1248,,,,,,,Basque
+BENGALIWRITTEN,BENGALI_WRITTEN,beng1280,,,,,,,"Bengali, written"
+SOUTHWESTERNBENGALI,SOUTH_WESTERN_BENGALI,beng1280,,,,,,,South-western
+BHADRAWAHI,BHADRAWAHI,bhad1241,,,,,,,B’adrawāhī
+BHILI,BHILI,bhil1251,,,,,,,B’īlī
+MAN,MAN,biao1256,,,,,,,Man
+MOPWABILICHI,MOPWA_BILICHI,bili1249,,,,,,,"Mopwa, Bilichi"
+GADABA,GADABA,bodo1267,,,,,,,Gadabā
+BODOORBARA,BODO_OR_BARA,bodo1269,,,,,,,Båṛå
+ABOR,ABOR,bori1243,,,,,,,Abor
+BRAHUI,BRAHUI,brah1256,,,,,,,Brāhūī
+BRAJBHAKHA,BRAJ_BHAKHA,braj1242,,,,,,,Braj B’āk’ā
+CHILASIOFDAHHANU,CHILASI_OF_DAH_HANU,brok1247,,,,,,,of Ḍāh-Hanū
+BUNDELI,BUNDELI,bund1253,,,,,,,Bundēlī
+BURUSHASKI,BURUSHASKI,buru1296,,,,,,,Burušaskī
+BWE,BWE,bwek1238,,,,,,,Bwè
+CHAMLING,CHAMLING,caml1239,,,,,,,Chāmling
+RODONG,RODONG,caml1239,,,,,,,Rōdōng
+RODONGORCHAMLING,RODONG_OR_CHAMLING,caml1239,,,,,,,Rōdōng/Chāmling
+CANTONESE,CANTONESE,cant1236,,,,,,,Cantonese
+WAZIRI,WAZIRI,cent1973,,,,,,,Wazīrī
+KHMER,KHMER,cent1989,,,,,,,K’mēr
+NICOBARESE,NICOBARESE,cent1990,,,,,,,Nicobarese
+CHAIREL,CHAIREL,chai1254,,,,,,,Chairel
+CHAKMA,CHAKMA,chak1266,,,,,,,Chākmā
+CHAMEALI,CHAMEALI,cham1307,,,,,,,Chaměaḷī
+CHAMBALAHULI,CHAMBA_LAHULI,cham1308,,,,,,,Chamba Lāhulī
+CHAM,CHAM,cham1328,,,,,,,Cham
+CHANG,CHANG,chan1313,,,,,,,Chāng
+CHHATTISGARHI,CHHATTISGARHI,chha1249,,,,,,,Ch’attīsgaṛ’ī
+CHHINGTANG,CHHINGTANG,chhi1245,,,,,,,Ch’ingtāng
+CHIBHALI,CHIBHALI,chib1247,,,,,,,Chib’āli
+CHINBON,CHINBON,chin1478,,,,,,,Chinbōn
+CHIRU,CHIRU,chir1283,,,,,,,Chiru
+EASTERNBENGALIOFCHITTAGONG,EASTERN_BENGALI_OF_CHITTAGONG,chit1275,,,,,,,of Chittagong
+DANAO,DANAO,dana1252,,,,,,,Danå
+DANU,DANU,danu1251,,,,,,,Danu
+DAKHINI,DAKHINI,decc1239,,,,,,,Dak’inī
+DEURICHUTIYA,DEURI_CHUTIYA,deor1238,,,,,,,Deurī-Chutiyā
+MOPWADERMUHA,MOPWA_DERMUHA,derm1238,,,,,,,"Mopwa, Dermuha"
+DHIMAL,DHIMAL,dhim1246,,,,,,,D’īmāl
+JAIPURI,JAIPURI,dhun1238,,,,,,,Jaipuri
+MISHMIDIGARU,MISHMI_DIGARU,diga1241,,,,,,,"Mišmi, Digārū"
+DIMASA,DIMA_SA,dima1251,,,,,,,Dīmā-sā
+DOGRI,DOGRI,dogr1250,,,,,,,Ḍōgrī
+CHILASIOFDRAS,CHILASI_OF_DRAS,dras1242,,,,,,,of Drās
+THULUNG,THULUNG,drun1238,,,,,,,T’ūlung
+DUMI,DUMI,dumi1241,,,,,,,Dūmī
+DUNGMALI,DUNGMALI,dung1252,,,,,,,Dūngmāli
+KARENNI,KARENNI,east2342,,,,,,,Karenni
+GURUNG,GURUNG,east2345,,,,,,,Gurng
+HEMIAO,HE_MIAO,east2369,,,,,,,Hē-Miao
+EASTERNBENGALI,EASTERN_BENGALI,east2744,,,,,,,Eastern
+EN,EN,ennn1242,,,,,,,En
+HALLAM,HALLAM,fala1243,,,,,,,Hallām
+GADI,GADI,gadi1238,,,,,,,Gādī
+GARHWALI,GARHWALI,garh1243,,,,,,,Gaṛ’wālī
+GAROACHIK,GARO_ACHIK,garo1247,,,,,,,"Gārō, Āchik"
+GAWARBATI,GAWAR_BATI,gawa1247,,,,,,,Gawar-bati
+BRAEO,BRAEO,geba1237,,,,,,,Bräo
+KARENBYU,KARENBYU,geba1237,,,,,,,Karenbyu
+GHEKO,GHEKO,geko1235,,,,,,,Gheko
+SHINAGILGITI,SHINA_GILGITI,gilg1242,,,,,,,"Šiṇā, Gilgitī"
+CHAROTARI,CHAROTARI,guja1252,,,,,,,Charōtarī
+GHISADI,GHISADI,guja1252,,,,,,,G’isāḍī
+GUJARATISTANDARD,GUJARATI_STANDARD,guja1252,,,,,,,"Gujarātī, Standard"
+GUJURIOFHAZARA,GUJURI_OF_HAZARA,guja1253,,,,,,,Gujurī of Hazara
+LAI,LAI,haka1240,,,,,,,Lai
+BANGARU,BANGARU,hary1238,,,,,,,Bāngarū
+VERNACULARHINDOSTANI,VERNACULAR_HINDOSTANI,hind1269,,,,,,,Vernacular Hindōstānī
+WESTERNHINDIHINDOSTANI,WESTERN_HINDI_HINDOSTANI,hind1269,,,,,,,"Western Hindī, Hindōstānī"
+PHUNSAMONG,PHUN_SAMONG,hpon1238,,,,,,,"P’un, Samong"
+HRANGKHOL,HRANGKHOL,hran1239,,,,,,,Hrāngk’ol
+AKA,AKA,hrus1242,,,,,,,Aka
+ANGKU,ANG_KU,huuu1240,,,,,,,Āng-kū
+KOHISTANIGARWI,KOHISTANI_GARWI,indu1241,,,,,,,"Kōhistānī, Gārwī"
+MAIYA,MAIYA,indu1241,,,,,,,Maiyā̃
+INTHA,INTHA,inth1239,,,,,,,Inθa
+IRULA,IRULA,irul1243,,,,,,,Irula
+ISHKASHMIZEBAKI,ISHKASHMI_ZEBAKI,ishk1246,,,,,,,"Iškāšmī, Zēbakī"
+WESTERNPAHARIJAUNSARI,WESTERN_PAHARI_JAUNSARI,jaun1243,,,,,,,"Western Pahāṛī, Jaunsārī"
+GYAORUNG,GYAORUNG,jiar1240,,,,,,,Gyårūng
+JUANG,JUANG,juan1238,,,,,,,Juāṅg
+KACHCHHI,KACHCHHI,kach1277,,,,,,,Kachch’ī
+CHINGPAORKACHIN,CHINGPA_OR_KACHIN,kach1280,,,,,,,Chingpå/Kachin
+ANDRO,ANDRO,kadu1254,,,,,,,Andro
+KADU,KADU,kadu1254,,,,,,,Kadu
+SENGMAI,SENGMAI,kadu1254,,,,,,,Sengmai
+KAGATE,KAGATE,kaga1252,,,,,,,Kāgate
+KAIKADI,KAIKADI,kaik1244,,,,,,,Kaikāḍī
+KALASHA,KALASHA,kala1372,,,,,,,Kalāšā
+KANAUJI,KANAUJI,kana1281,,,,,,,Kanaujī
+KANASHI,KANASHI,kana1283,,,,,,,Kanāšī
+KANGRA,KANGRA,kang1280,,,,,,,Kāṅgrā
+MANCHATI,MANCHATI,karb1241,,,,,,,Manchāṭī 
+MANCHATIORPATNI,MANCHATI_OR_PATNI,karb1241,,,,,,,Manchāṭī/Paṭnī
+MIKIR,MIKIR,karb1241,,,,,,,Mikir
+PATNI,PATNI,karb1241,,,,,,,Paṭnī
+KASHMIRI,KASHMIRI,kash1277,,,,,,,Kašmīrī
+KATHIYAWADI,KATHIYAWADI,kath1249,,,,,,,Kāṭ’iyāwāḍī
+BASHGALI,BASHGALI,kati1270,,,,,,,Bašgali
+PADAUNG,PADAUNG,kaya1315,,,,,,,Padaung
+KHALING,KHALING,khal1275,,,,,,,K’āling
+KHAMI,KHAMI,kham1284,,,,,,,K’ami
+KHAMBU,KHAMBU,kham1288,,,,,,,K’ambū
+KHAMTI,KHAMTI,kham1290,,,,,,,K’āmtī
+KHANDESI,KHANDESI,khan1272,,,,,,,K’āndēšī
+KHANGOI,KHANGOI,khan1277,,,,,,,K’angoi
+KHARAWA,KHARAWA,khar1282,,,,,,,K’ār^awā
+KHARIA,KHARIA,khar1287,,,,,,,K’aṛiā
+KHASISTANDARD,KHASI_STANDARD,khas1269,,,,,,,"K’āsī, Standard"
+KHETRANI,KHETRANI,khet1238,,,,,,,K’ētrānī
+KEZAMA,KEZAMA,khez1235,,,,,,,Kēžāmā
+KHAMUK,KHA_MUK,khmu1255,,,,,,,K’a Muk
+KHOWARORCHITRALI,KHOWAR_OR_CHITRALI,khow1242,,,,,,,K’ōwār/Chitrālī
+KHUN,KHUN,khun1259,,,,,,,K’ün
+LANTENYAO,LANTEN_YAO,kimm1245,,,,,,,Lanten-Yao
+MANLANTIEN,MAN_LAN_TIEN,kimm1245,,,,,,,Man-lan-tiēn
+MANTAPAN,MAN_TA_PAN,kimm1245,,,,,,,Man-ta-pan
+KANAURI,KANAURI,kinn1249,,,,,,,Kanaurī
+KASHTAWARI,KASHTAWARI,kish1245,,,,,,,Kašṭawāṛī
+KIUTHALI,KIUTHALI,kiun1287,,,,,,,Kiū̃ṭ’alī
+KULUI,KULUI,kllu1238,,,,,,,Kuḷuī
+KOCH,KOCH,koch1250,,,,,,,Kōch
+KODAGU,KODAGU,koda1255,,,,,,,Koḍagu
+TIPURA,TIPURA,kokb1239,,,,,,,Tipurā
+KOLHRENG,KOLHRENG,kolh1240,,,,,,,Kolhreng
+KOM,KOM,komi1270,,,,,,,Kōm
+KONKANI,KONKANI,konk1267,,,,,,,Kōṅkaṇī
+TABLENG,TABLENG,kony1248,,,,,,,Tableng
+KOREAN,KOREAN,kore1280,,,,,,,Korean
+KURKU,KURKU,kork1243,,,,,,,Kūrkū
+KOTA,KOTA,kota1263,,,,,,,Kōta
+KUIKANDHIORKHOND,KUI_KANDHI_OR_KHOND,kuii1252,,,,,,,Kui/Kand’ī/Khond
+KULUNG,KULUNG,kulu1253,,,,,,,Kūlung
+CENTRALPAHARIKUMAUNI,CENTRAL_PAHARI_KUMAUNI,kuma1273,,,,,,,"Central Pahāṛī, Kumaunī"
+MALTOORMALER,MALTO_OR_MALER,kuma1274,,,,,,,Malto/Maler
+KURUX,KURUX,kuru1302,,,,,,,Kurunꭓ
+KURUXORORAO,KURUX_OR_ORAO,kuru1302,,,,,,,Kurunꭓ/Orāō̃
+LADAKHI,LADAKHI,lada1244,,,,,,,Ladak’ī
+LOLOPHO,LOLO_PHO,lagh1245,,,,,,,Lo-lo p’o
+LAHU,LAHU,lahu1253,,,,,,,Lahu
+MOSHO,MO_SHO,lahu1253,,,,,,,Mo-s’o
+LABHANIOFBERAR,LABHANI_OF_BERAR,lamb1269,,,,,,,Lab’ānī of Berar
+HIROILAMGANG,HIROI_LAMGANG,lamk1238,,,,,,,Hirōi-Lamgāng
+LANGRONG,LANGRONG,lang1312,,,,,,,Langrong
+LARI,LARI,lari1254,,,,,,,Lāṛī
+LASHIORLECHI,LASHI_OR_LECHI,lash1243,,,,,,,Laši/Lechi
+RONGORLEPCHA,RONG_OR_LEPCHA,lepc1244,,,,,,,Róng/Lepcha
+KWOIRENG,KWOIRENG,lian1251,,,,,,,Kwoireng
+LIMBU,LIMBU,limb1266,,,,,,,Limbū
+LISHAO,LISHAO,lisu1250,,,,,,,Lis’å 
+LISHAOYAOYIN,LISHAO_YAOYIN,lisu1250,,,,,,,Lis’å/Yåyin
+LISU,LISU,lisu1250,,,,,,,Lisu
+YAOYIN,YAOYIN,lisu1250,,,,,,,Yåyin
+HLOTA,HLOTA,loth1237,,,,,,,Hlōtā
+HLOKE,HLOKE,lowa1242,,,,,,,Hloke
+LUSHEI,LUSHEI,lush1249,,,,,,,Lušēi
+LU,LU,luuu1242,,,,,,,Lü
+MAGAHI,MAGAHI,maga1260,,,,,,,Magahī
+SHODOCHI,SHODOCHI,maha1287,,,,,,,Šǒdōchī
+BIHARIMAITHILI,BIHARI_MAITHILI,mait1250,,,,,,,"Bihārī, Mait’ilī"
+MALAYALAM,MALAYALAM,mala1464,,,,,,,Malayāḷam
+MALVI,MALVI,malv1243,,,,,,,Mālvī
+MANCHU,MANCHU,manc1252,,,,,,,Manchu
+MANDEALI,MANDEALI,mand1409,,,,,,,Maṇḍěāḷī
+GYAOMI,GYAOMI,mand1415,,,,,,,Gyåmi
+MANDARIN,MANDARIN,mand1415,,,,,,,Mandarin
+MEITHEI,MEITHEI,mani1292,,,,,,,Meit’ei
+SINHMAOMAEPAUK,SIN_HMAO_MAEPAUK,manu1255,,,,,,,Sin-hmå Mäpauk
+SOPVOMA,SOPVOMA,maon1238,,,,,,,Sopvomā
+MARATHIDESHI,MARATHI_DESHI,mara1378,,,,,,,"Marāṭ’ī, Dēšī"
+MARAM,MARAM,mara1379,,,,,,,Marām
+MARING,MARING,mari1416,,,,,,,Maring
+ARAKANESE,ARAKANESE,marm1234,,,,,,,Arakanese
+MARU,MARU,maru1249,,,,,,,Maru
+RAJASTHANIMARWARI,RAJASTHANI_MARWARI,marw1260,,,,,,,"Rājast’ānī, Mārwāṛi"
+MEWATI,MEWATI,mewa1249,,,,,,,Mēwātī
+MIJU,MIJU,miju1243,,,,,,,Mījū
+MIRI,MIRI,misi1242,,,,,,,Miri
+SALON,SALON,moke1242,,,,,,,Salôn
+AMOK,A_MOK,mokk1243,,,,,,,A Mǒk
+MONGOLIAN,MONGOLIAN,mong1331,,,,,,,Mongolian
+TALAINGWRITTEN,TALAING_WRITTEN,monn1252,,,,,,,"Talaing, written"
+MOSHANG,MOSHANG,mosa1240,,,,,,,Mōšāng
+MRU,MRU,mruu1242,,,,,,,Mrū
+MULTANI,MULTANI,mult1243,,,,,,,Mūltānī
+CHINBOK,CHINBOK,munc1235,,,,,,,Chinbōk
+YAWDWIN,YAWDWIN,munc1235,,,,,,,Yådwin
+MUNDARI,MUNDARI,mund1320,,,,,,,Muṇḍārī
+MUNJANIORMUNGI,MUNJANI_OR_MUNGI,munj1244,,,,,,,Munjānī/Mungī
+MANYAK,MANYAK,muya1239,,,,,,,Mànyàk
+NACHHERENG,NACHHERENG,nach1240,,,,,,,Nāch’erēng
+EASTERNPAHARIORKHASKURA,EASTERN_PAHARI_OR_KHAS_KURA,nepa1254,,,,,,,Eastern Pahāṛī/K’as-kurā
+NEWARI,NEWARI,newa1246,,,,,,,Nēwārī
+PADIPAHRIORPAHI,PADI_PAHRI_OR_PAHI,newa1246,,,,,,,Paḍ’ī /Pahrī/Pahī
+NIMADI,NIMADI,nima1243,,,,,,,Nīmāḍī
+NAMSANGIA,NAMSANGIA,noct1238,,,,,,,Namsangiā
+PASHTOOFPESHAWAR,PASHTO_OF_PESHAWAR,nort2646,,,,,,,"Paṣ̌tō, of Peshawar"
+BHOJPURINORTHERN,BHOJPURI_NORTHERN,nort2656,,,,,,,"B’ojpurī, Northern"
+SEMANG,SEMANG,nort2682,,,,,,,Sěmang
+KOLAMI,KOLAMI,nort2699,,,,,,,Kōlāmī
+RENGMA,RENGMA,nort2725,,,,,,,Rengmā
+BALALI,BALALI,nort2727,,,,,,,Bālālī
+LOHORONG,LOHORONG,nort2727,,,,,,,Lōhōrông
+WA,WA,nucl1290,,,,,,,Wa
+TURKI,TURKI,nucl1301,,,,,,,Turkī
+KANARESE,KANARESE,nucl1305,,,,,,,Kanarese
+BURMESEWRITTEN,BURMESE_WRITTEN,nucl1310,,,,,,,"Burmese, written"
+JAPANESE,JAPANESE,nucl1643,,,,,,,Japanese
+NUNG,NUNG,nung1282,,,,,,,Nung
+DAFLA,DAFLA,nyis1236,,,,,,,Daflā
+OLDPERSIAN,OLD_PERSIAN,oldp1254,,,,,,,Old Persian
+ORIYA,ORIYA,oriy1255,,,,,,,Oṛiyā
+ORMURI,ORMURI,ormu1247,,,,,,,Ōrmuṛī
+PADARI,PADARI,pada1256,,,,,,,Pāḍarī
+PAHLAVI,PAHLAVI,pahl1241,,,,,,,Pahlavī
+MIAOTSUHMONG,MIAO_TSU_(HMONG),pahn1237,,,,,,,Miao-tsü (Hmōng)
+PANGWALI,PANGWALI,pang1282,,,,,,,Paṅgwāḷī
+PANJABIWRITTEN,PANJABI_WRITTEN,panj1256,,,,,,,"Pañjābī, written"
+PANKHU,PANKHU,pank1249,,,,,,,Pānk’ū
+TAUNGTHA,TAUNGTHA,paok1235,,,,,,,Taungθa
+TAUNGTHU,TAUNGTHU,paok1235,,,,,,,Taungθu
+PHADANG,PHADANG,phad1238,,,,,,,P’adāng
+TAMLU,TAMLU,phom1236,,,,,,,Tamlu
+PWOLITERARY,PWO_LITERARY,phra1235,,,,,,,"Pwo, literary"
+POGULI,POGULI,pogu1238,,,,,,,Pǒgulī
+POTHWARI,POTHWARI,poth1238,,,,,,,Pōṭ’wārī
+POWADHI,POWADHI,powa1246,,,,,,,Pōwād’ī
+WASIVERIORVERON,WASI_VERI_OR_VERON,pras1239,,,,,,,Wasĩ-veri/Veron
+PUNCHHI,PUNCHHI,punc1239,,,,,,,Punch’ī
+BHOTIAOFPURIK,BHOTIA_OF_PURIK,puri1258,,,,,,,of Purik
+PURUM,PURUM,puru1266,,,,,,,Pūrūm
+PWOMAULMEIN,PWO_MAULMEIN,pwoe1235,,,,,,,Pwo Maulmein
+PWOBASSEIN,PWO_BASSEIN,pwow1235,,,,,,,Pwo Bassein
+PYENORPYIN,PYEN_OR_PYIN,pyen1239,,,,,,,Pyen /Pyin
+RAMBANI,RAMBANI,ramb1240,,,,,,,Rāmbanī
+RANGKAS,RANGKAS,rang1266,,,,,,,Rangkas
+YINRIANG,YIN_RIANG,rian1261,,,,,,,Yin/Riang
+KABUI,KABUI,rong1266,,,,,,,Kabui
+DARANG,DARANG,ruch1235,,,,,,,Darāng
+PALAUNG,PALAUNG,ruma1248,,,,,,,Palaung
+NAGPURIA,NAGPURIA,sadr1248,,,,,,,Nagpuriā
+AINU,AINU,sakh1245,,,,,,,Ainu
+SANGPANG,SANGPANG,samp1249,,,,,,,Sāngpāng
+THUKUMI,THUKUMI,sang1321,,,,,,,T’ukumi
+SANSKRIT,SANSKRIT,sans1269,,,,,,,Sanskrit
+KHERWARISANTHALI,KHERWARI_SANTHALI,sant1410,,,,,,,"K’erwārī, Santālī"
+SARIKOLI,SARIKOLI,sari1246,,,,,,,Sarīkolī
+PRAKRIT,PRAKRIT,saur1252,,,,,,,Prakrit
+SAKAI,SAKAI,seno1278,,,,,,,Sakai
+SGALITERARY,SGA_LITERARY,sgaw1245,,,,,,,"Sgå, literary"
+SHAN,SHAN,shan1277,,,,,,,Šàn
+SHARPA,SHARPA,sher1255,,,,,,,Šarpa
+CHILASI,CHILASI,shin1264,,,,,,,Chilāsi
+SHIYNI,SHIYNI,shug1248,,,,,,,Šiɣnī
+BHOTIATIBETANWRITTEN,BHOTIA_TIBETAN_WRITTEN,sikk1242,,,,,,,"B’ōṭiā, Tibetan, written"
+DANJONGKA,DANJONGKA,sikk1242,,,,,,,Dänjongkä
+SINDHIVICHOLI,SINDHI_VICHOLI,sind1272,,,,,,,"Sind’ī, Vichōlī"
+SINGPHO,SINGPHO,sing1264,,,,,,,Singp’o
+SINGHALESE,SINGHALESE,sinh1246,,,,,,,Singhalese
+DODASIRAJI,DODA_SIRAJI,sira1264,,,,,,,Ḍōḍā Sirājī
+SIRIPURIA,SIRIPURIA,siri1268,,,,,,,Siripuriā
+SIRMAURI,SIRMAURI,sirm1239,,,,,,,Sirmaurī
+SIYIN,SIYIN,siyi1240,,,,,,,Siyin
+SON,SON,sonn1238,,,,,,,Sǒn
+SAVARA,SAVARA,sora1254,,,,,,,Savara
+BALOCHIMAKRANI,BALOCHI_MAKRANI,sout2642,,,,,,,"Balōchī, Makrānī"
+PASHTOOFKANDAHAR,PASHTO_OF_KANDAHAR,sout2649,,,,,,,of Kandahar
+BHOJPURISOUTHERN,BHOJPURI_SOUTHERN,sout2661,,,,,,,"B’ojpurī, Southern"
+HINDKI,HINDKI,sout2668,,,,,,,Hindkī
+PASHAIWESTERN,PASHAI_WESTERN,sout2671,,,,,,,"Pašai, Western"
+PASHAIEASTERN,PASHAI_EASTERN,sout2672,,,,,,,"Pašai, Eastern"
+GONDI,GONDI,sout2711,,,,,,,Gōṇḍi
+LADAKHIOFSPITI,LADAKHI_OF_SPITI,spit1240,,,,,,,of Spiti
+ARABIC,ARABIC,stan1318,,,,,,,Arabic
+SEMA,SEMA,sumi1235,,,,,,,Semā
+SUNWAR,SUNWAR,sunw1242,,,,,,,Sunwār
+EASTERNBENGALIOFCACHAR,EASTERN_BENGALI_OF_CACHAR,sylh1242,,,,,,,of Cachar
+TAILOI,TAI_LOI,tail1246,,,,,,,Tai-loi
+TAMIL,TAMIL,tami1289,,,,,,,Tamil̤
+SIHIA,SI_HIA,tang1334,,,,,,,Si-hia
+TENGSA,TENGSA,tase1235,,,,,,,Tengsa
+TAUNGYO,TAUNGYO,taun1248,,,,,,,Taungyo
+TAVOYAN,TAVOYAN,tavo1242,,,,,,,Tavoyan
+TAKPA,TAKPA,tawa1289,,,,,,,Tàkpà
+TELUGU,TELUGU,telu1262,,,,,,,Telugu
+THADO,THADO,thad1238,,,,,,,T’ādo
+SIAMESEWRITTEN,SIAMESE_WRITTEN,thai1261,,,,,,,"Siamese, written"
+THALI,THALI,thal1241,,,,,,,T’aḷī
+KHOIRAO,KHOIRAO,than1255,,,,,,,K’oirāo
+THAMI,THAMI,than1259,,,,,,,T’āmī
+THAYETMYOCHIN,THAYETMYO_CHIN,thay1247,,,,,,,Thayetmyo Chin
+LALUNG,LALUNG,tiwa1253,,,,,,,Lālung
+TODA,TODA,toda1252,,,,,,,Toda
+TORWALI,TORWALI,torw1241,,,,,,,Tōrwālī
+TOTO,TOTO,toto1302,,,,,,,Ṭōṭō
+TULU,TULU,tulu1258,,,,,,,Tuḷu
+TANGKHUL,TANGKHUL,ukhr1238,,,,,,,Tāngk’ul
+NAGPURI,NAGPURI,varh1239,,,,,,,Nāgpurī
+VIETNAMESE,VIETNAMESE,viet1252,,,,,,,Annamese
+WAIALA,WAI_ALA,waig1243,,,,,,,Wai-alā
+WAXI,WAXI,wakh1245,,,,,,,Waꭓī
+WALING,WALING,wali1261,,,,,,,Wāling
+CHAURASYA,CHAURASYA,wamb1257,,,,,,,Chaurāsya
+BANPARA,BANPARA,wanc1238,,,,,,,Banparā
+WAR,WAR,warj1242,,,,,,,Wār
+VAYUORHAYU,VAYU_OR_HAYU,wayu1241,,,,,,,Vāyu/Hāyu
+PERSIAN,PERSIAN,west2369,,,,,,,Persian
+LAHNDAOFSHAHPUR,LAHNDA_OF_SHAHPUR,west2386,,,,,,,"Lahndā, of Shahpur"
+MURMI,MURMI,west2415,,,,,,,Murmi
+MAGARI,MAGARI,west2418,,,,,,,Mãgarī
+WEWAW,WEWAW,wewa1238,,,,,,,Wewaw
+LAMBICHHONG,LAMBICHHONG,yakk1236,,,,,,,Lāmbich’ōng
+YAKHA,YAKHA,yakk1236,,,,,,,Yāk’ā
+KORAVA,KORAVA,yeru1240,,,,,,,Korava
+YUDYA,YUDYA,yidg1240,,,,,,,Yüdɣa
+YACHUMI,YACHUMI,yimc1240,,,,,,,Yachumi
+YEINBA,YEINBA,yinb1236,,,,,,,Yeinbå
+YINTALAE,YINTALAE,yint1235,,,,,,,Yintalä
+SZIORATSI,SZI_OR_ATSI,zaiw1241,,,,,,,Szi/Atsi
+ZAVEIN,ZAVEIN,zaye1235,,,,,,,Zayein
+EMPEO,EMPEO,zeme1240,,,,,,,Ēmpēo
+BANJOGI,BANJOGI,zotu1235,,,,,,,Banjōgi
+DHANNI,DHANNI,,,,,,,,D’annī
+TINAULIOFSALTRANGE,TINAULI_OF_SALT_RANGE,,,,,,,,of Salt Range
+TINAULI,TINAULI,,,,,,,,Tināulī
+OLDMEITHEI,OLD_MEITHEI,,,,,,,,Old Meit’ei
+AHI,A_HI,,,,,,,,A-hi
+BHOTIATIBETANSPOKEN,BHOTIA_TIBETAN_SPOKEN,,,,,,,,"B’ōṭiā, Tibetan, spoken"
+BENGALISPOKEN,BENGALI_SPOKEN,,,,,,,,"Bengali, spoken"
+BURMESESPOKEN,BURMESE_SPOKEN,,,,,,,,"Burmese, spoken"
+GYPSYEUROPEAN,GYPSY_EUROPEAN,,,,,,,,"Gypsy, European"
+GYPSYSYRIAN,GYPSY_SYRIAN,,,,,,,,"Gypsy, Syrian"
+HAURPA,HAURPA,,,,,,,,Haurpà
+KATURR,KATURR,,,,,,,,Katuṟṟ
+MANOE,MANOE,,,,,,,,Manö
+MARAN,MARAN,,,,,,,,Maran
+MEGYAO,ME_GYAO,,,,,,,,Me-gyå
+MOENGLWE,MOENG_LWE,,,,,,,,Möng Lwe
+PANJABISPOKEN,PANJABI_SPOKEN,,,,,,,,"Pañjābī, spoken"
+PEMIAO,PE_MIAO,,,,,,,,Pē-Miao
+SAKUPA,SAKUPA,,,,,,,,Sakupà
+SAUKPA,SAUKPA,,,,,,,,Saukpà
+SGASPOKEN,SGA_SPOKEN,,,,,,,,"Sgå, spoken"
+SIAMESESPOKEN,SIAMESE_SPOKEN,,,,,,,,"Siamese, spoken"
+THAUCHU,THAUCHU,,,,,,,,T’auchū
+TALAINGSPOKEN,TALAING_SPOKEN,,,,,,,,"Talaing, spoken"
