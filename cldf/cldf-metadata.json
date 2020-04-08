@@ -14,7 +14,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/lsi",
-            "dc:created": "93aca1b"
+            "dc:created": "cb6338f"
         },
         {
             "rdf:type": "prov:Entity",
@@ -53,7 +53,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 60538,
+            "dc:extent": 60534,
             "tableSchema": {
                 "columns": [
                     {

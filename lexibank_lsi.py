@@ -27,8 +27,9 @@ class Dataset(BaseDataset):
     concept_class = CustomConcept
     language_class = CustomLanguage
     form_spec = FormSpec(
-            separators = ";,~/",
-            missing_data = (
+            separators=";,~/",
+            brackets={"(": ")", "[": "]"},
+            missing_data=(
                 "-",
                 "?",
                 "...",
