@@ -38,7 +38,10 @@ def run(args):
             lang,
             ' '.join([
                 '<span style="display:table-cell;padding:2px;width:20px;background-color:{0};">{1}</span>'.format(
-                    a, b) for a, b in zip(cols, phons)])
+                    a, b) for a, b in sorted(
+                        zip(cols, phons),
+                        key=lambda x: x[0]
+                        )])
                 ]
         text += '<tr>'+''.join([
                     '<td style="padding:2px;border:1px solid gray">{0}</td>'.format(
