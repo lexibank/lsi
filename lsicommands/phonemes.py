@@ -22,13 +22,17 @@ def run(args):
 #                lang)
         idxs = wl.get_list(col=lang, flat=True)
         text += '<table>'
-        text += '<tr><th>Doculect</th><th>Segments</th></tr>'
+        text += '<tr><th>Doculect</th><th>Segments'
         phons = []
         for idx in idxs:
             tks = wl[idx, 'tokens']
             for tk in tks:
                 if tk not in phons:
                     phons.append(tk)
+        text += ' (<a href="https://digling.org/edictor/plugouts/ipa_chart.html?doculect={0}&sound_list={1}">IPA CHART</a>)</th></tr>'.format(
+                lang,
+                ','.join(phons))
+
 
         try:
             cols = tokens2class(phons, color)
