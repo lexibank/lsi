@@ -40,7 +40,7 @@ def run(args):
                 '<span style="display:table-cell;padding:2px;width:20px;background-color:{0};">{1}</span>'.format(
                     a, b) for a, b in sorted(
                         zip(cols, phons),
-                        key=lambda x: x[0]
+                        key=lambda x: (x[0], x[1])
                         )])
                 ]
         text += '<tr>'+''.join([
