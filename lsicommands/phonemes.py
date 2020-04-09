@@ -1,5 +1,5 @@
 """
-Compute partial cognates and alignments and create a wordlist.
+Compute phoneme inventories from word lists.
 """
 
 from lingpy import *
