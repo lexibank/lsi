@@ -1,4 +1,4 @@
-Grapheme	IPA
+Grapheme	IPA	Alternative
 #	+
 $	NULL
 (	NULL
@@ -19,12 +19,12 @@ ai	ai
 āi	aːi
 A	ɑ
 B	b
-Ch	tɕ
-Ch’	tɕʰ
+Ch	tɕ	tʃ
+Ch’	tɕʰ	tʃʱ
 D	d
 F	f
-G	ɢ
-H	ʜ
+G	ɢ	g
+H	ʜ	h
 I	i
 J	j
 K	k
@@ -38,7 +38,7 @@ S	s
 T	t̪
 Ṯs̱	ts
 U	u
-V	v
+V	v	ʋ (typically common in Indian languages. Alternates between v and w)
 W	w
 X	x
 Y	y
@@ -46,7 +46,7 @@ Y	y
 ^A	ɑ
 _	+
 _̇	NULL
-a	ə
+a	ə	ʌ (a in America or u in hurry)
 à̃	à̃/ã
 à͛	à͛/a
 á	á/a
@@ -63,20 +63,20 @@ ạ̄	ạ̄/aː
 ạ̌	ạ̌/a
 a’u	au
 b	b
-ḅ	ḅ/b
-ḇ	ḇ/b
-b’	bʰ
+ḅ	ḅ/b	(A peculiar labial according to Grierson, unvoiced may be)
+ḇ	ḇ/b	(Another variety of sound. Occurs in Tailang)
+b’	bʰ	bʱ
 c	c
-ch	tɕ
-ch’	tɕʰ
+ch	tɕ	tʃ
+ch’	tɕʰ	tʃʱ
 c̣	c
 d	d̪
 dz	dz
-dz’	dzʰ
+dz’	dzʰ	dzʱ
 ḍ	ɖ
 ḍ’	ɖʰ
-ḏẕ	dz̪
-d’	d̪ʰ
+ḏẕ	dz̪	dzʱ
+d’	d̪ʰ	d̪ʱ
 e	e
 ei	ei
 ẽ	ẽ
@@ -84,7 +84,7 @@ f	f
 g	g
 gy	gʲ
 g̱	g̱
-g’	gʰ
+g’	gʰ	gʱ
 h	h
 hy	hʲ
 ḥ̣	ḥ̣/h
@@ -111,12 +111,12 @@ ḷ	ɭ
 ḷ’	ɭ̥
 m	m
 mya2ṅ	m j a n
-m̊°	m̥
-m̌	m̌/m
-n	n̪
+m̊°	m̥	mˤ(Should be a glottal check according the book. ˤ)
+m̌	m̌/m	(Occurs in Singhalese. No description given in Grierson)
+n	n̪	(not clear if this should be a dental sound. Tamil has an alveolar stop. In general dental nasal stops are present in Indian languages)
 ng	ŋ
 ṅa2	n a
-ṅ̇	ṅ̇/n
+ṅ̇	ṅ̇/n	ŋ (Typo in the data. Should be treated as velar nasal ŋ)
 ṇ	ɳ
 n’	n̪̊
 o	o
@@ -133,19 +133,19 @@ p	p
 p’	pʰ
 q	q
 q’	qʱ
-r	r
+r	r/ɾ	(possibly a flap for Tamil/malayalam. Rest it is r )
 ṛ	ɽ
 ṝ	ɽ ɪː
-ṛ’	ɽ̊
-r̤	r̤/r
+ṛ’	ɽ̊	ɽʱ( weak aspiration)
+r̤	r̤/r ɻ (retroflex approximant occurs in Malayalam and Tamil)
 r̥	ɽ ɪ
-ṟˡ	ṟˡ/r
+ṟˡ	ṟˡ/r	(trilled r)
 s	s
-s̄	s̄/s
-š́	š́/ʃ
+s̄	s̄/s	 (Typo in case of Anal, Bhojpuri)
+š́	š́/ʃ	(skh in Ormuri)
 ṣ	ʂ
-ṣ̌	ṣ̌/ʂ
-s̱	s̱/s
+ṣ̌	ṣ̌/ʂ	(sch in Ormuri)
+s̱	s̱/s	(part of ṯs̱)
 s’	sʰ
 t	t
 t	t̪
@@ -164,7 +164,7 @@ ū̃	ũː
 ū’	ū’/uː
 ǖ	ǖ/yː
 u̯	u̯/w
-v	v
+v	v	ʋ (typically common in Indian languages. Alternates between v and w)
 w	w
 x	x
 y	j
@@ -172,7 +172,7 @@ z	z
 ẓ̌	ẓ̌/ʐ
 °	+
 À	À/ɑ
-à	à/a
+à	à/a	(as in German Mann)
 â	ɔ
 ã	ã
 ä	ɛ
@@ -203,24 +203,24 @@ ẓ̌	ẓ̌/ʐ
 Ī	iː
 ī	iː
 ı	i
-ň	ň/n
+ň	ň/n	(no explanation in Grierson)
 ś	ʃ
 Š	ʃ
 š	ʃ
-ũ	ũ
+ũ	ũ	(probably nasalized vowel)
 Ū	uː
-ż	ż/z
+ż	ż/z	(no explanation in Grierson)
 ž	ʒ
 ǎ	æ
 Ǐ	i
 ǐ	ǐ/i
 ǒ	ɒ
-ǔ	ǔ/ʊ
-ǚ	ǚ/y
+ǔ	ǔ/ʊ	(short version of oo in soon, boon)
+ǚ	ǚ/y̆	(extra short y)
 ȧ	ȧ/a
 ȫ	ȫ/øː
 ȯ	ȯ/o
-ȳ	yː
+ȳ	yː	(not there in the book)
 ɔ	ɔ
 ɣ	ɣ
 ɣ́	ɣ
@@ -269,8 +269,8 @@ ẓ̌	ẓ̌/ʐ
 α	α/a
 γ	ɣ
 δ	ð
-δ̤	ðʰ
-δ̱	d̪
+δ̤	ðʰ	(ðˤ version. Ẓāʾ in Modern Standard Arabic)
+δ̱	d̪	(ˤ version. 
 θ	θ
 π	p
 φ	ɸ
@@ -286,18 +286,18 @@ ẓ̌	ẓ̌/ʐ
 ᵛ	v̚
 ᶜ	c̚
 ᶻ	z̚
-ḣ	ḣ/h
-ḥ	ḥ/h
-ḳ	ḳ/k
-ḵ	ḵ/k
-ṁ	ṁ/m
-ṃ	ṃ/m
+ḣ	ḣ/h	(Typo. should be ḥ)
+ḥ	ḥ/h	(A sound equivalent to visarga in Sanskrit. Essentially h)
+ḳ	ḳ/k	(Occurs only in Salon. No explanation in the book)
+ḵ	ḵ/k	(not there in the transcriptions. Error from orthography profile. Not present in the volume.)
+ṁ	ṁ/m	(as a nasal vowel. typically nasalizes previous vowel and occurs in Sanskrit and borrowings)
+ṃ	ṃ/ṁ	(Typo. should be rendered as ṁ)
 ṅ	ŋ
-ṉ	n
-ṙ	ṙ/r
-ṟ	ṟ/r
-ṡ	ṡ/s
-ṫ	ṫ̪
+ṉ	n	(Could not find in cldf/forms or the raw text)
+ṙ	ṙ/r	(typo. should be rendered as ṛ)
+ṟ	ṟ/r (a trilled r)
+ṡ	ṡ/s	(better shown as ʃ)
+ṫ	ṫ̪	(Could be a parsing error. Can't locate it)
 Ṭ	ʈ
 Ṭ’	ʈʰ
 ẁ	ẁ/w
@@ -314,8 +314,8 @@ ẓ̌	ẓ̌/ʐ
 ⁱ	ĭ
 ⁿ	n̚
 ꭓ	x
-ꭓʷ	χʷ
-ꭓ́	χ
+ꭓʷ	χʷ	(xʷ labialized x)
+ꭓ́	χ	(kkh according to the book)
 ^B	b
 ^Ch	tɕ
 ^Ch’	tɕʰ
