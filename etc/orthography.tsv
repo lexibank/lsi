@@ -19,8 +19,8 @@ ai	ai
 āi	aːi
 A	ɑ
 B	b
-Ch	tɕ	tʃ
-Ch’	tɕʰ	tʃʱ
+Ch	tɕ	tʃ (Go with Mattis suggestion)
+Ch’	tɕʰ	tʃʱ (Go with Mattis suggestion)
 D	d
 F	f
 G	ɢ	g
@@ -33,7 +33,7 @@ M	m
 N	n
 O	o
 P	p
-R	NULL
+R	r
 S	s
 T	t̪
 Ṯs̱	ts
@@ -43,24 +43,24 @@ W	w
 X	x
 Y	y
 ^	NULL
-^A	ɑ
+^A	ɑ	ʌ (a in America or u in hurry)
 _	+
 _̇	NULL
 a	ə	ʌ (a in America or u in hurry)
 à̃	à̃/ã
-à͛	à͛/a
+à͛	à͛/a	(Occurs twice in Pwo-Bassein. No explanation)
 á	á/a
-ā	aː
+ā	aː	ʌ (a in America or u in hurry)
 ā́	ā́/aː
-ǟ	ǟ/æ
+ǟ	ǟ/æ	(lengthened ɛ. ɛː)
 ä̌	ä̌/ɛ
 å	ɔ
 å̃	å/ɔ
 å̄	ɔː
 å̄ 	å̄/ɔ 
-ǎ̀	ǎ̀/a
-ạ̄	ạ̄/aː
-ạ̌	ạ̌/a
+ǎ̀	ǎ̀/a	(occurs in Katurr Palaung. A short version of a. ă)
+ạ̄	ạ̄/aː	(Palaung. u in but (ʌː))
+ạ̌	ạ̌/a	(Only occurs in Syrian Gypsy)
 a’u	au
 b	b
 ḅ	ḅ/b	(A peculiar labial according to Grierson, unvoiced may be)
@@ -69,7 +69,7 @@ b’	bʰ	bʱ
 c	c
 ch	tɕ	tʃ
 ch’	tɕʰ	tʃʱ
-c̣	c
+c̣	c	(No mention in the book. Based on context, treat it as ch ~ tɕ)
 d	d̪
 dz	dz
 dz’	dzʰ	dzʱ
@@ -87,19 +87,19 @@ g̱	g̱
 g’	gʰ	gʱ
 h	h
 hy	hʲ
-ḥ̣	ḥ̣/h
+ḥ̣	h	(A sound equivalent to visarga in Sanskrit. Essentially h)
 h’ū	h uː
 i	i
 ĩ̄	ĩː
 ī̃	ĩː
-ī̃°	ī̃°/ĩ
+ī̃°	ī̃°/ĩ	(actually a glottal check)
 ī̇ 	ī̇/i
-ī̇ 	ɪː 
+ī̇ 	ɪː	(Only occurs once in Mandarin)
 i̇̃	ĩ
-ï̌	ï̌/ɪ
+ï̌	ï̌/ɪ	(Centralized vowel (may be) occurring once in Prakrit)
 ï̌ 	ï̌/ɪ
-ị̄	ị̄/ɪː
-i̯	i̯/j
+ị̄	ị̄/ɪː	(Occurs in Palaung. Supposed to be a modification of ī)
+i̯	i̯/j	(Occurs only in Cham. no explanation given. Is it non-syllabic?)
 j	dʑ
 j̣o	dʒ o
 j’	dʑʰ
@@ -108,7 +108,7 @@ ky	kʲ
 k’	kʰ
 l	l
 ḷ	ɭ
-ḷ’	ɭ̥
+ḷ’	ɭ̥	(supposed to be a breathy voiced ɭ)
 m	m
 mya2ṅ	m j a n
 m̊°	m̥	mˤ(Should be a glottal check according the book. ˤ)
@@ -154,15 +154,15 @@ ts’	tsʰ
 ṫh	t̪ʰ
 ṭ	ʈ
 ṭ’	ʈʰ
-t̤	t̤/t
+t̤	t̤/t	(tˤfor ط Arabic.)
 ṯs̱	ts
 ṯs̱’	tsʰ
 t’	t̪ʰ
 u	u
 ū	uː
 ū̃	ũː
-ū’	ū’/uː
-ǖ	ǖ/yː
+ū’	ū’/uː	(Only occurs in Sakai and Semang. SHould be treated as "uː h")
+ǖ	ǖ/yː	(long variant of ü (y))
 u̯	u̯/w
 v	v	ʋ (typically common in Indian languages. Alternates between v and w)
 w	w
@@ -177,28 +177,28 @@ ẓ̌	ẓ̌/ʐ
 ã	ã
 ä	ɛ
 å	ɔ
-è	è/e	(no explanation in the book)
-é	é/e	(no explanation in the book)
+è	è/e	(no explanation in the book. Better go with e)
+é	é/e	(no explanation in the book. Better go with e)
 ë	ë/ə
-ì	ì/i
-í	í/i
-ï	ï/ɪ
+ì	ì/i	(no explanation in the book. Better go with i)
+í	í/i	(no explanation in the book. Better go with i. Three instances)
+ï	ï/ɪ	(a centralized vowel)
 ñ	ɲ
-ò	ò/o
-ó	ó/o
-ô	ɔ
-õ	õ
+ò	ò/o	(Typo for ö in Yeinbå.)
+ó	ó/o	(Occurs in Rong/Lepcha. Equivalent to o in "for" or "nor")
+ô	ɔ	(no sound in the original transcriptions. Occurs in the language name: Salôn)
+õ	õ	(nasalized. No explanation but can assume...)
 ö	ø
-ö̌	ö̌/œ
-ù	ù/u
-ú	ú/u
-ü	y
+ö̌	ö̌/œ	(ö̌ü dipthong. A very short French eu followed by u. Found in Miao-Hmong)
+ù	ù/u	(no explanation in the book. Better go with u)
+ú	ú/u	(no explanation in the book. Better go with u)
+ü	y	(y: is for German ubel)
 Ā	aː
 ā̃	ãː
 ē	eː
 ē̃	ẽː
-ė	ė/ə
-ě	ě/e
+ė	ė/ə	(No explanation. Only found once in Annamese (Vietnamese))
+ě	ě/e	(equivalent to ə. occurs in Katurr Palaung)
 ĩ	ĩ
 Ī	iː
 ī	iː
@@ -211,20 +211,20 @@ ẓ̌	ẓ̌/ʐ
 Ū	uː
 ż	ż/z	(no explanation in Grierson)
 ž	ʒ
-ǎ	æ
-Ǐ	i
-ǐ	ǐ/i
-ǒ	ɒ
-ǔ	ǔ/ʊ	(short version of oo in soon, boon)
+ǎ	æ	(parsing error. It is part of the ǎ̀ symbol)
+Ǐ	i	(no explanation in Grierson)
+ǐ	ǐ/i	(no explanation in Grierson)
+ǒ	ɒ	(no explanation in Grierson)
+ǔ	ǔ/ʊ	(short version of oo in soon, boon. ŏ)
 ǚ	ǚ/y̆	(extra short y)
-ȧ	ȧ/a
+ȧ	ȧ/a	(It should be å. It is not clearly printed in the original book)
 ȫ	ȫ/øː
-ȯ	ȯ/o
+ȯ	o	(Only occurs once in Shodochi for "ten".)
 ȳ	yː	(not there in the book)
 ɔ	ɔ
 ɣ	ɣ
 ɣ́	ɣ
-ɯ	ɯ
+ɯ	ɯ	(Book shows this form)
 ʰ	h
 ʳ	r̚
 ʷ	w̚
@@ -270,7 +270,7 @@ ẓ̌	ẓ̌/ʐ
 γ	ɣ
 δ	ð
 δ̤	ðʰ	(ðˤ version. Ẓāʾ in Modern Standard Arabic)
-δ̱	d̪	(ˤ version. 
+δ̱	d̪	(ˤ version of d̪)
 θ	θ
 π	p
 φ	ɸ
@@ -302,11 +302,11 @@ ẓ̌	ẓ̌/ʐ
 Ṭ’	ʈʰ
 ẁ	ẁ/w
 ẓ	ʐ
-ạ	ạ/a
-ạ̄ 	ạ̄/aː
-ẹ	ẹ/ɚ
-ị	ị/i
-ụ	ụ/u
+ạ	ạ/a	(Less rounded ö. Occurs in SHAN. A slightly long variant occurs in Siamese. ø̜)
+ạ̄ 	ạ̄/aː	(ø̜ː)
+ẹ	ẹ/ɚ	(Gheko has this sound mainly. variant between i and e. So ɪ is a good candidate. Occurs in Avestan but no explanation.)
+ị	i	(Occurs in Palaung. Supposed to be a modification of i)
+ụ	ụ/u	(Less rounded ü. May be y̜. Occurs in Siamese and Shan)
 –	+
 ‘	NULL
 ’	NULL
@@ -321,8 +321,8 @@ ẓ̌	ẓ̌/ʐ
 ^Ch’	tɕʰ
 ^D	d
 ^F	f
-^G	ɢ
-^H	ʜ
+^G	g
+^H	h
 ^I	i
 ^J	j
 ^K	k
