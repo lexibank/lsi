@@ -1,4 +1,4 @@
-# Linguistic Survey of India
+# CLDF dataset derived from Grierson's "Linguistic Survey of India" from 1928
 
 Cite the source dataset as
 
@@ -26,9 +26,9 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 - **Sources:** 0
 - **Synonymy:** 1.15
 - **Invalid lexemes:** 0
-- **Tokens:** 378,325
-- **Segments:** 221 (0 BIPA errors, 0 CTLS sound class errors, 219 CLTS modified)
-- **Inventory size (avg):** 40.49
+- **Tokens:** 371,578
+- **Segments:** 223 (0 BIPA errors, 0 CTLS sound class errors, 221 CLTS modified)
+- **Inventory size (avg):** 42.01
 
 ## Possible Improvements:
 
@@ -37,3 +37,12 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 
 
 - Entries missing sources: 60534/60534 (100.00%)
+
+# Contributors
+
+Name               | GitHub user | Role
+---                | ---         | ---
+Taraka Rama | @phylostar | maintainer
+Johann-Mattis List | @lingulist | maintainer
+
+
