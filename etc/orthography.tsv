@@ -19,12 +19,12 @@ ai	ai
 āi	aːi
 A	ɑ
 B	b
-Ch	tɕ	tʃ (Go with Mattis suggestion)
-Ch’	tɕʰ	tʃʱ (Go with Mattis suggestion)
+Ch	tʃ
+Ch’	tʃʱ
 D	d
 F	f
-G	ɢ	g
-H	ʜ	h
+G	g
+H	h
 I	i
 J	j
 K	k
@@ -38,45 +38,45 @@ S	s
 T	t̪
 Ṯs̱	ts
 U	u
-V	v	ʋ (typically common in Indian languages. Alternates between v and w)
+V	ʋ
 W	w
 X	x
 Y	y
 ^	NULL
-^A	ɑ	ʌ (a in America or u in hurry)
+^A	ʌ
 _	+
 _̇	NULL
-a	ə	ʌ (a in America or u in hurry)
-à̃	à̃/ã
-à͛	à͛/a	(Occurs twice in Pwo-Bassein. No explanation)
-á	á/a
-ā	aː	ʌ (a in America or u in hurry)
-ā́	ā́/aː
-ǟ	ǟ/æ	(lengthened ɛ. ɛː)
-ä̌	ä̌/ɛ
+a	ʌ
+à̃	ã
+à͛	à͛
+á	á
+ā	ʌː
+ā́	aː
+ǟ	ɛː
+ä̌	ɛ
 å	ɔ
-å̃	å/ɔ
+å̃	ɔ
 å̄	ɔː
-å̄ 	å̄/ɔ 
-ǎ̀	ǎ̀/a	(occurs in Katurr Palaung. A short version of a. ă)
-ạ̄	ạ̄/aː	(Palaung. u in but (ʌː))
-ạ̌	ạ̌/a	(Only occurs in Syrian Gypsy)
+å̄ 	ɔː 
+ǎ̀	ă
+ạ̄	ʌː
+ạ̌	a
 a’u	au
 b	b
-ḅ	ḅ/b	(A peculiar labial according to Grierson, unvoiced may be)
-ḇ	ḇ/b	(Another variety of sound. Occurs in Tailang)
-b’	bʰ	bʱ
+ḅ	b
+ḇ	b
+b’	bʱ
 c	c
-ch	tɕ	tʃ
-ch’	tɕʰ	tʃʱ
-c̣	c	(No mention in the book. Based on context, treat it as ch ~ tɕ)
+ch	tʃ
+ch’	tʃʱ
+c̣	c
 d	d̪
 dz	dz
-dz’	dzʰ	dzʱ
+dz’	dzʱ
 ḍ	ɖ
-ḍ’	ɖʰ
-ḏẕ	dz̪	dzʱ
-d’	d̪ʰ	d̪ʱ
+ḍ’	ɖʱ
+ḏẕ	dz
+d’	d̪ʱ
 e	e
 ei	ei
 ẽ	ẽ
@@ -84,147 +84,147 @@ f	f
 g	g
 gy	gʲ
 g̱	g̱
-g’	gʰ	gʱ
+g’	gʱ
 h	h
 hy	hʲ
-ḥ̣	h	(A sound equivalent to visarga in Sanskrit. Essentially h)
+ḥ̣	h
 h’ū	h uː
 i	i
 ĩ̄	ĩː
 ī̃	ĩː
-ī̃°	ī̃°/ĩ	(actually a glottal check)
-ī̇ 	ī̇/i
-ī̇ 	ɪː	(Only occurs once in Mandarin)
+ī̃°	ĩ
+ī̇ 	i
+ī̇ 	ɪː
 i̇̃	ĩ
-ï̌	ï̌/ɪ	(Centralized vowel (may be) occurring once in Prakrit)
-ï̌ 	ï̌/ɪ
-ị̄	ị̄/ɪː	(Occurs in Palaung. Supposed to be a modification of ī)
-i̯	i̯/j	(Occurs only in Cham. no explanation given. Is it non-syllabic?)
+ï̌	ɪ
+ï̌ 	ɪ
+ị̄	ɪː
+i̯	j
 j	dʑ
 j̣o	dʒ o
-j’	dʑʰ
+j’	dʑʱ
 k	k
 ky	kʲ
-k’	kʰ
+k’	kʱ
 l	l
 ḷ	ɭ
-ḷ’	ɭ̥	(supposed to be a breathy voiced ɭ)
+ḷ’	ɭ̥ʱ
 m	m
 mya2ṅ	m j a n
-m̊°	m̥	mˤ(Should be a glottal check according the book. ˤ)
-m̌	m̌/m	(Occurs in Singhalese. No description given in Grierson)
-n	n̪	(not clear if this should be a dental sound. Tamil has an alveolar stop. In general dental nasal stops are present in Indian languages)
+m̊°	mˤ
+m̌	m
+n	n̪
 ng	ŋ
 ṅa2	n a
-ṅ̇	ṅ̇/n	ŋ (Typo in the data. Should be treated as velar nasal ŋ)
+ṅ̇	ŋ
 ṇ	ɳ
 n’	n̪̊
 o	o
 oi	ɔɪ
 ou	əʊ
 ō	oː
-ō̂	ō̂/oː
-ō̃	ō̃/õː
+ō̂	oː
+ō̃	õː
 ōⁿ	oː
-o̊	o̊/ɔ
-ǒ̃	ǒ̃/õ
+o̊	o
+ǒ̃	õ
 o͝	o
 p	p
-p’	pʰ
+p’	pʱ
 q	q
 q’	qʱ
-r	r/ɾ	(possibly a flap for Tamil/malayalam. Rest of languages, it could be r. No explanation in the book.)
+r	r
 ṛ	ɽ
 ṝ	ɽ ɪː
-ṛ’	ɽ̊	ɽʱ( weak aspiration)
-r̤	r̤/r ɻ (retroflex approximant occurs in Malayalam and Tamil)
+ṛ’	ɽʱ
+r̤	ɻ
 r̥	ɽ ɪ
-ṟˡ	ṟˡ/r	(trilled r)
+ṟˡ	rˡ
 s	s
-s̄	s̄/s	 (Typo in case of Anal, Bhojpuri)
-š́	š́/ʃ	(skh in Ormuri)
+s̄	s
+š́	ʃ
 ṣ	ʂ
-ṣ̌	ṣ̌/ʂ	(sch in Ormuri)
-s̱	s̱/s	(part of ṯs̱)
-s’	sʰ
+ṣ̌	ʂ
+s̱	s
+s’	sʱ
 t	t
 t	t̪
 ts	ts
-ts’	tsʰ
-ṫh	t̪ʰ
+ts’	tsʱ
+ṫh	t̪ʱ
 ṭ	ʈ
-ṭ’	ʈʰ
-t̤	t̤/t	(tˤfor ط Arabic.)
+ṭ’	ʈʱ
+t̤	tˤ
 ṯs̱	ts
-ṯs̱’	tsʰ
-t’	t̪ʰ
+ṯs̱’	tsʱ
+t’	t̪ʱ
 u	u
 ū	uː
 ū̃	ũː
-ū’	ū’/uː	(Only occurs in Sakai and Semang. SHould be treated as "uː h")
-ǖ	ǖ/yː	(long variant of ü (y))
-u̯	u̯/w
-v	v	ʋ (typically common in Indian languages. Alternates between v and w)
+ū’	uː h
+ǖ	yː
+u̯	w
+v	ʋ
 w	w
 x	x
 y	j
 z	z
-ẓ̌	ẓ̌/ʐ
+ẓ̌	ʐ
 °	+
-À	À/ɑ
-à	à/a	(as in German Mann)
+À	ɑ
+à	a
 â	ɔ
 ã	ã
 ä	ɛ
 å	ɔ
-è	è/e	(no explanation in the book. Better go with e)
-é	é/e	(no explanation in the book. Better go with e)
-ë	ë/ə
-ì	ì/i	(no explanation in the book. Better go with i)
-í	í/i	(no explanation in the book. Better go with i. Three instances)
-ï	ï/ɪ	(a centralized vowel)
+è	e
+é	e
+ë	ə
+ì	i
+í	i
+ï	ɪ
 ñ	ɲ
-ò	ò/o	(Typo for ö in Yeinbå.)
-ó	ó/o	(Occurs in Rong/Lepcha. Equivalent to o in "for" or "nor")
-ô	ɔ	(no sound in the original transcriptions. Occurs in the language name: Salôn)
-õ	õ	(nasalized. No explanation but can assume...)
+ò	ø
+ó	o
+ô	ɔ
+õ	õ
 ö	ø
-ö̌	ö̌/œ	(ö̌ü dipthong. A very short French eu followed by u. Found in Miao-Hmong)
-ù	ù/u	(no explanation in the book. Better go with u)
-ú	ú/u	(no explanation in the book. Better go with u)
-ü	y	(y: is for German ubel)
+ö̌	øy
+ù	u
+ú	u
+ü	y
 Ā	aː
 ā̃	ãː
 ē	eː
 ē̃	ẽː
-ė	ė/ə	(No explanation. Only found once in Annamese (Vietnamese))
-ě	ě/e	(equivalent to ə. occurs in Katurr Palaung)
+ė	ə
+ě	ə
 ĩ	ĩ
 Ī	iː
 ī	iː
 ı	i
-ň	ň/n	(no explanation in Grierson)
+ň	n
 ś	ʃ
 Š	ʃ
 š	ʃ
-ũ	ũ	(probably nasalized vowel)
+ũ	ũ
 Ū	uː
-ż	ż/z	(no explanation in Grierson)
+ż	z
 ž	ʒ
-ǎ	æ	(parsing error. It is part of the ǎ̀ symbol)
-Ǐ	i	(no explanation in Grierson)
-ǐ	ǐ/i	(no explanation in Grierson)
-ǒ	ɒ	(no explanation in Grierson)
-ǔ	ǔ/ʊ	(short version of oo in soon, boon. ŏ)
-ǚ	ǚ/y̆	(extra short y)
-ȧ	ȧ/a	(It should be å. It is not clearly printed in the original book)
-ȫ	ȫ/øː
-ȯ	o	(Only occurs once in Shodochi for "ten".)
-ȳ	yː	(not there in the book)
+ǎ	æ
+Ǐ	i
+ǐ	i
+ǒ	ɒ
+ǔ	ŏ
+ǚ	y̆
+ȧ	ɔ
+ȫ	øː
+ȯ	o
+ȳ	yː
 ɔ	ɔ
 ɣ	ɣ
 ɣ́	ɣ
-ɯ	ɯ	(Book shows this form)
+ɯ	ɯ
 ʰ	h
 ʳ	r̚
 ʷ	w̚
@@ -265,12 +265,12 @@ ẓ̌	ẓ̌/ʐ
 ˩˩	¹¹
 ̱c	c
 Θ	θ
-ά	ά/a
-α	α/a
+ά	a
+α	a
 γ	ɣ
 δ	ð
-δ̤	ðʰ	(ðˤ version. Ẓāʾ in Modern Standard Arabic)
-δ̱	d̪	(ˤ version of d̪)
+δ̤	ðˤ
+δ̱	d̪ˤ
 θ	θ
 π	p
 φ	ɸ
@@ -286,36 +286,36 @@ ẓ̌	ẓ̌/ʐ
 ᵛ	v̚
 ᶜ	c̚
 ᶻ	z̚
-ḣ	ḣ/h	(Typo. should be ḥ)
-ḥ	ḥ/h	(A sound equivalent to visarga in Sanskrit. Essentially h)
-ḳ	ḳ/k	(Occurs only in Salon. No explanation in the book)
-ḵ	ḵ/k	(not there in the transcriptions. Error from orthography profile. Not present in the volume.)
-ṁ	ṁ/m	(as a nasal vowel. typically nasalizes previous vowel and occurs in Sanskrit and borrowings)
-ṃ	ṃ/ṁ	(Typo. should be rendered as ṁ)
+ḣ	h
+ḥ	h
+ḳ	k
+ḵ	k
+ṁ	ṁ
+ṃ	ṁ
 ṅ	ŋ
-ṉ	n	(Could not find in cldf/forms or the raw text)
-ṙ	ṙ/r	(typo. should be rendered as ṛ)
-ṟ	ṟ/r (a trilled r)
-ṡ	ṡ/s	(better shown as ʃ)
-ṫ	ṫ̪	(Could be a parsing error. Can't locate it)
+ṉ	n
+ṙ	ɽ
+ṟ	r
+ṡ	ʃ
+ṫ	ṫ̪
 Ṭ	ʈ
-Ṭ’	ʈʰ
-ẁ	ẁ/w
+Ṭ’	ʈʱ
+ẁ	w
 ẓ	ʐ
-ạ	ạ/a	(Less rounded ö. Occurs in SHAN. A slightly long variant occurs in Siamese. ø̜)
-ạ̄ 	ạ̄/aː	(ø̜ː)
-ẹ	ẹ/ɚ	(Gheko has this sound mainly. variant between i and e. So ɪ is a good candidate. Occurs in Avestan but no explanation.)
-ị	i	(Occurs in Palaung. Supposed to be a modification of i)
-ụ	ụ/u	(Less rounded ü. May be y̜. Occurs in Siamese and Shan)
+ạ	ø̜
+ạ̄ 	ø̜ː
+ẹ	ɪ
+ị	i
+ụ	y̜
 –	+
 ‘	NULL
-’	NULL
+’	ʱ
 …	NULL
 ⁱ	ĭ
 ⁿ	n̚
 ꭓ	x
-ꭓʷ	χʷ	(xʷ labialized x)
-ꭓ́	χ	(kkh according to the book)
+ꭓʷ	xʷ
+ꭓ́	x
 ^B	b
 ^Ch	tɕ
 ^Ch’	tɕʰ
