@@ -29,9 +29,9 @@ BHILI,BHILI,bhil1251,Bhili,bhb,Eurasia,20.85,73.9592,Indo-European,B’īlī
 MAN,MAN,biao1256,Biao Mon,bmt,Eurasia,24.6451,113.469,Hmong-Mien,Man
 MOPWABILICHI,MOPWA_BILICHI,bili1249,Bilichi,,Eurasia,,,Sino-Tibetan,"Mopwa, Bilichi"
 GADABA,GADABA,bodo1267,Bodo Gadaba,gbj,Eurasia,18.3857,82.771,Austroasiatic,Gadabā
-BODOORBARA,BODO_OR_BARA,bodo1269,Bodo-Mech,brx,Eurasia,26.725455,89.333235,Sino-Tibetan,Båṛå
+BODOORBARA,BODO_OR_BARA,bodo1269,Bodo-Mech,brx,Eurasia,26.1,92.0,Sino-Tibetan,Båṛå
 ABOR,ABOR,bori1243,Bori-Karko,adi,Eurasia,27.62812,94.3538,Sino-Tibetan,Abor
-BRAHUI,BRAHUI,brah1256,Brahui,brh,Eurasia,28.5347,64.2991,Dravidian,Brāhūī
+BRAHUI,BRAHUI,brah1256,Brahui,brh,Eurasia,29.04,66.56,Dravidian,Brāhūī
 BRAJBHAKHA,BRAJ_BHAKHA,braj1242,Braj,bra,Eurasia,26.4758,78.0813,Indo-European,Braj B’āk’ā
 CHILASIOFDAHHANU,CHILASI_OF_DAH_HANU,brok1247,Brokskat,bkk,Eurasia,34.5308,76.6026,Indo-European,of Ḍāh-Hanū
 BUNDELI,BUNDELI,bund1253,Bundeli,bns,Eurasia,24.8982,78.9542,Indo-European,Bundēlī
@@ -44,7 +44,7 @@ CANTONESE,CANTONESE,cant1236,Cantonese,,Eurasia,,,Sino-Tibetan,Cantonese
 WAZIRI,WAZIRI,cent1973,Central Pashto,pst,Eurasia,31.9153,69.4529,Indo-European,Wazīrī
 KHMER,KHMER,cent1989,Central Khmer,khm,Eurasia,12.0515,105.015,Austroasiatic,K’mēr
 NICOBARESE,NICOBARESE,cent1990,Central Nicobarese,ncb,Eurasia,7.94812,93.3921,Austroasiatic,Nicobarese
-CHAIREL,CHAIREL,chai1254,Chairel,,Eurasia,,,Sino-Tibetan,Chairel
+CHAIREL,CHAIREL,chai1254,Chairel,,Eurasia,24.30438,93.866431,Sino-Tibetan,Chairel
 CHAKMA,CHAKMA,chak1266,Chakma,ccp,Eurasia,23.00148,92.339,Indo-European,Chākmā
 CHAMEALI,CHAMEALI,cham1307,Chambeali,cdh,Eurasia,32.5476,76.1796,Indo-European,Chaměaḷī
 CHAMBALAHULI,CHAMBA_LAHULI,cham1308,Chamba-Lahuli,,Eurasia,,,Sino-Tibetan,Chamba Lāhulī
@@ -87,7 +87,7 @@ SHINAGILGITI,SHINA_GILGITI,gilg1242,Gilgiti,,Eurasia,,,Indo-European,"Šiṇā, 
 CHAROTARI,CHAROTARI,guja1252,Gujarati,guj,Eurasia,22.687,71.0962,Indo-European,Charōtarī
 GHISADI,GHISADI,guja1252,Gujarati,guj,Eurasia,22.687,71.0962,Indo-European,G’isāḍī
 GUJARATISTANDARD,GUJARATI_STANDARD,guja1252,Gujarati,guj,Eurasia,22.687,71.0962,Indo-European,"Gujarātī, Standard"
-GUJURIOFHAZARA,GUJURI_OF_HAZARA,guja1253,Gujari,gju,Eurasia,34.3768,73.1461,Indo-European,Gujurī of Hazara
+GUJURIOFHAZARA,GUJURI_OF_HAZARA,guja1253,Gujari,gju,Eurasia,33.7,75.11,Indo-European,Gujurī of Hazara
 LAI,LAI,haka1240,Haka Chin,cnh,Eurasia,22.8735,92.8208,Sino-Tibetan,Lai
 BANGARU,BANGARU,hary1238,Haryanvi,bgc,Eurasia,29.0166,76.0432,Indo-European,Bāngarū
 VERNACULARHINDOSTANI,VERNACULAR_HINDOSTANI,hind1269,Hindi,hin,Eurasia,25.0,77.0,Indo-European,Vernacular Hindōstānī
@@ -128,7 +128,7 @@ KHAMI,KHAMI,kham1284,Khami,,Eurasia,,,Sino-Tibetan,K’ami
 KHAMBU,KHAMBU,kham1288,Khambu (Kulung),,Eurasia,,,Sino-Tibetan,K’ambū
 KHAMTI,KHAMTI,kham1290,Khamti,kht,Eurasia,27.6653,97.0359,Tai-Kadai,K’āmtī
 KHANDESI,KHANDESI,khan1272,Khandesi,khn,Eurasia,21.3181,74.142,Indo-European,K’āndēšī
-KHANGOI,KHANGOI,khan1277,Southern Tangkhul Naga,,Eurasia,,,Sino-Tibetan,K’angoi
+KHANGOI,KHANGOI,khan1277,Southern Tangkhul Naga,,Eurasia,25.73633,94.247299,Sino-Tibetan,K’angoi
 KHARAWA,KHARAWA,khar1282,Kharwa,,Eurasia,,,Indo-European,K’ār^awā
 KHARIA,KHARIA,khar1287,Kharia,khr,Eurasia,22.3571,84.3922,Austroasiatic,K’aṛiā
 KHASISTANDARD,KHASI_STANDARD,khas1269,Khasi,kha,Eurasia,24.977,91.9998,Austroasiatic,"K’āsī, Standard"
@@ -160,7 +160,7 @@ CENTRALPAHARIKUMAUNI,CENTRAL_PAHARI_KUMAUNI,kuma1273,Kumaoni,kfy,Eurasia,29.5622
 MALTOORMALER,MALTO_OR_MALER,kuma1274,Kumarbhag Paharia,kmj,Eurasia,24.1217,87.2699,Dravidian,Malto/Maler
 KURUX,KURUX,kuru1302,Kurukh,kru,Eurasia,24.4644,86.4657,Dravidian,Kurunꭓ
 KURUXORORAO,KURUX_OR_ORAO,kuru1302,Kurukh,kru,Eurasia,24.4644,86.4657,Dravidian,Kurunꭓ/Orāō̃
-LADAKHI,LADAKHI,lada1244,Leh-Kenhat,lbj,Eurasia,33.468,80.6013,Sino-Tibetan,Ladak’ī
+LADAKHI,LADAKHI,lada1244,Leh Ladakhi,lbj,Eurasia,33.468,80.6013,Sino-Tibetan,Ladak’ī
 LOLOPHO,LOLO_PHO,lagh1245,Laghuu,lgh,Eurasia,22.2674,103.929,Sino-Tibetan,Lo-lo p’o
 LAHU,LAHU,lahu1253,Lahu,lhu,Eurasia,21.2701,100.214,Sino-Tibetan,Lahu
 MOSHO,MO_SHO,lahu1253,Lahu,lhu,Eurasia,21.2701,100.214,Sino-Tibetan,Mo-s’o
@@ -172,10 +172,10 @@ LASHIORLECHI,LASHI_OR_LECHI,lash1243,Lashi,lsi,Eurasia,26.0992,98.5481,Sino-Tibe
 RONGORLEPCHA,RONG_OR_LEPCHA,lepc1244,Lepcha,lep,Eurasia,27.0869,88.5726,Sino-Tibetan,Róng/Lepcha
 KWOIRENG,KWOIRENG,lian1251,Liangmai Naga,njn,Eurasia,25.16,93.542,Sino-Tibetan,Kwoireng
 LIMBU,LIMBU,limb1266,Limbu,lif,Eurasia,27.2703,87.8859,Sino-Tibetan,Limbū
-LISHAO,LISHAO,lisu1250,Lisu,lis,Eurasia,22.5488,94.0184,Sino-Tibetan,Lis’å 
-LISHAOYAOYIN,LISHAO_YAOYIN,lisu1250,Lisu,lis,Eurasia,22.5488,94.0184,Sino-Tibetan,Lis’å/Yåyin
-LISU,LISU,lisu1250,Lisu,lis,Eurasia,22.5488,94.0184,Sino-Tibetan,Lisu
-YAOYIN,YAOYIN,lisu1250,Lisu,lis,Eurasia,22.5488,94.0184,Sino-Tibetan,Yåyin
+LISHAO,LISHAO,lisu1250,Lisu,lis,Eurasia,26.91,98.94,Sino-Tibetan,Lis’å 
+LISHAOYAOYIN,LISHAO_YAOYIN,lisu1250,Lisu,lis,Eurasia,26.91,98.94,Sino-Tibetan,Lis’å/Yåyin
+LISU,LISU,lisu1250,Lisu,lis,Eurasia,26.91,98.94,Sino-Tibetan,Lisu
+YAOYIN,YAOYIN,lisu1250,Lisu,lis,Eurasia,26.91,98.94,Sino-Tibetan,Yåyin
 HLOTA,HLOTA,loth1237,Lotha Naga,njh,Eurasia,26.01396,94.04355,Sino-Tibetan,Hlōtā
 HLOKE,HLOKE,lowa1242,Lowa,loy,Eurasia,29.0324,83.8959,Sino-Tibetan,Hloke
 LUSHEI,LUSHEI,lush1249,Mizo,lus,Eurasia,22.6138,92.6247,Sino-Tibetan,Lušēi
@@ -203,14 +203,14 @@ MIJU,MIJU,miju1243,Kman,mxj,Eurasia,28.4732,97.0444,Sino-Tibetan,Mījū
 MIRI,MIRI,misi1242,Mising-Padam-Miri-Minyong,mrg,Eurasia,27.418,94.69,Sino-Tibetan,Miri
 SALON,SALON,moke1242,Moken,mwt,Eurasia,10.1474,98.6765,Austronesian,Salôn
 AMOK,A_MOK,mokk1243,Mok,mqt,Eurasia,18.9117,99.5821,Austroasiatic,A Mǒk
-MONGOLIAN,MONGOLIAN,mong1331,Mongolian,mon,Eurasia,,,Mongolic,Mongolian
+MONGOLIAN,MONGOLIAN,mong1331,Mongolian,mon,Eurasia,,,Mongolic-Khitan,Mongolian
 TALAINGWRITTEN,TALAING_WRITTEN,monn1252,Mon,mnw,Eurasia,15.49394,98.122465,Austroasiatic,"Talaing, written"
-MOSHANG,MOSHANG,mosa1240,Mosang,,Eurasia,,,Sino-Tibetan,Mōšāng
+MOSHANG,MOSHANG,mosa1240,Muishaung,,Eurasia,27.0964,95.9001,Sino-Tibetan,Mōšāng
 MRU,MRU,mruu1242,Mru,mro,Eurasia,24.154,90.6317,Sino-Tibetan,Mrū
 MULTANI,MULTANI,mult1243,Multani,,Eurasia,,,Indo-European,Mūltānī
 CHINBOK,CHINBOK,munc1235,Mün Chin,mwq,Eurasia,20.289,94.3929,Sino-Tibetan,Chinbōk
 YAWDWIN,YAWDWIN,munc1235,Mün Chin,mwq,Eurasia,20.289,94.3929,Sino-Tibetan,Yådwin
-MUNDARI,MUNDARI,mund1320,Mundari,unr,Eurasia,25.0391,87.1792,Austroasiatic,Muṇḍārī
+MUNDARI,MUNDARI,mund1320,Mundari,unr,Eurasia,23.03,85.85,Austroasiatic,Muṇḍārī
 MUNJANIORMUNGI,MUNJANI_OR_MUNGI,munj1244,Munji,mnj,Eurasia,35.9321,70.9404,Indo-European,Munjānī/Mungī
 MANYAK,MANYAK,muya1239,Muya,mvm,Eurasia,29.8226,102.205,Sino-Tibetan,Mànyàk
 NACHHERENG,NACHHERENG,nach1240,Nachering,ncd,Eurasia,27.4202,86.7001,Sino-Tibetan,Nāch’erēng
@@ -237,7 +237,7 @@ OLDPERSIAN,OLD_PERSIAN,oldp1254,Old Persian (ca. 600-400 B.C.),peo,Eurasia,32.0,
 ORIYA,ORIYA,oriy1255,Odia,ory,Eurasia,21.0,85.0,Indo-European,Oṛiyā
 ORMURI,ORMURI,ormu1247,Ormuri,oru,Eurasia,32.6819,69.3444,Indo-European,Ōrmuṛī
 PADARI,PADARI,pada1256,Padari,,Eurasia,,,Indo-European,Pāḍarī
-PAHLAVI,PAHLAVI,pahl1241,Pahlavi,pal,Eurasia,,,Indo-European,Pahlavī
+PAHLAVI,PAHLAVI,pahl1241,Pahlavi,pal,Eurasia,30.06,52.7,Indo-European,Pahlavī
 MIAOTSUHMONG,MIAO_TSU_(HMONG),pahn1237,Pa-Hng,pha,Eurasia,22.8049,105.165,Hmong-Mien,Miao-tsü (Hmōng)
 PANGWALI,PANGWALI,pang1282,Pangwali,pgg,Eurasia,32.9753,76.5569,Indo-European,Paṅgwāḷī
 PANJABIWRITTEN,PANJABI_WRITTEN,panj1256,Eastern Panjabi,pan,Eurasia,30.0368,75.6702,Indo-European,"Pañjābī, written"
@@ -329,7 +329,7 @@ CHAURASYA,CHAURASYA,wamb1257,Wambule,wme,Eurasia,27.14808,86.47646,Sino-Tibetan,
 BANPARA,BANPARA,wanc1238,Wancho Naga,nnp,Eurasia,26.2581,94.8936,Sino-Tibetan,Banparā
 WAR,WAR,warj1242,War-Jaintia,aml,Eurasia,25.1154,91.6266,Austroasiatic,Wār
 VAYUORHAYU,VAYU_OR_HAYU,wayu1241,Wayu,vay,Eurasia,27.3047,86.1227,Sino-Tibetan,Vāyu/Hāyu
-PERSIAN,PERSIAN,west2369,Western Farsi,pes,Eurasia,28.6593,55.1586,Indo-European,Persian
+PERSIAN,PERSIAN,west2369,Western Farsi,pes,Eurasia,32.9,53.3,Indo-European,Persian
 LAHNDAOFSHAHPUR,LAHNDA_OF_SHAHPUR,west2386,Western Panjabi,pnb,Eurasia,30.0948,75.3474,Indo-European,"Lahndā, of Shahpur"
 MURMI,MURMI,west2415,Western Tamang,tdg,Eurasia,28.0239,85.0563,Sino-Tibetan,Murmi
 MAGARI,MAGARI,west2418,Western Magar,mrd,Eurasia,28.2462,83.511,Sino-Tibetan,Mãgarī
