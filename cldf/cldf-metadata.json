@@ -14,19 +14,27 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/lsi",
+<<<<<<< HEAD
+            "dc:created": "71eb4b7"
+=======
             "dc:created": "89174cc"
+>>>>>>> master
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/lingulist/glottolog-data",
-            "dc:created": "v4.0"
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "eWAVE-3.0-5-gfee56bdef1"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
+<<<<<<< HEAD
+            "dc:created": "v2.3.0-12-g5bb7172"
+=======
             "dc:created": "v2.3.0-59-gc9d83e8"
+>>>>>>> master
         },
         {
             "rdf:type": "prov:Entity",
@@ -38,7 +46,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.2"
+            "dc:description": "3.6.9"
         },
         {
             "dc:title": "python-packages",

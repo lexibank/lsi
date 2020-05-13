@@ -1,0 +1,647 @@
+Grapheme	IPA	Alternative
+#	+
+$	NULL
+(	NULL
+)	NULL
+*	NULL
+-	+
+.	NULL
+0	NULL
+3	³
+9?	NULL
+9?)	NULL
+-$	NULL
+=	+
+au	au
+^au	au
+^ai	ai
+ai	ai
+āi	aːi
+A	ɑ
+B	b
+Ch	tɕ	tʃ (Go with Mattis suggestion)
+Ch’	tɕʰ	tʃʱ (Go with Mattis suggestion)
+D	d
+F	f
+G	ɢ	g
+H	ʜ	h
+I	i
+J	j
+K	k
+L	l
+M	m
+N	n
+O	o
+P	p
+R	r
+S	s
+T	t̪
+Ṯs̱	ts
+U	u
+V	v	ʋ (typically common in Indian languages. Alternates between v and w)
+W	w
+X	x
+Y	y
+^	NULL
+^A	ɑ	ʌ (a in America or u in hurry)
+_	+
+_̇	NULL
+a	ə	ʌ (a in America or u in hurry)
+à̃	à̃/ã
+à͛	à͛/a	(Occurs twice in Pwo-Bassein. No explanation)
+á	á/a
+ā	aː	ʌ (a in America or u in hurry)
+ā́	ā́/aː
+ǟ	ǟ/æ	(lengthened ɛ. ɛː)
+ä̌	ä̌/ɛ
+å	ɔ
+å̃	å/ɔ
+å̄	ɔː
+å̄ 	å̄/ɔ 
+ǎ̀	ǎ̀/a	(occurs in Katurr Palaung. A short version of a. ă)
+ạ̄	ạ̄/aː	(Palaung. u in but (ʌː))
+ạ̌	ạ̌/a	(Only occurs in Syrian Gypsy)
+a’u	au
+b	b
+ḅ	ḅ/b	(A peculiar labial according to Grierson, unvoiced may be)
+ḇ	ḇ/b	(Another variety of sound. Occurs in Tailang)
+b’	bʰ	bʱ
+c	c
+ch	tɕ	tʃ
+ch’	tɕʰ	tʃʱ
+c̣	c	(No mention in the book. Based on context, treat it as ch ~ tɕ)
+d	d̪
+dz	dz
+dz’	dzʰ	dzʱ
+ḍ	ɖ
+ḍ’	ɖʰ
+ḏẕ	dz̪	dzʱ
+d’	d̪ʰ	d̪ʱ
+e	e
+ei	ei
+ẽ	ẽ
+f	f
+g	g
+gy	gʲ
+g̱	g̱
+g’	gʰ	gʱ
+h	h
+hy	hʲ
+ḥ̣	h	(A sound equivalent to visarga in Sanskrit. Essentially h)
+h’ū	h uː
+i	i
+ĩ̄	ĩː
+ī̃	ĩː
+ī̃°	ī̃°/ĩ	(actually a glottal check)
+ī̇ 	ī̇/i
+ī̇ 	ɪː	(Only occurs once in Mandarin)
+i̇̃	ĩ
+ï̌	ï̌/ɪ	(Centralized vowel (may be) occurring once in Prakrit)
+ï̌ 	ï̌/ɪ
+ị̄	ị̄/ɪː	(Occurs in Palaung. Supposed to be a modification of ī)
+i̯	i̯/j	(Occurs only in Cham. no explanation given. Is it non-syllabic?)
+j	dʑ
+j̣o	dʒ o
+j’	dʑʰ
+k	k
+ky	kʲ
+k’	kʰ
+l	l
+ḷ	ɭ
+ḷ’	ɭ̥	(supposed to be a breathy voiced ɭ)
+m	m
+mya2ṅ	m j a n
+m̊°	m̥	mˤ(Should be a glottal check according the book. ˤ)
+m̌	m̌/m	(Occurs in Singhalese. No description given in Grierson)
+n	n̪	(not clear if this should be a dental sound. Tamil has an alveolar stop. In general dental nasal stops are present in Indian languages)
+ng	ŋ
+ṅa2	n a
+ṅ̇	ṅ̇/n	ŋ (Typo in the data. Should be treated as velar nasal ŋ)
+ṇ	ɳ
+n’	n̪̊
+o	o
+oi	ɔɪ
+ou	əʊ
+ō	oː
+ō̂	ō̂/oː
+ō̃	ō̃/õː
+ōⁿ	oː
+o̊	o̊/ɔ
+ǒ̃	ǒ̃/õ
+o͝	o
+p	p
+p’	pʰ
+q	q
+q’	qʱ
+r	r/ɾ	(possibly a flap for Tamil/malayalam. Rest of languages, it could be r. No explanation in the book.)
+ṛ	ɽ
+ṝ	ɽ ɪː
+ṛ’	ɽ̊	ɽʱ( weak aspiration)
+r̤	r̤/r ɻ (retroflex approximant occurs in Malayalam and Tamil)
+r̥	ɽ ɪ
+ṟˡ	ṟˡ/r	(trilled r)
+s	s
+s̄	s̄/s	 (Typo in case of Anal, Bhojpuri)
+š́	š́/ʃ	(skh in Ormuri)
+ṣ	ʂ
+ṣ̌	ṣ̌/ʂ	(sch in Ormuri)
+s̱	s̱/s	(part of ṯs̱)
+s’	sʰ
+t	t
+t	t̪
+ts	ts
+ts’	tsʰ
+ṫh	t̪ʰ
+ṭ	ʈ
+ṭ’	ʈʰ
+t̤	t̤/t	(tˤfor ط Arabic.)
+ṯs̱	ts
+ṯs̱’	tsʰ
+t’	t̪ʰ
+u	u
+ū	uː
+ū̃	ũː
+ū’	ū’/uː	(Only occurs in Sakai and Semang. SHould be treated as "uː h")
+ǖ	ǖ/yː	(long variant of ü (y))
+u̯	u̯/w
+v	v	ʋ (typically common in Indian languages. Alternates between v and w)
+w	w
+x	x
+y	j
+z	z
+ẓ̌	ẓ̌/ʐ
+°	+
+À	À/ɑ
+à	à/a	(as in German Mann)
+â	ɔ
+ã	ã
+ä	ɛ
+å	ɔ
+è	è/e	(no explanation in the book. Better go with e)
+é	é/e	(no explanation in the book. Better go with e)
+ë	ë/ə
+ì	ì/i	(no explanation in the book. Better go with i)
+í	í/i	(no explanation in the book. Better go with i. Three instances)
+ï	ï/ɪ	(a centralized vowel)
+ñ	ɲ
+ò	ò/o	(Typo for ö in Yeinbå.)
+ó	ó/o	(Occurs in Rong/Lepcha. Equivalent to o in "for" or "nor")
+ô	ɔ	(no sound in the original transcriptions. Occurs in the language name: Salôn)
+õ	õ	(nasalized. No explanation but can assume...)
+ö	ø
+ö̌	ö̌/œ	(ö̌ü dipthong. A very short French eu followed by u. Found in Miao-Hmong)
+ù	ù/u	(no explanation in the book. Better go with u)
+ú	ú/u	(no explanation in the book. Better go with u)
+ü	y	(y: is for German ubel)
+Ā	aː
+ā̃	ãː
+ē	eː
+ē̃	ẽː
+ė	ė/ə	(No explanation. Only found once in Annamese (Vietnamese))
+ě	ě/e	(equivalent to ə. occurs in Katurr Palaung)
+ĩ	ĩ
+Ī	iː
+ī	iː
+ı	i
+ň	ň/n	(no explanation in Grierson)
+ś	ʃ
+Š	ʃ
+š	ʃ
+ũ	ũ	(probably nasalized vowel)
+Ū	uː
+ż	ż/z	(no explanation in Grierson)
+ž	ʒ
+ǎ	æ	(parsing error. It is part of the ǎ̀ symbol)
+Ǐ	i	(no explanation in Grierson)
+ǐ	ǐ/i	(no explanation in Grierson)
+ǒ	ɒ	(no explanation in Grierson)
+ǔ	ǔ/ʊ	(short version of oo in soon, boon. ŏ)
+ǚ	ǚ/y̆	(extra short y)
+ȧ	ȧ/a	(It should be å. It is not clearly printed in the original book)
+ȫ	ȫ/øː
+ȯ	o	(Only occurs once in Shodochi for "ten".)
+ȳ	yː	(not there in the book)
+ɔ	ɔ
+ɣ	ɣ
+ɣ́	ɣ
+ɯ	ɯ	(Book shows this form)
+ʰ	h
+ʳ	r̚
+ʷ	w̚
+ʸ	j̚
+ˡ	l̚
+ˢ	s̚
+˥	⁵
+˥˥	⁵⁵
+˥˦	⁵⁴
+˥˧	⁵³
+˥˨	⁵²
+˥˩	⁵¹
+˦	⁴
+˦5	⁴⁵
+˦˥	⁴⁵
+˦˦	⁴⁴
+˦˧	⁴³
+˦˨	⁴²
+˦˩	⁴¹
+˧	³
+˧˥	³⁵
+˧˦	³⁴
+˧˧	³³
+˧˨	³²
+˧˩	³¹
+˨	²
+˨4	²⁴
+˨˥	²⁵
+˨˦	²⁴
+˨˧	²³
+˨˨	²²
+˨˩	²¹
+˩	¹
+˩˥	¹⁵
+˩˦	¹⁴
+˩˧	¹³
+˩˨	¹²
+˩˩	¹¹
+̱c	c
+Θ	θ
+ά	ά/a
+α	α/a
+γ	ɣ
+δ	ð
+δ̤	ðʰ	(ðˤ version. Ẓāʾ in Modern Standard Arabic)
+δ̱	d̪	(ˤ version of d̪)
+θ	θ
+π	p
+φ	ɸ
+χ	x
+ᵃ	ă
+ᵉ	ĕ
+ᵍ	ɡ̚
+ᵏ	k̚
+ᵒ	ŏ
+ᵖ	p̚
+ᵗ	t̪̚
+ᵘ	ŭ
+ᵛ	v̚
+ᶜ	c̚
+ᶻ	z̚
+ḣ	ḣ/h	(Typo. should be ḥ)
+ḥ	ḥ/h	(A sound equivalent to visarga in Sanskrit. Essentially h)
+ḳ	ḳ/k	(Occurs only in Salon. No explanation in the book)
+ḵ	ḵ/k	(not there in the transcriptions. Error from orthography profile. Not present in the volume.)
+ṁ	ṁ/m	(as a nasal vowel. typically nasalizes previous vowel and occurs in Sanskrit and borrowings)
+ṃ	ṃ/ṁ	(Typo. should be rendered as ṁ)
+ṅ	ŋ
+ṉ	n	(Could not find in cldf/forms or the raw text)
+ṙ	ṙ/r	(typo. should be rendered as ṛ)
+ṟ	ṟ/r (a trilled r)
+ṡ	ṡ/s	(better shown as ʃ)
+ṫ	ṫ̪	(Could be a parsing error. Can't locate it)
+Ṭ	ʈ
+Ṭ’	ʈʰ
+ẁ	ẁ/w
+ẓ	ʐ
+ạ	ạ/a	(Less rounded ö. Occurs in SHAN. A slightly long variant occurs in Siamese. ø̜)
+ạ̄ 	ạ̄/aː	(ø̜ː)
+ẹ	ẹ/ɚ	(Gheko has this sound mainly. variant between i and e. So ɪ is a good candidate. Occurs in Avestan but no explanation.)
+ị	i	(Occurs in Palaung. Supposed to be a modification of i)
+ụ	ụ/u	(Less rounded ü. May be y̜. Occurs in Siamese and Shan)
+–	+
+‘	NULL
+’	NULL
+…	NULL
+ⁱ	ĭ
+ⁿ	n̚
+ꭓ	x
+ꭓʷ	χʷ	(xʷ labialized x)
+ꭓ́	χ	(kkh according to the book)
+^B	b
+^Ch	tɕ
+^Ch’	tɕʰ
+^D	d
+^F	f
+^G	g
+^H	h
+^I	i
+^J	j
+^K	k
+^L	l
+^M	m
+^N	n
+^O	o
+^P	p
+^R	NULL
+^S	s
+^T	t̪
+^Ṯs̱	ts
+^U	u
+^V	v
+^W	w
+^X	x
+^Y	y
+^^	NULL
+^i̇̃	ĩ
+^ö	ø
+^ü	y
+^_	+
+^a	ə
+^à̃	à̃/ã
+^à͛	à͛/a
+^á	á/a
+^ā	aː
+^ā́	ā́/aː
+^ǟ	ǟ/æ
+^ä̌	ä̌/ɛ
+^å̃	å/ɔ
+^å̄ 	å̄/ɔ 
+^ǎ̀	ǎ̀/a
+^ạ̄	ạ̄/aː
+^ạ̌	ạ̌/a
+^b	b
+^ḅ	ḅ/b
+^ḇ	ḇ/b
+^b’	bʰ
+^c	c
+^ch	tɕ
+^ch’	tɕʰ
+^c̣	c
+^d	d̪
+^dz	dz
+^dz’	dzʰ
+^ḍ	ɖ
+^ḍ’	ɖʰ
+^ḏẕ	dz̪
+^d’	d̪ʰ
+^e	e
+^ei	ei
+^ẽ	ẽ
+^f	f
+^g	g
+^gy	gʲ
+^ky	kʲ
+^g̱	g̱
+^g’	gʰ
+^h	h
+^hy	hʲ
+^ḥ̣	ḥ̣/h
+^i	i
+^ĩ̄	ĩː
+^ī̃	ĩː
+^ī̃°	ī̃°/ĩ
+^ī̇ 	ɪː 
+^ï̌ 	ï̌/ɪ
+^ị̄	ị̄/ɪː
+^i̯	i̯/j
+^j	dʑ
+^y	j
+^j’	dʑʰ
+^k	k
+^k’	kʰ
+^l	l
+^ḷ	ɭ
+^ḷ’	ɭ̥
+^m	m
+^m̊°	m̥
+^m̌	m̌/m
+^n	n̪
+^ng	ŋ
+^ṅ̇	ṅ̇/n
+^ṇ	ɳ
+^n’	n̪̊
+^o	o
+^oi	ɔɪ
+^ou	əʊ
+^ō	oː
+^ō̂	ō̂/oː (One occurrence in Guzuri of Hazara)
+^ō̃	ō̃/õː
+^ōⁿ	oː
+^o̊	o̊/ɔ
+^ǒ̃	ǒ̃/õ
+^o͝	o
+^p	p
+^p’	pʰ
+^q	q
+^q’	qʱ
+^r	r
+^ṛ	ɽ
+^ṝ	ɽ ɪː
+^ṛ’	ɽ̊
+^r̤	r̤/r
+^r̥	ɽ ɪ
+^ṟˡ	ṟˡ/r
+^s	s
+^s̄	s̄/s
+^š́	š́/ʃ
+^ṣ	ʂ
+^ṣ̌	ṣ̌/ʂ
+^s̱	s̱/s
+^s’	sʰ
+^t	t
+^t	t̪
+^ts	ts
+^ts’	tsʰ
+^ṭ	ʈ
+^ṭ’	ʈʰ
+^t̤	t̤/t
+^ṯs̱	ts
+^ṯs̱’	tsʰ
+^t’	t̪ʰ
+^u	u
+^ū	uː
+^ū̃	ũː
+^ǖ	ǖ/yː
+^u̯	u̯/w
+^v	v
+^w	w
+^x	x
+^z	z
+^ẓ̌	ẓ̌/ʐ
+^°	+
+^À	À/ɑ
+^à	à/a
+^â	ɔ
+^ã	ã
+^ä	ɛ
+^å	ɔ
+^è	è/e
+^é	é/e
+^ë	ë/ə
+^ì	ì/i
+^í	í/i
+^ï	ï/ɪ
+^ñ	ɲ
+^ò	ò/o
+^ó	ó/o
+^ô	ɔ
+^õ	õ
+^ö	ø
+^ö̌	ö̌/œ
+^ù	ù/u
+^ú	ú/u
+^ü	y
+^Ā	aː
+^ā̃	ãː
+^ē	eː
+^ē̃	ẽː
+^ė	ė/ə
+^ě	ě/e
+^ĩ	ĩ
+^Ī	iː
+^ī	iː
+^ı	i
+^ň	ň/n
+^ś	ʃ
+^Š	ʃ
+^š	ʃ
+^ũ	ũ
+^Ū	uː
+^ż	ż/z
+^ž	ʒ
+^ǎ	æ
+^Ǐ	i
+^ǐ	ǐ/i
+^ǒ	ɒ
+^ǔ	ǔ/ʊ
+^ǚ	ǚ/y
+^ȧ	ȧ/a
+^ȫ	ȫ/øː
+^ȯ	ȯ/o
+^ȳ	yː
+^ɔ	ɔ
+^ɣ	ɣ
+^ɣ́	ɣ
+^ɯ	ɯ
+^ʰ	h
+^ʳ	r̚
+^ʷ	w̚
+^ʸ	j̚
+^ˡ	l̚
+^ˢ	s̚
+^˥	⁵
+^˥˥	⁵⁵
+^˥˦	⁵⁴
+^˥˧	⁵³
+^˥˨	⁵²
+^˥˩	⁵¹
+^˦	⁴
+^˦˥	⁴⁵
+^˦˦	⁴⁴
+^˦˧	⁴³
+^˦˨	⁴²
+^˦˩	⁴¹
+^˧	³
+^˧˥	³⁵
+^˧˦	³⁴
+^˧˧	³³
+^˧˨	³²
+^˧˩	³¹
+^˨	²
+^˨˥	²⁵
+^˨˦	²⁴
+^˨˧	²³
+^˨˨	²²
+^˨˩	²¹
+^˩	¹
+^˩˥	¹⁵
+^˩˦	¹⁴
+^˩˧	¹³
+^˩˨	¹²
+^˩˩	¹¹
+^̱c	c
+^Θ	θ
+^ά	ά/a
+^α	α/a
+^γ	ɣ
+^δ	ð
+^δ̤	ðʰ
+^δ̱	d̪
+^θ	θ
+^π	p
+^φ	ɸ
+^χ	x
+^ᵃ	ă
+^ᵉ	ĕ
+^ᵍ	ɡ̚
+^ᵏ	k̚
+^ᵒ	ŏ
+^ᵖ	p̚
+^ᵗ	t̪̚
+^ᵘ	ŭ
+^ᵛ	v̚
+^ᶜ	c̚
+^ᶻ	z̚
+^ḣ	ḣ/h
+^ḥ	ḥ/h
+^ḳ	ḳ/k
+^ḵ	ḵ/k
+^ṁ	ṁ/m
+^ṃ	ṃ/m
+^ṅ	ŋ
+^ṉ	n
+^ṙ	ṙ/r
+^ṟ	ṟ/r
+^ṡ	ṡ/s
+^ṫ	ṫ̪
+^Ṭ	ʈ
+^Ṭ’	ʈʰ
+^ẁ	ẁ/w
+^ẓ	ʐ
+^ạ	ạ/a
+^ạ̄ 	ạ̄/aː
+^ẹ	ẹ/ɚ
+^ị	ị/i
+^ụ	ụ/u
+^–	+
+^‘	NULL
+^…	NULL
+^ⁱ	ĭ
+^ⁿ	n̚
+^ꭓ	x
+^ꭓʷ	χʷ
+^ꭓ́	χ
+^ī̇ 	ī̇/i
+^å	ɔ
+^ū’	ū’/uː
+^9?	NULL
+^mya2ṅ	m j a n
+^j̣o	dʒ o
+^˦5	⁴⁵
+^ï̌	ï̌/ɪ
+^h’ū	h uː
+^ṫh	t̪ʰ
+^a’u	au
+^˨4	²⁴
+^3	³
+^ṅa2	n a
+^_̇	NULL
+^9?)	NULL
+^’	NULL
+^å̄	ɔː
+^)	NULL
+^(	NULL
+l̇	l
+r̄	r
+^#	NULL
+^tu4$	t u
+ɯ̃	ɯ̃
+^g’uriyā̃̃	gʰ u r i j ãː
+4$	NULL
+^mö̃	m ø̃
+n̄	n̪
+ā̄	aː
+ä̃	ɛ̃
+^j̄	j
+j̄	j
+ǎ̃	ã
+ᵘ̃$	NULL
+ụ̄n	uː n
+ü̃	ỹ
+ǟ̃	ɛ̃ː
+à̄	à̄/aː
+p̄	p eː
+è̃	è/ẽ
+m’	m̥
+ụ̄	ụ̄/uː
+ï̃	ï̃/ɪ̃
+ò̃	ò̃/õ	

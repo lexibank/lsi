@@ -17,8 +17,8 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 ![Glottolog: 94%](https://img.shields.io/badge/Glottolog-94%25-green.svg "Glottolog: 94%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
+![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
 
 - **Varieties:** 370
 - **Concepts:** 168
@@ -26,9 +26,15 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 - **Sources:** 0
 - **Synonymy:** 1.15
 - **Invalid lexemes:** 0
+<<<<<<< HEAD
+- **Tokens:** 371,563
+- **Segments:** 160 (1 BIPA errors, 1 CTLS sound class errors, 159 CLTS modified)
+- **Inventory size (avg):** 41.53
+=======
 - **Tokens:** 371,578
 - **Segments:** 223 (0 BIPA errors, 0 CTLS sound class errors, 221 CLTS modified)
 - **Inventory size (avg):** 42.01
+>>>>>>> master
 
 ## Possible Improvements:
 
