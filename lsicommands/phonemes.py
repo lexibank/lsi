@@ -6,9 +6,12 @@ from lingpy import *
 from lexibank_lsi import Dataset
 from pylexibank import progressbar
 from tabulate import tabulate
+from collections import defaultdict
 
 def run(args):
-    
+
+    phoneme_inven = defaultdict(list)
+        
     ds = Dataset(args)
     wl = Wordlist.from_cldf(str(ds.cldf_specs().metadata_path))
     args.log.info('[i] loaded wordlist')
@@ -52,7 +55,15 @@ def run(args):
                         x) for x in row])+'</tr>'
         text += '</table>'
 
+        glottocode = wl[idx, 'glottolog']
+        if glottocode is not None and glottocode not in phoneme_inven:
+            phoneme_inven[glottocode].append(wl[idx, 'Value'])
+        
     with open(ds.dir.joinpath('phonemes.html').as_posix(), 'w') as f:
         f.write(html.format(text=text))
+
+    with open(ds.dir.joinpath('phoneme_inventories.txt').as_posix(), 'w') as f:
+        for lang in sorted(list(phoneme_inven.keys())):
+            print(lang, len(set(phoneme_inven[lang])), file=f, sep="\t")
 
 

@@ -41,8 +41,8 @@ of Ḍāh-Hanū	CHILASI_OF_DAH_HANU	bkk	brok1247
 Bundēlī	BUNDELI	bns	bund1253	
 Burušaskī	BURUSHASKI	bsk	buru1296	
 Bwè	BWE	bwe	bwek1238	
-Chāmling	CHAMLING	rab	caml1239	
-Rōdōng	RODONG	rab	caml1239	
+Chāmling	RODONG_OR_CHAMLING	rab	caml1239	
+Rōdōng	RODONG_OR_CHAMLING	rab	caml1239	
 Rōdōng/Chāmling	RODONG_OR_CHAMLING	rab	caml1239	
 Cantonese	CANTONESE		cant1236	
 Wazīrī	WAZIRI	pst	cent1973	
@@ -121,10 +121,10 @@ Kalāšā	KALASHA	kls	kala1372
 Kanaujī	KANAUJI	bjj	kana1281	
 Kanāšī	KANASHI	xns	kana1283	
 Kāṅgrā	KANGRA	xnr	kang1280	
-Manchāṭī 	MANCHATI	mjw	karb1241	
+Manchāṭī 	MANCHATI_OR_PATNI	mjw	karb1241	
 Manchāṭī/Paṭnī	MANCHATI_OR_PATNI	mjw	karb1241	
 Mikir	MIKIR	mjw	karb1241	
-Paṭnī	PATNI	mjw	karb1241	
+Paṭnī	MANCHATI_OR_PATNI	mjw	karb1241	
 Kašmīrī	KASHMIRI	kas	kash1277	
 Kāṭ’iyāwāḍī	KATHIYAWADI	guj	kath1249	
 Bašgali	BASHGALI	bsh	kati1270	
@@ -166,7 +166,7 @@ Kui/Kand’ī/Khond	KUI_KANDHI_OR_KHOND	kxu	kuii1252
 Kūlung	KULUNG	kle	kulu1253	
 Central Pahāṛī, Kumaunī	CENTRAL_PAHARI_KUMAUNI	kfy	kuma1273	
 Malto/Maler	MALTO_OR_MALER	kmj	kuma1274	
-Kurunꭓ	KURUX	kru	kuru1302	
+Kurunꭓ	KURUX_OR_ORAO	kru	kuru1302	
 Kurunꭓ/Orāō̃	KURUX_OR_ORAO	kru	kuru1302	
 Orāō̃	KURUX_OR_ORAO	kru	kuru1302	
 Ladak’ī	LADAKHI	lbj	lada1244	
@@ -182,10 +182,10 @@ Laši/Lechi	LASHI_OR_LECHI	lsi	lash1243
 Róng/Lepcha	RONG_OR_LEPCHA	lep	lepc1244	
 Kwoireng	KWOIRENG	njn	lian1251	
 Limbū	LIMBU	lif	limb1266	
-Lis’å 	LISHAO	lis	lisu1250	One entry with 2-3 One.txt:275b
+Lis’å 	LISHAO_YAOYIN	lis	lisu1250	One entry with 2-3 One.txt:275b
 Lis’å/Yåyin	LISHAO_YAOYIN	lis	lisu1250	
 Lisu	LISU	lis	lisu1250	
-Yåyin	YAOYIN	lis	lisu1250	
+Yåyin	LISHAO_YAOYIN	lis	lisu1250	
 Hlōtā	HLOTA	njh	loth1237	
 Hloke	HLOKE	loy	lowa1242	
 Lušēi	LUSHEI	lus	lush1249	
