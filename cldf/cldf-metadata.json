@@ -14,27 +14,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/lsi",
-<<<<<<< HEAD
-            "dc:created": "71eb4b7"
-=======
-            "dc:created": "89174cc"
->>>>>>> master
+            "dc:created": "a14200c"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "eWAVE-3.0-5-gfee56bdef1"
+            "rdf:about": "https://github.com/lingulist/glottolog-data",
+            "dc:created": "v4.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-<<<<<<< HEAD
-            "dc:created": "v2.3.0-12-g5bb7172"
-=======
-            "dc:created": "v2.3.0-59-gc9d83e8"
->>>>>>> master
+            "dc:created": "v2.3.0-95-g8d5c2ba"
         },
         {
             "rdf:type": "prov:Entity",
@@ -46,7 +38,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.6.9"
+            "dc:description": "3.8.2"
         },
         {
             "dc:title": "python-packages",
@@ -61,7 +53,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 60534,
+            "dc:extent": 60533,
             "tableSchema": {
                 "columns": [
                     {
@@ -164,7 +156,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 370,
+            "dc:extent": 363,
             "tableSchema": {
                 "columns": [
                     {
