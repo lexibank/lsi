@@ -6,6 +6,9 @@ Cite the source dataset as
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
+
+Conceptlists in Concepticon:
+- [Grierson-1928-168](https://concepticon.clld.org/contributions/Grierson-1928-168)
 ## Notes
 
 
@@ -26,9 +29,9 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 - **Sources:** 0
 - **Synonymy:** 1.14
 - **Invalid lexemes:** 0
-- **Tokens:** 371,503
-- **Segments:** 161 (0 BIPA errors, 0 CTLS sound class errors, 161 CLTS modified)
-- **Inventory size (avg):** 42.27
+- **Tokens:** 364,258
+- **Segments:** 162 (0 BIPA errors, 0 CTLS sound class errors, 162 CLTS modified)
+- **Inventory size (avg):** 42.35
 
 ## Possible Improvements:
 

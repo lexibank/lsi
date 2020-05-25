@@ -1,8 +1,2681 @@
 LEXEME	REPLACEMENT	COMMENT
-˨˦ nī̇ ˨ man ˦˨ yau ˨˦ tā	˨˦ nī ˨ man ˦˨ yau ˨˦ tā
 tu4	tu	
-˩˨ ēṫ’ā̃	ēt’ā̃	
-˨ rà = mɯ̃	˨ rà=mɯ̃	
+˩˨ ēṫ’ā̃	ē˩˨t’ā̃	
+˨ rà = mɯ̃	rà˨=mɯ̃	
 s̄ir	sāir
 s̄n-pā cha-rā	sēn-pā cha-rā
 ps̄nī	pānī
+˨˧ wu	wu˨˧	swap tones
+˩˨ ṅ	ṅ˩˨	swap tones
+˧˨ hā	hā˧˨	swap tones
+˨ nàm	nàm˨	swap tones
+˨ yai	yai˨	swap tones
+˧˨ yä	yä˧˨	swap tones
+˧ chi	chi˧	swap tones
+˧ ṅa	ṅa˧	swap tones
+˨ ṅwà	ṅwà˨	swap tones
+˨˩ ṅā	ṅā˨˩	swap tones
+˨ lo°	lo°˨	swap tones
+˨˩ luk	luk˨˩	swap tones
+˨ hok	hok˨	swap tones
+˦ hōk	hōk˦	swap tones
+˦˥ šau	šau˦˥	swap tones
+˨ ꭓū	ꭓū˨	swap tones
+˧ ꭓü	ꭓü˧	swap tones
+˧ trö̌ü	trö̌ü˧	swap tones
+˨˧ k’u	k’u˨˧	swap tones
+˨˧ ch’u	ch’u˨˧	swap tones
+˨˧ ch’o	ch’o˨˧	swap tones
+˨ ch’å°	ch’å°˨	swap tones
+˨ ch’i°	ch’i°˨	swap tones
+˦ ts’at	ts’at˦	swap tones
+˨ chet	chet˨	swap tones
+˧ sit	sit˧	swap tones
+˨˧ bày	bày˨˧	swap tones
+˨ nwī	nwī˨	swap tones
+˧ nwī	nwī˧	swap tones
+˧ šyaṅ	šyaṅ˧	swap tones
+˨˧ ñi	ñi˨˧	swap tones
+˨˧ šia	šia˨˧	swap tones
+˨˧ še	še˨˧	swap tones
+˨ ši	ši˨	swap tones
+˨ pā°	pā°˨	swap tones
+˥˦ pat	pat˥˦	swap tones
+˨ pät	pät˨	swap tones
+˨ pit	pit˨	swap tones
+˦˥ tìm	tìm˦˥	swap tones
+˧ ꭓō	ꭓō˧	swap tones
+˩˨ yi	yi˩˨	swap tones
+˨˧ hē	hē˨˧	swap tones
+˨˧ ih	ih˨˧	swap tones
+˨˧ hä	hä˨˧	swap tones
+˨ hī̃°	hī̃°˨	swap tones
+˨˧ chīu	chīu˨˧	swap tones
+˦˥ kau	kau˦˥	swap tones
+˧˨ kau	kau˧˨	swap tones
+˦˥ chin	chin˦˥	swap tones
+˨ k’wī	k’wī˨	swap tones
+˧ k’wī	k’wī˧	swap tones
+˧ ˧˨ chywa	chywa˧˧˨	swap tones
+˨˩ dua	dua˨˩	swap tones
+˧ ke	ke˧	swap tones
+˧˨ kö	kö˧˨	swap tones
+˧ kū	kū˧	swap tones
+˨˩ kui	kui˨˩	swap tones
+˨˩ ko	ko˨˩	swap tones
+˨ yi°	yi°˨	swap tones
+˦ yat	yat˦	swap tones
+˨ hnụṅ	hnụṅ˨	swap tones
+˨ nụṅ	nụṅ˨	swap tones
+˧˨ nụṅ	nụṅ˧˨	swap tones
+˨ mōt	mōt˨	swap tones
+˧ ka	ka˧	swap tones
+˨ löṅ	löṅ˨	swap tones
+˨ ta	ta˨	swap tones
+˨ tö	tö˨	swap tones
+˧ i	i˧	swap tones
+˨ yet	yet˨	swap tones
+˨˧ t’i	t’i˨˧	swap tones
+˩ t’ī	t’ī˩	swap tones
+˧ nu	nu˧	swap tones
+˨ sza°	sza°˨	swap tones
+˨˩ šap	šap˨˩	swap tones
+˨ sip	sip˨	swap tones
+˧ s’ip	s’ip˧	swap tones
+˨˩ müöi	müöi˨˩	swap tones
+˨ t’ȫp	t’ȫp˨	swap tones
+˧ ka ˨ s’ī	ka˧s’ī˨	swap tones
+˧ ta ˧ s’ī	ta˧s’ī˧	swap tones
+˩˨ kö̌ü	kö̌ü˩˨	swap tones
+˨ ṯs̱iep	ṯs̱iep˨	swap tones
+˧˨ ṯs̱’ē	ṯs̱’ē˧˨	swap tones
+˧˨ ṯs̱’ö	ṯs̱’ö˧˨	swap tones
+˧˨ ṅa	ṅa˧˨	swap tones
+˨˧ lyaṅ	lyaṅ˨˧	swap tones
+˨˩ yī	yī˨˩	swap tones
+˩˨ löṅ	löṅ˩˨	swap tones
+˨˧ såṅ	såṅ˨˧	swap tones
+˨˧ s’åṅ	s’åṅ˨˧	swap tones
+˨ hai	hai˨	swap tones
+˨ nī	nī˨	swap tones
+˧ k’ī	k’ī˧	swap tones
+˦ āǒ	āǒ˦	swap tones
+˨ ñi	ñi˨	swap tones
+ka ˨ leṅ	kaleṅ˨	swap tones
+˧ sān	sān˧	swap tones
+˧ sām	sām˧	swap tones
+˨˧ sām	sām˨˧	swap tones
+˨˧ s’àm	s’àm˨˧	swap tones
+˨ bà	bà˨	swap tones
+˨ θöṅ	θöṅ˨	swap tones
+˧ θö	θö˧	swap tones
+˧ pē	pē˧	swap tones
+˦ sõ	sõ˦	swap tones
+˧˨ sö	sö˧˨	swap tones
+˧˨ so	so˧˨	swap tones
+˨ sà	sà˨	swap tones
+˨˩ sum	sum˨˩	swap tones
+˥˦ θoun	θoun˥˦	swap tones
+˥˦ θōn ku	kuθōn˥˦	swap tones
+˧˨ sza	sza˧˨	swap tones
+˥˦ sz	sz˥˦	swap tones
+˨ sā	sā˨	swap tones
+˨ s’ī	s’ī˨	swap tones
+˦˥ bōn	bōn˦˥	swap tones
+˨ li	li˨	swap tones
+˧˨ lwī	lwī˧˨	swap tones
+˧ plöǚ	plöǚ˧	swap tones
+˧ šle	šle˧	swap tones
+˨˧ li	li˨˧	swap tones
+˨ lī	lī˨	swap tones
+˨˩ lē	lē˨˩	swap tones
+˨˩ le	le˨˩	swap tones
+˦˨ fu	fu˦˨	swap tones
+˨˩ fū	fū˨˩	swap tones
+˦˨ bå	bå˦˨	swap tones
+˦˨ p’å	p’å˦˨	swap tones
+˦˨ på	på˦˨	swap tones
+˧ chà	chà˧	swap tones
+˧ p’ā	p’ā˧	swap tones
+˦˨ pā	pā˦˨	swap tones
+˦˥ ṯs̱i	ṯs̱i˦˥	swap tones
+˦˥ fa	fa˦˥	swap tones
+˦˥ a ˦˥ tia	a˦˥tia˦˥	swap tones
+˦˨ a ˨˦ ba	a˦˨ba˨˦	swap tones
+˨ aba°	aba°˨	swap tones
+˨ imba°	imba°˨	swap tones
+˦ abo°	abo°˦	swap tones
+˨ à ˨ bà	à˨bà˨	swap tones
+˨˦ bà ˨ bà	bà˨˦bà˨	swap tones
+˨ p’à	p’à˨	swap tones
+a ˧ wā	awā˧	swap tones
+a ˧ p’e	ap’e˧	swap tones
+˦˨ (P.)	˦˨	swap tones
+˨˩ fū ˦ chi (P.)	fū˨˩chi˦	swap tones
+˨˦ k’åṅ ˦˨ bå (F.)	k’åṅ˨˦bå˦˨	swap tones
+˨˦ k’åṅ ˦˨ p’å (F.)	k’åṅ˨˦p’å˦˨	swap tones
+˦˨ på (F.)	på˦˨	swap tones
+˧ chà (F.)	chà˧	swap tones
+˧ p’ā ˧ a (P.)	p’ā˧a˧	swap tones
+˦˨ pā ˧ a (P.)	pā˦˨a˧	swap tones
+˦˥ ṯs̱i (P.)	ṯs̱i˦˥	swap tones
+˨˦ chāy ˦˥ ua ˨˩ tao ˨˩ mōn ˨˦ chʸàṅ (of a man)	chāy˨˦ua˦˥tao˨˩mōn˨˩chʸàṅ˨˦	swap tones
+˨˩ te ˨˩ miēn ˨˦ chʸàṅ (of a man)	te˨˩miēn˨˩chʸàṅ˨˦	swap tones
+˦˨ a ˨˦ ba (˦ ṅa) (P.)	a˦˨ba˨˦	swap tones
+˨ aba° (dyi° or ˦˨ vi) (P.)	aba°˨	swap tones
+˦ abo° (P.)	abo°˦	swap tones
+˨ à ˨ bà (˦ yī) (P.)	à˨bà˨	swap tones
+a ˧ wā (P.)	awā˧	swap tones
+a ˥˦ pe° (P.)	ape°˥˦	swap tones
+˦˨ fu (case known from context)	fu˦˨	swap tones
+˥˦ kwå ˨˩ fū (preceded by a verb)	kwå˥˦fū˨˩	swap tones
+˨ kā ˦˨ bå	kā˨bå˦˨	swap tones
+˨ kā ˦˨ p’å	kā˨p’å˦˨	swap tones
+˦˨ tī ˦˨ på	tī˦˨på˦˨	swap tones
+˨˩ kuṅ ˧ chà	kuṅ˨˩chà˧	swap tones
+˧ lō (or ˨˦ sō) ˧ p’à	lō˧p’à˧	swap tones
+˧ lō (or ˧ s’ū) ˦˨ pā	lō˧pā˦˨	swap tones
+˦ trö̌ü ˦˥ ṯs̱i	trö̌ü˦ṯs̱i˦˥	swap tones
+˨ tō ˦˥ pun ˨˩ mōn (to a man)	tō˨pun˦˥mōn˨˩	swap tones
+˨˦ chʸō ˨˩ mun ˨˩ miēn (to a man)	chʸō˨˦mun˨˩miēn˨˩	swap tones
+˨ aba° (˦˨ ju)	aba°˨	swap tones
+˨ à ˨ bà ˦ tǎ	à˨bà˨tǎ˦	swap tones
+a ˧ wā ˨ bā	awā˧bā˨	swap tones
+a ˧ p’e ˧ go	ap’e˧go˧	swap tones
+˨ yau ˨˩ fū	yau˨fū˨˩	swap tones
+˨ tä ˦˨ bå	tä˨bå˦˨	swap tones
+˨ tä ˦˨ p’å	tä˨p’å˦˨	swap tones
+˦˨ kā ˦˨ på	kā˦˨på˦˨	swap tones
+˧ chà ˨˦ biēu	chà˧biēu˨˦	swap tones
+˧ lö ˧ p’ā	lö˧p’ā˧	swap tones
+˧ lö ˦˨ pā	lö˧pā˦˨	swap tones
+˦˥ ṯs̱i (case indicateed by context)	ṯs̱i˦˥	swap tones
+˨˩ a ˨˩ tao ˨˩ mōn ton (from a man)	a˨˩tao˨˩tonmōn˨˩	swap tones
+˨ yēt ˨˩ tao ˨˩ miēn (from a man)	yēt˨tao˨˩miēn˨˩	swap tones
+˦˨ a ˨˦ ba ˦˨ ka	a˦˨ba˨˦ka˦˨	swap tones
+˨ aba° mu°	mu°aba°˨	swap tones
+˨ à ˨ bà ˧ kwà ˧ bye	à˨bà˨kwà˧bye˧	swap tones
+a ˧ wā ˨˩ beṅ (or häᵏ)	awā˧beṅ˨˩	swap tones
+a ˧ p’e ˥˦ gà°	ap’e˧gà°˥˦	swap tones
+˨˦ lyaṅ ˦˨ fu	lyaṅ˨˦fu˦˨	swap tones
+˩˨ löṅ ˨˩ wai ˨˩ fū	löṅ˩˨wai˨˩fū˨˩	swap tones
+˦˨ bå ˨˦ såṅ ˧ gon	bå˦˨såṅ˨˦gon˧	swap tones
+˦˨ p’å ˨˦ såṅ ˧ k’on	p’å˦˨såṅ˨˦k’on˧	swap tones
+˦˨ på ˨˦ s’ån ˥˦ kā	på˦˨s’ån˨˦kā˥˦	swap tones
+˧ hai ˧ chà	hai˧chà˧	swap tones
+˧ p’ā ˨ nī ˨˦ ɣa	p’ā˧nī˨ɣa˨˦	swap tones
+˦˨ pā ˧ k’ī = ɣā	pā˦˨ɣā=k’ī˧	swap tones
+˦ āǒ ˦˥ ṯs̱i	āǒ˦ṯs̱i˦˥	swap tones
+i lan ˨˩ mōn (two men)	lanimōn˨˩	swap tones
+i lan ˨˩ miēn (two men)	lanimiēn˨˩	swap tones
+˦˨ a ˨˦ ba ˨˦ ñⁱ ˦˨ ma	a˦˨ba˨˦ñⁱ˨˦ma˦˨	swap tones
+˨ aba° ni° ˦˨ ch’ä	ni°aba°˨ch’ä˦˨	swap tones
+˦ abo° ni° ˦˨ ch’ä	ni°abo°˦ch’ä˦˨	swap tones
+˨ à bà ˨ ñī ˧ mà	bàà˨ñī˨mà˧	swap tones
+a ˧ wā ka ˧ leṅ ˨˩ hū	akawā˧leṅ˧hū˨˩	swap tones
+a ˧ p’e hna yauᵏ	ayauᵏhnap’e˧	swap tones
+˨˦ hlāi ˦˨ bå	hlāi˨˦bå˦˨	swap tones
+˨˦ lāi ˦˨ p’å	lāi˨˦p’å˦˨	swap tones
+˦˨ på (˦ tàṅ ˨˦ lai)	på˦˨	swap tones
+˦˥ kàk ˧ chà	kàk˦˥chà˧	swap tones
+˧ p’ā = θī (or ˧ p’ā ˧ la = p’a)	θī=p’ā˧	swap tones
+˦˨ pā ˧ ta ˥˦ p’ā	pā˦˨ta˧p’ā˥˦	swap tones
+˨˩ mōn ˨˦ chʸàṅ (duṅ) (men)	mōn˨˩chʸàṅ˨˦	swap tones
+˨˩ miēn ˦˥ šam (men)	miēn˨˩šam˦˥	swap tones
+˦˨ a ˨˦ ba ˨˦ še (or ˨˦ ḏẕö)	a˦˨ba˨˦še˨˦	swap tones
+˨ aba° (hi°)	aba°˨	swap tones
+˨ à ˨ bà (= bū)	à˨bà˨	swap tones
+a ˧ wā dàᵏ	adàᵏwā˧	swap tones
+a ˧ p’e ˥˦ do°	ap’e˧do°˥˦	swap tones
+˦˨ fu (P.)	fu˦˨	swap tones
+˨˦ k’åṅ ˨˦ hlāi ˦˨ bå (F.)	k’åṅ˨˦hlāi˨˦bå˦˨	swap tones
+˨˦ k’åṅ ˨˦ lāi ˦˨ p’å (F.)	k’åṅ˨˦lāi˨˦p’å˦˨	swap tones
+˦˨ på (˦ tàṅ ˨˦ lai) (F.)	på˦˨	swap tones
+˦˥ kàk ˧ chà (F.)	kàk˦˥chà˧	swap tones
+˧ p’ā = θī (or ˧ p’ā ˧ la = p’a) ˧ a (P.)	θī=p’ā˧a˧	swap tones
+˦˨ pā ˧ ta ˥˦ p’ā ˧ a (P.)	pā˦˨ta˧p’ā˥˦a˧	swap tones
+˦˥ tē mōn ˨˦ chʸàṅ duṅ (of men)	mōntē˦˥duṅchʸàṅ˨˦	swap tones
+˨˩ te ˨˩ miēn ˦˥ šam (of men)	te˨˩miēn˨˩šam˦˥	swap tones
+˦˨ a ˨˦ ba ˨˦ še (or ˨˦ ḏẕö) (P.)	a˦˨ba˨˦še˨˦	swap tones
+˨ aba° (hi°) (P.)	aba°˨	swap tones
+a ˧ wā dàᵏ (P.)	adàᵏwā˧	swap tones
+a ˧ p’e ˥˦ do° (P.)	ap’e˧do°˥˦	swap tones
+˨ kä ˨˦ hlāi ˦˨ bå	kä˨hlāi˨˦bå˦˨	swap tones
+˨ kä ˨˦ lāi ˦˨ p’å	kä˨lāi˨˦p’å˦˨	swap tones
+˦˨ tī ˦˨ på (˦ tàṅ ˨˦ lai)	tī˦˨på˦˨	swap tones
+˨˩ kuṅ ˦˥ kàk ˧ chà	kuṅ˨˩kàk˦˥chà˧	swap tones
+˧ lö (or ˨˦ sō) ˧ p’ā = θī (or ˧ p’ā ˧ la = p’a)	lö˧θī=p’ā˧	swap tones
+˧ lö (or ˧ s’ū) ˦˨ pā ˧ ta ˥˦ p’ā	lö˧pā˦˨ta˧p’ā˥˦	swap tones
+˨ aba° (hi°) (˦˨ ju)	aba°˨	swap tones
+a ˧ wā dàᵏ ˨ bā	adàᵏwā˧bā˨	swap tones
+a ˧ p’e ˥˦ do° ˧ go	ap’e˧do°˥˦go˧	swap tones
+˨ tä ˨˦ hlāi ˦˨ bå	tä˨hlāi˨˦bå˦˨	swap tones
+˨ tä ˨4 lāi ˦˨ p’å	tä˨lāi˨4p’å˦˨	swap tones
+˦˨ kā (or ˦˨ tī) ˦˨ på (˦ tàṅ ˨˦ lai)	kā˦˨på˦˨	swap tones
+˦˥ kàk ˧ chà ˨˦ biēu	kàk˦˥chà˧biēu˨˦	swap tones
+˧ lö ˧ p’ā = θī (or ˧ lö ˧ p’ā ˧ la = p’a)	lö˧θī=p’ā˧	swap tones
+˧ lö ˦˨ pā ˧ ta ˥˦ p’ā	lö˧pā˦˨ta˧p’ā˥˦	swap tones
+˦˥ ṯs̱i (case indicated by context)	ṯs̱i˦˥	swap tones
+˦˥ mē tàṅ ˦˥ ti ˨˩ tai ˨˩ nai ˨˩ mōn ˨˦ chʸàṅ (from men)	tàṅmē˦˥ti˦˥tai˨˩nai˨˩mōn˨˩chʸàṅ˨˦	swap tones
+˨˩ miēn ha ˦˥ ha ˨˩ tao ˦˥ tai (from men)	hamiēn˨˩ha˦˥tao˨˩tai˦˥	swap tones
+˦˨ a ˨˦ ba ˨˦ še (or ˨˦ ḏẕö) ˦˨ ka	a˦˨ba˨˦še˨˦ka˦˨	swap tones
+˨ aba° (hi°) mu°	mu°aba°˨	swap tones
+a ˧ wā dàᵏ ˨˩ beṅ (or käᵏ)	adàᵏwā˧beṅ˨˩	swap tones
+a ˧ p’e ˥˦ do° ˥˦ gà°	ap’e˧do°˥˦gà°˥˦	swap tones
+˨˦ mu	mu˨˦	swap tones
+˨˦ muṅ	muṅ˨˦	swap tones
+˩˨ lō ˩˨ mō	lō˩˨mō˩˨	swap tones
+˦˨ mä	mä˦˨	swap tones
+mé (? ˦˨ mä)	mé	swap tones
+˨ me	me˨	swap tones
+˧ mō	mō˧	swap tones
+˦˨ mō	mō˦˨	swap tones
+˩˨ na	na˩˨	swap tones
+˨˩ yi	yi˨˩	swap tones
+˦˨ a ˦˨ ma	a˦˨ma˦˨	swap tones
+˨ a ˦˨ mo	a˨mo˦˨	swap tones
+˨ i ˦˨ mo	i˨mo˦˨	swap tones
+˦ a ˦˨ mo	a˦mo˦˨	swap tones
+˧ à ˧ mà	à˧mà˧	swap tones
+˨˦ mà ˧ mà	mà˨˦mà˧	swap tones
+a ˧ mä	amä˧	swap tones
+a ˧ me	ame˧	swap tones
+(E.) ˦ hsiuṅ	hsiuṅ˦	swap tones
+(Y.) ˦˨ tī	tī˦˨	swap tones
+(E.) ˨˩ tāi ˦˥ lō	tāi˨˩lō˦˥	swap tones
+˦ hiṅ	hiṅ˦	swap tones
+(Y.) ˥˦ sai lō	lōsai˥˦	swap tones
+˨˩ tai	tai˨˩	swap tones
+(E.) ˦˨ bī ˧ jāi	bī˦˨jāi˧	swap tones
+(Y.) ˦ ˦˨ nåṅ ˧ jāi	nåṅ˦˦˨jāi˧	swap tones
+(E.) ˦˨ p’ī ˧ ch’āi	p’ī˦˨ch’āi˧	swap tones
+(Y.) ˦ ˦˨ nåṅ ˧ ch’āi	nåṅ˦˦˨ch’āi˧	swap tones
+(E.) ˦˨ pī ˦ sai	pī˦˨sai˦	swap tones
+(Y.) ˥˦ nåṅ ˦ sai	nåṅ˥˦sai˦	swap tones
+(E.) ˧ àñ	àñ˧	swap tones
+(Y.) ˧ em	em˧	swap tones
+˧ wai	wai˧	swap tones
+(E.) ˦˨ wä (˧ k’wā)	wä˦˨	swap tones
+(Y.) ˦˨ pü (˧ k’wā)	pü˦˨	swap tones
+(E.) ˦˥ kü	kü˦˥	swap tones
+(Y.) ˦ tī	tī˦	swap tones
+˦˥ yēu	yēu˦˥	swap tones
+(E.) ˦˨ a ˦˨ pu	a˦˨pu˦˨	swap tones
+(Y.) ˦˨ ṅä ˦˨ k’ē	ṅä˦˨k’ē˦˨	swap tones
+(E.) ˨ amu°	amu°˨	swap tones
+(Y.) ni° ˦˨ k’yē	ni°k’yē˦˨	swap tones
+(E.) ˦ ayi°	ayi°˦	swap tones
+(Y.) ñē° ˨ ma	ñē°ma˨	swap tones
+(E.) ˦ à ˨ yī°	à˦yī°˨	swap tones
+(Y.) ˧ ñī ˨ rà	ñī˧rà˨	swap tones
+(E.) a ˨˩ mū	amū˨˩	swap tones
+(Y.) na ˧ s’ī	nas’ī˧	swap tones
+(E.) a ˧ ko	ako˧	swap tones
+(Y.) ˧ ñi	ñi˧	swap tones
+˩˨ prā	prā˩˨	swap tones
+(E.) ˨˦ chyē	chyē˨˦	swap tones
+(Y.) ˦˨ mä	mä˦˨	swap tones
+(E.) ˥˦ ā ˦˥ tsē	ā˥˦tsē˦˥	swap tones
+(Y.) ˥˦ ā ˨˩ mūi	ā˥˦mūi˨˩	swap tones
+(E.) ˦˨ bī ˨˦ sāo	bī˦˨sāo˨˦	swap tones
+(Y.) ˦ ˦˨ nåṅ ˨˦ sāo	nåṅ˦˦˨sāo˨˦	swap tones
+(E.) ˦˨ p’ī ˨˦ sāo	p’ī˦˨sāo˨˦	swap tones
+(E.) ˦˨ pī ˦ nàṅ	pī˦˨nàṅ˦	swap tones
+(Y.) ˥˦ nåṅ ˦ yiṅ	nåṅ˥˦yiṅ˦	swap tones
+(E.) ˨ chi	chi˨	swap tones
+˧ wai = mu	mu=wai˧	swap tones
+(E.) ˦˨ wä ˥˦ mü	wä˦˨mü˥˦	swap tones
+(Y.) ˦˨ pü ˥˧ mü	pü˦˨mü˥˧	swap tones
+(E.) ˩˨ mwa	mwa˩˨	swap tones
+˦˥ ō ˨˩ mu	ō˦˥mu˨˩	swap tones
+˦˥ tō ˨˩ mu	tō˦˥mu˨˩	swap tones
+(E.) ˦˨ a ˨˦ ža	a˦˨ža˨˦	swap tones
+(Y.) ˦˨ nö ˦˨ ma	nö˦˨ma˦˨	swap tones
+(E.) ˦ a ˨˦ vi	a˦vi˨˦	swap tones
+(Y.) ˨ na ˦˨ mo	na˨mo˦˨	swap tones
+(E.) ˦ a ˨˦ ṯs̱’ö	a˦ṯs̱’ö˨˦	swap tones
+(Y.) ñē° ˦˨ mo	ñē°mo˦˨	swap tones
+(E.) ˦ à ˧ ṯs̱ⁱ	à˦ṯs̱ⁱ˧	swap tones
+(Y.) ˧ ñī ˧ mà	ñī˧mà˧	swap tones
+(E.) a ˨˩ te	ate˨˩	swap tones
+(Y.) ˧ sàn	sàn˧	swap tones
+(E.) a ˥˦ mà°	amà°˥˦	swap tones
+(Y.) hna ˥˦ mà°	hnamà°˥˦	swap tones
+˩˨ paiṇ	paiṇ˩˨	swap tones
+(vir) ˨ nān	nān˨	swap tones
+˨ lān	lān˨	swap tones
+(homo) ˨ žan	žan˨	swap tones
+(vir) ˨ nām	nām˨	swap tones
+(homo) ˨ yan	yan˨	swap tones
+(vir) ˦˨ p’ū ˧ jāi	p’ū˦˨jāi˧	swap tones
+(homo) ˧ gon	gon˧	swap tones
+(vir) ˦˨ p’ū ˧ ch’āi	p’ū˦˨ch’āi˧	swap tones
+(homo) ˧ k’on	k’on˧	swap tones
+(vir) ˦˨ p’ū ˦ sai	p’ū˦˨sai˦	swap tones
+˦ kōn ˦ sai	kōn˦sai˦	swap tones
+(homo) ˦ kōn	kōn˦	swap tones
+˨˩ ṅüöi	ṅüöi˨˩	swap tones
+˧ φa ˨˦ ša	φa˧ša˨˦	swap tones
+(vir) = pɣā ˧ pō° ˧ k’wā	pɣā=pō°˧k’wā˧	swap tones
+(vir) ˦ leṅ ˩˨ yöǚ	leṅ˦yöǚ˩˨	swap tones
+(homo) ˦ neṅ ˦ leṅ	neṅ˦leṅ˦	swap tones
+˨˩ mōn fa	famōn˨˩	swap tones
+˨˩ miēn ˨˦ chʸàṅ	miēn˨˩chʸàṅ˨˦	swap tones
+(vir) ˨˦ za ˦˨ žu	za˨˦žu˦˨	swap tones
+˦˨ ṯs̱’o ˨˦ p’a	ṯs̱’o˦˨p’a˨˦	swap tones
+(homo) ˦˨ ṯs̱’o	ṯs̱’o˦˨	swap tones
+(homo) ˦˨ ṯs̱’u	ṯs̱’u˦˨	swap tones
+(vir) u° ˨ chömä°	u°chömä°˨	swap tones
+(homo) ˦˨ ṯs̱’a	ṯs̱’a˦˨	swap tones
+(vir) = ṯs̱’å ˧ pà ˨ rà	ṯs̱’å=pà˧rà˨	swap tones
+(homo) ˨ là = ṯs̱’å	ṯs̱’å=là˨	swap tones
+ha ˨˩ lå wā	hawālå˨˩	swap tones
+hala ˧ wā	halawā˧	swap tones
+ta ˧ mī ˧ s’ā	tamī˧s’ā˧	swap tones
+(vir) yauk ˨˩ yā	yaukyā˨˩	swap tones
+(vir) yauk ˨˩ tyā	yauktyā˨˩	swap tones
+(homo) ˧ lu	lu˧	swap tones
+˨˦ nü	nü˨˦	swap tones
+˩˨ nui ˨ yan	nui˩˨yan˨	swap tones
+˦˨ p’ū ˨˦ hñiṅ	p’ū˦˨hñiṅ˨˦	swap tones
+˦˨ p’ū ˨˦ yiṅ	p’ū˦˨yiṅ˨˦	swap tones
+˦˨ p’ū ˦ yiṅ	p’ū˦˨yiṅ˦	swap tones
+˦ kōn ˦ yiṅ	kōn˦yiṅ˦	swap tones
+˨˦ ˦˨ nü	nü˨˦˦˨	swap tones
+˧ φa = mu	mu=φa˧	swap tones
+˧ pō°	pō°˧	swap tones
+˦ leṅ ˦ ˦˨ pō	leṅ˦pō˦˦˨	swap tones
+˨˩ mōn ˨˩ yi	mōn˨˩yi˨˩	swap tones
+˨˩ miēn ˦˥ šia	miēn˨˩šia˦˥	swap tones
+˨˦ a ˨˦ mä ˦˨ nö	a˨˦mä˨˦nö˦˨	swap tones
+ma° ˦˨ cha ˦˨ mo	ma°cha˦˨mo˦˨	swap tones
+zo° ˦˨ mä	zo°mä˦˨	swap tones
+˨ rà ˨ mũ ˨ rà	rà˨mũ˨rà˨	swap tones
+˧ ī ˧ s’ī	ī˧s’ī˧	swap tones
+˨˩ minma	minma˨˩	swap tones
+˨˩ meim ˥˦ mà°	meim˨˩mà°˥˦	swap tones
+˦ ch’ī	ch’ī˦	swap tones
+˩˨ lō ˨ p’å	lō˩˨p’å˨	swap tones
+˧ mīà	mīà˧	swap tones
+˧ bhorryā	bhorryā˧	swap tones
+˧ p’ànyā	p’ànyā˧	swap tones
+mé (? ˦ mē)	mé	swap tones
+˦ mē	mē˦	swap tones
+˨ vö	vö˨	swap tones
+˨ ma	ma˨	swap tones
+˧ mā	mā˧	swap tones
+˦ ˦˨ pō	pō˦˦˨	swap tones
+˦ ˦˨ ñaṅ	ñaṅ˦˦˨	swap tones
+˦˥ ao	ao˦˥	swap tones
+˨˦ mä ˧ šlē	mä˨˦šlē˧	swap tones
+ma° ˧ lyē	ma°lyē˧	swap tones
+˦ ā ˨ pi ˦˨ ma	ā˦pi˨ma˦˨	swap tones
+˨ rà = mɯ̃	rà=mɯ̃˨	swap tones
+˧ eᵏ	eᵏ˧	swap tones
+ma ˨˩ yā	mayā˨˩	swap tones
+˥˦ vauṭī ˥˦ vauṭṭī	vauṭī˥˦vauṭṭī˥˦	swap tones
+˦ kai	kai˦	swap tones
+˥˦ sai ˦ man ˦˥ tsai	sai˥˦man˦tsai˦˥	swap tones
+˦˥ tsz	tsz˦˥	swap tones
+˦˨ lūk	lūk˦˨	swap tones
+˨ tek	tek˨	swap tones
+˦˨ lūᵏ	lūᵏ˦˨	swap tones
+˨ deᵏ	deᵏ˨	swap tones
+˦˨ luk ˨ ån	luk˦˨ån˨	swap tones
+˧ kon ˦˥ nit	kon˧nit˦˥	swap tones
+˧ p’ō ˥˦ θā	p’ō˧θā˥˦	swap tones
+˧ p’ō ˦ s’ī°	p’ō˧s’ī°˦	swap tones
+˦˥ me ˦ ñwa	me˦˥ñwa˦	swap tones
+˦ tō ˦ ki	tō˦ki˦	swap tones
+˦˥ say	say˦˥	swap tones
+˨ fük chʸüöi	chʸüöifük˨	swap tones
+˨˦ a ˦˨ nö ˦˨ za	a˨˦nö˦˨za˦˨	swap tones
+˨ a ˦ bazo°	a˨bazo°˦	swap tones
+˨ a ˦ nezo°	a˨nezo°˦	swap tones
+˦ a ˨ ñēzo°	a˦ñēzo°˨	swap tones
+˨ rà ˧ ne ˨ rà	rà˨ne˧rà˨	swap tones
+s’a ˧ šā	s’ašā˧	swap tones
+ǎka ˨˩ lē	ǎkalē˨˩	swap tones
+k’a ˨˩ le	k’ale˨˩	swap tones
+˨ ṅᵉ	ṅᵉ˨	swap tones
+˨ yᵃ	yᵃ˨	swap tones
+˨˦ tsz	tsz˨˦	swap tones
+˦˥ ṯs̱ai	ṯs̱ai˦˥	swap tones
+˦˨ lūk ˧ jāi	lūk˦˨jāi˧	swap tones
+˦˨ lūᵏ ˧ ch’āi	lūᵏ˦˨ch’āi˧	swap tones
+˦˨ luk ˦ sai	luk˦˨sai˦	swap tones
+˧ kon ˧ trai	kon˧trai˧	swap tones
+= p’ō ˨ kwā	p’ō=kwā˨	swap tones
+˧ p’ō ˧ k’wā	p’ō˧k’wā˧	swap tones
+˨˦ mē ˦ tō	mē˨˦tō˦	swap tones
+˨˦ za	za˨˦	swap tones
+˧ à ˧ bī	à˧bī˧	swap tones
+˨ rà	rà˨	swap tones
+˧ s’ā	s’ā˧	swap tones
+˨˩ šā	šā˨˩	swap tones
+˨˩ θā	θā˨˩	swap tones
+˨˦ nü ˦ hai tsz (atonic)	nü˨˦tszhai˦	swap tones
+˩˨ nui	nui˩˨	swap tones
+˦˨ lūk ˨˦ hñiṅ	lūk˦˨hñiṅ˨˦	swap tones
+˦˨ lūᵏ ˨˦ yiṅ	lūᵏ˦˨yiṅ˨˦	swap tones
+˦˨ luk ˦ yiṅ	luk˦˨yiṅ˦	swap tones
+˧ kon ˦˥ gai	kon˧gai˦˥	swap tones
+˧ p’ō ˥˦ mü	p’ō˧mü˥˦	swap tones
+˦˥ mē ˦ ns’ai	mē˦˥ns’ai˦	swap tones
+a ˨˩ tao ˨˩ mōn ˦˥ šia	atao˨˩mōn˨˩šia˦˥	swap tones
+˨ yēt ˨˩ tao ˦˥ šia	yēt˨tao˨˩šia˦˥	swap tones
+˨˦ a ˨˦ mä	a˨˦mä˨˦	swap tones
+˨ amä°	amä°˨	swap tones
+˨ a ˦˨ mäzo°	a˨mäzo°˦˨	swap tones
+˦ nä	nä˦	swap tones
+˦ ǎ ˨ mī	ǎ˦mī˨	swap tones
+s’a ˧ eᵏ	s’aeᵏ˧	swap tones
+ša ˨˩ mī	šamī˨˩	swap tones
+θa ˨˩ mi	θami˨˩	swap tones
+˩˨ tī	tī˩˨	swap tones
+˨˦ hlāi ˧˨ lūk ˨˦ hñiṅ	hlāi˨˦lūk˧˨hñiṅ˨˦	swap tones
+˨˦ lāi ˦˨ lūᵏ ˨˦ yiṅ	lāi˨˦lūᵏ˦˨yiṅ˨˦	swap tones
+˦˨ luk ˦ yiṅ (˦ tàṅ ˨˦ lai)	luk˦˨yiṅ˦	swap tones
+˦˥ kàk ˧ kon ˦˥ gai	kàk˦˥kon˧gai˦˥	swap tones
+= p’ō = mu ˧ la = p’a	mu=p’ō=p’a=la˧	swap tones
+˦ p’ō ˥˦ mü ˧ ta ˥˦ p’ā	p’ō˦mü˥˦ta˧p’ā˥˦	swap tones
+˦˥ oa ˦˥ k’oa ˨˩ mōn ˦˥ šia	oa˦˥k’oa˦˥mōn˨˩šia˦˥	swap tones
+˨˩ miēn ˦˥ šia ˦˥ šam	miēn˨˩šia˦˥šam˦˥	swap tones
+˨˦ a ˨˦ mä ˨˦ še (or ˨˦ ḏẕö)	a˨˦mä˨˦še˨˦	swap tones
+˨ a ˦˨ mä (hi°)	a˨mä˦˨	swap tones
+˨ a ˦˨ mä zo° (hi°)	a˨zo°mä˦˨	swap tones
+˦ ǎ ˨ mī (= bū)	ǎ˦mī˨	swap tones
+s’a ˧ eᵏ dàᵏ	s’adàᵏeᵏ˧	swap tones
+ša ˨˩ mī tui°	šatui°mī˨˩	swap tones
+θa ˨˩ mi ˥˦ do°	θami˨˩do°˥˦	swap tones
+˩˨ tīā̃	tīā̃˩˨	swap tones
+˨˦ mā	mā˨˦	swap tones
+˩˨ mā (˦˥ kwū)	mā˩˨	swap tones
+˦ ˦˨ mā ˧ tuà ˦˨ p’ū	mā˦˦˨tuà˧p’ū˦˨	swap tones
+˥˦ mà ˦˨ på	mà˥˦på˦˨	swap tones
+˨ ṅüà (˨ dük)	ṅüà˨	swap tones
+˨ ka = θē	θē=ka˨	swap tones
+˧ ka ˥˦ θē	ka˧θē˥˦	swap tones
+˦ ˦˨ neṅ	neṅ˦˦˨	swap tones
+a ˨˩ tao ˨ ma	atao˨˩ma˨	swap tones
+˨ yēt ˨˩ tao ˨˦ ma	yēt˨tao˨˩ma˨˦	swap tones
+˦ mᵘ	mᵘ˦	swap tones
+mo° ˨ po	mo°po˨	swap tones
+mu° ˨ po	mu°po˨	swap tones
+˦ à ˨ mū ˦ pà	à˦mū˨pà˦	swap tones
+s’a ˧ bū ˧ wā	s’abū˧wā˧	swap tones
+˨˩ mraṅ	mraṅ˨˩	swap tones
+˨˩ myin	myin˨˩	swap tones
+˩˨ kōṛā	kōṛā˩˨	swap tones
+˦˨ k’å ˨˦ mā	k’å˦˨mā˨˦	swap tones
+˨˦ mu ˨˦ mā	mu˨˦mā˨˦	swap tones
+˩˨ mā ˩˨ mō	mā˩˨mō˩˨	swap tones
+˦ ˦˨ mā ˧ tuà ˧ mīà	mā˦˦˨tuà˧mīà˧	swap tones
+˥˦ mà ˦˨ mä	mà˥˦mä˦˨	swap tones
+˨ nüà ˦˥ kai	nüà˨kai˦˥	swap tones
+˧ ka = θē ˧ mō	θē=ka˧mō˧	swap tones
+˧ ka ˥˦ θē ˦˨ mō	ka˧θē˥˦mō˦˨	swap tones
+˩˨ na ˦ ˦˨ neṅ	na˩˨neṅ˦˦˨	swap tones
+a ˨˩ tao ˨ ma ˨ ñay	atao˨˩ma˨ñay˨	swap tones
+˨ yēt ˨˩ tao ˨˦ ma ˨˩ ñāy	yēt˨tao˨˩ma˨˦ñāy˨˩	swap tones
+˦ mᵘ ˦˨ kie	mᵘ˦kie˦˨	swap tones
+mo° ˦˨ mo	mo°mo˦˨	swap tones
+mu° ˦˨ mo	mu°mo˦˨	swap tones
+˦ à ˨ mū ˧ mà	à˦mū˨mà˧	swap tones
+s’a ˧ bū ˨˩ pā	s’abū˧pā˨˩	swap tones
+˨˩ mraṅ ma	mamraṅ˨˩	swap tones
+˨˩ myin ˥˦ mà°	myin˨˩mà°˥˦	swap tones
+˩˨ kōṛī	kōṛī˩˨	swap tones
+˨˦ hlāi ˦ ˦˨ mā ˧ tuà ˦˨ p’ū	hlāi˨˦mā˦˦˨tuà˧p’ū˦˨	swap tones
+˨˦ lāi ˦ ˦˨ mā ˧ tuà ˦˨ p’ū	lāi˨˦mā˦˦˨tuà˧p’ū˦˨	swap tones
+˥˦ mà ˦˨ på (˦ tàṅ ˨˦ lai)	mà˥˦på˦˨	swap tones
+˦˥ kàk ˨ ṅüà (˨ dük)	kàk˦˥ṅüà˨	swap tones
+˧ ka = θē = θī	θī=θē=ka˧	swap tones
+˧ ka ˥˦ θē ˧ ta ˥˦ p’ā	ka˧θē˥˦ta˧p’ā˥˦	swap tones
+˦˥ sa ˦˥ k’oa ˨ ma	sa˦˥k’oa˦˥ma˨	swap tones
+˨˦ ma ˨˩ mai ˦˥ šam	ma˨˦mai˨˩šam˦˥	swap tones
+˦ mᵘ ˨˦ še (or ˨˦ ḏẕö)	mᵘ˦še˨˦	swap tones
+mo° ˨ po hi°	mo°hi°po˨	swap tones
+s’a ˧ bū ˧ wā dàᵏ	s’abū˧dàᵏwā˧	swap tones
+˨˩ mraṅ ˨˩ myā	mraṅ˨˩myā˨˩	swap tones
+˨˩ myin ˨˩ myā	myin˨˩myā˨˩	swap tones
+˩˨ kōṛe	kōṛe˩˨	swap tones
+˨˦ hlāi ˦ ˦˨ mā ˧ tuà ˧ mīà	hlāi˨˦mā˦˦˨tuà˧mīà˧	swap tones
+˨˦ lāi ˦ ˦˨ mā ˧ tuà ˧ mīà	lāi˨˦mā˦˦˨tuà˧mīà˧	swap tones
+˥˦ mà ˨˦ mä (˧ tàṅ ˨˦ lai)	mà˥˦mä˨˦	swap tones
+˦˥ kàk ˨ ṅüà ˦˥ kai	kàk˦˥ṅüà˨kai˦˥	swap tones
+˧ ka = θē ˧ mō = θī	θē=ka˧θī=mō˧	swap tones
+˧ ka ˥˦ θē ˦˨ mō ˧ ta ˥˦ p’ā	ka˧θē˥˦mō˦˨ta˧p’ā˥˦	swap tones
+˦˥ oa ˦˥ k’oa ˨ ma ˨ ñay	oa˦˥k’oa˦˥ma˨ñay˨	swap tones
+˨˦ ma ˨˩ ñāy ˨˩ mao ˦˥ šam	ma˨˦ñāy˨˩mao˨˩šam˦˥	swap tones
+˦ mᵘ ˦˨ kie ˨˦ še (or ˨˦ ḏẕö)	mᵘ˦kie˦˨še˨˦	swap tones
+mo° ˦˨ mo hi°	mo°hi°mo˦˨	swap tones
+s’a ˧ bū ˨˩ pā dàᵏ	s’abū˧dàᵏpā˨˩	swap tones
+˨˩ mraṅ ma ˨˩ myā	mamraṅ˨˩myā˨˩	swap tones
+˨˩ myin ˥˦ mà° ˨˩ myā	myin˨˩mà°˥˦myā˨˩	swap tones
+˩˨ kōṛīā̃	kōṛīā̃˩˨	swap tones
+˦ kuṅ ˨ niu	kuṅ˦niu˨	swap tones
+˨ ṅau ˦˥ kwū	ṅau˨kwū˦˥	swap tones
+˧ wuà ˧ tuà ˦˨ p’ū	wuà˧tuà˧p’ū˦˨	swap tones
+˦ wō ˦˨ på	wō˦på˦˨	swap tones
+˧ kon ˨˩ bo ˨ dük	kon˧bo˨˩dük˨	swap tones
+= klå ˨ p’a ˧ t’ī	klå=p’a˨t’ī˧	swap tones
+˦˨ klå ˧ p’ā	klå˦˨p’ā˧	swap tones
+˦ ˦˨ pü ˦ ˦˨ ñō ˦ daṅ	pü˦˦˨ñō˦˦˨daṅ˦	swap tones
+a ˨˩ tao ṅaō ˨˩ ṅoāṅ	aṅaōtao˨˩ṅoāṅ˨˩	swap tones
+˨ yēt ˨˩ tao ˨˩ yaṅ ˨˩ ṅuṅ ˦˥ kāu	yēt˨tao˨˩yaṅ˨˩ṅuṅ˨˩kāu˦˥	swap tones
+˨˦ la ˦˨ hä	la˨˦hä˦˨	swap tones
+˦ lo ˦ hä	lo˦hä˦	swap tones
+˨ lo ˨ bö	lo˨bö˨	swap tones
+˦ à ˨ ñī ˦ pà	à˦ñī˨pà˦	swap tones
+˧ mouᵗ ˧ wā	mouᵗ˧wā˧	swap tones
+˨˩ nwā ˨˩ t’ī	nwā˨˩t’ī˨˩	swap tones
+˨˩ nwā ˨˩ di	nwā˨˩di˨˩	swap tones
+na ˨˩ di	nadi˨˩	swap tones
+˩˨ ṭaggā	ṭaggā˩˨	swap tones
+˨˦ mu ˨ niu	mu˨˦niu˨	swap tones
+˨ ṅau ˩˨ mō	ṅau˨mō˩˨	swap tones
+˧ wuà ˧ tuà ˧ mīà	wuà˧tuà˧mīà˧	swap tones
+˦ wō ˦˨ mä	wō˦mä˦˨	swap tones
+˧ kon ˨˩ bo ˦˥ kai	kon˧bo˨˩kai˦˥	swap tones
+= klå ˨ mō	klå=mō˨	swap tones
+˦˨ klå ˦˨ mō	klå˦˨mō˦˨	swap tones
+˩˨ na ˦ ˦˨ ñō ˦ daṅ	na˩˨ñō˦˦˨daṅ˦	swap tones
+a ˨˩ tao ṅaō ˨˩ ṅoāṅ ˨ ñay	aṅaōtao˨˩ṅoāṅ˨˩ñay˨	swap tones
+˨ yēt ˨˩ tao ˨˩ yaṅ ˨˩ ṅuṅ ˨˩ ñāy	yēt˨tao˨˩yaṅ˨˩ṅuṅ˨˩ñāy˨˩	swap tones
+˨˦ ñⁱ ˦˨ ma	ñⁱ˨˦ma˦˨	swap tones
+ni° ˦˨ mo	ni°mo˦˨	swap tones
+˦˨ noni° ˦˨ mo	noni°˦˨mo˦˨	swap tones
+˦ à ˨ ñī ˨ mà	à˦ñī˨mà˨	swap tones
+˧ mouᵗ ˨˩ pā	mouᵗ˧pā˨˩	swap tones
+˨˩ nwā ma	manwā˨˩	swap tones
+˨˩ nwā ˥˦ mà°	nwā˨˩mà°˥˦	swap tones
+na ˥˦ mà°	namà°˥˦	swap tones
+˨˦ hlāi ˧ wuà ˧ tuà ˦˨ p’ū	hlāi˨˦wuà˧tuà˧p’ū˦˨	swap tones
+˨˦ lāi ˧ wuà ˧ tuà ˦˨ p’ū	lāi˨˦wuà˧tuà˧p’ū˦˨	swap tones
+˦ wō ˦˨ på (˧ tàṅ ˨˦ lai)	wō˦på˦˨	swap tones
+˦˥ kàk ˨ kon ˨˩ bo ˨ dük	kàk˦˥kon˨bo˨˩dük˨	swap tones
+= klå ˨ p’a ˧ t’ī = θī	klå=p’a˨θī=t’ī˧	swap tones
+˦˨ klǎ ˧ p’ā ˧ ta ˥˦ p’ā	klǎ˦˨p’ā˧ta˧p’ā˥˦	swap tones
+˦˥ ao ˦˥ k’oa ṅaō ˨˩ ṅoāṅ	ao˦˥ṅaōk’oa˦˥ṅoāṅ˨˩	swap tones
+˨˩ mai ˦˥ šam ˨˩ yaṅ ˨˩ ṅuṅ ˦˥ kāu	mai˨˩šam˦˥yaṅ˨˩ṅuṅ˨˩kāu˦˥	swap tones
+˨˦ la ˦˨ hä ˨˦ še (or ˨˦ ḏẕö)	la˨˦hä˦˨še˨˦	swap tones
+˦ lo ˦ hä hi°	lo˦hi°hä˦	swap tones
+˦ à ˨ ñi ˦ pà	à˦ñi˨pà˦	swap tones
+˧ mouᵗ ˧ wā dàᵏ	mouᵗ˧dàᵏwā˧	swap tones
+˨˩ nwā ˨˩ t’ī ˨˩ myā	nwā˨˩t’ī˨˩myā˨˩	swap tones
+na ˨˩ di ˨˩ myā	nadi˨˩myā˨˩	swap tones
+˩˨ ṭagge	ṭagge˩˨	swap tones
+˨˦ hlāi ˧ wuà ˧ tuà ˧ mīà	hlāi˨˦wuà˧tuà˧mīà˧	swap tones
+˨˦ lāi ˧ wuà ˧ tuà ˧ mīà	lāi˨˦wuà˧tuà˧mīà˧	swap tones
+˦ wō ˦˨ mä (˧ tàṅ ˨˦ lai)	wō˦mä˦˨	swap tones
+˦˥ kà ˧ kon ˨˩ bo ˦˥ kai	kà˦˥kon˧bo˨˩kai˦˥	swap tones
+= klå ˧ mō = θī	klå=θī=mō˧	swap tones
+˦˨ klå ˦˨ mō ˧ ta ˥˦ p’ā	klå˦˨mō˦˨ta˧p’ā˥˦	swap tones
+˦˥ oa ˦˥ k’oa ṅaō ˨˩ ṅoāṅ ˨ ñay	oa˦˥ṅaōk’oa˦˥ṅoāṅ˨˩ñay˨	swap tones
+˨˩ mai ˦˥ šam ˨˩ yaṅ ˨˩ ṅuṅ ˨˩ ñāy	mai˨˩šam˦˥yaṅ˨˩ṅuṅ˨˩ñāy˨˩	swap tones
+˨˦ ñⁱ ˦˨ ma ˨˦ še (or ˨˦ ḏẕö)	ñⁱ˨˦ma˦˨še˨˦	swap tones
+ni° ˦˨ mo hi°	ni°hi°mo˦˨	swap tones
+˦ a ˨ ñī ˧ mà	a˦ñī˨mà˧	swap tones
+˧ mouᵗ ˨˩ pā dàᵏ	mouᵗ˧dàᵏpā˨˩	swap tones
+˨˩ nwā ma ˨˩ myā	manwā˨˩myā˨˩	swap tones
+na ˥˦ mà° ˨˩ myā	namà°˥˦myā˨˩	swap tones
+˦ kuṅ ˨˦ kō	kuṅ˦kō˨˦	swap tones
+˦˥ kau ˦˥ kwū	kau˦˥kwū˦˥	swap tones
+˨˦ hmā ˧ tuà ˦˨ p’ū	hmā˨˦tuà˧p’ū˦˨	swap tones
+˨˦ mā ˧ tuà ˦˨ p’ū	mā˨˦tuà˧p’ū˦˨	swap tones
+˨˦ mā ˦˨ på	mā˨˦på˦˨	swap tones
+˧ kon ˦˥ cho	kon˧cho˦˥	swap tones
+˥˦ twī	twī˥˦	swap tones
+˦˥ tsi ˦˥ dē (male dog)	tsi˦˥dē˦˥	swap tones
+a ˨˩ tao ˦˥ klo	atao˨˩klo˦˥	swap tones
+˨ yēt ˨˩ tao ˦˥ chʸu	yēt˨tao˨˩chʸu˦˥	swap tones
+˨˦ ch’e ˦˨ pa	ch’e˨˦pa˦˨	swap tones
+k’i° ˨ po	k’i°po˨	swap tones
+˦ a ˦˨ no ˨ po	a˦no˦˨po˨	swap tones
+˦ à ˨ nà ˦ pà	à˦nà˨pà˦	swap tones
+˧ tyi ˧ wā	tyi˧wā˧	swap tones
+˨˩ k’wē	k’wē˨˩	swap tones
+˨˩ k’we	k’we˨˩	swap tones
+˨˦ mu ˨˦ kō	mu˨˦kō˨˦	swap tones
+˦˥ kau ˩˨ mō	kau˦˥mō˩˨	swap tones
+˨˦ hmā ˧ tuà ˧ mīà	hmā˨˦tuà˧mīà˧	swap tones
+˨˦ mā ˧ tuà ˧ mīà	mā˨˦tuà˧mīà˧	swap tones
+˨˦ mā ˦˨ mä	mā˨˦mä˦˨	swap tones
+˧ kon ˦˥ cho ˦˥ kai	kon˧cho˦˥kai˦˥	swap tones
+= t’wī ˧ mō	t’wī=mō˧	swap tones
+˥˦ t’wī ˦˨ mō	t’wī˥˦mō˦˨	swap tones
+˩˨ na ˦˥ dē	na˩˨dē˦˥	swap tones
+a ˨˩ tao ˦˥ klo ˨ ñay	atao˨˩klo˦˥ñay˨	swap tones
+˨ yēt ˨˩ tao ˦˥ chʸu ˨˩ ñāy	yēt˨tao˨˩chʸu˦˥ñāy˨˩	swap tones
+˨˦ ch’e ˦˨ ma	ch’e˨˦ma˦˨	swap tones
+k’i° ˦˨ mo	k’i°mo˦˨	swap tones
+˦ a ˦˨ no ˦˨ mo	a˦no˦˨mo˦˨	swap tones
+˦ à ˨ nà ˧ mà	à˦nà˨mà˧	swap tones
+˧ tyi ˨˩ pā	tyi˧pā˨˩	swap tones
+˨˩ k’wē ma	mak’wē˨˩	swap tones
+˨˩ k’we ˥˦ mà°	k’we˨˩mà°˥˦	swap tones
+˨˦ hlāi ˨˦ hmā ˧ tuà ˦˨ p’ū	hlāi˨˦hmā˨˦tuà˧p’ū˦˨	swap tones
+˨˦ lāi ˨˦ mā ˧ tuà ˦˨ p’ū	lāi˨˦mā˨˦tuà˧p’ū˦˨	swap tones
+˨˦ mā ˦˨ på (˧ tàṅ ˨˦ lai)	mā˨˦på˦˨	swap tones
+˦˥ kàk ˧ kon ˦˥ cho	kàk˦˥kon˧cho˦˥	swap tones
+˥˦ t’wī ˧ ta ˥˦ p’ā	t’wī˥˦ta˧p’ā˥˦	swap tones
+˦˥ tsi ˦˥ dē (male dogs)	tsi˦˥dē˦˥	swap tones
+˦˥ oa ˦˥ k’oa ˦˥ klō	oa˦˥k’oa˦˥klō˦˥	swap tones
+˨˩ mai ˦˥ šam ˦˥ chʸu	mai˨˩šam˦˥chʸu˦˥	swap tones
+˨˦ ch’e ˦˨ pa ˨˦ še (or ˨˦ dzö)	ch’e˨˦pa˦˨še˨˦	swap tones
+k’i° ˨ po hi°	k’i°hi°po˨	swap tones
+˦ à ˨ nà ˧ pà	à˦nà˨pà˧	swap tones
+˧ tyi ˧ wā dàᵏ	tyi˧dàᵏwā˧	swap tones
+˨˩ k’wē ˨˩ myā	k’wē˨˩myā˨˩	swap tones
+˨˩ k’we ˨˩ myā	k’we˨˩myā˨˩	swap tones
+˨˦ hlāi ˨˦ hmā ˧ tuà ˧ mīà	hlāi˨˦hmā˨˦tuà˧mīà˧	swap tones
+˨˦ lāi ˨˦ mā ˧ tuà ˧ mīà	lāi˨˦mā˨˦tuà˧mīà˧	swap tones
+˨˦ mā ˦˨ mä (˧ tàṅ ˨˦ lai)	mā˨˦mä˦˨	swap tones
+˦˥ kàk ˧ kɔn ˦˥ cho ˦˥ kai	kàk˦˥kɔn˧cho˦˥kai˦˥	swap tones
+= t’wī ˧ mō = θī	t’wī=θī=mō˧	swap tones
+˥˦ t’wī ˦˨ mō ˧ ta ˥˦ p’ā	t’wī˥˦mō˦˨ta˧p’ā˥˦	swap tones
+˦˥ oa ˦˥ k’oa ˦˥ klo ˨ ñay	oa˦˥k’oa˦˥klo˦˥ñay˨	swap tones
+˨˩ mai ˦˥ šam ˦˥ chʸu ˨˩ ñāy	mai˨˩šam˦˥chʸu˦˥ñāy˨˩	swap tones
+˨˦ ch’e ˦˨ ma ˨˦ še (or ˨˦ dzö)	ch’e˨˦ma˦˨še˨˦	swap tones
+k’i° ˦˨ mo hi°	k’i°hi°mo˦˨	swap tones
+˧ tyi ˨˩ pā dàᵏ	tyi˧dàᵏpā˨˩	swap tones
+˨˩ k’wē ma ˨˩ mya	mak’wē˨˩mya˨˩	swap tones
+˨˩ m’we ˥˦ mà° ˨˩ myā	m’we˨˩mà°˥˦myā˨˩	swap tones
+˦ kuṅ ˦ šān ˨ yāṅ	kuṅ˦šān˦yāṅ˨	swap tones
+˦ šān ˨ yöṅ ˦˥ kwū	šān˦yöṅ˨kwū˦˥	swap tones
+˦ bä̌ ˧ tuà ˦˨ p’ū	bä̌˦tuà˧p’ū˦˨	swap tones
+˦ p’ä̌ ˨ tuà ˦˨ p’ū	p’ä̌˦tuà˨p’ū˦˨	swap tones
+˥˦ pä ˨˦ nä	pä˥˦nä˨˦	swap tones
+˧ kon ˧ yē ˨ dük	kon˧yē˧dük˨	swap tones
+˧ mä° ˦ tä° ˦ lä° ˧ p’ā	mä°˧tä°˦lä°˦p’ā˧	swap tones
+˦˥ lö̌ü ˦ chi	lö̌ü˦˥chi˦	swap tones
+a ˨˩ tao ˨˩ yoṅ ˨˦ koṅ	atao˨˩yoṅ˨˩koṅ˨˦	swap tones
+˨ yēt ˨˩ tao ˨˩ yun ˦˥ kāu	yēt˨tao˨˩yun˨˩kāu˦˥	swap tones
+˨˦ ts’i ˨˦ la ˦˨ hä	ts’i˨˦la˨˦hä˦˨	swap tones
+˨˦ k’i ˨ ku	k’i˨˦ku˨	swap tones
+˦ a ˨˦ cho ˨ tsä	a˦cho˨˦tsä˨	swap tones
+˦ à ˨ ch’i° ˦ pà	à˦ch’i°˨pà˦	swap tones
+kabä (? tone) ˧ wā	kabäwā˧	swap tones
+ch’it ˨˩ t’ī	ch’itt’ī˨˩	swap tones
+s’eiᵏ ˨˩ t’i	s’eiᵏt’i˨˩	swap tones
+˨˦ mu ˦ šān ˨ yāṅ	mu˨˦šān˦yāṅ˨	swap tones
+˦ šān ˨ yöṅ ˩˨ mō	šān˦yöṅ˨mō˩˨	swap tones
+˦ bä̌ ˧ tuà ˧ mīà	bä̌˦tuà˧mīà˧	swap tones
+˦ p’ä̌ ˧ tuà ˧ mīà	p’ä̌˦tuà˧mīà˧	swap tones
+˥˦ pä ˦˨ mä	pä˥˦mä˦˨	swap tones
+˧ kon ˧ yē ˦˥ kai	kon˧yē˧kai˦˥	swap tones
+= bē ˧ mō	bē=mō˧	swap tones
+˧ mä° ˦ tä° ˦ lä° ˦˨ mō	mä°˧tä°˦lä°˦mō˦˨	swap tones
+˩˨ na ˦ chi	na˩˨chi˦	swap tones
+a ˨˩ tao ˨˩ yoṅ ˨ ñay	atao˨˩yoṅ˨˩ñay˨	swap tones
+˨ yēt ˨˩ tao ˨˩ yuṅ ˨˩ ñāy	yēt˨tao˨˩yuṅ˨˩ñāy˨˩	swap tones
+˨˦ ts’i	ts’i˨˦	swap tones
+˨˦ k’i ˦˨ mo	k’i˨˦mo˦˨	swap tones
+˦ a ˨˦ cho ˦˨ mo	a˦cho˨˦mo˦˨	swap tones
+˦ à ˨ ch’i° ˧ mà	à˦ch’i°˨mà˧	swap tones
+kabä (? tone) ˨˩ pā	kabäpā˨˩	swap tones
+s’eiᵏ ˥˦ mà°	s’eiᵏmà°˥˦	swap tones
+˦ šān ˨ yāṅ	šān˦yāṅ˨	swap tones
+˦ šan ˨ yöṅ	šan˦yöṅ˨	swap tones
+˨˦ hlāi ˦ bä̌	hlāi˨˦bä̌˦	swap tones
+˨˦ lāi ˦ p’ä̌	lāi˨˦p’ä̌˦	swap tones
+˥˦ pä (˦ tàṅ ˨˦ lai)	pä˥˦	swap tones
+˦˥ kàk ˧ kon ˧ yē	kàk˦˥kon˧yē˧	swap tones
+˧ mä° ˦ tä° ˧ lä° ˨ ta ˥˦ p’ā	mä°˧tä°˦lä°˧ta˨p’ā˥˦	swap tones
+˦ chi	chi˦	swap tones
+˦˥ oa ˦˥ k’oa ˨˩ yoṅ	oa˦˥k’oa˦˥yoṅ˨˩	swap tones
+˨˩ mai ˦˥ šam ˨˩ yuṅ	mai˨˩šam˦˥yuṅ˨˩	swap tones
+˨˦ ts’i ˨˦ še (or ˨˦ dzö)	ts’i˨˦še˨˦	swap tones
+˨˦ k’i hi°	hi°k’i˨˦	swap tones
+˦ a ˨˦ cho	a˦cho˨˦	swap tones
+˦ à ˨ ch’i°	à˦ch’i°˨	swap tones
+ch’it ˨˩ myā	ch’itmyā˨˩	swap tones
+s’eiᵏ ˨˩ myā	s’eiᵏmyā˨˩	swap tones
+˦ kuṅ ˨ lu°	kuṅ˦lu°˨	swap tones
+˨˩ luᵏ ˦ kuṅ	luᵏ˨˩kuṅ˦	swap tones
+˧ kwāṅ ˧ tuà ˦˨ p’ū	kwāṅ˧tuà˧p’ū˦˨	swap tones
+˨˦ kwāṅ ˦˨ på	kwāṅ˨˦på˦˨	swap tones
+˧ kon ˧ nai ˨ dük	kon˧nai˧dük˨	swap tones
+= tä ˦˨ yü ˧ p’ā	tä=yü˦˨p’ā˧	swap tones
+˦ mwa ˦ lü (a deer)	mwa˦lü˦	swap tones
+a ˨˩ tao ˨˩ kum ˨ yāy	atao˨˩kum˨˩yāy˨	swap tones
+˨ yēt ˨˩ tao ˨˩ yāy	yēt˨tao˨˩yāy˨˩	swap tones
+˨ mᵘ ˦˨ ha ˦˨ pa	mᵘ˨ha˦˨pa˦˨	swap tones
+˨˦ ts’ye ˦ pà	ts’ye˨˦pà˦	swap tones
+θamàṅ (? tone) ˧ wā	θamàṅwā˧	swap tones
+gyī ˨˩ t’ī (barking deer)	gyīt’ī˨˩	swap tones
+˧ dyi ˨˩ di	dyi˧di˨˩	swap tones
+˩˨ harn	harn˩˨	swap tones
+˩˨ arn	arn˩˨	swap tones
+˨˦ mu ˨ lu°	mu˨˦lu°˨	swap tones
+˨˩ luᵏ ˩˨ mō	luᵏ˨˩mō˩˨	swap tones
+˧ kwāṅ ˧ tuà ˧ mīà	kwāṅ˧tuà˧mīà˧	swap tones
+˨˦ kwāṅ ˦˨ mä	kwāṅ˨˦mä˦˨	swap tones
+˧ kon ˧ nai ˦˥ kai	kon˧nai˧kai˦˥	swap tones
+= tä ˦˨ yü ˦˨ mō	tä=yü˦˨mō˦˨	swap tones
+a ˨˩ tao ˨˩ kum ˨ yāy ˨ ñay	atao˨˩kum˨˩yāy˨ñay˨	swap tones
+˨ yēt ˨˩ tao ˨˩ yāy ˨˩ ñāy	yēt˨tao˨˩yāy˨˩ñāy˨˩	swap tones
+˨ mᵘ ˦˨ ha ˦˨ ma	mᵘ˨ha˦˨ma˦˨	swap tones
+˨˦ ts’ye ˧ mà	ts’ye˨˦mà˧	swap tones
+θamàṅ (? tone) ˨˩ pā	θamàṅpā˨˩	swap tones
+˧ dyi ˥˦ mà°	dyi˧mà°˥˦	swap tones
+˩˨ harnī	harnī˩˨	swap tones
+˩˨ arnī	arnī˩˨	swap tones
+˨ lu°	lu°˨	swap tones
+˨˩ luᵏ	luᵏ˨˩	swap tones
+˨˦ hlāi ˧ kwāṅ	hlāi˨˦kwāṅ˧	swap tones
+˨˦ lāi ˧ kwāṅ	lāi˨˦kwāṅ˧	swap tones
+˨˦ kwāṅ (˦ tāṅ ˨˦ lai)	kwāṅ˨˦	swap tones
+˦˥ kak ˧ kon ˧ nai	kak˦˥kon˧nai˧	swap tones
+= tä ˦˨ yü ˧ ta ˥˦ p’ā	tä=yü˦˨ta˧p’ā˥˦	swap tones
+˦ mwa ˦ lü	mwa˦lü˦	swap tones
+˦˥ oa ˦˥ k’oa ˨˩ kum ˨ yāy	oa˦˥k’oa˦˥kum˨˩yāy˨	swap tones
+˨˩ mai ˦˥ šam ˨˩ yāy	mai˨˩šam˦˥yāy˨˩	swap tones
+˨ mᵘ ˦˨ ha ˨˦ še (or ˨˦ dzö)	mᵘ˨ha˦˨še˨˦	swap tones
+˨˦ ts’ye	ts’ye˨˦	swap tones
+gyī ˨˩ myā	gyīmyā˨˩	swap tones
+˧ dyi ˨˩ myā	dyi˧myā˨˩	swap tones
+˨˦ hau ˨ žan	hau˨˦žan˨	swap tones
+˦˥ hō ˨ yan	hō˦˥yan˨	swap tones
+˧ gon ˧ tī	gon˧tī˧	swap tones
+˧ j’on ˧ dī	j’on˧dī˧	swap tones
+˦ kōn ˨˦ lī	kōn˦lī˨˦	swap tones
+˨˩ ṅüöi ˦˥ tōt	ṅüöi˨˩tōt˦˥	swap tones
+˧ φa ˨˦ ša ˧ a ˨˦ ɣē	φa˧ša˨˦a˧ɣē˨˦	swap tones
+= pɣā ˧ a = ɣā	pɣā=ɣā=a˧	swap tones
+˦ leṅ ˦˥ zrōṅ	leṅ˦zrōṅ˦˥	swap tones
+a ˨˩ tao ˨˩ mōn gooṅ	atao˨˩gooṅmōn˨˩	swap tones
+˧ yēt ˨˩ tao ˨˩ miēn ˨˦ chʸàṅ ˨˦ luṅ	yēt˧tao˨˩miēn˨˩chʸàṅ˨˦luṅ˨˦	swap tones
+˦˨ ts’o ˨˦ cha	ts’o˦˨cha˨˦	swap tones
+˦˨ ts’u ˨˦ cha	ts’u˦˨cha˨˦	swap tones
+˦˨ ts’a ˨˦ tsyo	ts’a˦˨tsyo˨˦	swap tones
+˨˩ mä ˨˩ beṅ ta ˧ ta ˧ mī ˧ s’ā	mä˨˩tabeṅ˨˩ta˧mī˧s’ā˧	swap tones
+yōk ˨˩ yā ˨˩ kōṅ	yōkyā˨˩kōṅ˨˩	swap tones
+yauk ˨˩ tyā ˦˨ gauṅ	yauktyā˨˩gauṅ˦˨	swap tones
+˨˦ hlāi ˧ gon ˧ tī	hlāi˨˦gon˧tī˧	swap tones
+˨˦ lāi ˧ k’on ˧ dī	lāi˨˦k’on˧dī˧	swap tones
+˦ kōn ˨˦ lī (˦ tàṅ ˨˦ lai)	kōn˦lī˨˦	swap tones
+˦˥ kàk ˨˩ ṅüöi ˦˥ tōt	kàk˦˥ṅüöi˨˩tōt˦˥	swap tones
+˧ φa ˨˦ ša ˧ a ˨˦ ɣē = θī (or ˧ la = p’a)	φa˧ša˨˦a˧θī=ɣē˨˦	swap tones
+= pɣā ˧ a = ɣā (or = ɣā) ˧ tàpā	pɣā=ɣā=a˧tàpā˧	swap tones
+˦˥ oa ˦˥ k’oa ˨˩ mōn gooṅ	oa˦˥k’oa˦˥gooṅmōn˨˩	swap tones
+˨˩ mai ˦˥ šam ˨˩ miēn ˨˦ chʸàṅ ˨˦ luṅ	mai˨˩šam˦˥miēn˨˩chʸàṅ˨˦luṅ˨˦	swap tones
+˦˨ ts’o ˨˦ cha ˨˦ še (or ˨˦ dzö)	ts’o˦˨cha˨˦še˨˦	swap tones
+˦˨ ts’u ˨˦ cha (hi°)	ts’u˦˨cha˨˦	swap tones
+˦˨ tsa ˨˦ tsyo	tsa˦˨tsyo˨˦	swap tones
+˨˩ mä ˨˩ beṅ ta ˧ mī ˧ s’ā dàᵏ	mä˨˩tabeṅ˨˩mī˧dàᵏs’ā˧	swap tones
+yōk ˨˩ yā ˨˩ kōṅ tui°	yōkyā˨˩tui°kōṅ˨˩	swap tones
+yauk ˨˩ tyā ˨˩ gauṅ ˥˦ do°	yauktyā˨˩gauṅ˨˩do°˥˦	swap tones
+˨˦ hau ˨˦ nü	hau˨˦nü˨˦	swap tones
+˦˥ hō ˩˨ nui ˨ yan	hō˦˥nui˩˨yan˨	swap tones
+˦˨ p’ū ˨˦ hñiṅ ˧ tī	p’ū˦˨hñiṅ˨˦tī˧	swap tones
+˦˨ p’ū ˨˦ yiṅ ˧ dī	p’ū˦˨yiṅ˨˦dī˧	swap tones
+˦˨ p’ū ˦ yiṅ ˨˦ lī	p’ū˦˨yiṅ˦lī˨˦	swap tones
+˨˦ ˦˨ nö ˦˥ tōt	nö˨˦˦˨tōt˦˥	swap tones
+˧ φa = mu ˧ a ˨˦ ɣē	mu=φa˧a˧ɣē˨˦	swap tones
+˧ pō° ˥˦ mü ˧ a = ɣā (or = ɣā)	pō°˧mü˥˦ɣā=a˧	swap tones
+˦ leṅ ˦ ˦˨ pō ˦˥ zrōṅ	leṅ˦pō˦˦˨zrōṅ˦˥	swap tones
+a ˨˩ tao ˨˩ yi ˨˩ mōn gooṅ	atao˨˩yi˨˩gooṅmōn˨˩	swap tones
+˨ yēt ˨˩ tao ˨˩ miēn ˦˥ šia ˨˦ luṅ	yēt˨tao˨˩miēn˨˩šia˦˥luṅ˨˦	swap tones
+˨˦ a ˨˦ mä ˦˨ nö ˨˦ cha	a˨˦mä˨˦nö˦˨cha˨˦	swap tones
+ma° ˦˨ cha ˦˨ mo ˨˦ cha	ma°cha˦˨mo˦˨cha˨˦	swap tones
+zo° ˦˨ mä ˨˦ tsyo	zo°mä˦˨tsyo˨˦	swap tones
+˨ rà ˨ mɯ̃ ˨ rà = jī	rà˨mɯ̃˨jī=rà˨	swap tones
+˨˩ mä ˨˩ beṅ ˧ ī ˧ šī	mä˨˩beṅ˨˩ī˧šī˧	swap tones
+˨˩ minma ˨˩ kōṅ	minma˨˩kōṅ˨˩	swap tones
+˨˩ meim ˥˦ mà° ˨˩ gauṅ	meim˨˩mà°˥˦gauṅ˨˩	swap tones
+˨˦ hlāI ˦˨ p’ū ˨˦ hñiṅ ˧ tī	hlāI˨˦p’ū˦˨hñiṅ˨˦tī˧	swap tones
+˨˦ lāI ˦˨ p’ū ˨˦ yiṅ ˧ dī	lāI˨˦p’ū˦˨yiṅ˨˦dī˧	swap tones
+˦˨ p’ū ˦ yiṅ (˦ tàṅ ˨˦ lai) ˨˦ lī	p’ū˦˨yiṅ˦lī˨˦	swap tones
+˦˥ kàk ˨˦ ˦˨ nö ˦˥ tōt	kàk˦˥nö˨˦˦˨tōt˦˥	swap tones
+˧ φa = mu ˧ a ˨˦ ɣē = θī (or ˧ la = p’a)	mu=φa˧a˧θī=ɣē˨˦	swap tones
+˧ pō° ˥˦ mü ˧ a = ɣā (or = ɣā) ˧ ta ˥˦ p’ā	pō°˧mü˥˦ɣā=a˧ta˧p’ā˥˦	swap tones
+˦˥ ao ˦˥ k’oa ˨˩ mōn ˨˩ yi gooṅ	ao˦˥k’oa˦˥mōn˨˩gooṅyi˨˩	swap tones
+˨˩ mai ˦˥ šam ˨˩ miēn ˦˥ šia ˨˦ luṅ	mai˨˩šam˦˥miēn˨˩šia˦˥luṅ˨˦	swap tones
+˨˦ a ˨˦ mä ˦˨ nö ˨˦ cha ˨˦ še (or ˨˦ dzö)	a˨˦mä˨˦nö˦˨cha˨˦še˨˦	swap tones
+ma° ˦˨ cha ˦˨ mo ˨˦ cha(hi°)	ma°cha˦˨mo˦˨cha˨˦	swap tones
+˨ rà ˨ mɯ̃ ˨ rà = jī (= bū)	rà˨mɯ̃˨jī=rà˨	swap tones
+˨˩ mä ˨˩ beṅ ˧ ī ˧ šī dàᵏ	mä˨˩beṅ˨˩ī˧dàᵏšī˧	swap tones
+˨˩ min ma kōṅ tui°	tui°kōṅmamin˨˩	swap tones
+˨˩ meim ˥˦ mà° ˨˩ gauṅ ˥˦ do°	meim˨˩mà°˥˦gauṅ˨˩do°˥˦	swap tones
+˨ pu ˨˦ hau ˦ hai	pu˨hau˨˦hai˦	swap tones
+˨ m ˦˥ hō ˨ nam ˦˥ tsai	m˨hō˦˥nam˨tsai˦˥	swap tones
+˨ tek ˦˨ p’ū ˧ jāi ˦˨ mai ˧ tī	tek˨p’ū˦˨jāi˧mai˦˨tī˧	swap tones
+˨ deᵏ ˦˨ p’ū ˧ ch’āi ˦˨ mai ˧ dī	deᵏ˨p’ū˦˨ch’āi˧mai˦˨dī˧	swap tones
+˦˨ luk ˦ sai ˨ ån ˥˦ hai	luk˦˨sai˦ån˨hai˥˦	swap tones
+˧ kon ˧ trai ˨˦ ˦˨ yü	kon˧trai˧yü˨˦˦˨	swap tones
+= p’ō = θa ˧ a ˨˦ öṅ	θa=p’ō=a˧öṅ˨˦	swap tones
+˧ p’ō ˥˦ θā ˧ pō° ˧ k’wā ˧ a ˧ ö (or ˧ ö)	p’ō˧θā˥˦pō°˧k’wā˧a˧ö˧	swap tones
+˦˥ mē ˦ tō ˦ chi ˦˥ zrōṅ	mē˦˥tō˦chi˦zrōṅ˦˥	swap tones
+a ˨˩ tao ˦˥ sāy ˦˥ ma gooṅ	atao˨˩sāy˦˥gooṅma˦˥	swap tones
+˨ yēt ˨˩ tao tōn ˦5 mai ˨˦ luṅ	yēt˨tōntao˨˩mai˦5luṅ˨˦	swap tones
+˨˦ za ˦˨ žu ˦˨ za ˧ ñⁱ ˨˦ sē	za˨˦žu˦˨za˦˨ñⁱ˧sē˨˦	swap tones
+zo°p’o° ˨ ni ˨˦ k’yē	zo°p’o°ni˨k’yē˨˦	swap tones
+zo° ˨˦ yē	zo°yē˨˦	swap tones
+˧ à ˧ bī ˨ mà = jī	à˧bī˧jī=mà˨	swap tones
+yōk ˨˩ yā ka ˨˩ lē ˨˩ ch’ui	yōkkayā˨˩lē˨˩ch’ui˨˩	swap tones
+yauk ˨˩ tyā ga ˨˩ le a ˨˩ s’o	yaukgatyā˨˩ale˨˩s’o˨˩	swap tones
+˨ pu ˨˦ hau ˨˦ nü ˦ hai	pu˨hau˨˦nü˨˦hai˦	swap tones
+˨ m ˦˥ hō ˩˨ nui ˦˥ tsai	m˨hō˦˥nui˩˨tsai˦˥	swap tones
+˨ tek ˦˨ p’ū ˨˦ hñiṅ ˦˨ mai ˧ tī	tek˨p’ū˦˨hñiṅ˨˦mai˦˨tī˧	swap tones
+˨ deᵏ ˦˨ p’ū ˨˦ yiṅ ˦˨ mai ˧ dī	deᵏ˨p’ū˦˨yiṅ˨˦mai˦˨dī˧	swap tones
+˦˨ mà ˦ yiṅ ˨ ån ˥˦ hai	mà˦˨yiṅ˦ån˨hai˥˦	swap tones
+˧ kon ˦˥ gai ˨˦ ˦˨ yü	kon˧gai˦˥yü˨˦˦˨	swap tones
+= p’ō = mu ˧ a ˨˦ öṅ	mu=p’ō=a˧öṅ˨˦	swap tones
+˧ pō° ˥˦ mü ˧ pō ˥˦ θā ˧ a ˧ ö (or ˧ ö)	pō°˧mü˥˦pō˧θā˥˦a˧ö˧	swap tones
+˦˥ mē ˦ ns’ai ˦ chi ˦˥ zrōṅ	mē˦˥ns’ai˦chi˦zrōṅ˦˥	swap tones
+a ˨˩ tao ˨˩ mōn ˦˥ šia ˦˥ ma gooṅ	atao˨˩mōn˨˩šia˦˥gooṅma˦˥	swap tones
+˨ yēt ˨˩ tao ˦˥ šia ˦˥ mai ˨˦ luṅ	yēt˨tao˨˩šia˦˥mai˦˥luṅ˨˦	swap tones
+˨˦ a ˨˦ mä ˧ ñⁱ ˦˨ sē	a˨˦mä˨˦ñⁱ˧sē˦˨	swap tones
+˨ a ˦˨ mä ˨ ni ˨˦ k’yē	a˨mä˦˨ni˨k’yē˨˦	swap tones
+zo° ˦˨ mä ˦˨ lē ˨˦ yē	zo°mä˦˨lē˦˨yē˨˦	swap tones
+˦ à ˨ mī ˨ mà = jī	à˦mī˨jī=mà˨	swap tones
+˨˩ minma ka ˨˩ lē ˨˩ ch’ui	kaminma˨˩lē˨˩ch’ui˨˩	swap tones
+˨˩ meim ˥˦ mà° ga ˨˩ le a ˨˩ s’o	meim˨˩gamà°˥˦ale˨˩s’o˨˩	swap tones
+˧ kau	kau˧	swap tones
+˦ k’ō	k’ō˦	swap tones
+˨˦ sūṅ	sūṅ˨˦	swap tones
+˨˦ s’ūṅ	s’ūṅ˨˦	swap tones
+˧ kao	kao˧	swap tones
+˨ t’å	t’å˨	swap tones
+˧ t’å	t’å˧	swap tones
+˦ ˦˨ ša	ša˦˦˨	swap tones
+˦ mō	mō˦	swap tones
+˧ mū	mū˧	swap tones
+˥˦ myàṅ° (? tone)	myàṅ°˥˦	swap tones
+˥˦ myin°	myin°˥˦	swap tones
+˦˨ sāṅ	sāṅ˦˨	swap tones
+˨˦ sāṅ	sāṅ˨˦	swap tones
+˩˨ šöṅ	šöṅ˩˨	swap tones
+˦˨ k’āṅ ˦ pon	k’āṅ˦˨pon˦	swap tones
+˦˨ k’àṅ ˦ bon	k’àṅ˦˨bon˦	swap tones
+˨˦ nā	nā˨˦	swap tones
+˧ kào	kào˧	swap tones
+˧ lö ˦ t’ā°	lö˧t’ā°˦	swap tones
+˦ šö̌ü	šö̌ü˦	swap tones
+˦˥ gō ˦˥ chʸāy (above)	gō˦˥chʸāy˦˥	swap tones
+˦˥ gua ˦˥ chʸāy (above)	gua˦˥chʸāy˦˥	swap tones
+˦ a ˦˨ kē ˦ o	a˦kē˦˨o˦	swap tones
+˦˨ k’a	k’a˦˨	swap tones
+˦ na ˨ sö (above)	na˦sö˨	swap tones
+˨ t’ǎ ˦ sī (above)	t’ǎ˨sī˦	swap tones
+˥˦ utā̃	utā̃˥˦	swap tones
+˦˨ hsya	hsya˦˨	swap tones
+˦˨ hyā	hyā˦˨	swap tones
+˦˨ hā	hā˦˨	swap tones
+˨˩ hā	hā˨˩	swap tones
+˨˩ låᵏ	låᵏ˨˩	swap tones
+˦˨ tai	tai˦˨	swap tones
+˦˨ taụ	taụ˦˨	swap tones
+˦˥ düöi	düöi˦˥	swap tones
+˨˦ laṅ	laṅ˨˦	swap tones
+˦ ˦˨ chʸē	chʸē˦˦˨	swap tones
+goa ˦˥ di (below)	goadi˦˥	swap tones
+˦˥ gua ˦˥ dia (below)	gua˦˥dia˦˥	swap tones
+˨˦ ch’o ˨˦ t’o	ch’o˨˦t’o˨˦	swap tones
+˦˨ po	po˦˨	swap tones
+˨˦ jo	jo˨˦	swap tones
+˦˨ nä	nä˦˨	swap tones
+˦˨ tö	tö˦˨	swap tones
+˧ da ˨ sö (below)	da˧sö˨	swap tones
+˨ wū ˦ sī ˧ mū	wū˨sī˦mū˧	swap tones
+˩˨ hēṭ’ā̃	hēṭ’ā̃˩˨	swap tones
+˩˨ ēṫ’ā̃	ēt’ā̃	swap tones
+˦˨ chin	chin˦˨	swap tones
+˨˩ kan	kan˨˩	swap tones
+˩˨ k’an	k’an˩˨	swap tones
+˨ māi	māi˨	swap tones
+˦˨ klai	klai˦˨	swap tones
+kai (? ˦˨ kai)	kai	swap tones
+˨˦ sàm	sàm˨˦	swap tones
+˨˩ gàn	gàn˨˩	swap tones
+˦ bū	bū˦	swap tones
+˦ bū°	bū°˦	swap tones
+˦ yē	yē˦	swap tones
+˦ ti	ti˦	swap tones
+˦ ṅö̌ü	ṅö̌ü˦	swap tones
+yiēm ˦˥ fat	yiēmfat˦˥	swap tones
+˦ ki	ki˦	swap tones
+˨ mi a°vi°	a°vi°mi˨	swap tones
+˨ nɯ (to be near)	nɯ˨	swap tones
+˨˩ ṅī	ṅī˨˩	swap tones
+˨˩ ni	ni˨˩	swap tones
+˨˦ yüan	yüan˨˦	swap tones
+˩˨ yün	yün˩˨	swap tones
+˧ klai	klai˧	swap tones
+kai (? ˨˦ kai)	kai	swap tones
+˨˦ kai	kai˨˦	swap tones
+˧ sà	sà˧	swap tones
+˨˦ yaiṅ	yaiṅ˨˦	swap tones
+˦˥ ndē	ndē˦˥	swap tones
+˨˦ kou	kou˨˦	swap tones
+˧ mⁱ ˨˦ vi	mⁱ˧vi˨˦	swap tones
+˨ mi vi°	vi°mi˨	swap tones
+˨ ɯ (to be far)	ɯ˨	swap tones
+˨˩ wē	wē˨˩	swap tones
+˨˩ we	we˨˩	swap tones
+˨ ch’yen	ch’yen˨	swap tones
+˨ tsīn	tsīn˨	swap tones
+˨ ts’īn ˨˩ min	ts’īn˨min˨˩	swap tones
+˨ ts’īn ˨˩ pīn	ts’īn˨pīn˨˩	swap tones
+˦˨ k’āṅ ˦˨ nā	k’āṅ˦˨nā˦˨	swap tones
+˦˨ k’àṅ ˦˨ nā	k’àṅ˦˨nā˦˨	swap tones
+˨ p’ai ˦˨ nā	p’ai˨nā˦˨	swap tones
+˦˥ trüök	trüök˦˥	swap tones
+˦ mē° ˨ ya	mē°˦ya˨	swap tones
+˧ mä° ˧ ñā	mä°˧ñā˧	swap tones
+˧ lö ˧ ñā	lö˧ñā˧	swap tones
+˦ ˦˨ tāǒ ˦ ˦˨ ndē	tāǒ˦˦˨ndē˦˦˨	swap tones
+yyem ˦˥ hiēn	yyemhiēn˦˥	swap tones
+˦˨ ṅ’e ˦ che	ṅ’e˦˨che˦	swap tones
+˨ cha	cha˨	swap tones
+˨ ki rö°	rö°ki˨	swap tones
+˨ ki gö°	gö°ki˨	swap tones
+˦ a ˦˨ hö	a˦hö˦˨	swap tones
+˦ ǎ ˨ và° ˦ sī	ǎ˦và°˨sī˦	swap tones
+˥˦ še°	še°˥˦	swap tones
+˦˨ hō	hō˦˨	swap tones
+˨˩ hau	hau˨˩	swap tones
+˨˩ hay ˨˩ pīn	hay˨˩pīn˨˩	swap tones
+˦˨ k’āṅ ˨˦ hlàṅ	k’āṅ˦˨hlàṅ˨˦	swap tones
+˦˨ k’àṅ ˨˦ làṅ	k’àṅ˦˨làṅ˨˦	swap tones
+˨ p’ai ˨˦ làṅ	p’ai˨làṅ˨˦	swap tones
+˨˩ dàṅ-šau	dàṅ-šau˨˩	swap tones
+˧ lö …˧ a ˦ laṅ°˨ k’aiṅ	lö˧a…˧k’aiṅ˦laṅ°˨	swap tones
+˧ lö ˦˨ lå ˧ k’ī	lö˧lå˦˨k’ī˧	swap tones
+˦ ndrö̌ü	ndrö̌ü˦	swap tones
+˦ ˦˨ tāǒ ˦ kraṅ	tāǒ˦˦˨kraṅ˦	swap tones
+˨˩ ka ˨˦ raṅ	ka˨˩raṅ˨˦	swap tones
+yēm ˨˩ ka ˨˦ daṅ	yēmka˨˩daṅ˨˦	swap tones
+˦˨ ṅa ˧ ko	ṅa˦˨ko˧	swap tones
+˦˨ na ˧ ko	na˦˨ko˧	swap tones
+˨˦ du ˧ mä	du˨˦mä˧	swap tones
+˦ no ˨ kō	no˦kō˨	swap tones
+˦ ka ˦˨ ñi	ka˦ñi˦˨	swap tones
+˦ kǎ ˦ nǎ ˦ sī	kǎ˦nǎ˦sī˦	swap tones
+˨ sui	sui˨	swap tones
+˧ šui	šui˧	swap tones
+˨ šui	šui˨	swap tones
+˦ pīn	pīn˦	swap tones
+˦˨ p’ū ˧ tai	p’ū˦˨tai˧	swap tones
+˧ grai	grai˧	swap tones
+˦˨ p’ū ˧ dai	p’ū˦˨dai˧	swap tones
+˧ k’rai	k’rai˧	swap tones
+˨˦ paụ	paụ˨˦	swap tones
+˧ ai	ai˧	swap tones
+˧ pa ˨ la	pa˧la˨	swap tones
+˧ ma = tā	tā=ma˧	swap tones
+˦˥ tü ˦ tü	tü˦˥tü˦	swap tones
+˦˥ tō ˦ tü	tō˦˥tü˦	swap tones
+˦ leṅ ˦ tǖ	leṅ˦tǖ˦	swap tones
+˨˦ ha ˨˩ tāu	ha˨˦tāu˨˩	swap tones
+˨˦ hai ˨˩ tāu	hai˨˦tāu˨˩	swap tones
+˨˦ a ˧ sa	a˨˦sa˧	swap tones
+a° ˦˨ sö	a°sö˦˨	swap tones
+ka° ˦˨ sö	ka°sö˦˨	swap tones
+a° ˨ di ˨ dö	a°di˨dö˨	swap tones
+˨ à = mà	mà=à˨	swap tones
+ha ˨˩ mä ˨˩ gā	hamä˨˩gā˨˩	swap tones
+ba ˧ du ˨˩ lä	badu˧lä˨˩	swap tones
+˨˦ san	san˨˦	swap tones
+˨˦ śan	śan˨˦	swap tones
+˨ šui ˨ hå	šui˨hå˨	swap tones
+˧ ǎrai	ǎrai˧	swap tones
+˨˦ s’àṅ	s’àṅ˨˦	swap tones
+˨˩ náo	náo˨˩	swap tones
+˧ ma = nå = lai	lai=nå=ma˧	swap tones
+˧ ma = nü ˥˦ lä	nü=ma˧lä˥˦	swap tones
+˦ tō ˦ tü	tō˦tü˦	swap tones
+˦ to ˦ chi	to˦chi˦	swap tones
+˦ daṅ ˦ chi	daṅ˦chi˦	swap tones
+˦ chʸi	chʸi˦	swap tones
+˨˦ hai ˨˦ yuṅ	hai˨˦yuṅ˨˦	swap tones
+˦˥ hai ˨˦ yuṅ	hai˦˥yuṅ˨˦	swap tones
+˧ a ˧ mⁱ	a˧mⁱ˧	swap tones
+a° ˨ mi	a°mi˨	swap tones
+ka° ˨ mi	ka°mi˨	swap tones
+a° ˨ tsa	a°tsa˨	swap tones
+a° ˨ ma	a°ma˨	swap tones
+˦ à ˨ ši	à˦ši˨	swap tones
+ha ˧ màṅ ˨˩ gā	hamàṅ˧gā˨˩	swap tones
+˧ bā ˨˩ lä	bā˧lä˨˩	swap tones
+˦˨ wä ˨˦ san ˨˦ må	wä˦˨san˨˦må˨˦	swap tones
+˦ yan ˨ hå	yan˦hå˨	swap tones
+˧ dāṁ ˧ mai	dāṁ˧mai˧	swap tones
+˨ hētu ˧ tai	hētu˨tai˧	swap tones
+˧ t’àm ˧ mai	t’àm˧mai˧	swap tones
+˨ hēᵗ ˧ dai	hēᵗ˨dai˧	swap tones
+˦ hit ˨˦ s’àṅ ˦˨ lä	hit˦s’àṅ˨˦lä˦˨	swap tones
+˦˥ ko ˧ chi	ko˦˥chi˧	swap tones
+˧ mwai = ba ˧ sö = nå = lai	ba=mwai˧lai=nå=sö˧	swap tones
+˥˦ ba ˧ ma = nü ˥˦ lä	ba˥˦nü=ma˧lä˥˦	swap tones
+˦ wa ˦ le ˦ ˦˨ chʸaṅ	wa˦le˦chʸaṅ˦˦˨	swap tones
+föi ˨˦ yuṅ	föiyuṅ˨˦	swap tones
+fāy ˨˦ yuṅ	fāyyuṅ˨˦	swap tones
+˧ k’a ˨˦ di	k’a˧di˨˦	swap tones
+˧ a ˧ mⁱ ˨˦ di	a˧mⁱ˧di˨˦	swap tones
+a° ˨ mi d0°	a°d0°mi˨	swap tones
+ka° ˨ mi do°	ka°do°mi˨	swap tones
+a° ˨ tsa ˦˨ mo	a°tsa˨mo˦˨	swap tones
+˦ à ˨ šⁱ ˦ wū	à˦šⁱ˨wū˦	swap tones
+˧ bā ˥˦ dyauṅ° ˨˩ lä	bā˧dyauṅ°˥˦lä˨˩	swap tones
+˧ bā pyiᵗ ˥˦ lo° ˨˩ lä	pyiᵗbā˧lo°˥˦lä˨˩	swap tones
+˥˦ kā de jōgā	jōgādekā˥˦	swap tones
+˥˦ kēṛī galle	gallekēṛī˥˦	swap tones
+˨˩ k’aᵖ	k’aᵖ˨˩	swap tones
+˧ lä	lä˧	swap tones
+˦ tàṅ ˦˨ lä	tàṅ˦lä˦˨	swap tones
+˨˩ và	và˨˩	swap tones
+˧ dai	dai˧	swap tones
+˦ då	då˦	swap tones
+˦ då°	då°˦	swap tones
+˦ ha	ha˦	swap tones
+˦ t’a	t’a˦	swap tones
+kö ˦˥ lon	kölon˦˥	swap tones
+˨ tuk ˦˥ lon	tuk˨lon˦˥	swap tones
+˦˨ lä	lä˦˨	swap tones
+ᵃ ˧ bye	ᵃbye˧	swap tones
+˨ lo (with)	lo˨	swap tones
+˥˦ hniṅ°	hniṅ°˥˦	swap tones
+˦˨ tan	tan˦˨	swap tones
+˨˩ tān	tān˨˩	swap tones
+˨˩ tān ˨˩ hai	tān˨˩hai˨˩	swap tones
+˨ tä ˦˨ wā	tä˨wā˦˨	swap tones
+˦ naụ ˦˨ wā	naụ˦wā˦˨	swap tones
+˨˩ mà	mà˨˩	swap tones
+˧ lā ˨ naṅ	lā˧naṅ˨	swap tones
+˦˨ mē	mē˦˨	swap tones
+˥˦ bā ˥˦ s’ā	bā˥˦s’ā˥˦	swap tones
+˨˦ di ˦ nä	di˨˦nä˦	swap tones
+˨ nà	nà˨	swap tones
+šui šau ˨˩ lañ	šaušuilañ˨˩	swap tones
+˥˦ θo° ˨˩ δå ˨˩ le	θo°˥˦δå˨˩le˨˩	swap tones
+˦˨ szᵃ	szᵃ˦˨	swap tones
+˦˨ ših	ših˦˨	swap tones
+˨˩ šī	šī˨˩	swap tones
+˨˩ hai	hai˨˩	swap tones
+˨ chǎ	chǎ˨	swap tones
+˦˨ saụ ˥˦ yau	saụ˦˨yau˥˦	swap tones
+˦˥ ko	ko˦˥	swap tones
+˧ mwai	mwai˧	swap tones
+˦˨ mè	mè˦˨	swap tones
+˥˦ ö	ö˥˦	swap tones
+˦ ˦˨ yāǒ	yāǒ˦˦˨	swap tones
+˨˦ chʸāy	chʸāy˨˦	swap tones
+˨˦ chʸāy ˦˥ a	chʸāy˨˦a˦˥	swap tones
+˦˨ ya	ya˦˨	swap tones
+ē° ˦˨ da	ē°da˦˨	swap tones
+˨ i ˨˦ di	i˨di˨˦	swap tones
+= ṅà ˧ lå	ṅà=lå˧	swap tones
+˧ chī ˧ mā	chī˧mā˧	swap tones
+˨˩ e	e˨˩	swap tones
+˨˩ eṅ	eṅ˨˩	swap tones
+houᵏ ˥˦ kä°	houᵏkä°˥˦	swap tones
+ö ˨˦ ȫ	öȫ˨˦	swap tones
+˨ pu ˦˨ ših	pu˨ših˦˨	swap tones
+˦ paᵗ ˨˩ šī	paᵗ˦šī˨˩	swap tones
+˨ m ˨˩ hai	m˨hai˨˩	swap tones
+˦˨ mai	mai˦˨	swap tones
+˨ plau	plau˨	swap tones
+˨ àm ˦˨ saụ ˦ kwai	àm˨saụ˦˨kwai˦	swap tones
+˧ k’ōṅ	k’ōṅ˧	swap tones
+˧ mwai ˦ ē°	mwai˧ē°˦	swap tones
+˧ ta ˦˨ me ˥˦ ba	ta˧me˦˨ba˥˦	swap tones
+˦ chi ˦ ˦˨ yāǒ	chi˦yāǒ˦˦˨	swap tones
+˦˥ mai ˨˦ chʸāy	mai˦˥chʸāy˨˦	swap tones
+˦˥ ma ˨˦ chʸāy	ma˦˥chʸāy˨˦	swap tones
+˨˦ ma	ma˨˦	swap tones
+˨ mā	mā˨	swap tones
+ma hut ˨˩ b’ū	hutmab’ū˨˩	swap tones
+mā houᵏ ˨˩ p’ū	houᵏmāp’ū˨˩	swap tones
+˥˦ nēī̃	nēī̃˥˦	swap tones
+˦˨ k’ü	k’ü˦˨	swap tones
+˥˦ hui	hui˥˦	swap tones
+˧ pai	pai˧	swap tones
+˨˦ pai	pai˨˦	swap tones
+˨ kwā	kwā˨	swap tones
+˧ di	di˧	swap tones
+˨˦ le	le˨˦	swap tones
+˦ hä°	hä°˦	swap tones
+˩˨ löǚ	löǚ˩˨	swap tones
+˦ p’öǚ	p’öǚ˦	swap tones
+˦ ṅgrü	ṅgrü˦	swap tones
+˦ swa	swa˦	swap tones
+˨˩ niṅ	niṅ˨˩	swap tones
+˨˩ miñ	miñ˨˩	swap tones
+˦˨ že	že˦˨	swap tones
+˦˨ li	li˦˨	swap tones
+˨ wo	wo˨	swap tones
+˦˨ yi	yi˦˨	swap tones
+˧ nàṅ	nàṅ˧	swap tones
+˨˩ šwa	šwa˨˩	swap tones
+˨˩ θwā	θwā˨˩	swap tones
+˨˩ šiᵏ	šiᵏ˨˩	swap tones
+˥˦ yåᵏ	yåᵏ˥˦	swap tones
+˧ kin	kin˧	swap tones
+˨˦ kin	kin˨˦	swap tones
+˧ àn	àn˧	swap tones
+˥˦ å	å˥˦	swap tones
+˦ ˦˨ nāǒ	nāǒ˦˦˨	swap tones
+˨˩ ñān	ñān˨˩	swap tones
+˨˦ dza	dza˨˦	swap tones
+˨ dzà	dzà˨	swap tones
+˨˩ chā	chā˨˩	swap tones
+˨˩ sā	sā˨˩	swap tones
+˦˨ tså	tså˦˨	swap tones
+˨˩ tså	tså˨˩	swap tones
+˩˨ ts’å	ts’å˩˨	swap tones
+˦˨ nàṅ	nàṅ˦˨	swap tones
+˨˩ ṅōi	ṅōi˨˩	swap tones
+˨ söṅ ˨˦ naṅ	söṅ˨naṅ˨˦	swap tones
+˥˦ s’ē = nå	nå=s’ē˥˦	swap tones
+˦ ˦˨ twa ˦ ˦˨ ñāǒ	twa˦˦˨ñāǒ˦˦˨	swap tones
+˨˦ chʸuōi	chʸuōi˨˦	swap tones
+˦˨ ku ˦˨ ñⁱ	ku˦˨ñⁱ˦˨	swap tones
+˦˨ ñi	ñi˦˨	swap tones
+˦˨ ni	ni˦˨	swap tones
+˦˨ di ˦˨ to	di˦˨to˦˨	swap tones
+˨˦ ñī ˦ tà	ñī˨˦tà˦	swap tones
+˨˦ ñī ˦ nà	ñī˨˦nà˦	swap tones
+˨˩ t’ouṅ	t’ouṅ˨˩	swap tones
+˧ t’aiṅ	t’aiṅ˧	swap tones
+˥˦ bai-	bai-˥˦	swap tones
+˧˨ ṅa ˨ sza°	ṅa˧˨sza°˨	swap tones
+˨ nī ˨ s’ī	nī˨s’ī˨	swap tones
+˧ k’ī ˧ s’ī	k’ī˧s’ī˧	swap tones
+˧ neṅ ˩˨ ňö̌ū	neṅ˧ňö̌ū˩˨	swap tones
+ñi ˨ ṯs̱iep	ñiṯs̱iep˨	swap tones
+˨˧ ñi ˧˨ ṯs̱’ē	ñi˨˧ṯs̱’ē˧˨	swap tones
+ni° ˧˨ ṯs̱’ö	ni°ṯs̱’ö˧˨	swap tones
+n’° ˧˨ ṯs̱’ö	n’°ṯs̱’ö˧˨	swap tones
+˨ ñī = ṯs̱ī	ṯs̱ī=ñī˨	swap tones
+hnà ˨ s’ä	hnàs’ä˨	swap tones
+˥˦ vī	vī˥˦	swap tones
+˨˧ wu ˨ sza°	wu˨˧sza°˨	swap tones
+˩˨ ṅ ˨˩ šap	ṅ˩˨šap˨˩	swap tones
+˧˨ hā ˨ sip	hā˧˨sip˨	swap tones
+˧˨ hā ˧ s’ip	hā˧˨s’ip˧	swap tones
+˨ nàm ˨ müöi	nàm˨müöi˨	swap tones
+˧ yai ˨ s’ī	yai˧s’ī˨	swap tones
+˧˨ yä ˨	yä˧˨˨	swap tones
+˧ chi ˧ kö̌ü	chi˧kö̌ü˧	swap tones
+˨˩ ṅāu	ṅāu˨˩	swap tones
+huṅ ˨ ṯs̱iep	huṅṯs̱iep˨	swap tones
+˧ ṅa ˧˨ ṯs̱’ē	ṅa˧ṯs̱’ē˧˨	swap tones
+ṅo° ˧˨ ṯs̱’ö	ṅo°ṯs̱’ö˧˨	swap tones
+˨ ṅwà = ṯs̱’ī	ṯs̱’ī=ṅwà˨	swap tones
+˨˩ ṅā ch’ay	ch’ayṅā˨˩	swap tones
+˨˩ ṅā ˨ zä	ṅā˨˩zä˨	swap tones
+panj ˥˦ ā	panjā˥˦	swap tones
+˨ pa° (Pekin ˨˧ pai)	pa°˨	swap tones
+˦ yat ˥˦ pāk	yat˦pāk˥˦	swap tones
+˧˧˨ råi	råi˧˧˨	swap tones
+˨ pàk	pàk˨	swap tones
+˨ mōt ˧ tràm	mōt˨tràm˧	swap tones
+˨ ka ˨˧ ya	ka˨ya˨˧	swap tones
+˨ ta ˨ ka = yā	ta˨yā=ka˨	swap tones
+˧ i ˧ pwa	i˧pwa˧	swap tones
+a ˨˧ pe	ape˨˧	swap tones
+yēt ˨˧ pe	yētpe˨˧	swap tones
+˨˧ t’i ˧˨ ha	t’i˨˧ha˧˨	swap tones
+t’i° ˧˨ ho	t’i°ho˧˨	swap tones
+t’i° ˧˨ hyo	t’i°hyo˧˨	swap tones
+˨ t’ī = hyǎ̃	hyǎ̃=t’ī˨	swap tones
+tà ˧ yā	tàyā˧	swap tones
+˨˧ wå	wå˨˧	swap tones
+˨˧ ṅå	ṅå˨˧	swap tones
+˩˨ ṅå	ṅå˩˨	swap tones
+˨˧ ch’àn	ch’àn˨˧	swap tones
+˧˨ k’ā	k’ā˧˨	swap tones
+˨˧ kau	kau˨˧	swap tones
+˨ tōi	tōi˨	swap tones
+˧ ya	ya˧	swap tones
+˧ sa	sa˧	swap tones
+˦˥ kō	kō˦˥	swap tones
+˨˧ ya	ya˨˧	swap tones
+˧˨ go	go˧˨	swap tones
+˧˨ ṅo	ṅo˧˨	swap tones
+˨ ṅā	ṅā˨	swap tones
+˧ ṅā	ṅā˧	swap tones
+˨˧ wå ˨ ti° (P.)	wå˨˧ti°˨	swap tones
+˩˨ ṅå ˥˦ kē (P.)	ṅå˩˨kē˥˦	swap tones
+˨˧ k’åṅ ˨˧ ch’àn (F.)	k’åṅ˨˧ch’àn˨˧	swap tones
+˨˧ kau (F.)	kau˨˧	swap tones
+˨ tōI (F.)	tōI˨	swap tones
+˧ ya (P.)	ya˧	swap tones
+˦ ya (P.)	ya˦	swap tones
+˧ sa (P.)	sa˧	swap tones
+˦˥ kō (P.)	kō˦˥	swap tones
+˦˥ kō ˦ li	kō˦˥li˦	swap tones
+˨˧ ya ˨˧ ñàṅ	ya˨˧ñàṅ˨˧	swap tones
+˨˧ ya ˨˧ ṯs̱āy	ya˨˧ṯs̱āy˨˧	swap tones
+˧˨ ṅa (P.)	ṅa˧˨	swap tones
+˧˨ go (dyi°) (P.)	go˧˨	swap tones
+˧˨ go (˧˨ vi) (P.)	go˧˨	swap tones
+˧˨ ṅo (P.)	ṅo˧˨	swap tones
+˨ ṅā (P.)	ṅā˨	swap tones
+˥˦ ṅà° (P.)	ṅà°˥˦	swap tones
+˨˧ wå ˨ man	wå˨˧man˨	swap tones
+˩˨ ṅå ˨˩ tä	ṅå˩˨tä˨˩	swap tones
+˧ rau	rau˧	swap tones
+˦ hau	hau˦	swap tones
+(˦˥ chuṅ) ˧ tà	tà˧	swap tones
+˦˥ chuṅ ˧ tōI (In.)	chuṅ˦˥tōI˧	swap tones
+˦˥ vöI ˧ kwà (Ex.)	vöI˦˥kwà˧	swap tones
+˧ pa	pa˧	swap tones
+˧ pa ˧ klå	pa˧klå˧	swap tones
+˦ ˦˨ pē	pē˦˦˨	swap tones
+˨˧ ya ˨˧ bu	ya˨˧bu˨˧	swap tones
+˨˧ ya ˦˥ bua	ya˨˧bua˦˥	swap tones
+˨˧ a ˧ se (In.)	a˨˧se˧	swap tones
+˨˧ ṅa (Ex.)	ṅa˨˧	swap tones
+˧˨ go hi°	hi°go˧˨	swap tones
+a° ˨ sö	a°sö˨	swap tones
+˧˨ ño vä°	vä°ño˧˨	swap tones
+˨ rå (In.)	rå˨	swap tones
+= ṅwà ˨ nū (Ex.)	ṅwà=nū˨	swap tones
+˨˩ mā ˨ le	mā˨˩le˨	swap tones
+˨ ṅa ˥˦ do°	ṅa˨do°˥˦	swap tones
+˨˧ wå ˨ man ˨ ti° (P.)	wå˨˧man˨ti°˨	swap tones
+˩˨ ṅå ˨˩ tä ˥˦ kē (P.)	ṅå˩˨tä˨˩kē˥˦	swap tones
+˨˧ k’åṅ ˨ rau (F.)	k’åṅ˨˧rau˨	swap tones
+˦ hau (F.)	hau˦	swap tones
+˨ tà (F.)	tà˨	swap tones
+˨ pà (P.)	pà˨	swap tones
+˨ pa (P.)	pa˨	swap tones
+˧ ˧˨ pē (P.)	pē˧˧˨	swap tones
+˧ ˧˨ pē ˧ li	pē˧˧˨li˧	swap tones
+˨˧ bu ˨˧ ñàṅ	bu˨˧ñàṅ˨˧	swap tones
+˨˧ ya ˦˥ bua ˨˧ ṯs̱āy	ya˨˧bua˦˥ṯs̱āy˨˧	swap tones
+˨˧ a ˦ se (In. P.)	a˨˧se˦	swap tones
+˨˧ ṅa (Ex. P.)	ṅa˨˧	swap tones
+˧˨ go hi° (dyi°) (P.)	hi°go˧˨	swap tones
+a° ˨ sö (dyi°) (P.)	a°sö˨	swap tones
+˧˨ ño vä° (P.)	vä°ño˧˨	swap tones
+˨ rå (In. P.)	rå˨	swap tones
+= ṅwà ˨ nū (Ex. P.)	ṅwà=nū˨	swap tones
+˨˩ mā ˨ le (P.)	mā˨˩le˨	swap tones
+˨ ṅa ˥˦ do° (P.)	ṅa˨do°˥˦	swap tones
+˨˧ nī	nī˨˧	swap tones
+˨˧ lī	lī˨˧	swap tones
+˩˨ nä	nä˩˨	swap tones
+˧˨ dān	dān˧˨	swap tones
+˧˨ t’àn	t’àn˧˨	swap tones
+˦ maụ	maụ˦	swap tones
+˨˩ māu	māu˨˩	swap tones
+˨ na	na˨	swap tones
+˧ ˧˨ kāǒ	kāǒ˧˧˨	swap tones
+˨˩ māy	māy˨˩	swap tones
+˧˨ ñi	ñi˧˨	swap tones
+˧˨ ni	ni˧˨	swap tones
+˨˩ maṅ	maṅ˨˩	swap tones
+˧ nin	nin˧	swap tones
+˨˩ min	min˨˩	swap tones
+˨˧ nī ˨ ti° (P.)	nī˨˧ti°˨	swap tones
+˩˨ nä ˥˦ kē (P.)	nä˩˨kē˥˦	swap tones
+˨˧ k’åṅ ˧˨ dān (F.)	k’åṅ˨˧dān˧˨	swap tones
+˨˧ k’åṅ ˧˨ t’àn (F.)	k’åṅ˨˧t’àn˧˨	swap tones
+˦ mau (F.)	mau˦	swap tones
+˨˩ māy (F.)	māy˨˩	swap tones
+˧ na (P.)	na˧	swap tones
+˦ ˦˨ kāǒ (P.)	kāǒ˦˦˨	swap tones
+˦˦˨ kāǒ ˦ li	kāǒ˦˦˨li˦	swap tones
+˨˩ māy ˨˧ ñàṅ	māy˨˩ñàṅ˨˧	swap tones
+˨˩ māy ˨˧ ṯs̱āy	māy˨˩ṯs̱āy˨˧	swap tones
+˧˨ ñi (P.)	ñi˧˨	swap tones
+˧˨ ni (dyi°) (P.)	ni˧˨	swap tones
+˨ nàṅ (P.)	nàṅ˨	swap tones
+˥˦ nin° (P.)	nin°˥˦	swap tones
+˨˧ nī ˨ man	nī˨˧man˨	swap tones
+˩˨ nä ˨˩ tä	nä˩˨tä˨˩	swap tones
+˨˧ s’ū	s’ū˨˧	swap tones
+˨ bày	bày˨	swap tones
+˨ na = θī	θī=na˨	swap tones
+˨ θü	θü˨	swap tones
+˨ θu	θu˨	swap tones
+˧˧˨ mē	mē˧˧˨	swap tones
+˨˩ ñāu	ñāu˨˩	swap tones
+˨˩ māy ˦˥ bua	māy˨˩bua˦˥	swap tones
+˨˧ na	na˨˧	swap tones
+˨ na hi°	hi°na˨	swap tones
+˧˨ ña vä°	vä°ña˧˨	swap tones
+= nū ˨ wà	nū=wà˨	swap tones
+ha ˨ neṅ	haneṅ˨	swap tones
+˨˩ maṅ tui°	tui°maṅ˨˩	swap tones
+˧ nin ˥˦ do°	nin˧do°˥˦	swap tones
+˨˩ min ˥˦ do°	min˨˩do°˥˦	swap tones
+˨ lai	lai˨	swap tones
+˦˨ lai	lai˦˨	swap tones
+mà (? ˦ mà)	mà	swap tones
+˦ mā	mā˦	swap tones
+˦˥ dēn	dēn˦˥	swap tones
+˨ ɣai	ɣai˨	swap tones
+˧ hä	hä˧	swap tones
+˧ hä = ꭓå	ꭓå=hä˧	swap tones
+˦ ˦˨ lō	lō˦˦˨	swap tones
+˦ ˦˨ twa	twa˦˦˨	swap tones
+˦˨ du ˦˨ li	du˦˨li˦˨	swap tones
+˨ du ˦˨ lä	du˨lä˦˨	swap tones
+˦˨ la	la˦˨	swap tones
+˧ lī	lī˧	swap tones
+˧  lā	lā˧	swap tones
+˦˨ chān	chān˦˨	swap tones
+˦˨ tsān	tsān˦˨	swap tones
+˩˨ k’ä	k’ä˩˨	swap tones
+˧ yụ̄n	yụ̄n˧	swap tones
+˦ sūk	sūk˦	swap tones
+˦˥ düṅ	düṅ˦˥	swap tones
+˨ s’öṅ = t’uṅ	t’uṅ=s’öṅ˨	swap tones
+˧ s’ö ˥˦ t’ö	s’ö˧t’ö˥˦	swap tones
+˦˥ šöǚ	šöǚ˦˥	swap tones
+˨˩ šāu	šāu˨˩	swap tones
+˦˨ hö ˨˦ je	hö˦˨je˨˦	swap tones
+˨ hī̃° ˦ tà	hī̃°˨tà˦	swap tones
+˨˦ szᵃ	szᵃ˨˦	swap tones
+˦˥ sz	sz˦˥	swap tones
+˧ tāi	tāi˧	swap tones
+˨˦ tai	tai˨˦	swap tones
+˦˥ chėt	chėt˦˥	swap tones
+˨ θī	θī˨	swap tones
+˧ θi	θi˧	swap tones
+˨˩ tay	tay˨˩	swap tones
+˨˩ tāy	tāy˨˩	swap tones
+˦˨ še	še˦˨	swap tones
+˦˨ šö	šö˦˨	swap tones
+˨˩ ši	ši˨˩	swap tones
+˧ θe	θe˧	swap tones
+˨ chī°	chī°˨	swap tones
+˨˦ ka	ka˨˦	swap tones
+˦˥ pä	pä˦˥	swap tones
+˦˨ hai	hai˦˨	swap tones
+˨˦ pàn	pàn˨˦	swap tones
+˧ cho	cho˧	swap tones
+˥˦ hē	hē˥˦	swap tones
+˦ ꭓöǚ	ꭓöǚ˦	swap tones
+˦˥ ꭓeṅ	ꭓeṅ˦˥	swap tones
+˦ saṅ	saṅ˦	swap tones
+˦ mwa	mwa˦	swap tones
+˦˨ vē ˨˦ bi	vē˦˨bi˨˦	swap tones
+˨ gɯ	gɯ˨	swap tones
+˧ ī	ī˧	swap tones
+˨˩ pē	pē˨˩	swap tones
+˨˩ pe	pe˨˩	swap tones
+˨ p’au	p’au˨	swap tones
+˨˦ p’au	p’au˨˦	swap tones
+˦˥ tsau	tsau˦˥	swap tones
+˦˨ wiṅ	wiṅ˦˨	swap tones
+˦˨ leñ	leñ˦˨	swap tones
+˨ chày	chày˨	swap tones
+˦˨ ꭓē	ꭓē˦˨	swap tones
+˦ d’a	d’a˦	swap tones
+˨˦ t’iu	t’iu˨˦	swap tones
+˨˦ pieu	pieu˨˦	swap tones
+˨˦ kiä	kiä˨˦	swap tones
+˦˨ chä	chä˦˨	swap tones
+˦˨ chö ˦˨ yi	chö˦˨yi˦˨	swap tones
+˨ ɯ	ɯ˨	swap tones
+˨˦ ch’ye	ch’ye˨˦	swap tones
+˨˩ prē	prē˨˩	swap tones
+˨˩ pye	pye˨˩	swap tones
+˩˨ pajj-	pajj-˩˨	swap tones
+˨˦ wå ˦˨ szᵃ	wå˨˦szᵃ˦˨	swap tones
+˩˨ ṅå ˨˩ hai	ṅå˩˨hai˨˩	swap tones
+˨˦ ch’àn ˧ pēn	ch’àn˨˦pēn˧	swap tones
+˨˦ ch’àn ˧ pen	ch’àn˨˦pen˧	swap tones
+˨˦ kau ˨˦ pin ˦˨ ạ̄	kau˨˦pin˨˦ạ̄˦˨	swap tones
+˧ toi ˨˩ là	toi˧là˨˩	swap tones
+˧ ya ˧ mwai ˨ lå	ya˧mwai˧lå˨	swap tones
+˧ ya = å ˨ lå	å=ya˧lå˨	swap tones
+˧ ya ˦˨ me (or ˥˦ ō) = lå	ya˧lå=me˦˨	swap tones
+˦˥ kō ˦ chʸeṅ ˦ ˦˨ ñāǒ	kō˦˥chʸeṅ˦ñāǒ˦˦˨	swap tones
+˨˦ ya chʸāy or ñaṅ	ñaṅorchʸāyya˨˦	swap tones
+˨˦ ya ˨˩ chʸāy	ya˨˦chʸāy˨˩	swap tones
+˦˨ ṅa ˦˨ ṅä	ṅa˦˨ṅä˦˨	swap tones
+˦˨ go ˦˨ ṅö (˦˨ ša)	go˦˨ṅö˦˨	swap tones
+˦˨ ṅo ˦˨ ṅa	ṅo˦˨ṅa˦˨	swap tones
+= ṅwà = ṅà (or ˦ tyà) ˧ lå	ṅà=ṅwà=lå˧	swap tones
+˧ ṅā ˧ ṅā ˧ mā	ṅā˧ṅā˧mā˧	swap tones
+˧ ṅā p’yiᵗ ˧ tä	p’yiᵗṅā˧tä˧	swap tones
+˨˦ nī ˦˨ szᵃ	nī˨˦szᵃ˦˨	swap tones
+˩˨ nä ˨˩ hai	nä˩˨hai˨˩	swap tones
+˦˨ dān ˧ pēn	dān˦˨pēn˧	swap tones
+˦˨ t’àn 3 pen	pen3t’àn˦˨	swap tones
+˦ maụ ˨˦ pin ˦˨ ạ̄	maụ˦pin˨˦ạ̄˦˨	swap tones
+˨˩ māy ˨˩ là	māy˨˩là˨˩	swap tones
+˧ na ˧ mwai (or = å) ˨ lå	na˧mwai˧lå˨	swap tones
+˧ na ˦˨ me (or ˥˦ ō) = lå	na˧lå=me˦˨	swap tones
+˦ ˦˨ kāǒ ˦ chʸeṅ ˦ ˦˨ ñāǒ	kāǒ˦˦˨chʸeṅ˦ñāǒ˦˦˨	swap tones
+˨˩ māy chʸāy or ñaṅ	ñaṅorchʸāymāy˨˩	swap tones
+˨˩ māy ˨˩ chʸāy	māy˨˩chʸāy˨˩	swap tones
+˦˨ ñⁱ ˦˨ ṅä	ñⁱ˦˨ṅä˦˨	swap tones
+˦˨ ni ˦˨ ṅö (˦˨ ša)	ni˦˨ṅö˦˨	swap tones
+˦˨ ñi ˦˨ ṅa	ñi˦˨ṅa˦˨	swap tones
+= nū = ṅà (or ˦ tyà) ˧ lå	ṅà=nū=lå˧	swap tones
+˧ nàṅ ˧ ṅā ˧ mā	nàṅ˧ṅā˧mā˧	swap tones
+˧ niṅ p’yiᵗ ˧ tä	p’yiᵗniṅ˧tä˧	swap tones
+˦ t’ā ˦˨ szᵃ	t’ā˦szᵃ˦˨	swap tones
+˩˨ k’ui ˨˩ hai	k’ui˩˨hai˨˩	swap tones
+˨˦ k’au ˧ pēn	k’au˨˦pēn˧	swap tones
+˨˦ k’au ˧ pen	k’au˨˦pen˧	swap tones
+˦ màn ˨˦ pin ˦˨ ạ̄	màn˦pin˨˦ạ̄˦˨	swap tones
+˦˥ no ˨˩ là	no˦˥là˨˩	swap tones
+˧ a ˨ we ˧ mwai (or = å) ˨ lå	a˧we˨mwai˧lå˨	swap tones
+˧ a ˧ wä ˦˨ mē (or ˥˦ ō) = lå	a˧wä˧lå=mē˦˨	swap tones
+˦ nü ˦ chʸeṅ ˦ ˦˨ ñāǒ	nü˦chʸeṅ˦ñāǒ˦˦˨	swap tones
+˨˩ nān chʸāy	chʸāynān˨˩	swap tones
+˨˩ nin ˨˩ chʸāy	nin˨˩chʸāy˨˩	swap tones
+˦ k’e ˦˨ ṅä	k’e˦ṅä˦˨	swap tones
+˨ kö ˦˨ ṅö (˦˨ ša)	kö˨ṅö˦˨	swap tones
+˨ ya ˦˨ ṅa	ya˨ṅa˦˨	swap tones
+˦ yī = ṅà(or ˦ tyà) ˧ lå	ṅà=yī˦lå˧	swap tones
+˧ hiṅ ˧ ṅā ˧ mā	hiṅ˧ṅā˧mā˧	swap tones
+˧ θu p’yiᵗ ˧ tä	p’yiᵗθu˧tä˧	swap tones
+˥˦ ō ve	veō˥˦	swap tones
+˨˦ wå ˨ mån ˦˨ szᵃ	wå˨˦mån˨szᵃ˦˨	swap tones
+˩˨ ṅå ˨˩ tä ˨˩ hai	ṅå˩˨tä˨˩hai˨˩	swap tones
+˧ rau ˧ pēn	rau˧pēn˧	swap tones
+˧ rau ˧ pen	rau˧pen˧	swap tones
+˦ hau ˨˦ pin ˦˨ ạ̄	hau˦pin˨˦ạ̄˦˨	swap tones
+˧ tà ˦˨ là	tà˧là˦˨	swap tones
+˧ pa ˧ mwai (or = å) ˨ lå	pa˧mwai˧lå˨	swap tones
+˧ pa ˦˨ mē(or ˥˦ ō) = lå	pa˧lå=mē˦˨	swap tones
+˦ ˦˨ pē ˦ chʸeṅ ˦ ˦˨ ñāǒ	pē˦˦˨chʸeṅ˦ñāǒ˦˦˨	swap tones
+˨˦ ya ˨˦ bu chʸāy	ya˨˦chʸāybu˨˦	swap tones
+˨˦ ya ˦˥ bua ˨˩ chʸāy	ya˨˦bua˦˥chʸāy˨˩	swap tones
+˨˦ a ˦ se ˦˨ ṅä	a˨˦se˦ṅä˦˨	swap tones
+a° ˨ sö ˦˨ ṅö (˦˨ ša)	a°sö˨ṅö˦˨	swap tones
+˦˨ ño vä° ˦˨ ṅa	vä°ño˦˨ṅa˦˨	swap tones
+= ṅwà ˨ nū = ṅà (or ˧ tyà) ˧ lå	ṅwà=ṅà=nū˨lå˧	swap tones
+˨˩ mā ˧ le ˧ ṅā ˧ mā	mā˨˩le˧ṅā˧mā˧	swap tones
+˧ ṅā ˥˦ do° p’yiᵗ ˥˦ tyà° ˧ dä	ṅā˧p’yiᵗdo°˥˦tyà°˥˦dä˧	swap tones
+˨˦ nī ˨ man ˦˨ szᵃ	nī˨˦man˨szᵃ˦˨	swap tones
+˩˨ nä ˨˩ tä ˨˩ hai	nä˩˨tä˨˩hai˨˩	swap tones
+˦˨ t’àn ˧ pen	t’àn˦˨pen˧	swap tones
+˨˦ s’ū ˨˦ pin ˦˨ ạ̄	s’ū˨˦pin˨˦ạ̄˦˨	swap tones
+˧ bày ˨˩ là	bày˧là˨˩	swap tones
+˧ na = θī ˧ mwai (or = å) ˨ lå	θī=na˧mwai˧lå˨	swap tones
+˧ θü ˦˨ mē (or ˥˦ ō) = lå	θü˧lå=mē˦˨	swap tones
+˦ ˦˨ mē ˦ chʸeṅ ˦ ˦˨ ñāǒ	mē˦˦˨chʸeṅ˦ñāǒ˦˦˨	swap tones
+˨˩ ñāu chʸāy	chʸāyñāu˨˩	swap tones
+˨˩ māy ˦˥ bua ˨˩ chʸāy	māy˨˩bua˦˥chʸāy˨˩	swap tones
+˨˦ na ˦˨ ṅä	na˨˦ṅä˦˨	swap tones
+˨ na hi° ˦˨ ṅö (˦˨ ša)	hi°na˨ṅö˦˨	swap tones
+˦˨ ña vä° ˦˨ ṅa	vä°ña˦˨ṅa˦˨	swap tones
+= nū ˨ wà = ṅà (or ˦ tyà) ˧ lå	nū=ṅà=wà˨lå˧	swap tones
+ha ˧ neṅ ˧ nā ˧ mā	haneṅ˧nā˧mā˧	swap tones
+˧ nin ˥˦ do° p’yiᵗ ˥˦ tyà° ˧ dä	nin˧p’yiᵗdo°˥˦tyà°˥˦dä˧	swap tones
+˦ t’ā ˨ man ˦˨ szᵃ	t’ā˦man˨szᵃ˦˨	swap tones
+˩˨ k’ui ˨˩ tä ˨˩ hai	k’ui˩˨tä˨˩hai˨˩	swap tones
+˨˦ k’au ˨˦ pin ˦˨ ạ̄	k’au˨˦pin˨˦ạ̄˦˨	swap tones
+˦˥ chuṅ ˦˥ no ˨˩ là	chuṅ˦˥no˦˥là˨˩	swap tones
+ ˧ a ˨ wē = θī ˧ mwai (or = å)	a˧θī=wē˨mwai˧	swap tones
+˨ lå	lå˨	swap tones
+˧ a ˧ wä ˥˦ θī ˦˨ mē (or ˥˦ ō) = lå	a˧wä˧θī˥˦lå=mē˦˨	swap tones
+˦ mbāǒ ˦ chʸeṅ ˦ ˦˨ ñāǒ	mbāǒ˦chʸeṅ˦ñāǒ˦˦˨	swap tones
+˨˩ nān ˨˦ tsi chʸāy	nān˨˩chʸāytsi˨˦	swap tones
+˨˩ nin ˦˥ bua ˨˩ chʸāy	nin˨˩bua˦˥chʸāy˨˩	swap tones
+˦ k’e ˨˦ še ˦˨ ṅä	k’e˦še˨˦ṅä˦˨	swap tones
+˨ kö hi° ˦˨ nö (˦˨ ša)	hi°kö˨nö˦˨	swap tones
+˨ ya vä° ˦˨ ṅa	vä°ya˨ṅa˦˨	swap tones
+˦ yī ˨ wà = ṅà (or ˦ tyà) ˧ lå	yī˦ṅà=wà˨lå˧	swap tones
+˧ θu ˥˦ do° p’yiᵗ ˥˦ tyà° ˧ dä	θu˧p’yiᵗdo°˥˦tyà°˥˦dä˧	swap tones
+˧ θu do ši dä	däšidoθu˧	swap tones
+˥˦ ō ne	neō˥˦	swap tones
+˨˦ chàn ˦˨ tai ˧ pēn	chàn˨˦tai˦˨pēn˧	swap tones
+˨˦ ch’àn ˦˨ dai ˧ peṅ	ch’àn˨˦dai˦˨peṅ˧	swap tones
+˨˦ kau ˨˦ pin ˥˦ yau	kau˨˦pin˨˦yau˥˦	swap tones
+˧ tōi ˨˦ ˦˨ dà ˨˩ là	tōi˧dà˨˦˦˨là˨˩	swap tones
+˧ ya ˧ mwai (or = å) ˦ yū	ya˧mwai˧yū˦	swap tones
+˦˥ kō ˦ ˦˨ ñāǒ ˩˨ löǚ	kō˦˥ñāǒ˦˦˨löǚ˩˨	swap tones
+˦˨ ṅa ˦˨ ṅä ˦˨ ra	ṅa˦˨ṅä˦˨ra˦˨	swap tones
+˦˨ go ˦˨ ṅö(˦˨ ho)	go˦˨ṅö˦˨	swap tones
+˦˨ ṅo ˦˨ ṅa ˦˨ ya	ṅo˦˨ṅa˦˨ya˦˨	swap tones
+˦˨ dān ˦˨ tai ˧ pēn	dān˦˨tai˦˨pēn˧	swap tones
+˦˨ t’àn ˦˨ dai ˧ pen	t’àn˦˨dai˦˨pen˧	swap tones
+˦ maụ ˨˦ pin ˥˦ yau	maụ˦pin˨˦yau˥˦	swap tones
+˨˩ māy ˨˦ ˦˨ dà ˨˩ là	māy˨˩dà˨˦˦˨là˨˩	swap tones
+˧ na ˧ mwai (or = å) ˦ yū	na˧mwai˧yū˦	swap tones
+˦ ˦˨ kāǒ ˦ ˦˨ ñāǒ ˩˨ löǚ	kāǒ˦˦˨ñāǒ˦˦˨löǚ˩˨	swap tones
+˦˨ ñⁱ ˦˨ ṅä ˦˨ ra	ñⁱ˦˨ṅä˦˨ra˦˨	swap tones
+˦˨ ni ˦˨ ṅö(˦˨ ho)	ni˦˨ṅö˦˨	swap tones
+˦˨ ñi ˦˨ ṅa ˦˨ ya	ñi˦˨ṅa˦˨ya˦˨	swap tones
+˩˨ k’ui ˨˩ haı	k’ui˩˨haı˨˩	swap tones
+˨˦ k’au ˦˨ tai ˧ pēn	k’au˨˦tai˦˨pēn˧	swap tones
+˨˦ k’au ˦˨ dai ˧ pen	k’au˨˦dai˦˨pen˧	swap tones
+˦ màn ˨˦ pin ˥˦ yau	màn˦pin˨˦yau˥˦	swap tones
+˦˥ no ˨˦ ˦˨ dà là	no˦˥làdà˨˦˦˨	swap tones
+˦ a ˨ wē ˧ mwai (or = å) ˦ yū	a˦wē˨mwai˧yū˦	swap tones
+˦ nü ˦ ˦˨ ñāǒ ˩˨ löǚ	nü˦ñāǒ˦˦˨löǚ˩˨	swap tones
+˦ k’e ˦˨ ṅä ˦˨ ra	k’e˦ṅä˦˨ra˦˨	swap tones
+˨ kö ˦˨ ṅö(˦˨ ho)	kö˨ṅö˦˨	swap tones
+˨ ya ˦˨ ṅa ˦˨ ya	ya˨ṅa˦˨ya˦˨	swap tones
+˥˦ ō sī	sīō˥˦	swap tones
+˨˦ wå ˨ man ˦˨ szᵃ	wå˨˦man˨szᵃ˦˨	swap tones
+˧ rau ˦˨ tai ˧ pen	rau˧tai˦˨pen˧	swap tones
+˧ rau ˦˨ dai ˧ pen	rau˧dai˦˨pen˧	swap tones
+˦ hau ˨˦ pin ˥˦ yau	hau˦pin˨˦yau˥˦	swap tones
+˧ tà ˨˦ ˦˨ dà ˨˩ là	tà˧dà˨˦˦˨là˨˩	swap tones
+# pa 3 mwai (or = å) ˦ yū	mwai3pa#yū˦	swap tones
+˦ ˦˨ pē ˦ ˦˨ ñāǒ ˩˨ löǚ	pē˦˦˨ñāǒ˦˦˨löǚ˩˨	swap tones
+˨˦ a ˦ se ˦˨ ṅä ˦˨ RA	a˨˦se˦ṅä˦˨RA˦˨	swap tones
+a° ˨ sö ˦˨ ṅö(˦˨ ho)	a°sö˨ṅö˦˨	swap tones
+˦˨ ño vä° ˦˨ ṅa ˦˨ ya	vä°ño˦˨ṅa˦˨ya˦˨	swap tones
+˨˦ s’ū ˨˦ pin ˥˦ yau	s’ū˨˦pin˨˦yau˥˦	swap tones
+˧ bày ˨˦ ˦˨ dà ˨˩ là	bày˧dà˨˦˦˨là˨˩	swap tones
+˧ na = θī ˧ mwai (or = å) ˦ yū	θī=na˧mwai˧yū˦	swap tones
+˦ ˦˨ mē ˦ ˦˨ ñāǒ ˩˨ löǚ	mē˦˦˨ñāǒ˦˦˨löǚ˩˨	swap tones
+˨˦ na ˦˨ ṅä ˦˨ ra	na˨˦ṅä˦˨ra˦˨	swap tones
+˨ na hi° ˨˩ ṅö(˦˨ hö)	hi°na˨ṅö˨˩	swap tones
+˦˨ ña vä° ˦˨ na ˦˨ ya	vä°ña˦˨na˦˨ya˦˨	swap tones
+˨˦ k’au ˨˦ piṅ ˥˦ yau	k’au˨˦piṅ˨˦yau˥˦	swap tones
+˦˥ chuṅ ˦˥ no ˨˦ ˦˨ dà ˨˩ là	chuṅ˦˥no˦˥dà˨˦˦˨là˨˩	swap tones
+˦ a ˨ wē = θī ˧ mwai (or = å) ˦ yū	a˦θī=wē˨mwai˧yū˦	swap tones
+˦ mbāǒ ˦ ˦˨ ñāǒ ˩˨ löǚ	mbāǒ˦ñāǒ˦˦˨löǚ˩˨	swap tones
+˦ k’e ˨˦ še ˦˨ ṅä ˦˨ ra	k’e˦še˨˦ṅä˦˨ra˦˨	swap tones
+˨ kö hi° ˦˨ ṅö(˦˨ ho)	hi°kö˨ṅö˦˨	swap tones
+˨ ya vä° ˦˨ na ˦˨ ya	vä°ya˨na˦˨ya˦˨	swap tones
+˥˦ ō sāṇ	sāṇō˥˦	swap tones
+˨˦ tā	tā˨˦	swap tones
+˦˥ tā	tā˦˥	swap tones
+˧ tī	tī˧	swap tones
+˥˦ yeñ	yeñ˥˦	swap tones
+˨˦ tī (strike lightly)	tī˨˦	swap tones
+˦˥ dàñ	dàñ˦˥	swap tones
+= dō ˦ s’ī	dō=s’ī˦	swap tones
+˦ t’aṅ° ˦ s’ī	t’aṅ°˦s’ī˦	swap tones
+˧ dō	dō˧	swap tones
+˦˨ tå	tå˦˨	swap tones
+˦ ˦˨ ndau	ndau˦˦˨	swap tones
+˦˥ bop	bop˦˥	swap tones
+˦˥ bo	bo˦˥	swap tones
+˨˦ dä	dä˨˦	swap tones
+˨ chö	chö˨	swap tones
+˦ tī (with a stick)	tī˦	swap tones
+˨ dɯ (with the hand)	dɯ˨	swap tones
+˨˩ tàṅ	tàṅ˨˩	swap tones
+˨˦ wå ˨˦ tā	wå˨˦tā˨˦	swap tones
+˩˨ ṅå ˦˥ tā	ṅå˩˨tā˦˥	swap tones
+˨˦ ch’àn ˧ tī	ch’àn˨˦tī˧	swap tones
+˨˦ kau ˥˦ yeñ ˦˨ ạ̄	kau˨˦yeñ˥˦ạ̄˦˨	swap tones
+˧ tōi ˦˥ dàñ	tōi˧dàñ˦˥	swap tones
+˧ ya = dō ˨ lå	dō=ya˧lå˨	swap tones
+˧ ya ˧ dō = lå	ya˧lå=dō˧	swap tones
+˦˥ kō ˦ chʸeṅ ˦ ˦˨ ndau	kō˦˥chʸeṅ˦ndau˦˦˨	swap tones
+˨˦ ya ˦˥ bop	ya˨˦bop˦˥	swap tones
+˨˦ ya ˦˥ bo	ya˨˦bo˦˥	swap tones
+˦˨ ṅa ˨˦ dä	ṅa˦˨dä˨˦	swap tones
+˦˨ go da° (˦˨ sa)	da°go˦˨	swap tones
+˦˨ ṅo dä° ˦˨ to	dä°ṅo˦˨to˦˨	swap tones
+= ṅwà ˦ tīᵃ ˨ lå	ṅwà=tīᵃ˦lå˨	swap tones
+˧ ṅā ˨˩ tàṅ ˧ mā	ṅā˧tàṅ˨˩mā˧	swap tones
+˧ ṅā yaiᵏ ˧ tä	yaiᵏṅā˧tä˧	swap tones
+˧ (ā)miy (termination)	miy˧	swap tones
+˨˦ nī ˨˦ tā	nī˨˦tā˨˦	swap tones
+˩˨ nä ˦˥ tā	nä˩˨tā˦˥	swap tones
+˦˨ dān ˧ tī	dān˦˨tī˧	swap tones
+˦˨ t’àn ˧ tī	t’àn˦˨tī˧	swap tones
+˦ maụ ˥˦ yeñ ˦˨ ạ̄	maụ˦yeñ˥˦ạ̄˦˨	swap tones
+˨˩ māy ˦˥ dàñ	māy˨˩dàñ˦˥	swap tones
+˧ na = dō ˨ lå	dō=na˧lå˨	swap tones
+˧ na ˧ dō = lå	na˧lå=dō˧	swap tones
+˦ ˦˨ kāǒ ˦ chʸeṅ ˦ ˦˨ ndau	kāǒ˦˦˨chʸeṅ˦ndau˦˦˨	swap tones
+˨˩ māy ˦˥ bop	māy˨˩bop˦˥	swap tones
+˨˩ māy ˦˥ bo	māy˨˩bo˦˥	swap tones
+˦˨ ñⁱ ˨˦ dä	ñⁱ˦˨dä˨˦	swap tones
+˦˨ ni da° (˦˨ ša)	da°ni˦˨	swap tones
+˦˨ ni dä° ˦˨ to	dä°ni˦˨to˦˨	swap tones
+= nū ˦ tīᵃ ˧ lå	nū=tīᵃ˦lå˧	swap tones
+˧ nàṅ ˨˩ tàṅ ˧ mā	nàṅ˧tàṅ˨˩mā˧	swap tones
+˧ nin yaiᵏ ˧ tä	yaiᵏnin˧tä˧	swap tones
+˦ t’ā ˨˦ tā	t’ā˦tā˨˦	swap tones
+˩˨ k’ui ˦˥ tā	k’ui˩˨tā˦˥	swap tones
+˨˦ k’au ˧ tī	k’au˨˦tī˧	swap tones
+˦ màn ˥˦ yeñ ˦˨ ạ̄	màn˦yeñ˥˦ạ̄˦˨	swap tones
+˦˥ no ˦˥ dàñ	no˦˥dàñ˦˥	swap tones
+˧ a ˨ we = dō ˨ lå	a˧dō=we˨lå˨	swap tones
+˧ a ˧ wä ˧ dō = lå	a˧wä˧lå=dō˧	swap tones
+˦ nü ˦ chʸeṅ ˦ ˦˨ ndau	nü˦chʸeṅ˦ndau˦˦˨	swap tones
+˨˩ nān ˦˥ bop	nān˨˩bop˦˥	swap tones
+˨˩ nin ˦˥ bo	nin˨˩bo˦˥	swap tones
+˦ k’e ˨˦ dä	k’e˦dä˨˦	swap tones
+˨ kö du° (˦˨ ša)	du°kö˨	swap tones
+˨ ya dä° ˦˨ to	dä°ya˨to˦˨	swap tones
+˦ yī ˦ tīᵃ ˧ lå	yī˦tīᵃ˦lå˧	swap tones
+˧ hiṅ ˨˩ tàṅ ˧ mā	hiṅ˧tàṅ˨˩mā˧	swap tones
+˧ θu yaiᵏ ˧ tä	yaiᵏθu˧tä˧	swap tones
+˧ (a)tiy (termination)	tiy˧	swap tones
+˥˦ ō mārdā-e	mārdā-eō˥˦	swap tones
+˨˦ wå ˨ man ˨˦ tā	wå˨˦man˨tā˨˦	swap tones
+˩˨ ṅå ˨˩ tä ˦˥ tā	ṅå˩˨tä˨˩tā˦˥	swap tones
+˧ rau ˧ tī	rau˧tī˧	swap tones
+˧ hau ˥˦ yeñ ˦˨ ạ̄	hau˧yeñ˥˦ạ̄˦˨	swap tones
+˧ tà ˦˥ dàñ	tà˧dàñ˦˥	swap tones
+˧ pa = dō ˨ lå	dō=pa˧lå˨	swap tones
+˧ pa ˧ dō = lå	pa˧lå=dō˧	swap tones
+˦ ˦˨ pē ˦ chʸeṅ ˦ ˦˨ ndau	pē˦˦˨chʸeṅ˦ndau˦˦˨	swap tones
+˨˦ ya ˨˦ bu ˦˥ bop	ya˨˦bu˨˦bop˦˥	swap tones
+˨˦ ya ˦˥ bua ˦˥ bo	ya˨˦bua˦˥bo˦˥	swap tones
+˨˦ a ˦ se dä	a˨˦däse˦	swap tones
+a° ˨ sö då (˦˨ ša)	a°dåsö˨	swap tones
+˦˨ ño vä° dä° ˦˨ to	dä°vä°ño˦˨to˦˨	swap tones
+= ṅwà ˨ nū ˦ tīᵃ ˧ lå	ṅwà=nū˨tīᵃ˦lå˧	swap tones
+˨˩ mā ˧ le ˨˩ tàṅ ˧ mā	mā˨˩le˧tàṅ˨˩mā˧	swap tones
+˧ ṅā ˥˦ do° yaiᵏ ˥˦ tyà° ˧ dä	ṅā˧yaiᵏdo°˥˦tyà°˥˦dä˧	swap tones
+˨˦ nī ˨ man ˨˦ tā	nī˨˦man˨tā˨˦	swap tones
+˩˨ nä ˨˩ tä ˦˥ tā	nä˩˨tä˨˩tā˦˥	swap tones
+˨˦ s’ū ˥˦ yeñ ˦˨ ạ̄	s’ū˨˦yeñ˥˦ạ̄˦˨	swap tones
+˧ bày ˦˥ dàñ	bày˧dàñ˦˥	swap tones
+˧ na = θī = dō ˨ lå	dō=θī=na˧lå˨	swap tones
+˧ tü ˧ dō = lå	tü˧lå=dō˧	swap tones
+˦ ˦˨ mē ˦ chʸeṅ ˦ ˦˨ ndau	mē˦˦˨chʸeṅ˦ndau˦˦˨	swap tones
+˨˩ ñāu ˦˥ bop	ñāu˨˩bop˦˥	swap tones
+˨˩ māy ˦˥ bua ˦˥ bo	māy˨˩bua˦˥bo˦˥	swap tones
+˨˦ na ˨˦ dä	na˨˦dä˨˦	swap tones
+˨ na hi° da° (˦˨ ša)	da°hi°na˨	swap tones
+˦˨ ña vä° dä° ˦˨ to	dä°vä°ña˦˨to˦˨	swap tones
+= nū ˨ wà ˦ tīᵃ ˧ lå	nū=wà˨tīᵃ˦lå˧	swap tones
+ha ˧ neṅ ˨˩ tàṅ ˧ mā	haneṅ˧tàṅ˨˩mā˧	swap tones
+˧ nin ˥˦ do° yaiᵏ ˥˦ tyà° ˧ dä	nin˧yaiᵏdo°˥˦tyà°˥˦dä˧	swap tones
+˧ (a)ta (termination)	ta˧	swap tones
+˦ t’ā ˨ man ˨˦ tā	t’ā˦man˨tā˨˦	swap tones
+˩˨ k’ui ˨˩ tä ˦˥ tā	k’ui˩˨tä˨˩tā˦˥	swap tones
+˨˦ k’au ˨ tī	k’au˨˦tī˨	swap tones
+˨˦ k’au ˥˦ yeñ ˦˨ ạ̄	k’au˨˦yeñ˥˦ạ̄˦˨	swap tones
+˦˥ chuṅ ˦˥ no ˦˥ dàñ	chuṅ˦˥no˦˥dàñ˦˥	swap tones
+˧ a ˨ wē = θī = dō ˨ lå	a˧dō=θī=wē˨lå˨	swap tones
+˧ a ˦ wä ˥˦ θī ˧ dō = lå	a˧wä˦θī˥˦lå=dō˧	swap tones
+˦ mbāǒ ˦ chʸeṅ ˦ ˦˨ ndau	mbāǒ˦chʸeṅ˦ndau˦˦˨	swap tones
+˨˩ nān ˨˦ tsi ˦˥ bop	nān˨˩tsi˨˦bop˦˥	swap tones
+˨˩ nin ˦˥ bua ˦˥ bo	nin˨˩bua˦˥bo˦˥	swap tones
+˦ k’e ˨˦ še ˨˦ dä	k’e˦še˨˦dä˨˦	swap tones
+˨ kö hi° da° (˦˨ ša)	da°hi°kö˨	swap tones
+˨ ya vä° dä° ˦˨ to	dä°vä°ya˨to˦˨	swap tones
+˦ yī ˨ wà ˦ tīᵃ ˧ lå	yī˦wà˨tīᵃ˦lå˧	swap tones
+˧ θu ˥˦ do° yaiᵏ ˥˦ tyà° ˧ dä	θu˧yaiᵏdo°˥˦tyà°˥˦dä˧	swap tones
+˥˦ ō mārde-ne	mārde-neō˥˦	swap tones
+˨˦ wå ˨˦ tā ˨˦ lyau	wå˨˦tā˨˦lyau˨˦	swap tones
+˩˧ ṅå ˦˥ tā ˦˥ chå	ṅå˩˧tā˦˥chå˦˥	swap tones
+˨˦ ch’àn ˦˨ tai ˧ tī	ch’àn˨˦tai˦˨tī˧	swap tones
+˨˦ ch’àn ˦˨ dai ˧ tī	ch’àn˨˦dai˦˨tī˧	swap tones
+˨˦ kau ˥˦ yeñ ˥˦ yau	kau˨˦yeñ˥˦yau˥˦	swap tones
+˧ tōi ˨˦ ˦˨ dà ˦˥ dàñ	tōi˧dà˨˦˦˨dàñ˦˥	swap tones
+˧ ya = dō ˦ yū	dō=ya˧yū˦	swap tones
+˦˥ kō ˦ ˦˨ ndau ˩˨ löǚ	kō˦˥ndau˦˦˨löǚ˩˨	swap tones
+˨˦ ya ˦˥ bop ˨ yu	ya˨˦bop˦˥yu˨	swap tones
+˨˦ ya ˦˥ bo ˨˦ liēu	ya˨˦bo˦˥liēu˨˦	swap tones
+˦˨ ṅa ˨˦ dä ˦˨ ra	ṅa˦˨dä˨˦ra˦˨	swap tones
+˦˨ go da° (˦˨ ho)	da°go˦˨	swap tones
+˦˨ ṅo dä° ˦˨ ya	dä°ṅo˦˨ya˦˨	swap tones
+= ṅwà ˦ tī ˧ lå	ṅwà=tī˦lå˧	swap tones
+˨˦ nī ˨˦ tā ˨˦ lyau	nī˨˦tā˨˦lyau˨˦	swap tones
+˩˨ nä ˦˥ tā ˦˥ chå	nä˩˨tā˦˥chå˦˥	swap tones
+˦˨ dān ˦˨ tai ˧ tī	dān˦˨tai˦˨tī˧	swap tones
+˦˨ t’àn ˦˨ dai ˧ tī	t’àn˦˨dai˦˨tī˧	swap tones
+˦ maụ ˥˦ yeñ ˥˦ yau	maụ˦yeñ˥˦yau˥˦	swap tones
+˨˩ māy ˨˦ ˦˨ dà ˦˥ dàñ	māy˨˩dà˨˦˦˨dàñ˦˥	swap tones
+˧ na = dō ˦ yū	dō=na˧yū˦	swap tones
+˦ ˦˨ kāo ˦ ˦˨ ndau	kāo˦˦˨ndau˦˦˨	swap tones
+˨˩ māy ˦˥ bop ˨ yu	māy˨˩bop˦˥yu˨	swap tones
+˨˩ māy ˦˥ bo ˨˦ liēu	māy˨˩bo˦˥liēu˨˦	swap tones
+˦˨ ñⁱ ˨˦ dä ˦˨ ra	ñⁱ˦˨dä˨˦ra˦˨	swap tones
+˦˨ ni da° (˦˨ ho)	da°ni˦˨	swap tones
+˦˨ ñi dä° ˦˨ ya	dä°ñi˦˨ya˦˨	swap tones
+= nū ˦ tī ˧ lå	nū=tī˦lå˧	swap tones
+˦ t’ā ˨˦ tā ˨˦ lyau	t’ā˦tā˨˦lyau˨˦	swap tones
+˩˨ k’ui ˦˥ tā ˦˥ chå	k’ui˩˨tā˦˥chå˦˥	swap tones
+˨˦ k’au ˦˨ tai ˧ tī	k’au˨˦tai˦˨tī˧	swap tones
+˨˦ k’au ˦˨ dai ˧ tī	k’au˨˦dai˦˨tī˧	swap tones
+˦ màn ˥˦ yeñ ˥˦ yau	màn˦yeñ˥˦yau˥˦	swap tones
+˦˥ no ˨˦ ˦˨ dà ˦˥ dàñ	no˦˥dà˨˦˦˨dàñ˦˥	swap tones
+˧ a ˨ wē = dō ˦ yū	a˧dō=wē˨yū˦	swap tones
+˦ nü ˦ ˦˨ ndau ˩˨ löǚ	nü˦ndau˦˦˨löǚ˩˨	swap tones
+˨˩ nān ˦˥ bop ˨ yu	nān˨˩bop˦˥yu˨	swap tones
+˨˩ nin ˦˥ bo ˨˦ liēu	nin˨˩bo˦˥liēu˨˦	swap tones
+˦ k’e ˨˦ dä ˦˨ ra	k’e˦dä˨˦ra˦˨	swap tones
+˨ kö da° (˦˨ ho)	da°kö˨	swap tones
+˨ ya dä° ˦˨ ya	dä°ya˨ya˦˨	swap tones
+˦ yī ˦ tī ˧ lå	yī˦tī˦lå˧	swap tones
+˨˦ wå ˨ man ˨˦ tā ˨˦ lyau	wå˨˦man˨tā˨˦lyau˨˦	swap tones
+˩˨ ṅå ˨˩ tä ˦˥ tā ˦˥ chå	ṅå˩˨tä˨˩tā˦˥chå˦˥	swap tones
+˧ rau ˦˨ tai ˧ tī	rau˧tai˦˨tī˧	swap tones
+˧ rau ˦˨ dai ˧ tī	rau˧dai˦˨tī˧	swap tones
+˦ hau ˥˦ yeñ ˥˦ yau	hau˦yeñ˥˦yau˥˦	swap tones
+˧ à ˨˦ ˦˨ dà ˦˥ dàñ	à˧dà˨˦˦˨dàñ˦˥	swap tones
+˧ pa = dō ˦ yū	dō=pa˧yū˦	swap tones
+˦ ˦˨ pē ˦ ˦˨ ndau ˩˨ löǚ	pē˦˦˨ndau˦˦˨löǚ˩˨	swap tones
+˨˦ ya ˨˦ bu ˦˥ bop ˨ yu	ya˨˦bu˨˦bop˦˥yu˨	swap tones
+˨˦ ya ˦˥ bua ˦˥ bo ˨˦ liēu	ya˨˦bua˦˥bo˦˥liēu˨˦	swap tones
+˨˦ a ˦ se ˨˦ dä ˦˨ ra	a˨˦se˦dä˨˦ra˦˨	swap tones
+a° ˨ sö da° (˦˨ ho)	a°da°sö˨	swap tones
+˦˨ ño vä° dä° ˦˨ ya	dä°vä°ño˦˨ya˦˨	swap tones
+= ṅwà ˨ nū ˦ tī ˧ lå	ṅwà=nū˨tī˦lå˧	swap tones
+˨˦ nī ˧ man ˨˦ tā ˨˦ lyau	nī˨˦man˧tā˨˦lyau˨˦	swap tones
+˩˨ nä ˨˩ tä ˦˥ tā ˦˥ chå	nä˩˨tä˨˩tā˦˥chå˦˥	swap tones
+˨˦ s’ū ˥˦ yeñ ˥˦ yau	s’ū˨˦yeñ˥˦yau˥˦	swap tones
+˧ bày ˨˦ ˦˨ dà ˦˥ dàñ	bày˧dà˨˦˦˨dàñ˦˥	swap tones
+˧ na = θī = dō ˦ yū	dō=θī=na˧yū˦	swap tones
+˦ ˦˨ mē ˦ ˦˨ ndau ˩˨ löǚ	mē˦˦˨ndau˦˦˨löǚ˩˨	swap tones
+˨˩ ñāu ˦˥ bop ˨ yu	ñāu˨˩bop˦˥yu˨	swap tones
+˨˩ māy ˦˥ bua ˦˥ bo ˨˦ liēu	māy˨˩bua˦˥bo˦˥liēu˨˦	swap tones
+˨˦ na ˨˦ dä ˦˨ ra	na˨˦dä˨˦ra˦˨	swap tones
+˨ na hi° da° (˦˨ ho)	da°hi°na˨	swap tones
+˦˨ ña vä° dä° ˦˨ ya	dä°vä°ña˦˨ya˦˨	swap tones
+= nū ˨ wà ˦ tī ˧ lå	nū=wà˨tī˦lå˧	swap tones
+˦ t’ā ˨ man ˨˦ tā ˨˦ lyau	t’ā˦man˨tā˨˦lyau˨˦	swap tones
+˩˨ k’ui ˨˩ tä ˦˥ tā ˦˥ chå	k’ui˩˨tä˨˩tā˦˥chå˦˥	swap tones
+˨˦ k’au ˦˨ dai ˧tī	k’au˨˦dai˦˨˧tī	swap tones
+˨˦ k’au ˥˦ yeñ ˥˦ yau	k’au˨˦yeñ˥˦yau˥˦	swap tones
+˦˥ chuṅ ˦˥ no ˨˦ ˦˨ dà ˦˥ dàñ	chuṅ˦˥no˦˥dà˨˦˦˨dàñ˦˥	swap tones
+˧ a ˨ wē = θī = dō ˦ yū	a˧dō=θī=wē˨yū˦	swap tones
+˦ mbāǒ ˦ ˦˨ ndau ˩˧ löǚ	mbāǒ˦ndau˦˦˨löǚ˩˧	swap tones
+˨˩ nān ˨˦ tsi ˦˥ bop ˨ yu	nān˨˩tsi˨˦bop˦˥yu˨	swap tones
+˨˩ nin ˦˥ bua ˦˥ bo ˨˦ liēu	nin˨˩bua˦˥bo˦˥liēu˨˦	swap tones
+˦ k’e ˨˦ še ˨˦ dä ˦˨ ra	k’e˦še˨˦dä˨˦ra˦˨	swap tones
+˨ kö hi° da° (˦˨ ho)	da°hi°kö˨	swap tones
+˨ ya vä° dä° ˦˨ ya	dä°vä°ya˨ya˦˨	swap tones
+˦ yi ˨ wà ˦ tī ˧ lå	yi˦wà˨tī˦lå˧	swap tones
+˥˦ ōnā̃ (or ˥˦ ōnnā̃) mārěā	mārěāōnā̃˥˦	swap tones
+˨˦ wå ˦˨ yau ˨˦ tā	wå˨˦yau˦˨tā˨˦	swap tones
+˩˨ ṅå ˦ tsöṅ ˨ loi ˦˥ tā	ṅå˩˨tsöṅ˦loi˨tā˦˥	swap tones
+˨˦ ch’àn ˨ chǎ ˧ tī	ch’àn˨˦chǎ˨tī˧	swap tones
+˨˦ kau ˦ tàk ˥˦ yeñ ˦˨ ạ̄	kau˨˦tàk˦yeñ˥˦ạ̄˦˨	swap tones
+˧ tōi ˨˦ ˦˨ se ˦˥ dàñ	tōi˧se˨˦˦˨dàñ˦˥	swap tones
+˧ ya ˧ ka = dō ˨ lå	ya˧dō=ka˧lå˨	swap tones
+˧ ya ˧ ka ˧ dō	ya˧ka˧dō˧	swap tones
+˦˥ kō ˦ chʸa ˦ ˦˨ ndau	kō˦˥chʸa˦ndau˦˦˨	swap tones
+˨˦ ya ˨˦ kai ˦˥ bop	ya˨˦kai˨˦bop˦˥	swap tones
+˨˦ ya ˨˦ ōi ˦˥ bo	ya˨˦ōi˨˦bo˦˥	swap tones
+˦˨ ṅa ˨˦ dä ˧ ñⁱ ˦˨ di	ṅa˦˨dä˨˦ñⁱ˧di˦˨	swap tones
+˦˨ go da° (˦˨ tya)	da°go˦˨	swap tones
+˦˨ ṅo dä° ˦˨ bä	dä°ṅo˦˨bä˦˨	swap tones
+= nwà ˦ tīᵃ ˧ lå	nwà=tīᵃ˦lå˧	swap tones
+˧ nā ˨˩ tàṅ ˧ gū	nā˧tàṅ˨˩gū˧	swap tones
+˧ ṅā yaiᵏ ˧ mä	yaiᵏṅā˧mä˧	swap tones
+˨˦ nī ˦˨ yau ˨˦ tā	nī˨˦yau˦˨tā˨˦	swap tones
+˩˨ nä ˦ tsöṅ ˨ loi ˦˥ tā	nä˩˨tsöṅ˦loi˨tā˦˥	swap tones
+˦˨ dãn ˨ chǎ ˧ tī	dãn˦˨chǎ˨tī˧	swap tones
+˦˨ t’àn ˨ chǎ ˧ tī	t’àn˦˨chǎ˨tī˧	swap tones
+˦ maụ ˦ tàk ˥˦ yeñ ˦˨ ạ̄	maụ˦tàk˦yeñ˥˦ạ̄˦˨	swap tones
+˨˩ māy ˨˦ ˦˨ se ˦˥ dàñ	māy˨˩se˨˦˦˨dàñ˦˥	swap tones
+˧ na ˧ ka = dō ˨ lå	na˧dō=ka˧lå˨	swap tones
+˧ na ˧ ka ˧ dō	na˧ka˧dō˧	swap tones
+˦ ˦˨ kāǒ ˦ chʸa ˦ ˦˨ ndau	kāǒ˦˦˨chʸa˦ndau˦˦˨	swap tones
+˨˩ māy ˨˦ kai ˦˥ bop	māy˨˩kai˨˦bop˦˥	swap tones
+˨˩ māy ˨˦ ōi ˦˥ bo	māy˨˩ōi˨˦bo˦˥	swap tones
+˦˨ ñⁱ ˨˦ dä ˧ ñⁱ ˦˨ di	ñⁱ˦˨dä˨˦ñⁱ˧di˦˨	swap tones
+˦˨ ni da° (˦˨ tya)	da°ni˦˨	swap tones
+˦˨ ñi dä° ˦˨ bä	dä°ñi˦˨bä˦˨	swap tones
+˧ nàṅ ˨˩ tàṅ ˧ gū	nàṅ˧tàṅ˨˩gū˧	swap tones
+˧ nin yaiᵏ ˧ mä	yaiᵏnin˧mä˧	swap tones
+˦ t’ā ˦˨ yau ˨˦ tā	t’ā˦yau˦˨tā˨˦	swap tones
+˩˨ k’ui ˦ tsöṅ ˨ loi ˦˥ tā	k’ui˩˨tsöṅ˦loi˨tā˦˥	swap tones
+˨˦ k’au ˨ chǎ ˧ tī	k’au˨˦chǎ˨tī˧	swap tones
+˨˦ k’au ˨ cha ˧ tī	k’au˨˦cha˨tī˧	swap tones
+˦ màn ˦ tàk ˥˦ yeñ ˦˨ ạ̄	màn˦tàk˦yeñ˥˦ạ̄˦˨	swap tones
+˦˥ no ˨˦ ˦˨ se ˦˥ dàñ	no˦˥se˨˦˦˨dàñ˦˥	swap tones
+˧ a ˨ we ˧ ka = dō ˨ lå	a˧we˨dō=ka˧lå˨	swap tones
+˧ a ˧ wä ˧ ka ˧ dō	a˧wä˧ka˧dō˧	swap tones
+˦ nü ˦ chʸa ˦ ˦˨ ndau	nü˦chʸa˦ndau˦˦˨	swap tones
+˨˩ nān ˨˦ kai ˦˥ bop	nān˨˩kai˨˦bop˦˥	swap tones
+˨˩ nin ˨˦ ōi ˦˥ bo	nin˨˩ōi˨˦bo˦˥	swap tones
+˦ k’e ˨˦ dä ˧ ñⁱ ˦˨ di	k’e˦dä˨˦ñⁱ˧di˦˨	swap tones
+˨ kö da° (˦˨ tya)	da°kö˨	swap tones
+˨ ya dä° ˦˨ bä	dä°ya˨bä˦˨	swap tones
+˧ hiṅ ˨˩ tàṅ ˧ gū	hiṅ˧tàṅ˨˩gū˧	swap tones
+˧ θu yaiᵏ ˧ mä	yaiᵏθu˧mä˧	swap tones
+˥˦ ō māre-gā (or -dā)	māre-gāō˥˦	swap tones
+˨˦ wå ˨ man ˦˨ yau ˨˦ tā	wå˨˦man˨yau˦˨tā˨˦	swap tones
+˩˨ ṅå ˨˩ tä ˦ tsöṅ ˨ loi ˦˥ tā	ṅå˩˨tä˨˩tsöṅ˦loi˨tā˦˥	swap tones
+˧ rau ˨ chǎ ˧ tī	rau˧chǎ˨tī˧	swap tones
+˦ hau ˦ tàk ˦˨ yeñ ˦˨ ạ̄	hau˦tàk˦yeñ˦˨ạ̄˦˨	swap tones
+˧ tà ˨˦ ˦˨ se ˦˥ dàñ	tà˧se˨˦˦˨dàñ˦˥	swap tones
+˧ pa ˧ ka = dō ˨ lå	pa˧dō=ka˧lå˨	swap tones
+˧ pa ˧ ka ˧ dō	pa˧ka˧dō˧	swap tones
+˦ ˦˨ pē ˦ chʸa ˦ ˦˨ ndau	pē˦˦˨chʸa˦ndau˦˦˨	swap tones
+˨˦ ya ˨˦ bu ˨˦ kai ˦˥ bop	ya˨˦bu˨˦kai˨˦bop˦˥	swap tones
+˨˦ ya ˦˥ bua ˨˦ ōi ˦˥ bo	ya˨˦bua˦˥ōi˨˦bo˦˥	swap tones
+˨˦ a ˦ se ˨˦ dä ˧ nⁱ ˦˨ di	a˨˦se˦dä˨˦nⁱ˧di˦˨	swap tones
+å ˧ sö da° (˦˨ tya)	åda°sö˧	swap tones
+˦˨ ño vä° dä° ˦˨ bä	dä°vä°ño˦˨bä˦˨	swap tones
+˨˩ mā ˧ lē ˨˩ tàṅ ˧ gū	mā˨˩lē˧tàṅ˨˩gū˧	swap tones
+˧ ṅā ˥˦ do° yaiᵏ ˥˦ tyà° ˧ mä	ṅā˧yaiᵏdo°˥˦tyà°˥˦mä˧	swap tones
+˨˦ nī̇ ˨ man ˦˨ yau ˨˦ tā	nī˨˦man˨yau˦˨tā˨˦	swap tones
+˩˨ nä ˨˩ tä ˦ tsöṅ ˨ loi ˦˥ tā	nä˩˨tä˨˩tsöṅ˦loi˨tā˦˥	swap tones
+˦˨ dān ˨ chǎ ˧ tī	dān˦˨chǎ˨tī˧	swap tones
+˨˦ s’ū ˦ tàk ˥˦ yeñ ˦˨ ạ̄	s’ū˨˦tàk˦yeñ˥˦ạ̄˦˨	swap tones
+˧ bày ˨˦ ˦˨ se ˦˥ dàñ	bày˧se˨˦˦˨dàñ˦˥	swap tones
+˧ na = θī ˧ ka = dō ˨ lå	θī=na˧dō=ka˧lå˨	swap tones
+˧ θü ˧ ka ˧ dō	θü˧ka˧dō˧	swap tones
+˦ ˦˨ mē ˦ chʸa ˦ ˦˨ ndau	mē˦˦˨chʸa˦ndau˦˦˨	swap tones
+˨˩ ñāu ˨˦ kai ˦˥ bop	ñāu˨˩kai˨˦bop˦˥	swap tones
+˨˩ māy ˦˥ bua ˨˦ ōi ˦˥ bo	māy˨˩bua˦˥ōi˨˦bo˦˥	swap tones
+˨˦ na ˨˦ dä ˧ ñⁱ ˦˨ di	na˨˦dä˨˦ñⁱ˧di˦˨	swap tones
+˨ na hi° da° (˦˨ tya)	da°hi°na˨	swap tones
+˦˨ ña vä° dä° ˦˨ bä	dä°vä°ña˦˨bä˦˨	swap tones
+ha ˧ neṅ ˨˩ tàṅ ˧ gū	haneṅ˧tàṅ˨˩gū˧	swap tones
+˧ nin ˥˦ do° yaiᵏ ˥˦ tyà° ˧ mä	nin˧yaiᵏdo°˥˦tyà°˥˦mä˧	swap tones
+˦ t’ā ˨ man ˦˨ yau ˨˦ tā	t’ā˦man˨yau˦˨tā˨˦	swap tones
+˩˨ k’ui ˨˩ tä ˦ tsöṅ ˨ loi ˦˥ tā	k’ui˩˨tä˨˩tsöṅ˦loi˨tā˦˥	swap tones
+˨˦ k’au ˦ tàk ˥˦ yeñ ˦˨ ạ̄	k’au˨˦tàk˦yeñ˥˦ạ̄˦˨	swap tones
+˦˥ chuṅ ˦˥ no ˨˦ ˦˨ se ˦˥ dàñ	chuṅ˦˥no˦˥se˨˦˦˨dàñ˦˥	swap tones
+˧ a ˨ wē = θī ˧ ka = dō ˨ lå	a˧θī=wē˨dō=ka˧lå˨	swap tones
+˧ a ˧ wä ˥˦ θī ˧ ka ˧ do	a˧wä˧θī˥˦ka˧do˧	swap tones
+˦ mbāǒ ˦ chʸa ˦ ˦˨ ndau	mbāǒ˦chʸa˦ndau˦˦˨	swap tones
+˨˩ nān ˨˦ tsi ˨˦ kai ˦˥ bop	nān˨˩tsi˨˦kai˨˦bop˦˥	swap tones
+˨˩ nin ˦˥ bua ˨˦ ōi ˦˥ bo	nin˨˩bua˦˥ōi˨˦bo˦˥	swap tones
+˦ k’e ˨˦ še ˨˦ dä ˧ ñⁱ ˦˨ di	k’e˦še˨˦dä˨˦ñⁱ˧di˦˨	swap tones
+˨ kö hi° da° (˦˨ tya)	da°hi°kö˨	swap tones
+˨ ya vä° dä° ˦˨ bä	dä°vä°ya˨bä˦˨	swap tones
+˧ θu ˥˦ do° yaiᵏ ˥˦ tyà° ˧ mä	θu˧yaiᵏdo°˥˦tyà°˥˦mä˧	swap tones
+˥˦ ō māran-ge (or -de)	māran-geō˥˦	swap tones
+˨˦ wå ˦˨ k’ü (or ˦˨ k’a)	wå˨˦k’ü˦˨	swap tones
+˩˨ ṅå ˥˦ hui	ṅå˩˨hui˥˦	swap tones
+˨˦ ch’àn ˧ pai	ch’àn˨˦pai˧	swap tones
+˨˦ kau ˨˦ pai ˦˨ ạ̄	kau˨˦pai˨˦ạ̄˦˨	swap tones
+˧ tōi ˧ di	tōi˧di˧	swap tones
+˧ ya ˨˦ lē ˨ lå	ya˧lē˨˦lå˨	swap tones
+˧ ya = lä = lå	lå=lä=ya˧	swap tones
+˦˥ kō ˦ chʸeṅ ˦ mō	kō˦˥chʸeṅ˦mō˦	swap tones
+˨˦ ya ˨˩ mu	ya˨˦mu˨˩	swap tones
+˨˦ ya ˨˩ miñ	ya˨˦miñ˨˩	swap tones
+˦˨ ṅa ˦˨ že	ṅa˦˨že˦˨	swap tones
+˦˨ go ˦˨ li (˦˨ ša)	go˦˨li˦˨	swap tones
+˦˨ ṅo ˦˨ yi ˦˨ to	ṅo˦˨yi˦˨to˦˨	swap tones
+= ṅwà = yeᵃ ˧ lå	yeᵃ=ṅwà=lå˧	swap tones
+˧ ṅā ˧ nàṅ ˧ mā	ṅā˧nàṅ˧mā˧	swap tones
+ṅā ˨˩ šwā šañ	ṅāšañšwā˨˩	swap tones
+˧ ṅā ˨˩ θwā ˧ dä	ṅā˧θwā˨˩dä˧	swap tones
+˨˦ nī ˦˨ k’ü (or ˦˨ k’a)	nī˨˦k’ü˦˨	swap tones
+˩˨ nä ˥˦ hui	nä˩˨hui˥˦	swap tones
+˦˨ dān ˧ pai	dān˦˨pai˧	swap tones
+˦˨ t’àn ˧ pai	t’àn˦˨pai˧	swap tones
+˦ maụ ˨˦ pai ˦˨ ạ̄	maụ˦pai˨˦ạ̄˦˨	swap tones
+˨˩ māy ˧ di	māy˨˩di˧	swap tones
+˧ na ˨˦ lē ˨ lå	na˧lē˨˦lå˨	swap tones
+˧ na = lä = lå	lå=lä=na˧	swap tones
+˦˦˨ kāǒ ˦ chʸeṅ ˦ mō	kāǒ˦˦˨chʸeṅ˦mō˦	swap tones
+˨˩ māy ˨˩ mu	māy˨˩mu˨˩	swap tones
+˨˩ māy ˨˩ miñ	māy˨˩miñ˨˩	swap tones
+˦˨ ñⁱ ˦˨ že	ñⁱ˦˨že˦˨	swap tones
+˦˨ ni ˦˨ li (˦˨ ša)	ni˦˨li˦˨	swap tones
+˦˨ ñi ˦˨ yi ˦˨ to	ñi˦˨yi˦˨to˦˨	swap tones
+= nū = yeᵃ ˧ lå	yeᵃ=nū=lå˧	swap tones
+˧ nàṅ ˧ nàṅ ˧ mā	nàṅ˧nàṅ˧mā˧	swap tones
+naṅ ˨˩ šwā šañ	naṅšañšwā˨˩	swap tones
+˧ nin ˨˩ θwā ˧ dä	nin˧θwā˨˩dä˧	swap tones
+˦ t’ā ˦˨ k’ü (or ˦˨ k’a)	t’ā˦k’ü˦˨	swap tones
+˩˨ k’ui ˥˦ hui	k’ui˩˨hui˥˦	swap tones
+˨˦ k’au ˧ pai	k’au˨˦pai˧	swap tones
+˦ màn ˨˦ pai ˦˨ ạ̄	màn˦pai˨˦ạ̄˦˨	swap tones
+˦˥ no ˧ di	no˦˥di˧	swap tones
+˧ a ˨ wē ˨˦ lē ˨ lå	a˧wē˨lē˨˦lå˨	swap tones
+˧ a ˧ wä = lä = lå	a˧lå=lä=wä˧	swap tones
+˦ nü ˦ chʸeṅ ˦ mō	nü˦chʸeṅ˦mō˦	swap tones
+˨˩ nān ˨˩ mu	nān˨˩mu˨˩	swap tones
+˨˩ nin ˨˩ miñ	nin˨˩miñ˨˩	swap tones
+˧ k’e ˦˨ že	k’e˧že˦˨	swap tones
+˨ kö ˦˨ li (˦˨ ša)	kö˨li˦˨	swap tones
+˨ ya ˦˨ yi ˦˨ to	ya˨yi˦˨to˦˨	swap tones
+˦ yī = yeᵃ ˧ lå	yeᵃ=yī˦lå˧	swap tones
+˧ hiṅ ˧ nàṅ ˧ mā	hiṅ˧nàṅ˧mā˧	swap tones
+šū ˨˩ šwā šañ	šūšañšwā˨˩	swap tones
+˧ θu ˨˩ θwā ˧ dä	θu˧θwā˨˩dä˧	swap tones
+˥˦ ō jāndā-e	jāndā-eō˥˦	swap tones
+˨˦ wå ˨ man ˦˨ k’ü (or ˦˨ k’a)	wå˨˦man˨k’ü˦˨	swap tones
+˩˨ ṅå ˨˩ tå ˥˦ hui	ṅå˩˨tå˨˩hui˥˦	swap tones
+˧ rau ˧ pai	rau˧pai˧	swap tones
+˧ hau ˨˦ pai ˦˨ ā	hau˧pai˨˦ā˦˨	swap tones
+˧ tà ˧ di	tà˧di˧	swap tones
+˧ pa ˨˦ lē ˨ lå	pa˧lē˨˦lå˨	swap tones
+˧ pa = lä = lå	lå=lä=pa˧	swap tones
+˦˦˨ pē ˦ chʸeṅ ˦ mō	pē˦˦˨chʸeṅ˦mō˦	swap tones
+˨˦ ya ˨˦ bu ˨˩ mu	ya˨˦bu˨˦mu˨˩	swap tones
+˨˦ ˦˥ bua ˨˩ miñ	bua˨˦˦˥miñ˨˩	swap tones
+˨˦ a ˦ se ˦˨ že	a˨˦se˦že˦˨	swap tones
+a° ˨ sö ˦˨ li (˦˨ ša)	a°sö˨li˦˨	swap tones
+˦˨ ño vä° ˦˨ yi ˦˨ to	vä°ño˦˨yi˦˨to˦˨	swap tones
+= ṅwà ˨ nū = yeᵃ ˧ lå	ṅwà=yeᵃ=nū˨lå˧	swap tones
+˨˩ mā ˧ le ˧ nàṅ ˧ mā	mā˨˩le˧nàṅ˧mā˧	swap tones
+ṅā tui° ˨˩ šwā kra šañ	tui°ṅāšañkrašwā˨˩	swap tones
+˧ nā ˥˦ do° ˨˩ θwā ˥˦ dyà° ˧ dä	nā˧do°˥˦θwā˨˩dyà°˥˦dä˧	swap tones
+˨˦ nī ˨ man ˦˨ k’ü (or ˦˨ k’a)	nī˨˦man˨k’ü˦˨	swap tones
+˩˨ nä ˨˩ tä ˥˦ hui	nä˩˨tä˨˩hui˥˦	swap tones
+˨˦ s’ū ˨˦ pai ˦˨ ạ̄	s’ū˨˦pai˨˦ạ̄˦˨	swap tones
+˧ bāy ˧ di	bāy˧di˧	swap tones
+˧ na = θī ˨˦ lē ˨ lå	θī=na˧lē˨˦lå˨	swap tones
+˧ θü = lä = lå	lå=lä=θü˧	swap tones
+˦˦˨ mē ˦ chʸeṅ ˦ mō	mē˦˦˨chʸeṅ˦mō˦	swap tones
+˨˩ ñāu ˨˩ mu	ñāu˨˩mu˨˩	swap tones
+˨˩ māy ˦˥ bua ˨˩ miñ	māy˨˩bua˦˥miñ˨˩	swap tones
+˨˦ na ˦˨ že	na˨˦že˦˨	swap tones
+˨ na hi° ˦˨ li (˦˨ ša)	hi°na˨li˦˨	swap tones
+˦˨ ña vä° ˦˨ yi ˦˨ to	vä°ña˦˨yi˦˨to˦˨	swap tones
+= nū ˨ wà = yeᵃ ˧ lå	nū=yeᵃ=wà˨lå˧	swap tones
+ha ˧ neṅ ˧ nàṅ ˧ mā	haneṅ˧nàṅ˧mā˧	swap tones
+naṅ tui° ˨˩ šwā kra šañ	tui°naṅšañkrašwā˨˩	swap tones
+˧ nin ˥˦ do° ˨˩ θwā ˥˦ dyà° ˧ dä	nin˧do°˥˦θwā˨˩dyà°˥˦dä˧	swap tones
+˦ t’ā ˨ man ˦˨ k’ü (or ˦˨ k’a)	t’ā˦man˨k’ü˦˨	swap tones
+˩˨ k’ui ˨˩ tä ˥˦ hui	k’ui˩˨tä˨˩hui˥˦	swap tones
+˨˦ k’au ˨˦ pai ˦˨ ạ̄	k’au˨˦pai˨˦ạ̄˦˨	swap tones
+˦˥ chuṅ ˦˥ no ˧ di	chuṅ˦˥no˦˥di˧	swap tones
+˧ a ˨ wē = θī ˨˦ lē ˨ lå	a˧θī=wē˨lē˨˦lå˨	swap tones
+˧ a ˧ wä ˥˦ θī = lä = lå	a˧wä˧lå=lä=θī˥˦	swap tones
+˦ mbāǒ ˦ chʸeṅ ˦ mō	mbāǒ˦chʸeṅ˦mō˦	swap tones
+˨˩ nān ˨˦ tsi ˨˩ mu	nān˨˩tsi˨˦mu˨˩	swap tones
+˨˩ nin ˦˥ bua ˨˩ miñ	nin˨˩bua˦˥miñ˨˩	swap tones
+˦ k’e ˨˦ še ˦˨ že	k’e˦še˨˦že˦˨	swap tones
+˨ kö hi° ˦˨ li (˦˨ ša)	hi°kö˨li˦˨	swap tones
+˨ ya vä° ˦˨ yi ˦˨ to	vä°ya˨yi˦˨to˦˨	swap tones
+˦ yī ˨ wa = yeᵃ ˧ lå	yī˦yeᵃ=wa˨lå˧	swap tones
+šū tui° ˨˩ šwā kra šañ	tui°šūšañkrašwā˨˩	swap tones
+˧ θu ˥˦ do° ˨˩ θwā ˥˦ dyà° ˧ dä	θu˧do°˥˦θwā˨˩dyà°˥˦dä˧	swap tones
+˥˦ ō jānde-ne	jānde-neō˥˦	swap tones
+˨˦ wå ˦˨ k’ü (or ˦˨ k’a) ˨˦ lyau	wå˨˦k’ü˦˨lyau˨˦	swap tones
+˩˨ ṅå ˥˦ hui ˦˥ chå	ṅå˩˨hui˥˦chå˦˥	swap tones
+˨˦ ch’àn ˦˨ tai ˧ pai	ch’àn˨˦tai˦˨pai˧	swap tones
+˨˦ ch’àn ˦˨ dai ˧ pai	ch’àn˨˦dai˦˨pai˧	swap tones
+˨˦ kau ˨˦ pai ˥˦ yau	kau˨˦pai˨˦yau˥˦	swap tones
+˧ tōi ˨˦ ˦˨ dà ˧ di	tōi˧dà˨˦˦˨di˧	swap tones
+˧ ya ˨˦ lē ˦ yū	ya˧lē˨˦yū˦	swap tones
+˦˥ kō ˦ mō ˩˨ löǚ	kō˦˥mō˦löǚ˩˨	swap tones
+˨˦ ya ˨˩ mu ˨ yu	ya˨˦mu˨˩yu˨	swap tones
+˨˦ ya ˨˩ miñ ˨˦ liēu	ya˨˦miñ˨˩liēu˨˦	swap tones
+˦˨ ṅa ˦˨ že ˦˨ ra	ṅa˦˨že˦˨ra˦˨	swap tones
+˦˨ go ˦˨ li (˦˨ ho)	go˦˨li˦˨	swap tones
+˦˨ ṅo ˦˨ yi ˦˨ ya	ṅo˦˨yi˦˨ya˦˨	swap tones
+= ṅwà = ye ˧ lå	ye=ṅwà=lå˧	swap tones
+˨˦ nī ˦˨ k’ü (or ˦˨ k’a) ˨˦ lyau	nī˨˦k’ü˦˨lyau˨˦	swap tones
+˩˨ nä ˥˦ hui ˦˥ chå	nä˩˨hui˥˦chå˦˥	swap tones
+˦˨ dān ˦˨ tai ˧ pai	dān˦˨tai˦˨pai˧	swap tones
+˦˨ t’àn ˦˨ dai ˧ pai	t’àn˦˨dai˦˨pai˧	swap tones
+˧ maụ ˨˦ pai ˥˦ yau	maụ˧pai˨˦yau˥˦	swap tones
+˨˩ māy ˨˦ ˦˨ dà ˧ di	māy˨˩dà˨˦˦˨di˧	swap tones
+˧ na ˨˦ lā ˦ yū	na˧lā˨˦yū˦	swap tones
+˦˦˨ kāǒ ˦ mō ˩˨ löǚ	kāǒ˦˦˨mō˦löǚ˩˨	swap tones
+˨˩ māy ˨˩ mu ˨ yu	māy˨˩mu˨˩yu˨	swap tones
+˨˩ māy ˨˩ miñ ˨˦ liēu	māy˨˩miñ˨˩liēu˨˦	swap tones
+˦˨ ñⁱ ˦˨ že ˦˨ ra	ñⁱ˦˨že˦˨ra˦˨	swap tones
+˦˨ ni ˦˨ li (˦˨ ho)	ni˦˨li˦˨	swap tones
+˦˨ ni ˦˨ yi ˦˨ ya	ni˦˨yi˦˨ya˦˨	swap tones
+= nū = ye ˧ lå	ye=nū=lå˧	swap tones
+˦ t’ā ˦˨ k’ü (or ˦˨ k’a) ˨˦ lyau	t’ā˦k’ü˦˨lyau˨˦	swap tones
+˩˨ k’ui ˥˦ hui ˦˥ chå	k’ui˩˨hui˥˦chå˦˥	swap tones
+˨˦ k’au ˦˨ tai ˧ pai	k’au˨˦tai˦˨pai˧	swap tones
+˨˦ k’au ˦˨ dai ˧ pai	k’au˨˦dai˦˨pai˧	swap tones
+˦ màn ˨˦ pai ˥˦ yau	màn˦pai˨˦yau˥˦	swap tones
+˦˥ no ˨˦ ˦˨ dà ˧ di	no˦˥dà˨˦˦˨di˧	swap tones
+˧ a ˨ wē ˨˦ lē ˦ yū	a˧wē˨lē˨˦yū˦	swap tones
+˦ nü ˦ mō ˩˨ löǚ	nü˦mō˦löǚ˩˨	swap tones
+˨˩ nān ˨˩ mu ˨ yu	nān˨˩mu˨˩yu˨	swap tones
+˨˩ nin ˨˩ miñ ˨˦ liēu	nin˨˩miñ˨˩liēu˨˦	swap tones
+˦ k’e ˦˨ že ˦˨ ra	k’e˦že˦˨ra˦˨	swap tones
+˨ kö ˦˨ li (˦˨ ho)	kö˨li˦˨	swap tones
+˨ ya ˦˨ yi ˦˨ ya	ya˨yi˦˨ya˦˨	swap tones
+˦ yī = ye ˧ lå	ye=yī˦lå˧	swap tones
+˥˦ ō geā	geāō˥˦	swap tones
+˨˦ wå ˨ man ˦˨ k’ü (or k’a) ˨˦ lyau	wå˨˦man˨k’ü˦˨lyau˨˦	swap tones
+˩˨ ṅå ˨˩ tä ˥˦ hui ˦˥ chå	ṅå˩˨tä˨˩hui˥˦chå˦˥	swap tones
+˧ rau ˦˨ tai ˧ pai	rau˧tai˦˨pai˧	swap tones
+˧ rau ˦˨ dai ˧ pai	rau˧dai˦˨pai˧	swap tones
+˦ kau ˨˦ pai ˥˦ yau	kau˦pai˨˦yau˥˦	swap tones
+˧ tà ˨˦ ˦˨ dà ˧ di	tà˧dà˨˦˦˨di˧	swap tones
+˧ pa ˨˦ lē ˦ yū	pa˧lē˨˦yū˦	swap tones
+˦˦˨ pē ˦ mō ˩˨ löǚ	pē˦˦˨mō˦löǚ˩˨	swap tones
+˨˦ ya ˨˦ bu ˨˩ my ˨ yu	ya˨˦bu˨˦my˨˩yu˨	swap tones
+˦˥ ya ˦˥ bua ˨˩ miñ ˨˦ liēu	ya˦˥bua˦˥miñ˨˩liēu˨˦	swap tones
+˨˦ a ˦ se ˦˨ že ˦˨ ra	a˨˦se˦že˦˨ra˦˨	swap tones
+a° ˨ sö ˦˨ li (˦˨ ho)	a°sö˨li˦˨	swap tones
+˦˨ ño vä° ˦˨ yi ˦˨ ya	vä°ño˦˨yi˦˨ya˦˨	swap tones
+= ṅwà ˨ nū = ye ˧ lå	ṅwà=ye=nū˨lå˧	swap tones
+˨˦ nī ˨ mam ˦˨ k’ü (or ˦˨ k’a) ˨˦ lyau	nī˨˦mam˨k’ü˦˨lyau˨˦	swap tones
+˩˨ nä ˨˩ tä ˥˦ hui ˦˥ chå	nä˩˨tä˨˩hui˥˦chå˦˥	swap tones
+˨˦ s’ū ˨˦ pai ˥˦ yau	s’ū˨˦pai˨˦yau˥˦	swap tones
+˧ bày ˨˦ ˦˨ dà ˧ di	bày˧dà˨˦˦˨di˧	swap tones
+˧ na = θī ˨˦ lē ˦ yū	θī=na˧lē˨˦yū˦	swap tones
+˦˦˨ mē ˦ mō ˩˨ löǚ	mē˦˦˨mō˦löǚ˩˨	swap tones
+˨˩ ñāu ˨˩ mu ˨ yu	ñāu˨˩mu˨˩yu˨	swap tones
+˨˩ māy ˦˥ bua ˨˩ miñ ˨˦ liēu	māy˨˩bua˦˥miñ˨˩liēu˨˦	swap tones
+˨˦ na ˦˨ ze ˦˨ ra	na˨˦ze˦˨ra˦˨	swap tones
+˨ na hi° ˦˨ li (˦˨ ho)	hi°na˨li˦˨	swap tones
+˦˨ ña vä° ˦˨ yi ˦˨ ya	vä°ña˦˨yi˦˨ya˦˨	swap tones
+= nū ˨ wà = ye ˧ lå	nū=ye=wà˨lå˧	swap tones
+˦ t’ā ˨ man ˦˨ k’ü (or ˦˨ k’a) ˨˦ lyau	t’ā˦man˨k’ü˦˨lyau˨˦	swap tones
+˩˨ k’ui ˨˩ tä ˥˦ hui ˦˥ chå	k’ui˩˨tä˨˩hui˥˦chå˦˥	swap tones
+˨˦ k’au ˨˦ pai ˥˦ yau	k’au˨˦pai˨˦yau˥˦	swap tones
+˦˥ chuṅ ˦˥ no ˨˦ ˦˨ dà ˧ di	chuṅ˦˥no˦˥dà˨˦˦˨di˧	swap tones
+˧ a ˨ wē = θī ˨˦ lē ˦ yū	a˧θī=wē˨lē˨˦yū˦	swap tones
+˦ mbāǒ ˦ mō ˩˨ löǚ	mbāǒ˦mō˦löǚ˩˨	swap tones
+˨˩ nān ˨˦ tsi ˨˩ mu ˨ yu	nān˨˩tsi˨˦mu˨˩yu˨	swap tones
+˨˩ nin ˦˥ bua ˨˩ miñ ˨˦ liēu	nin˨˩bua˦˥miñ˨˩liēu˨˦	swap tones
+˦ k’e ˨˦ še ˦˨ že ˦˨ ra	k’e˦še˨˦že˦˨ra˦˨	swap tones
+˨ kö hi° ˦˨ li (˦˨ ho)	hi°kö˨li˦˨	swap tones
+˨ ya vä° ˦˨ yi ˦˨ ya	vä°ya˨yi˦˨ya˦˨	swap tones
+˦ yī ˨ wà = ye ˧ lå	yī˦ye=wà˨lå˧	swap tones
+˥˦ ō gaie	gaieō˥˦	swap tones
+˨˧ nī ˨ man ˨ ti° (P.)	nī˨˧man˨ti°˨	swap tones
+˩˨ nä ˨˩ tä ˥˦ kē (P.)	nä˩˨tä˨˩kē˥˦	swap tones
+˨˧ s’ū (F.)	s’ū˨˧	swap tones
+˦˥ chuṅ ˨ bày	chuṅ˦˥bày˨	swap tones
+˨ na = θī (P.)	θī=na˨	swap tones
+˨ θü (P.)	θü˨	swap tones
+˧ ˧˨ mē (P.)	mē˧˧˨	swap tones
+˧ ˧˨ mē ˧ li	mē˧˧˨li˧	swap tones
+˨˩ ñāu ˨˧ ñàṅ	ñāu˨˩ñàṅ˨˧	swap tones
+˨˩ māy ˦˥ bua ˨˧ ṯs̱āy	māy˨˩bua˦˥ṯs̱āy˨˧	swap tones
+˨˧ (P.)	˨˧	swap tones
+˨ na hi° (dyi°) (P.)	hi°na˨	swap tones
+˨ na (˧˨ vi) (P.)	na˨	swap tones
+˧˨ ña vä° (P.)	vä°ña˧˨	swap tones
+= nū ˨ wà (P.)	nū=wà˨	swap tones
+ha ˨ neṅ (P.)	haneṅ˨	swap tones
+˨˩ maṅ tui° (ēñ°) (P.)	tui°maṅ˨˩	swap tones
+˨ nin ˥˦ do° (P.)	nin˨do°˥˦	swap tones
+˨˩ min ˥˦ do° (P.)	min˨˩do°˥˦	swap tones
+tu ˩˨ āḍḍā	tuāḍḍā˩˨	swap tones
+˩˨ k’ui	k’ui˩˨	swap tones
+˨˧ k’au	k’au˨˧	swap tones
+˨ màn	màn˨	swap tones
+˦ màn	màn˦	swap tones
+˦˥ no	no˦˥	swap tones
+˧ a ˨ wē	a˧wē˨	swap tones
+˨ a ˨ wä	a˨wä˨	swap tones
+˦ nü	nü˦	swap tones
+˦ nē	nē˦	swap tones
+˨˩ nān	nān˨˩	swap tones
+˨˩ nin	nin˨˩	swap tones
+˦ k’e	k’e˦	swap tones
+˨ kö	kö˨	swap tones
+˨ ya	ya˨	swap tones
+˦ yī	yī˦	swap tones
+˨ hiṅ	hiṅ˨	swap tones
+˥˦ ō	ō˥˦	swap tones
+˦ t’ā ˨ ti° (P.)	t’ā˦ti°˨	swap tones
+˩˨ k’ui ˥˦ kē (P.)	k’ui˩˨kē˥˦	swap tones
+˨˧ k’aṅ ˨˧ k’au (F.)	k’aṅ˨˧k’au˨˧	swap tones
+˧ màn (F.)	màn˧	swap tones
+˦˥ no (F.)	no˦˥	swap tones
+˦ a ˨ wē ˧a (P.)	a˦wē˨˧a	swap tones
+˧ a (P.)	a˧	swap tones
+˦ nē (P.)	nē˦	swap tones
+˦ nü ˦ li	nü˦li˦	swap tones
+˨˩ nān ˨˧ ñàṅ	nān˨˩ñàṅ˨˧	swap tones
+˨˩ nin ˨˧ ṯs̱āy	nin˨˩ṯs̱āy˨˧	swap tones
+˦ k’e (P.)	k’e˦	swap tones
+˨ kö (dyi°) (P.)	kö˨	swap tones
+˨ kö (˧˨ vi) (P.)	kö˨	swap tones
+˨ ya (P.)	ya˨	swap tones
+˦ yī (P.)	yī˦	swap tones
+˨ hiṅ (P.)	hiṅ˨	swap tones
+˦˧ θu° (P.)	θu°˦˧	swap tones
+˦˧ ōdā	ōdā˦˧	swap tones
+˦˧ ōddā	ōddā˦˧	swap tones
+˦ t’ā ˨ man	t’ā˦man˨	swap tones
+˩˨ k’ui ˨˩ tä	k’ui˩˨tä˨˩	swap tones
+˦˥ chuṅ ˦˥ no	chuṅ˦˥no˦˥	swap tones
+˧ a ˨ wē = θī	a˧θī=wē˨	swap tones
+˧ a ˧ wä	a˧wä˧	swap tones
+˧ a ˧ wä ˥˦ θī	a˧wä˧θī˥˦	swap tones
+˦ mbāǒ	mbāǒ˦	swap tones
+˨˩ nān ˨˧ ṯs̱i	nān˨˩ṯs̱i˨˧	swap tones
+˨˩ nin ˦˥ bua	nin˨˩bua˦˥	swap tones
+˦ k’e ˨˧ še	k’e˦še˨˧	swap tones
+˨ kö hi°	hi°kö˨	swap tones
+˨ ya vä°	vä°ya˨	swap tones
+˦ yī ˨ wà	yī˦wà˨	swap tones
+ha ˧ neṅ	haneṅ˧	swap tones
+˨ θu ˥˦ do°	θu˨do°˥˦	swap tones
+˧ t’a ˨ man ˨ ti° (P.)	t’a˧man˨ti°˨	swap tones
+˩˨ k’ui ˨˩ tä ˥˦ kē (P.)	k’ui˩˨tä˨˩kē˥˦	swap tones
+˨˧ k’åṅ ˨˧ k’au (F.)	k’åṅ˨˧k’au˨˧	swap tones
+˨˧ k’au (F.)	k’au˨˧	swap tones
+˦˥ chuṅ ˦˥ no (F.)	chuṅ˦˥no˦˥	swap tones
+˧ a ˨ wē = θī ˧ a- ((P.)	a˧θī=wē˨a-˧	swap tones
+˦ mbāǒ (P.)	mbāǒ˦	swap tones
+˦ mbāǒ ˦ li	mbāǒ˦li˦	swap tones
+˨˩ nān ˨˧ ṯs̱i ˨˧ ñàṅ	nān˨˩ṯs̱i˨˧ñàṅ˨˧	swap tones
+˨˩ nin bua ˨˧ ṯs̱āy	buanin˨˩ṯs̱āy˨˧	swap tones
+˦ k’e ˨˦ še (P.)	k’e˦še˨˦	swap tones
+˨ kö hi° (dyi°) (P.)	hi°kö˨	swap tones
+˨ ya vä° (P.)	vä°ya˨	swap tones
+˦ yī ˨ wà (P.)	yī˦wà˨	swap tones
+ha ˧ neṅ (P.)	haneṅ˧	swap tones
+θu ˥˦ do° (P.)	θudo°˥˦	swap tones
+˥˦ ōnā̃dā	ōnā̃dā˥˦	swap tones
+˥˦ ōnnā̃dā	ōnnā̃dā˥˦	swap tones
+o ˩˨ nā̃dā	onā̃dā˩˨	swap tones
+˨˧ šō	šō˨˧	swap tones
+˨˧ sō	sō˨˧	swap tones
+˦ mụ̄	mụ̄˦	swap tones
+˧ tày	tày˧	swap tones
+˧ sü	sü˧	swap tones
+˦ ˦˨ ṯs̱ai ˧ tē	ṯs̱ai˦˦˨tē˧	swap tones
+˨˩ pu ˦˥ pēn	pu˨˩pēn˦˥	swap tones
+˨˩ pua	pua˨˩	swap tones
+˧˨ lē ˧˨ p’ē	lē˧˨p’ē˧˨	swap tones
+˨˧ lyē ˨ pö	lyē˨˧pö˨	swap tones
+˨˧ lä ˨ vö	lä˨˧vö˨	swap tones
+˨ lǎ° ˨˦ p’ǎ	lǎ°˨p’ǎ˨˦	swap tones
+ta ˨˩ hu	tahu˨˩	swap tones
+˩˨ att’	att’˩˨	swap tones
+˩˨ hatte	hatte˩˨	swap tones
+˨ chüå°	chüå°˨	swap tones
+˥˦ kök ˦ tsuk	kök˥˦tsuk˦	swap tones
+˧ tīn	tīn˧	swap tones
+˦ ˦˨ dāo	dāo˦˦˨	swap tones
+˧ tin	tin˧	swap tones
+˦ ˦˨ t’āo	t’āo˦˦˨	swap tones
+˨˧ tīn	tīn˨˧	swap tones
+˧ chön	chön˧	swap tones
+˥˦ k’å ˥˦ lā	k’å˥˦lā˥˦	swap tones
+˦ ˦˨ chyē	chyē˦˦˨	swap tones
+˦˥ kō ˦ töǚ	kō˦˥töǚ˦	swap tones
+˦˥ ṯs̱ao ˦˥ pēn	ṯs̱ao˦˥pēn˦˥	swap tones
+˨˩ chyao pēn	pēnchyao˨˩	swap tones
+˨˧ ch’e ˧ bē	ch’e˨˧bē˧	swap tones
+˧˨ k’i ˦ byē	k’i˧˨byē˦	swap tones
+˦ ch’ö	ch’ö˦	swap tones
+˦˨ chö ˨˦ vö	chö˦˨vö˨˦	swap tones
+˧ ch’ī ˨˦ p’ǎ	ch’ī˧p’ǎ˨˦	swap tones
+˧ tā	tā˧	swap tones
+˨ pi°	pi°˨	swap tones
+˨˩ pä	pä˨˩	swap tones
+˦˨ chǎmūk	chǎmūk˦˨	swap tones
+˧˨ k’ū ˨˧ làṅ	k’ū˧˨làṅ˨˧	swap tones
+˨˧ ˧˨ muy	muy˨˧˧˨	swap tones
+˨ na ˨ p’u	na˨p’u˨	swap tones
+˧ nā ˧ dē	nā˧dē˧	swap tones
+˧ nā = sē	sē=nā˧	swap tones
+˦˥ ṯs̱i ˦ ˦˨ nyü	ṯs̱i˦˥nyü˦˦˨	swap tones
+˨˩ bu ˨˦ chyōṅ	bu˨˩chyōṅ˨˦	swap tones
+˧ na ˨˦ bi	na˧bi˨˦	swap tones
+˦ no ˨˦ bo	no˦bo˨˦	swap tones
+˨ no ˨˦ bi	no˨bi˨˦	swap tones
+˧ nà = be	be=nà˧	swap tones
+sa ˧ nā	sanā˧	swap tones
+nhà ˨˩ k’ōṅ	nhàk’ōṅ˨˩	swap tones
+hnà ˨˩ k’auṅ	hnàk’auṅ˨˩	swap tones
+˨˦ yen	yen˨˦	swap tones
+˩˨ ṅān	ṅān˩˨	swap tones
+˨ màk ˨˦ tā	màk˨tā˨˦	swap tones
+˧ kon ˦˥ màt	kon˧màt˦˥	swap tones
+˦ mē° = θa	θa=mē°˦	swap tones
+˦˨ tā ˧ mä° ˧ k’lī	tā˦˨mä°˧k’lī˧	swap tones
+˦˥ ꭓāǒ ˦ mwa	ꭓāǒ˦˥mwa˦	swap tones
+mōṅ ˨˩ māy ˨˦ piē	mōṅmāy˨˩piē˨˦	swap tones
+˧ ne ˨˦ se	ne˧se˨˦	swap tones
+˦ ñē sa°	sa°ñē˦	swap tones
+˨ mä du°	du°mä˨	swap tones
+˧ myǎ ˨ si	myǎ˧si˨	swap tones
+myet ˥˦ si°	myetsi°˥˦	swap tones
+˨˦ tswä	tswä˨˦	swap tones
+˦˥ hau	hau˦˥	swap tones
+˨ pāk	pāk˨	swap tones
+˧ pāk	pāk˧	swap tones
+˦ s’up	s’up˦	swap tones
+˨ miēṅ	miēṅ˨	swap tones
+˦ nō	nō˦	swap tones
+˧ kō° = pū	pū=kō°˧	swap tones
+˦ ˦˨ nžö̌ü	nžö̌ü˦˦˨	swap tones
+˦ lō	lō˦	swap tones
+˨ yāt	yāt˨	swap tones
+˨˩ ḏẕuōi	ḏẕuōi˨˩	swap tones
+˦ ñi ˦ ña	ñi˦ña˦	swap tones
+˨ ni ˨˦ p’yē	ni˨p’yē˨˦	swap tones
+˦ mä ˨˦ ku	mä˦ku˨˦	swap tones
+˨ mɯ ˨˦ lɯ°	mɯ˨lɯ°˨˦	swap tones
+s’a ˨˩ dun	s’adun˨˩	swap tones
+˥˦ mū̃	mū̃˥˦	swap tones
+(back tooth) ˨ yā	yā˨	swap tones
+(front) ˨˦ ṯs̱’z	ṯs̱’z˨˦	swap tones
+˧ fàn	fàn˧	swap tones
+˦˨ k’io	k’io˦˨	swap tones
+˧ ràṅ	ràṅ˧	swap tones
+˨ θwa	θwa˨	swap tones
+˧ mä	mä˧	swap tones
+˦˥ hna	hna˦˥	swap tones
+˨˩ ña	ña˨˩	swap tones
+˦˨ che ˦˨ ma	che˦˨ma˦˨	swap tones
+˦˨ cha rö°	rö°cha˦˨	swap tones
+˦˨ sö ˨˦ chö	sö˦˨chö˨˦	swap tones
+˨ sī ˧ ch’ī	sī˨ch’ī˧	swap tones
+s’a ˨˩ wā	s’awā˨˩	swap tones
+˨˩ šwā	šwā˨˩	swap tones
+˨˦ ṅ^e	ṅ^e˨˦	swap tones
+˩˨ yī	yī˩˨	swap tones
+˨˧ hū	hū˨˧	swap tones
+˨˦ hū	hū˨˦	swap tones
+˧ tay	tay˧	swap tones
+˧ nā	nā˧	swap tones
+˧˨ nā	nā˧˨	swap tones
+˦˥ ꭓāǒ ˦ nžē	ꭓāǒ˦˥nžē˦	swap tones
+˨˩ mö ˨˩ nom	mö˨˩nom˨˩	swap tones
+mō ˨˩ nom	mōnom˨˩	swap tones
+˦ na ˧ po	na˦po˧	swap tones
+˦ no ˨ pā	no˦pā˨	swap tones
+˨ no ˦ pā	no˨pā˦	swap tones
+˦ nà ˧ på	nà˦på˧	swap tones
+kà ˨˩ nā	kànā˨˩	swap tones
+˨˩ nā	nā˨˩	swap tones
+(human) ˨ fā°	fā°˨	swap tones
+(of head) ˨ t’au ˥˦ fā^t	t’au˨fā^t˥˦	swap tones
+˨˦ p’om	p’om˨˦	swap tones
+˨˧ k’ōn	k’ōn˨˧	swap tones
+˦˥ tok	tok˦˥	swap tones
+˨ s’åṅ	s’åṅ˨	swap tones
+= k’ō ˨ θū	k’ō=θū˨	swap tones
+˥˦ s’ū	s’ū˥˦	swap tones
+˥˦ k’ō ˧ θū	k’ō˥˦θū˧	swap tones
+˦ ˦˨ plö̌ü ˦˥ hǚu	plö̌ü˦˦˨hǚu˦˥	swap tones
+˨ pu piē	piēpu˨	swap tones
+˧ o ˦˨ ṯs̱’ē	o˧ṯs̱’ē˦˨	swap tones
+˨ o ˦˨ ṯs̱e	o˨ṯs̱e˦˨	swap tones
+˨ u ˦˨ ṯs̱’ö	u˨ṯs̱’ö˦˨	swap tones
+˦ wū ˧ kū ˧ mà (of head)	wū˦kū˧mà˧	swap tones
+˧ mü (of body)	mü˧	swap tones
+ha ˨˩ làṅ ˨˩ hū (of head)	halàṅ˨˩hū˨˩	swap tones
+mun ˧ kū (of body)	munkū˧	swap tones
+s’a ˧ bin	s’abin˧	swap tones
+˨˦ šo	šo˨˦	swap tones
+˨ t’ō	t’ō˨	swap tones
+˨ t’au	t’au˨	swap tones
+˨˦ huà	huà˨˦	swap tones
+˨˦ hō	hō˨˦	swap tones
+˨˩ dȫu	dȫu˨˩	swap tones
+˥˦ k’ō	k’ō˥˦	swap tones
+˦ ˦˨ tö̌ü ˦˥ hö̌ü	tö̌ü˦˦˨hö̌ü˦˥	swap tones
+˦˥ piē	piē˦˥	swap tones
+˨˩ mo goṅ	goṅmo˨˩	swap tones
+˧ o ˨˦ ko	o˧ko˨˦	swap tones
+˨ o ˦ kō	o˨kō˦	swap tones
+˨ u ˨ dī	u˨dī˨	swap tones
+˦ wū ˧ dü	wū˦dü˧	swap tones
+ha ˨˩ làṅ	halàṅ˨˩	swap tones
+˨˩ k’ōṅ	k’ōṅ˨˩	swap tones
+˨˩ gauṅ	gauṅ˨˩	swap tones
+˨ sa°	sa°˨	swap tones
+˨˩ lä	lä˨˩	swap tones
+˧ ˧˨ lin	lin˧˧˨	swap tones
+˥˦ lin	lin˥˦	swap tones
+˨˧ ˧˨ lüöi	lüöi˨˧˧˨	swap tones
+˦ ˦˨ mblä	mblä˦˦˨	swap tones
+˨ biēt	biēt˨	swap tones
+˥˦ biēt	biēt˥˦	swap tones
+˧˨ šla	šla˧˨	swap tones
+˧˨ lō	lō˧˨	swap tones
+˦˨ šävä°	šävä°˦˨	swap tones
+˧ là ˧ ch’e	là˧ch’e˧	swap tones
+s’à ˨˩ dī	s’àdī˨˩	swap tones
+˧ šā	šā˧	swap tones
+˥˦ jīb	jīb˥˦	swap tones
+˨˦ tu	tu˨˦	swap tones
+˦˨ tu	tu˦˨	swap tones
+˩˨ t’ō	t’ō˩˨	swap tones
+˦ ˦˨ dåṅ	dåṅ˦˦˨	swap tones
+˦ ˦˨ t’åṅ	t’åṅ˦˦˨	swap tones
+˥˦ tåṅ	tåṅ˥˦	swap tones
+˨ buṅ	buṅ˨	swap tones
+˦ ɣū ˨ p’ōṅ	ɣū˦p’ōṅ˨	swap tones
+˧ hö ˧ p’ö	hö˧p’ö˧	swap tones
+˦ ˦˨ plaṅ	plaṅ˦˦˨	swap tones
+˦˥ ñān	ñān˦˥	swap tones
+˨˩ ko šia	šiako˨˩	swap tones
+˨˦ ē ˦˨ pi	ē˨˦pi˦˨	swap tones
+o° ˦˨ po	o°po˦˨	swap tones
+hä° ˦˨ mo	hä°mo˦˨	swap tones
+˨ hī̃° ˨ ch’ī°	hī̃°˨ch’ī°˨	swap tones
+˨˩ pouᵗ	pouᵗ˨˩	swap tones
+˨˩ wam	wam˨˩	swap tones
+˨˩ wun	wun˨˩	swap tones
+˨˦ ˦˨ ṭiḍḍ	ṭiḍḍ˨˦˦˨	swap tones
+˦˨ pä	pä˦˨	swap tones
+˦ pä	pä˦	swap tones
+˥˦ pūi	pūi˥˦	swap tones
+˨˦ hlàṅ	hlàṅ˨˦	swap tones
+˨˦ làṅ	làṅ˨˦	swap tones
+˧ lüṅ	lüṅ˧	swap tones
+˨ k’lōṅ	k’lōṅ˨	swap tones
+˧ klö	klö˧	swap tones
+˦ ndrö̌ü ˩˨ kö̌ü	ndrö̌ü˦kö̌ü˩˨	swap tones
+˦˥ ka ˨ tān	ka˦˥tān˨	swap tones
+ti ˨˦ tan	titan˨˦	swap tones
+˦˨ kiä ˦˨ di	kiä˦˨di˦˨	swap tones
+˨ no ˨ kō	no˨kō˨	swap tones
+˧ kà ˧ kå	kà˧kå˧	swap tones
+ka ˧ s’àṅ	kas’àṅ˧	swap tones
+˨˩ tyå	tyå˨˩	swap tones
+˨ t’ye°	t’ye°˨	swap tones
+˥˦ t’īᵗ	t’īᵗ˥˦	swap tones
+˨ hlek	hlek˨	swap tones
+˨ leᵏ	leᵏ˨	swap tones
+˦ lēk	lēk˦	swap tones
+˦˥ šàt	šàt˦˥	swap tones
+˦ t’ā°	t’ā°˦	swap tones
+˦˥ hlö̌ü	hlö̌ü˦˥	swap tones
+˦˨ re	re˦˨	swap tones
+˦ hö	hö˦	swap tones
+˦˨ hö	hö˦˨	swap tones
+˧ s’eṅ	s’eṅ˧	swap tones
+˧ θàn	θàn˧	swap tones
+˥˦ lōa	lōa˥˦	swap tones
+˦ kin	kin˦	swap tones
+˦ kam	kam˦	swap tones
+˧ dåṅ ˧ gāṁ	dåṅ˧gāṁ˧	swap tones
+˧ t’åṅ ˧ k’àm	t’åṅ˧k’àm˧	swap tones
+˦ k’àm	k’àm˦	swap tones
+˨˩ vàṅ	vàṅ˨˩	swap tones
+˨ t’åṅ	t’åṅ˨	swap tones
+˧ t’ū	t’ū˧	swap tones
+˧ ˧˨ kō	kō˧˧˨	swap tones
+˨˦ šām	šām˨˦	swap tones
+˨˦ kiēm	kiēm˨˦	swap tones
+˧ še	še˧	swap tones
+˨ ša	ša˨	swap tones
+˨ šä	šä˨	swap tones
+˧ šⁱ	šⁱ˧	swap tones
+˨˩ nun	nun˨˩	swap tones
+˧ šwe	šwe˧	swap tones
+˨ yin	yin˨	swap tones
+˦ ṅan	ṅan˦	swap tones
+˧ ṅạ̄n	ṅạ̄n˧	swap tones
+˦ ṅụn	ṅụn˦	swap tones
+˨ bàk	bàk˨	swap tones
+˨˦ sē	sē˨˦	swap tones
+˧ sē	sē˧	swap tones
+˦ ˦˨ ña	ña˦˦˨	swap tones
+˦ ˦˨ ṯs̱a	ṯs̱a˦˦˨	swap tones
+˦˨ šlu	šlu˦˨	swap tones
+˦˨ t’o	t’o˦˨	swap tones
+˦˨ p’i	p’i˦˨	swap tones
+˨˩ p’ū	p’ū˨˩	swap tones
+˧ ṅwe	ṅwe˧	swap tones
+˨ lō	lō˨	swap tones
+˨ lu	lu˨	swap tones
+˨˩ puᵏ	puᵏ˨˩	swap tones
+˦˨ dāṣ	dāṣ˦˨	swap tones
+˦˨ t’āᵗ	t’āᵗ˦˨	swap tones
+˦˨ k’ā	k’ā˦˨	swap tones
+˨ moi	moi˨	swap tones
+˧ φa ˦ ꭓåṅ°	φa˧ꭓåṅ°˦	swap tones
+˦˨ kü	kü˦˨	swap tones
+˨˩ nāu	nāu˨˩	swap tones
+˨˩ nāu ˦˥ chʸāy	nāu˨˩chʸāy˦˥	swap tones
+˨˦ p’u ˨˦ p’a	p’u˨˦p’a˨˦	swap tones
+˦˨ chö	chö˦˨	swap tones
+˧ chå ˨ pà	chå˧pà˨	swap tones
+˧ s’ū	s’ū˧	swap tones
+˧ tyun	tyun˧	swap tones
+˨ luṅ ˨ žan	luṅ˨žan˨	swap tones
+˨ nuṅ ˦ fū	nuṅ˨fū˦	swap tones
+˧ jāo ˧ nà	jāo˧nà˧	swap tones
+˧ ch’āo ˧ nā	ch’āo˧nā˧	swap tones
+˦ kōn ˦ het ˦˨ hai	kōn˦het˦hai˦˨	swap tones
+˦ kōn ˦ het ˦ nā	kōn˦het˦nā˦	swap tones
+˨˩ ṅüöi ˨˩ làm ˨ ruōṅ	ṅüöi˨˩làm˨˩ruōṅ˨	swap tones
+˧ φa ˨˦ mā ˦ šī° = p’ō	φa˧mā˨˦p’ō=šī°˦	swap tones
+= pɣā ˧ lö ˧ a = mā ˧ sī° = mā = pɣä	pɣā=lö˧mā=a˧pɣä=mā=sī°˧	swap tones
+˦ leṅ ˦ wa ˦ tē ˦ wa ˦ ˦˨ la (peasant)	leṅ˦wa˦tē˦wa˦la˦˦˨	swap tones
+˦˥ a gēñ ˨˩ mōn	gēña˦˥mōn˨˩	swap tones
+˨˦ chʸāu miēn ˨˦ chʸàṅ	miēnchʸāu˨˦chʸàṅ˨˦	swap tones
+˨˦ za ˦˨ lu	za˨˦lu˦˨	swap tones
+zo° ˦˨ lo	zo°lo˦˨	swap tones
+˨ mī ˧ ye ˨ p’à	mī˨ye˧p’à˨	swap tones
+lay ša ˨˩ mā	šalaymā˨˩	swap tones
+lä δa ˨˩ mā	δalämā˨˩	swap tones
+˥˦ vāī karnvīḷā	karnvīḷāvāī˥˦	swap tones
+˦˨ k’an ˨ yāṅ ˨ ti°	k’an˦˨yāṅ˨ti°˨	swap tones
+˨˩ muᵏ ˨ yōṅ ˨ yan	muᵏ˨˩yōṅ˨yan˨	swap tones
+˦ hōn ˨ yōṅ ˥˦ kē	hōn˦yōṅ˨kē˥˦	swap tones
+˧ gon ˦ ˦˨ līeṅ ˨ kä̌	gon˧līeṅ˦˦˨kä̌˨	swap tones
+˧ k’on ˦ ˦˨ līeṅ ˨ kä̌	k’on˧līeṅ˦˦˨kä̌˨	swap tones
+˧ kōn ˥˦ leṅ ˦ t’iṅ ˦ s’ō	kōn˧leṅ˥˦t’iṅ˦s’ō˦	swap tones
+˨ muk ˨˩ dōṅ	muk˨dōṅ˨˩	swap tones
+˧ φa ˦ yū° = θō	φa˧θō=yū°˦	swap tones
+= pɣā ˦˨ kwā ˧ θō	pɣā=kwā˦˨θō˧	swap tones
+˨˦ ji ˦ lu ˦˨ ṯs̱’o	ji˨˦lu˦ṯs̱’o˦˨	swap tones
+˨˦ ki ˨ lu ˦˨ ṯs̱’u	ki˨˦lu˨ṯs̱’u˦˨	swap tones
+˧ à ˧ rå ˦ lo ˧ sū	à˧rå˧lo˦sū˧	swap tones
+˨˩ šui ˨˩ t’in	šui˨˩t’in˨˩	swap tones
+˨˩ θō ˨˩ dein	θō˨˩dein˨˩	swap tones
+˦ T’yēn	T’yēn˦	swap tones
+˨ Šan	Šan˨	swap tones
+˦ Brǎ ˦˨ chau	Brǎ˦chau˦˨	swap tones
+˦ P’rǎ ˦˨ chau	P’rǎ˦chau˦˨	swap tones
+˦ P’rā	P’rā˦	swap tones
+˦˥ Chuà	Chuà˦˥	swap tones
+˧ Ka ˧ s’ā ˨˦ ywa	Ka˧s’ā˧ywa˨˦	swap tones
+˧ Ka ˦˨ sa	Ka˧sa˦˨	swap tones
+˨˩ Gōṅ	Gōṅ˨˩	swap tones
+˨˩ Luṅ	Luṅ˨˩	swap tones
+˨˦ Mᵘ ˦˨ se ˨˦ p’a	Mᵘ˨˦se˦˨p’a˨˦	swap tones
+Mö° ˦˨ ñi ˦˨ mo (Heaven)	Mö°ñi˦˨mo˦˨	swap tones
+Nat ˨˩ Kōṅ (good spirit)	NatKōṅ˨˩	swap tones
+Nǎᵗ ˨˩ Kauṅ	NǎᵗKauṅ˨˩	swap tones
+˨˦ kwä	kwä˨˦	swap tones
+˦ må ˦˥ kwai	må˦kwai˦˥	swap tones
+˨˦ p’i	p’i˨˦	swap tones
+˨˦ p’ī	p’ī˨˦	swap tones
+˨ mā ˦˨ nàt	mā˨nàt˦˨	swap tones
+˧ mà ˨˦ kui	mà˧kui˨˦	swap tones
+˧ θa ˧ rä ˧ θa ˦ k’ā°	θa˧rä˧θa˧k’ā°˦	swap tones
+˦˥ miēn	miēn˦˥	swap tones
+˦ ni	ni˦	swap tones
+˨ ñe ˦ nō	ñe˨nō˦	swap tones
+˨ nī (demon)	nī˨	swap tones
+nat ˨˩ ch’ui (bad spirit)	natch’ui˨˩	swap tones
+nǎT ˨˩ s’o	nǎTs’o˨˩	swap tones
+˨˦ sui	sui˨˦	swap tones
+˨˦ swä	swä˨˦	swap tones
+˦˥ šöü	šöü˦˥	swap tones
+˦ ˦˨ nāṁ	nāṁ˦˦˨	swap tones
+˦ ˦˨ nàm	nàm˦˦˨	swap tones
+˥˦ nàm	nàm˥˦	swap tones
+˦˥ nüök	nüök˦˥	swap tones
+˨ t’ī	t’ī˨	swap tones
+˧ t’ī	t’ī˧	swap tones
+˦ ˦˨ dē	dē˦˦˨	swap tones
+˨˦ nōm	nōm˨˦	swap tones
+˦˨ yi jyē°	jyē°yi˦˨	swap tones
+˦˨ vi	vi˦˨	swap tones
+˦˨ vi dyē°	dyē°vi˦˨	swap tones
+˧ yī ˧ jyà	yī˧jyà˧	swap tones
+˨˩ wä	wä˨˩	swap tones
+˧ ye	ye˧	swap tones
+˨ fāṅ	fāṅ˨	swap tones
+˨ wu°	wu°˨	swap tones
+˦ uᵏ	uᵏ˦	swap tones
+˧ rụ̄ạn	rụ̄ạn˧	swap tones
+˦˨ pān	pān˦˨	swap tones
+˦˨ bān	bān˦˨	swap tones
+˦ hạ̄n	hạ̄n˦	swap tones
+˨˩ ñà	ñà˨˩	swap tones
+˥˦ hī	hī˥˦	swap tones
+˦˥ chʸē	chʸē˦˥	swap tones
+˦˨ hä	hä˦˨	swap tones
+˦˨ hi	hi˦˨	swap tones
+˨˩ tyem	tyem˨˩	swap tones
+˧ ein	ein˧	swap tones
+˩˨ kar	kar˩˨	swap tones
+˩˨ mā	mā˩˨	swap tones
+˦ ˦˨ mā	mā˦˦˨	swap tones
+˦ ˦˨ mà	mà˦˦˨	swap tones
+mà (? ˥˦ mà)	mà	swap tones
+˥˦ mà	mà˥˦	swap tones
+˨ ṅüà	ṅüà˨	swap tones
+˧ ka = θē	θē=ka˧	swap tones
+˨ a ˦ lö m̊°	a˨m̊°lö˦	swap tones
+˦ à ˨ mū	à˦mū˨	swap tones
+s’a ˧ bū	s’abū˧	swap tones
+˨ lū	lū˨	swap tones
+˨ lui	lui˨	swap tones
+˧ lā	lā˧	swap tones
+˦˨ lī	lī˦˨	swap tones
+˧ kon ˨˩ lüà	kon˧lüà˨˩	swap tones
+˧ ka ˥˦ θē = yå	ka˧yå=θē˥˦	swap tones
+˨˩ lō	lō˨˩	swap tones
+˨˩ lo	lo˨˩	swap tones
+˧ a ˦˨ šla ˨˦ la ˦ mᵘ	a˧šla˦˨la˨˦mᵘ˦	swap tones
+˨ a ˦˨ la ˦ li m̊°	a˨la˦˨m̊°li˦	swap tones
+˨˩ mrañ	mrañ˨˩	swap tones
+˨˩ myi	myi˨˩	swap tones
+˥˦ låᵏ ˨ t’å	låᵏ˥˦t’å˨	swap tones
+˨ ūṭ’	ūṭ’˨	swap tones
+˨ ūt	ūt˨	swap tones
+˥˦ ka ˨ lā ˦˨ uk	ka˥˦lā˨uk˦˨	swap tones
+˧ kon ˨ làk ˨˩ dà	kon˧làk˨dà˨˩	swap tones
+= kå = lā ˧ ū	lā=kå=ū˧	swap tones
+ku ˨˩ lāut	kulāut˨˩	swap tones
+˨ niu	niu˨	swap tones
+˨ liu	liu˨	swap tones
+˨ ṅau ˦˥ mā	ṅau˨mā˦˥	swap tones
+= k’lå ˧ mō	k’lå=mō˧	swap tones
+ṅao ˨˩ ṅoaṅ	ṅaoṅoaṅ˨˩	swap tones
+˨˩ yaṅ ˨˩ ṅuṅ	yaṅ˨˩ṅuṅ˨˩	swap tones
+˦˨ no ñi° ˦˨ mo	ñi°no˦˨mo˦˨	swap tones
+˦ à ˨ ñī ˧ mà	à˦ñī˨mà˧	swap tones
+˨˩ nwāma	nwāma˨˩	swap tones
+˨˦ kō	kō˨˦	swap tones
+˨˦ hmā	hmā˨˦	swap tones
+mà (? ˨˦ mà) pū	pūmà	swap tones
+˥˦ t’wī	t’wī˥˦	swap tones
+˦˥ dē	dē˦˥	swap tones
+˦˥ klō	klō˦˥	swap tones
+˦˥ chʸu	chʸu˦˥	swap tones
+˨˦ ch’e	ch’e˨˦	swap tones
+˦ a ˦˨ no	a˦no˦˨	swap tones
+˦ à ˨ nà	à˦nà˨	swap tones
+˧ tyī	tyī˧	swap tones
+˦ mau	mau˦	swap tones
+˦ māu	māu˦	swap tones
+˧ mäo	mäo˧	swap tones
+˦ miau	miau˦	swap tones
+˧ kon ˨˩ meo	kon˧meo˨˩	swap tones
+˨ mī ˨˦ yå	mī˨yå˨˦	swap tones
+˥˦ θā ˧ mī = yå	θā˥˦yå=mī˧	swap tones
+˦ chü	chü˦	swap tones
+˨˩ mao	mao˨˩	swap tones
+mōi ˨˩ lum	mōilum˨˩	swap tones
+˧ mä ˦˨ nä	mä˧nä˦˨	swap tones
+˨ mä ˦˨ nä (tom)	mä˨nä˦˨	swap tones
+˨ mä ˦˨ nä ˦˨ mo (puss)	mä˨nä˦˨mo˦˨	swap tones
+˨ vu ˦˨ mi	vu˨mi˦˨	swap tones
+˨ à ˨˦ ñī ˨ rà	à˨ñī˨˦rà˨	swap tones
+˨˩ hàn ˧ šī	hàn˨˩šī˧	swap tones
+˧ tyauṅ	tyauṅ˧	swap tones
+˨˦ lyau	lyau˨˦	swap tones
+˥˦ tsöᵏ ˩˨ nīu	tsöᵏ˥˦nīu˩˨	swap tones
+˦ nok	nok˦	swap tones
+˦ noᵏ	noᵏ˦	swap tones
+˥˦ nok	nok˥˦	swap tones
+˧ chim	chim˧	swap tones
+˥˦ t’ō	t’ō˥˦	swap tones
+˦ ˦˨ nōṅ	nōṅ˦˦˨	swap tones
+˨˩ nō	nō˨˩	swap tones
+˦˨ ṅ’ē	ṅ’ē˦˨	swap tones
+˨ äh zo°	zo°äh˨	swap tones
+ṅa° ˦˨ ṯs̱e	ṅa°ṯs̱e˦˨	swap tones
+˨˦ ñǎ	ñǎ˨˦	swap tones
+˧ ū dyeᵗ ˧ s’ā	dyeᵗū˧s’ā˧	swap tones
+˦ kuṅ ˦ chī	kuṅ˦chī˦	swap tones
+˦ kai ˦ kuṅ	kai˦kuṅ˦	swap tones
+˨ kai ˧ tuà ˦˨ p’ū	kai˨tuà˧p’ū˦˨	swap tones
+˨ kai ˦˨ p’ū	kai˨p’ū˦˨	swap tones
+˨˩ gà ˦˥ troṅ	gà˨˩troṅ˦˥	swap tones
+˨ s’aṅ (fowl)	s’aṅ˨	swap tones
+˧ s’å ˧ p’ā	s’å˧p’ā˧	swap tones
+˦˥ lö̌ü ˦ ˦˨ kra	lö̌ü˦˥kra˦˦˨	swap tones
+˨˦ chʸāy koṅ	koṅchʸāy˨˦	swap tones
+˦˨ iē ˨˦ p’ū	iē˦˨p’ū˨˦	swap tones
+yē° ˦˨ p’u	yē°p’u˦˨	swap tones
+˦ yi ˦˨ p’ö	yi˦p’ö˦˨	swap tones
+˦ à ˦ wà ˨ p’à	à˦wà˦p’à˨	swap tones
+˧ ū (fowl)	ū˧	swap tones
+tyep ˥˦ pà°	tyeppà°˥˦	swap tones
+˨ yā°	yā°˨	swap tones
+˥˦ āʳ	āʳ˥˦	swap tones
+˨ pēt	pēt˨	swap tones
+˨ pēᵗ	pēᵗ˨	swap tones
+˦ pēt	pēt˦	swap tones
+˧ kon ˨ vit	kon˧vit˨	swap tones
+= t’ō ˨˦ t’a	t’ō=t’a˨˦	swap tones
+˥˦ t’ō ˥˦ dē ˧ t’ī	t’ō˥˦dē˥˦t’ī˧	swap tones
+˦ ō	ō˦	swap tones
+˨ ap	ap˨	swap tones
+˦˥ ap	ap˦˥	swap tones
+˦ ṅē ˦˨ pi ˦˨ ma	ṅē˦pi˦˨ma˦˨	swap tones
+yē° ˨ pi	yē°pi˨	swap tones
+˨˦ a	a˨˦	swap tones
+˨˦ ǎ̃	ǎ̃˨˦	swap tones
+˨˩ wam ˨˩ b’ai	wam˨˩b’ai˨˩	swap tones
+˨˩ wun ˨˩ bä	wun˨˩bä˨˩	swap tones
+˨ žᵃ°	žᵃ°˨	swap tones
+˨˩ yaᵗ	yaᵗ˨˩	swap tones
+˨˩ yaᵗ ˨ t’au	yaᵗ˨˩t’au˨	swap tones
+˨ tät	tät˨	swap tones
+˦ brǎ ˦ ˦˨ ādity	brǎ˦ādity˦˦˨	swap tones
+˨ däᵗ	däᵗ˨	swap tones
+˦ p’rǎ ˦ ˦˨ āt’iᵗ	p’rǎ˦āt’iᵗ˦˦˨	swap tones
+˨˦ kàṅ ˦ wàn	kàṅ˨˦wàn˦	swap tones
+˨ màt ˨˩ tröi	màt˨tröi˨˩	swap tones
+˧ mu	mu˧	swap tones
+˦˨ mü	mü˦˨	swap tones
+˦ ˦˨ hnō	hnō˦˦˨	swap tones
+˨˩ mō ˨˩ nōi	mō˨˩nōi˨˩	swap tones
+˨˩ pān hōi	hōipān˨˩	swap tones
+˨˦ lo ˦˨ che	lo˨˦che˦˨	swap tones
+˨ li ˦˨ ki	li˨ki˦˨	swap tones
+mö° ˦˨ ñi	mö°ñi˦˨	swap tones
+˦˨ mo ˦˨ ṯs̱o	mo˦˨ṯs̱o˦˨	swap tones
+˨ mī = mī	mī=mī˨	swap tones
+˧ ne	ne˧	swap tones
+˥˦ dyū̃	dyū̃˥˦	swap tones
+˨ yüeh°	yüeh°˨	swap tones
+˨˩ yüᵗ	yüᵗ˨˩	swap tones
+˧ tụ̄ạn	tụ̄ạn˧	swap tones
+˦ brǎ ˧ chandr	brǎ˦chandr˧	swap tones
+˧ dụ̄ạn	dụ̄ạn˧	swap tones
+˦ p’rǎ ˧ chan	p’rǎ˦chan˧	swap tones
+˨˦ lạ̄n	lạ̄n˨˦	swap tones
+˨ màt ˧ trō̃ṅ	màt˨trō̃ṅ˧	swap tones
+˨˦ la	la˨˦	swap tones
+˧ lā ˧ ta ˥˦ bē	lā˧ta˧bē˥˦	swap tones
+˦ hli	hli˦	swap tones
+˨˩ la	la˨˩	swap tones
+˨˦ ha	ha˨˦	swap tones
+˦˨ šla ˨˦ ba	šla˦˨ba˨˦	swap tones
+˦˨ hlo ˦˨ bo	hlo˦˨bo˦˨	swap tones
+˦˨ ho ˦˨ bo	ho˦˨bo˦˨	swap tones
+s’a ˨˩ dā	s’adā˨˩	swap tones
+˥˦ là°	là°˥˦	swap tones
+˦ hsiṅ	hsiṅ˦	swap tones
+˦ siṅ	siṅ˦	swap tones
+˧ tāo	tāo˧	swap tones
+˧ dāo	dāo˧	swap tones
+˨˦ lau	lau˨˦	swap tones
+˧ šào	šào˧	swap tones
+˥˦ s’ā ˧ ta ˥˦ p’lö	s’ā˥˦ta˧p’lö˥˦	swap tones
+˦ ˦˨ hnō ˦ ˦˨ krō	hnō˦˦˨krō˦˦˨	swap tones
+˨˦ hāy	hāy˨˦	swap tones
+˦˨ kē ˦˨ za	kē˦˨za˦˨	swap tones
+˦˨ cha zo°	zo°cha˦˨	swap tones
+˦˨ ha zo°	zo°ha˦˨	swap tones
+˦˨ kä	kä˦˨	swap tones
+˧ kū ˨ rà	kū˧rà˨	swap tones
+˧ ū ˧ nu ˧ ši	ū˧nu˧ši˧	swap tones
+˧ tyi	tyi˧	swap tones
+˨˦ hwå	hwå˨˦	swap tones
+˨˦ hå	hå˨˦	swap tones
+˦˥ få	få˦˥	swap tones
+˧ fai	fai˧	swap tones
+˦ p’ai	p’ai˦	swap tones
+˨˦ lüà	lüà˨˦	swap tones
+˥˦ mē	mē˥˦	swap tones
+˦ ˦˨ töǚ	töǚ˦˦˨	swap tones
+˨˦ taō	taō˨˦	swap tones
+˨˦ mᵘ ˦ tu	mᵘ˨˦tu˦	swap tones
+˨ mu ˦ tö	mu˨tö˦	swap tones
+˦ a ˨ to	a˦to˨	swap tones
+˦ à ˦ tå	à˦tå˦	swap tones
+˧ wàn	wàn˧	swap tones
+˨˩ mī	mī˨˩	swap tones
+˨˩ mi	mi˨˩	swap tones

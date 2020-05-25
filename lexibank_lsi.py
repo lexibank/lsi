@@ -46,16 +46,16 @@ class Dataset(BaseDataset):
 
         # add concepts from list
         concepts = {}
-        for concept in self.concepts:
+        for concept in self.conceptlists[0].concepts.values():
             cid = '{0}_{1}'.format(
-                    concept['NUMBER'],
-                    slug(concept['ENGLISH']))
+                    concept.number,
+                    slug(concept.english))
             args.log.info('adding {0}'.format(cid))
             args.writer.add_concept(
                     ID=cid,
-                    PageNumber=concept['PAGENUMBER'],
-                    Name=concept['ENGLISH'])
-            concepts[concept['PAGENUMBER']+' '+concept['ENGLISH']] = cid
+                    PageNumber=concept.attributes['pagenumber'],
+                    Name=concept.english)
+            concepts[concept.attributes['pagenumber']+' '+concept.english] = cid
 
         # add languages from list
         languages = {}

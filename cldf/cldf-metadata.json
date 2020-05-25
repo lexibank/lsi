@@ -3,6 +3,9 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Grierson, George Abraham (1928): Linguistic Survey of India. Comparative Vocabulary. Calcutta: Government of India Central Publication Branch.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Grierson-1928-168"
+    ],
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
@@ -14,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/lsi",
-            "dc:created": "a14200c"
+            "dc:created": "87bd96f"
         },
         {
             "rdf:type": "prov:Entity",
@@ -26,7 +29,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-95-g8d5c2ba"
+            "dc:created": "v2.3.0-107-g79157a1"
         },
         {
             "rdf:type": "prov:Entity",
