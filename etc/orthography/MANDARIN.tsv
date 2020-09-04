@@ -1,78 +1,117 @@
 Grapheme	IPA	Frequency
-^w	w	22
-u	u	49
-˨˧$	²³	9
-^l	l	14
-o	o	2
-°	NULL	29
-˨$	²	61
-^ch’	tʃʰ	4
-i	i	27
-^p	p	8
-ā	ʌː	63
-^ch	tʃ	6
-ī	iː	24
-^y	j	8
-^s	s	13
-z	z	22
-a	ʌ	51
-^ṅ	ŋ	5
-˧˨$	³²	2
-y	j	30
-ṅ	ŋ	20
-n	n̪	57
-˧$	³	3
-^f	f	9
-˦˨$	⁴²	46
-^˦˨	⁴²	1
 $	NULL	1
-˨˦	²⁴ +	53
-f	f	1
-^m	m	15
-˨˦$	²⁴	64
-^h	h	11
-s	s	18
-˦$	⁴	14
-^t	t̪	5
-ē	eː	2
-ä	ɛ	7
-^n	n̪	23
-^ž	ʒ	2
-ü	y	22
-^k	k	13
-ai	ai	7
-ᵉ	ĕ	1
-ᵃ	ă	16
-^ts	ts	4
-ts	ts	2
-h	h	9
-^k’	kʰ	5
-å	ɔ	28
-˦˨	⁴² +	16
-m	m	33
-˦	⁴ +	26
-k	k	4
-ō	oː	10
-š	ʃ	3
-^š	ʃ	5
-l	l	14
-au	au	29
-ž	ʒ	3
-˨	² +	28
-^hy	hʲ	1
-e	e	4
-^ś	ʃ	1
-˧˨	³² +	1
-˨˧	²³ +	7
-t	t̪	25
-^p’	pʰ	2
-^t’	t̪ʰ	21
-˧	³ +	2
-k’	kʰ	12
-w	w	4
-^ṯs̱’	tsʰ	1
+^T	t	1
+^ch	tʃ	6
+^chi	tɕ i
+^tsz	ts ɿ
+^hsi	ɕ i
+^hsiu	ɕ j u
+^chīu	tɕ j ou
+^ch’y	tɕʰ j
+^ch’i°	tɕʰ i
+^ch’ī	tɕʰ i
+^hsya	ɕ j a
+^hyā	ɕ j a
+^hā	ɕ j a
+^ch’yen	tɕʰ j e n
+^ših	ʂ ɿ
+^h°	NULL
+^hsiṅ	ɕ i ŋ
+^žᵃ°	ʐ ʅ
+^sza	s ɿ
+^szᵃ	s ɿ
+^chī°	tɕ i
+^ch’	tʃʰ	4
 ^e	e	1
-^T	t̪	1
+^f	f	9
+^h	h	11
+^hy	hʲ	1
+^k	k	13
+^k’	kʰ	5
+^l	l	14
+^m	m	15
+^n	n	23
+^p	p	8
+^p’	pʰ	2
+^s	s	13
+^t	t	5
+^ts	ts	4
+^t’	tʰ	21
+^w	w	22
+^y	j	8
+^ś	ʐ	1
+^š	ʐ	5
+^ž	ʐ	2
+^˦˨	⁴²	1
+^ṅ	ŋ	5
+^ṯs̱’	tsʰ	1
+chī	tɕ i
+a	a	51
+ai	ai	7
+au	au	29
+ch	ʈʂ	1
+e	e	4
+f	f	1
+h	h	9
+i	i	27
+k	k	4
+k’	kʰ	12
+l	l	14
+m	m	33
+n	n̪	57
+o	o	2
+s	s	18
+t	t	25
+ts	ts	2
+u	u	49
+w	w	4
+y	j	30
+z	z	22
+°	NULL	29
+ä	ɛ	7
+å	ɔ	28
+ü	y	22
+ā	a	63
+ē	ɛ	2
+ī	i	24
+ō	o	10
+š	ʂ	3
+ū	u	1
+ž	ʐ	3
+˦	⁴ +	26
+˦$	⁴	14
+˦˨	⁴² +	16
+˦˨$	⁴²	46
+˧	³ +	2
+˧$	³	3
+˧˨	³² +	1
+˧˨$	³²	2
+˨	² +	28
+˨$	²	61
+˨˦	²⁴ +	53
+˨˦$	²⁴	64
+˨˧	²³ +	7
+˨˧$	²³	9
+ᵃ	ă	16
+ᵉ	ĕ	1
+ṅ	ŋ	20
 ’	NULL	1
-ū	uː	1
-ch	tʃ	1
+chi	tɕ i
+tsz	ts ɿ
+hsi	ɕ i
+hsiu	ɕ j u
+chīu	tɕ j ou
+ch’y	tɕʰ j
+ch’i°	tɕʰ i
+ch’ī	tɕʰ i
+hsya	ɕ j a
+hyā	ɕ j a
+hā	ɕ j a
+ch’yen	tɕʰ j e n
+ših	ʂ ɿ
+h°	NULL
+hsiṅ	ɕ i ŋ
+žᵃ°	ʐ ʅ
+sza	s ɿ
+szᵃ	s ɿ
+chī°	tɕ i
