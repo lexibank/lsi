@@ -138,7 +138,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23440	114_and	And	INTHA	INTHA	nā	nā	n̪ ʌː	inth1239				
 23441	114_and	And	TAVOYAN	TAVOYAN	nā	nā	n̪ ʌː	tavo1242		14.1078	98.194	
 #
-56128	53_ass	Ass	MANDARIN	MANDARIN	˨ lū	lū˨	l uː ²	mand1415		40.0209	116.228	
+56128	53_ass	Ass	MANDARIN	MANDARIN	˨ lū	lū˨	l u ²	mand1415		40.0209	116.228	
 56129	53_ass	Ass	CANTONESE	CANTONESE	˨ lui	lui˨	l u i ²	cant1236				
 56137	53_ass	Ass	PWOBASSEIN	PWO_BASSEIN	k^àθi yaũ	k^àθi yaũ	k a θ i + j ʌ ũ	pwow1235		17.3622	97.7044	
 56138	53_ass	Ass	PWOMAULMEIN	PWO_MAULMEIN	k^àθi yaũ	k^àθi yaũ	k a θ i + j ʌ ũ	pwoe1235		15.1915	98.7355	
@@ -326,7 +326,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 52008	37_back	Back	INTHA	INTHA	nauk ku jå	nauk ku jå	n̪ au k + k u + dʒ ɔ	inth1239				
 52009	37_back	Back	TAVOYAN	TAVOYAN	nǒᵗ jå	nǒᵗ jå	n̪ ɒ t̪̚ + dʒ ɔ	tavo1242		14.1078	98.194	
 #
-35849	138_beat	Beat	MANDARIN	MANDARIN	˨˦ tā	tā˨˦	t̪ ʌː ²⁴	mand1415		40.0209	116.228	
+35849	138_beat	Beat	MANDARIN	MANDARIN	˨˦ tā	tā˨˦	t a ²⁴	mand1415		40.0209	116.228	
 35850	138_beat	Beat	CANTONESE	CANTONESE	˦˥ tā	tā˦˥	t̪ ʌː ⁴⁵	cant1236				
 35851	138_beat	Beat	GYAOMI	GYAOMI	tå	tå	t̪ ɔ	mand1415		40.0209	116.228	
 35861	138_beat	Beat	PWOLITERARY	PWO_LITERARY	= dō ˦ s’ī	dō=s’ī˦	d̪ oː + sʰ iː ⁴	phra1235		18.0048	99.6382	
@@ -514,7 +514,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 36067	138_beat	Beat	INTHA	INTHA	raik	raik	r ai k	inth1239				
 36068	138_beat	Beat	TAVOYAN	TAVOYAN	yaiᵏ	yaiᵏ	j ai k̚	tavo1242		14.1078	98.194	
 #
-21309	109_before	Before	MANDARIN	MANDARIN	˨ ch’yen	ch’yen˨	tʃʰ j e n̪ ²	mand1415		40.0209	116.228	
+21309	109_before	Before	MANDARIN	MANDARIN	˨ ch’yen	ch’yen˨	tɕʰ j e n ²	mand1415		40.0209	116.228	
 21310	109_before	Before	CANTONESE	CANTONESE	˨ tsīn	tsīn˨	ts iː n̪ ²	cant1236				
 21311	109_before	Before	CANTONESE	CANTONESE	˨ ts’īn ˨˩ min	ts’īn˨min˨˩	tsʰ iː n̪ ² + m i n̪ ²¹	cant1236				
 21312	109_before	Before	CANTONESE	CANTONESE	˨ ts’īn ˨˩ pīn	ts’īn˨pīn˨˩	tsʰ iː n̪ ² + p iː n̪ ²¹	cant1236				
@@ -654,7 +654,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 21472	109_before	Before	INTHA	INTHA	ᵃše	ᵃše	ă ʃ e	inth1239				
 21473	109_before	Before	TAVOYAN	TAVOYAN	ᵃše	ᵃše	ă ʃ e	tavo1242		14.1078	98.194	
 #
-21705	110_behind	Behind	MANDARIN	MANDARIN	˦˨ hō	hō˦˨	h oː ⁴²	mand1415		40.0209	116.228	
+21705	110_behind	Behind	MANDARIN	MANDARIN	˦˨ hō	hō˦˨	h o ⁴²	mand1415		40.0209	116.228	
 21706	110_behind	Behind	CANTONESE	CANTONESE	˨˩ hau	hau˨˩	h au ²¹	cant1236				
 21707	110_behind	Behind	CANTONESE	CANTONESE	˨˩ hay ˨˩ pīn	hay˨˩pīn˨˩	h ʌ j ²¹ + p iː n̪ ²¹	cant1236				
 21716	110_behind	Behind	PWOLITERARY	PWO_LITERARY	˧ lö …˧ a ˦ laṅ°˨ k’aiṅ	lö˧a…˧k’aiṅ˦laṅ°˨	l ø ³ + ʌ ³ + kʰ ai ŋ ⁴ + l ʌ ŋ ²	phra1235		18.0048	99.6382	
@@ -788,8 +788,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 21860	110_behind	Behind	INTHA	INTHA	nauk pi	nauk pi	n̪ au k + p i	inth1239				
 21861	110_behind	Behind	TAVOYAN	TAVOYAN	ᵃnǒk	ᵃnǒk	ă n̪ ɒ k	tavo1242		14.1078	98.194	
 #
-51488	36_belly	Belly	MANDARIN	MANDARIN	˨˦ tu	tu˨˦	t̪ u ²⁴	mand1415		40.0209	116.228	
-51489	36_belly	Belly	MANDARIN	MANDARIN	˦˨ tu	tu˦˨	t̪ u ⁴²	mand1415		40.0209	116.228	
+51488	36_belly	Belly	MANDARIN	MANDARIN	˨˦ tu	tu˨˦	t u ²⁴	mand1415		40.0209	116.228	
+51489	36_belly	Belly	MANDARIN	MANDARIN	˦˨ tu	tu˦˨	t u ⁴²	mand1415		40.0209	116.228	
 51490	36_belly	Belly	CANTONESE	CANTONESE	˩˨ t’ō	t’ō˩˨	t̪ʰ oː ¹²	cant1236				
 51499	36_belly	Belly	PWOLITERARY	PWO_LITERARY	˦ ɣū ˨ p’ōṅ	ɣū˦p’ōṅ˨	ɣ uː ⁴ + pʰ oː ŋ ²	phra1235		18.0048	99.6382	
 51500	36_belly	Belly	PWOBASSEIN	PWO_BASSEIN	wo põ	wo põ	w o + p õ	pwow1235		17.3622	97.7044	
@@ -1102,7 +1102,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 58038	58_bird	Bird	INTHA	INTHA	hṅàk	hṅàk	h ŋ a k	inth1239				
 58039	58_bird	Bird	TAVOYAN	TAVOYAN	hṅàᵏ	hṅàᵏ	h ŋ a k̚	tavo1242		14.1078	98.194	
 #
-14550	89_bitch	Bitch	MANDARIN	MANDARIN	˨˦ mu ˨˦ kō	mu˨˦kō˨˦	m u ²⁴ + k oː ²⁴	mand1415		40.0209	116.228	
+14550	89_bitch	Bitch	MANDARIN	MANDARIN	˨˦ mu ˨˦ kō	mu˨˦kō˨˦	m u ²⁴ + k o ²⁴	mand1415		40.0209	116.228	
 14551	89_bitch	Bitch	CANTONESE	CANTONESE	˦˥ kau ˩˨ mō	kau˦˥mō˩˨	k au ⁴⁵ + m oː ¹²	cant1236				
 14560	89_bitch	Bitch	PWOLITERARY	PWO_LITERARY	= t’wī ˧ mō	t’wī=mō˧	t̪ʰ w iː + m oː ³	phra1235		18.0048	99.6382	
 14561	89_bitch	Bitch	PWOBASSEIN	PWO_BASSEIN	twi mü	twi mü	t̪ w i + m y	pwow1235		17.3622	97.7044	
@@ -1238,8 +1238,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 14703	89_bitch	Bitch	INTHA	INTHA	kwi mā	kwi mā	k w i + m ʌː	inth1239				
 14704	89_bitch	Bitch	TAVOYAN	TAVOYAN	kwi mā	kwi mā	k w i + m ʌː	tavo1242		14.1078	98.194	
 #
-7434	71_brother	Brother	MANDARIN	MANDARIN	(E.) ˦ hsiuṅ	hsiuṅ˦	h s i u ŋ ⁴	mand1415		40.0209	116.228	
-7435	71_brother	Brother	MANDARIN	MANDARIN	(Y.) ˦˨ tī	tī˦˨	t̪ iː ⁴²	mand1415		40.0209	116.228	
+7434	71_brother	Brother	MANDARIN	MANDARIN	(E.) ˦ hsiuṅ	hsiuṅ˦	ɕ j u ŋ ⁴	mand1415		40.0209	116.228	
+7435	71_brother	Brother	MANDARIN	MANDARIN	(Y.) ˦˨ tī	tī˦˨	t i ⁴²	mand1415		40.0209	116.228	
 7436	71_brother	Brother	CANTONESE	CANTONESE	(E.) ˨˩ tāi ˦˥ lō	tāi˨˩lō˦˥	t̪ aːi ²¹ + l oː ⁴⁵	cant1236				
 7437	71_brother	Brother	CANTONESE	CANTONESE	˦ hiṅ	hiṅ˦	h i ŋ ⁴	cant1236				
 7438	71_brother	Brother	CANTONESE	CANTONESE	(Y.) ˥˦ sai lō	lōsai˥˦	l oː s ai ⁵⁴	cant1236				
@@ -1634,7 +1634,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 12999	84_bull	Bull	INTHA	INTHA	hnwā ti	hnwā ti	h n̪ w ʌː + t̪ i	inth1239				
 13000	84_bull	Bull	TAVOYAN	TAVOYAN	nwā ti	nwā ti	n̪ w ʌː + t̪ i	tavo1242		14.1078	98.194	
 #
-23657	115_but	But	MANDARIN	MANDARIN	˦˨ tan	tan˦˨	t̪ ʌ n̪ ⁴²	mand1415		40.0209	116.228	
+23657	115_but	But	MANDARIN	MANDARIN	˦˨ tan	tan˦˨	t a n̪ ⁴²	mand1415		40.0209	116.228	
 23658	115_but	But	CANTONESE	CANTONESE	˨˩ tān	tān˨˩	t̪ ʌː n̪ ²¹	cant1236				
 23659	115_but	But	CANTONESE	CANTONESE	˨˩ tān ˨˩ hai	tān˨˩hai˨˩	t̪ ʌː n̪ ²¹ + h ai ²¹	cant1236				
 23669	115_but	But	PWOLITERARY	PWO_LITERARY	˧ lā ˨ naṅ	lā˧naṅ˨	l ʌː ³ + n̪ ʌ ŋ ²	phra1235		18.0048	99.6382	
@@ -1739,7 +1739,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23776	115_but	But	TAUNGYO	TAUNGYO	dä	dä	d̪ ɛ	taun1248		20.4104	96.7401	
 23777	115_but	But	DANU	DANU	be mä lo	be mä lo	b e + m ɛ + l o	danu1251				
 #
-56375	54_camel	Camel	MANDARIN	MANDARIN	˨ t’å	t’å˨	t̪ʰ ɔ ²	mand1415		40.0209	116.228	
+56375	54_camel	Camel	MANDARIN	MANDARIN	˨ t’å	t’å˨	tʰ ɔ ²	mand1415		40.0209	116.228	
 56376	54_camel	Camel	CANTONESE	CANTONESE	˥˦ låᵏ ˨ t’å	låᵏ˥˦t’å˨	l ɔ k̚ ⁵⁴ + t̪ʰ ɔ ²	cant1236				
 56382	54_camel	Camel	PWOBASSEIN	PWO_BASSEIN	k^àlàoᵖ	k^àlàoᵖ	k a l a o p̚	pwow1235		17.3622	97.7044	
 56383	54_camel	Camel	PWOMAULMEIN	PWO_MAULMEIN	k^àlàoᵖ	k^àlàoᵖ	k a l a o p̚	pwoe1235		15.1915	98.7355	
@@ -2131,7 +2131,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 10208	76_child	Child	TAVOYAN	TAVOYAN	θā	θā	θ ʌː	tavo1242		14.1078	98.194	
 10209	76_child	Child	TAVOYAN	TAVOYAN	lu θā	lu θā	l u + θ ʌː	tavo1242		14.1078	98.194	
 #
-58259	59_cock	Cock	MANDARIN	MANDARIN	˦ kuṅ ˦ chī	kuṅ˦chī˦	k u ŋ ⁴ + tʃ iː ⁴	mand1415		40.0209	116.228	
+58259	59_cock	Cock	MANDARIN	MANDARIN	˦ kuṅ ˦ chī	kuṅ˦chī˦	k u ŋ ⁴ + tɕ i ⁴	mand1415		40.0209	116.228	
 58260	59_cock	Cock	CANTONESE	CANTONESE	˦ kai ˦ kuṅ	kai˦kuṅ˦	k ai ⁴ + k u ŋ ⁴	cant1236				
 58269	59_cock	Cock	PWOLITERARY	PWO_LITERARY	˨ s’aṅ (fowl)	s’aṅ˨	sʰ ʌ ŋ ²	phra1235		18.0048	99.6382	
 58270	59_cock	Cock	PWOBASSEIN	PWO_BASSEIN	sà̃	sà̃	s ã	pwow1235		17.3622	97.7044	
@@ -2389,7 +2389,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 30605	121_come	Come	DEURICHUTIYA	DEURI_CHUTIYA	k’u	k’u	kʰ u	deor1238		26.86152	93.70572	
 30606	121_come	Come	ANGAMI	ANGAMI	vǒr	vǒr	v ɒ r	anga1288		25.6841	93.8668	
 30607	121_come	Come	SEMA	SEMA	gwǒɣe	gwǒɣe	g w ɒ ɣ e	sumi1235		25.9996	94.4235	
-30608	121_come	Come	SEMA	SEMA	ěɣe	ěɣe	ə ɣ e	sumi1235		25.9996	94.4235	
+30608	121_come	Come	SEMA	SEMA	ěɣe	ěɣe	e ɣ e	sumi1235		25.9996	94.4235	
 30609	121_come	Come	RENGMA	RENGMA	he (?)	he	h e	nort2725		26.4492	94.5683	
 30610	121_come	Come	KEZAMA	KEZAMA	gwo	gwo	g w o	khez1235		25.7078	94.3114	
 30611	121_come	Come	SOPVOMA	SOPVOMA	hēk	hēk	h eː k	maon1238		25.3836	94.0035	
@@ -2622,7 +2622,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 13387	85_cow	Cow	DANU	DANU	nᵃmā	nᵃmā	n̪ ă m ʌː	danu1251				
 13388	85_cow	Cow	INTHA	INTHA	hnwā mā	hnwā mā	h n̪ w ʌː + m ʌː	inth1239				
 13389	85_cow	Cow	TAVOYAN	TAVOYAN	nwāmā	nwāmā	n̪ w ʌː m ʌː	tavo1242		14.1078	98.194	
-56632	55_cow	Cow	MANDARIN	MANDARIN	˨ niu	niu˨	n̪ i u ²	mand1415		40.0209	116.228	
+56632	55_cow	Cow	MANDARIN	MANDARIN	˨ niu	niu˨	n i u ²	mand1415		40.0209	116.228	
 56633	55_cow	Cow	MANDARIN	MANDARIN	˨ liu	liu˨	l i u ²	mand1415		40.0209	116.228	
 56634	55_cow	Cow	CANTONESE	CANTONESE	˨ ṅau ˩˨ mō	ṅau˨mō˩˨	ŋ au ² + m oː ¹²	cant1236				
 56635	55_cow	Cow	CANTONESE	CANTONESE	˨ ṅau ˦˥ mā	ṅau˨mā˦˥	ŋ au ² + m ʌː ⁴⁵	cant1236				
@@ -2798,7 +2798,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 56833	55_cow	Cow	INTHA	INTHA	hnwā	hnwā	h n̪ w ʌː	inth1239				
 56834	55_cow	Cow	TAVOYAN	TAVOYAN	nwā	nwā	n̪ w ʌː	tavo1242		14.1078	98.194	
 #
-53611	42_cultivator	Cultivator	MANDARIN	MANDARIN	˨ luṅ ˨ žan	luṅ˨žan˨	l u ŋ ² + ʒ ʌ n̪ ²	mand1415		40.0209	116.228	
+53611	42_cultivator	Cultivator	MANDARIN	MANDARIN	˨ luṅ ˨ žan	luṅ˨žan˨	l u ŋ ² + ʐ a n̪ ²	mand1415		40.0209	116.228	
 53612	42_cultivator	Cultivator	CANTONESE	CANTONESE	˨ nuṅ ˦ fū	nuṅ˨fū˦	n̪ u ŋ ² + f uː ⁴	cant1236				
 53621	42_cultivator	Cultivator	PWOLITERARY	PWO_LITERARY	˧ φa ˨˦ mā ˦ šī° = p’ō	φa˧mā˨˦p’ō=šī°˦	ɸ ʌ ³ + m ʌː ²⁴ + pʰ oː + ʃ iː ⁴	phra1235		18.0048	99.6382	
 53622	42_cultivator	Cultivator	PWOBASSEIN	PWO_BASSEIN	p^àmà seiᵗ po	p^àmà seiᵗ po	p a m a + s ei t̪̚ + p o	pwow1235		17.3622	97.7044	
@@ -2902,7 +2902,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 53728	42_cultivator	Cultivator	TAVOYAN	TAVOYAN	le θà-mā	le θà-mā	l e + θ a + m ʌː	tavo1242		14.1078	98.194	
 53729	42_cultivator	Cultivator	TAVOYAN	TAVOYAN	le lauk θà-mā	le lauk θà-mā	l e + l au k + θ a + m ʌː	tavo1242		14.1078	98.194	
 #
-10871	78_daughter	Daughter	MANDARIN	MANDARIN	˨˦ nü ˦ hai tsz (atonic)	nü˨˦tszhai˦	n̪ y ²⁴ + ts z h ai ⁴	mand1415		40.0209	116.228	
+10871	78_daughter	Daughter	MANDARIN	MANDARIN	˨˦ nü ˦ hai tsz (atonic)	nü˨˦tszhai˦	n y ²⁴ + ts ɿ h ai ⁴	mand1415		40.0209	116.228	
 10872	78_daughter	Daughter	CANTONESE	CANTONESE	˩˨ nui	nui˩˨	n̪ u i ¹²	cant1236				
 10881	78_daughter	Daughter	PWOLITERARY	PWO_LITERARY	= p’ō = mu	= p’ō = mu	+ + pʰ oː + + + m u	phra1235		18.0048	99.6382	
 10882	78_daughter	Daughter	PWOBASSEIN	PWO_BASSEIN	po mü	po mü	p o + m y	pwow1235		17.3622	97.7044	
@@ -3299,7 +3299,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 54704	45_devil	Devil	INTHA	INTHA	seiṅ sei	seiṅ sei	s ei ŋ + s ei	inth1239				
 54705	45_devil	Devil	TAVOYAN	TAVOYAN	mà nàt	mà nàt	m a + n̪ a t̪	tavo1242		14.1078	98.194	
 #
-31251	123_die	Die	MANDARIN	MANDARIN	˨˦ szᵃ	szᵃ˨˦	s z ă ²⁴	mand1415		40.0209	116.228	
+31251	123_die	Die	MANDARIN	MANDARIN	˨˦ szᵃ	szᵃ˨˦	s ɿ ²⁴	mand1415		40.0209	116.228	
 31252	123_die	Die	CANTONESE	CANTONESE	˦˥ sz	sz˦˥	s z ⁴⁵	cant1236				
 31261	123_die	Die	PWOLITERARY	PWO_LITERARY	˨ θī	θī˨	θ iː ²	phra1235		18.0048	99.6382	
 31262	123_die	Die	PWOBASSEIN	PWO_BASSEIN	θi	θi	θ i	pwow1235		17.3622	97.7044	
@@ -3443,7 +3443,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 31415	123_die	Die	INTHA	INTHA	sei	sei	s ei	inth1239				
 31416	123_die	Die	TAVOYAN	TAVOYAN	θe	θe	θ e	tavo1242		14.1078	98.194	
 #
-57050	56_dog	Dog	MANDARIN	MANDARIN	˨˦ kō	kō˨˦	k oː ²⁴	mand1415		40.0209	116.228	
+57050	56_dog	Dog	MANDARIN	MANDARIN	˨˦ kō	kō˨˦	k o ²⁴	mand1415		40.0209	116.228	
 57051	56_dog	Dog	CANTONESE	CANTONESE	˦˥ kau	kau˦˥	k au ⁴⁵	cant1236				
 57052	56_dog	Dog	GYAOMI	GYAOMI	kau	kau	k au	mand1415		40.0209	116.228	
 57062	56_dog	Dog	PWOLITERARY	PWO_LITERARY	= t’wī	= t’wī	+ + t̪ʰ w iː	phra1235		18.0048	99.6382	
@@ -3613,9 +3613,9 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 57246	56_dog	Dog	INTHA	INTHA	kwe	kwe	k w e	inth1239				
 57247	56_dog	Dog	TAVOYAN	TAVOYAN	kwi	kwi	k w i	tavo1242		14.1078	98.194	
 #
-20038	106_down	Down	MANDARIN	MANDARIN	˦˨ hsya	hsya˦˨	h s j ʌ ⁴²	mand1415		40.0209	116.228	
-20039	106_down	Down	MANDARIN	MANDARIN	˦˨ hyā	hyā˦˨	hʲ ʌː ⁴²	mand1415		40.0209	116.228	
-20040	106_down	Down	MANDARIN	MANDARIN	˦˨ hā	hā˦˨	h ʌː ⁴²	mand1415		40.0209	116.228	
+20038	106_down	Down	MANDARIN	MANDARIN	˦˨ hsya	hsya˦˨	ɕ j a ⁴²	mand1415		40.0209	116.228	
+20039	106_down	Down	MANDARIN	MANDARIN	˦˨ hyā	hyā˦˨	ɕ j a ⁴²	mand1415		40.0209	116.228	
+20040	106_down	Down	MANDARIN	MANDARIN	˦˨ hā	hā˦˨	ɕ j a ⁴²	mand1415		40.0209	116.228	
 20041	106_down	Down	CANTONESE	CANTONESE	˨˩ hā	hā˨˩	h ʌː ²¹	cant1236				
 20042	106_down	Down	CANTONESE	CANTONESE	˨˩ låᵏ	låᵏ˨˩	l ɔ k̚ ²¹	cant1236				
 20043	106_down	Down	GYAOMI	GYAOMI	ti-šå (below)	ti-šå	t̪ i + ʃ ɔ	mand1415		40.0209	116.228	
@@ -3783,7 +3783,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 20231	106_down	Down	INTHA	INTHA	auk	auk	au k	inth1239				
 20232	106_down	Down	TAVOYAN	TAVOYAN	ǒk	ǒk	ɒ k	tavo1242		14.1078	98.194	
 #
-58632	60_duck	Duck	MANDARIN	MANDARIN	˨ yā°	yā°˨	j ʌː ²	mand1415		40.0209	116.228	
+58632	60_duck	Duck	MANDARIN	MANDARIN	˨ yā°	yā°˨	j a ²	mand1415		40.0209	116.228	
 58633	60_duck	Duck	CANTONESE	CANTONESE	˥˦ āʳ	āʳ˥˦	ʌː r̚ ⁵⁴	cant1236				
 58643	60_duck	Duck	PWOLITERARY	PWO_LITERARY	= t’ō ˨˦ t’a	t’ō=t’a˨˦	t̪ʰ oː + t̪ʰ ʌ ²⁴	phra1235		18.0048	99.6382	
 58644	60_duck	Duck	PWOBASSEIN	PWO_BASSEIN	tu tà	tu tà	t̪ u + t̪ a	pwow1235		17.3622	97.7044	
@@ -3905,7 +3905,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 58776	60_duck	Duck	ARAKANESE	ARAKANESE	bei	bei	b ei	marm1234		22.759948	92.210748	
 58777	60_duck	Duck	TAUNGYO	TAUNGYO	wǒṅ	wǒṅ	w ɒ ŋ	taun1248		20.4104	96.7401	
 58778	60_duck	Duck	DANU	DANU	wum bä	wum bä	w u m + b ɛ	danu1251				
-58779	60_duck	Duck	INTHA	INTHA	wum pě	wum pě	w u m + p ə	inth1239				
+58779	60_duck	Duck	INTHA	INTHA	wum pě	wum pě	w u m + p e	inth1239				
 58780	60_duck	Duck	TAVOYAN	TAVOYAN	wum be	wum be	w u m + b e	tavo1242		14.1078	98.194	
 58781	60_duck	Duck	TAVOYAN	TAVOYAN	be	be	b e	tavo1242		14.1078	98.194	
 #
@@ -4078,7 +4078,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 50078	32_ear	Ear	TAVOYAN	TAVOYAN	n^apwà^t	n^apwà^t	n̪ ʌ p w a t̪	tavo1242		14.1078	98.194	
 50079	32_ear	Ear	TAVOYAN	TAVOYAN	nā pwà^t	nā pwà^t	n̪ ʌː + p w a t̪	tavo1242		14.1078	98.194	
 #
-25247	119_eat	Eat	MANDARIN	MANDARIN	˨ ch’i°	ch’i°˨	tʃʰ i ²	mand1415		40.0209	116.228	
+25247	119_eat	Eat	MANDARIN	MANDARIN	˨ ch’i°	ch’i°˨	tɕʰ i ²	mand1415		40.0209	116.228	
 25248	119_eat	Eat	CANTONESE	CANTONESE	˨˩ šiᵏ	šiᵏ˨˩	ʃ i k̚ ²¹	cant1236				
 25249	119_eat	Eat	CANTONESE	CANTONESE	˥˦ yåᵏ	yåᵏ˥˦	j ɔ k̚ ⁵⁴	cant1236				
 25250	119_eat	Eat	GYAOMI	GYAOMI	t’yai	t’yai	t̪ʰ j ai	mand1415		40.0209	116.228	
@@ -4248,7 +4248,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 25440	119_eat	Eat	INTHA	INTHA	sā	sā	s ʌː	inth1239				
 25441	119_eat	Eat	TAVOYAN	TAVOYAN	sā	sā	s ʌː	tavo1242		14.1078	98.194	
 #
-1172	8_eight	Eight	MANDARIN	MANDARIN	˨ pā°	pā°˨	p ʌː ²	mand1415		40.0209	116.228	
+1172	8_eight	Eight	MANDARIN	MANDARIN	˨ pā°	pā°˨	p a ²	mand1415		40.0209	116.228	
 1173	8_eight	Eight	CANTONESE	CANTONESE	˥˦ pat	pat˥˦	p ʌ t̪ ⁵⁴	cant1236				
 1174	8_eight	Eight	GYAOMI	GYAOMI	pà-kū	pà-kū	p a + k uː	mand1415		40.0209	116.228	
 1175	8_eight	Eight	GYAOMI	GYAOMI	pà	pà	p a	mand1415		40.0209	116.228	
@@ -4577,7 +4577,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 48876	29_eye	Eye	TAVOYAN	TAVOYAN	myit lauṅ	myit lauṅ	m j i t̪ + l au ŋ	tavo1242		14.1078	98.194	
 48877	29_eye	Eye	TAVOYAN	TAVOYAN	myit si	myit si	m j i t̪ + s i	tavo1242		14.1078	98.194	
 #
-20895	108_far	Far	MANDARIN	MANDARIN	˨˦ yüan	yüan˨˦	j y ʌ n̪ ²⁴	mand1415		40.0209	116.228	
+20895	108_far	Far	MANDARIN	MANDARIN	˨˦ yüan	yüan˨˦	j y a n̪ ²⁴	mand1415		40.0209	116.228	
 20896	108_far	Far	CANTONESE	CANTONESE	˩˨ yün	yün˩˨	j y n̪ ¹²	cant1236				
 20897	108_far	Far	GYAOMI	GYAOMI	ywain	ywain	j w ai n̪	mand1415		40.0209	116.228	
 20907	108_far	Far	PWOLITERARY	PWO_LITERARY	˨˦ yaiṅ	yaiṅ˨˦	j ai ŋ ²⁴	phra1235		18.0048	99.6382	
@@ -4936,7 +4936,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 4196	61_father	Father	TAVOYAN	TAVOYAN	ᵃpā	ᵃpā	ă p ʌː	tavo1242		14.1078	98.194	
 4197	61_father	Father	TAVOYAN	TAVOYAN	pàpā	pàpā	p a p ʌː	tavo1242		14.1078	98.194	
 #
-26360	12_fifty	Fifty	MANDARIN	MANDARIN	˨˧ wu ˨ sza°	wu˨˧sza°˨	w u ²³ + s z ʌ ²	mand1415		40.0209	116.228	
+26360	12_fifty	Fifty	MANDARIN	MANDARIN	˨˧ wu ˨ sza°	wu˨˧sza°˨	w u ²³ + s ɿ ²	mand1415		40.0209	116.228	
 26361	12_fifty	Fifty	CANTONESE	CANTONESE	˩˨ ṅ ˨˩ šap	ṅ˩˨šap˨˩	ŋ ¹² + ʃ ʌ p ²¹	cant1236				
 26362	12_fifty	Fifty	GYAOMI	GYAOMI	wū-sà	wū-sà	w uː + s a	mand1415		40.0209	116.228	
 26371	12_fifty	Fifty	PWOLITERARY	PWO_LITERARY	˧ yai ˨ s’ī	yai˧s’ī˨	j ai ³ + sʰ iː ²	phra1235		18.0048	99.6382	
@@ -5567,7 +5567,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 48096	27_foot	Foot	INTHA	INTHA	ke pwā	ke pwā	k e + p w ʌː	inth1239				
 48097	27_foot	Foot	TAVOYAN	TAVOYAN	ke pwa	ke pwa	k e + p w ʌ	tavo1242		14.1078	98.194	
 #
-3574	4_four	Four	MANDARIN	MANDARIN	˧˨ sza	sza˧˨	s z ʌ ³²	mand1415		40.0209	116.228	
+3574	4_four	Four	MANDARIN	MANDARIN	˧˨ sza	sza˧˨	s ɿ ³²	mand1415		40.0209	116.228	
 3575	4_four	Four	CANTONESE	CANTONESE	˥˦ sz	sz˥˦	s z ⁵⁴	cant1236				
 3576	4_four	Four	GYAOMI	GYAOMI	si-kū	si-kū	s i + k uː	mand1415		40.0209	116.228	
 3585	4_four	Four	PWOLITERARY	PWO_LITERARY	˨ li	li˨	l i ²	phra1235		18.0048	99.6382	
@@ -5740,8 +5740,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 3771	4_four	Four	INTHA	INTHA	le ku	le ku	l e + k u	inth1239				
 3772	4_four	Four	TAVOYAN	TAVOYAN	le ku	le ku	l e + k u	tavo1242		14.1078	98.194	
 #
-31596	124_give	Give	MANDARIN	MANDARIN	˨ chī°	chī°˨	tʃ iː ²	mand1415		40.0209	116.228	
-31597	124_give	Give	MANDARIN	MANDARIN	˨˦ ka	ka˨˦	k ʌ ²⁴	mand1415		40.0209	116.228	
+31596	124_give	Give	MANDARIN	MANDARIN	˨ chī°	chī°˨	tɕ i ²	mand1415		40.0209	116.228	
+31597	124_give	Give	MANDARIN	MANDARIN	˨˦ ka	ka˨˦	k a ²⁴	mand1415		40.0209	116.228	
 31598	124_give	Give	CANTONESE	CANTONESE	˦˥ pä	pä˦˥	p ɛ ⁴⁵	cant1236				
 31599	124_give	Give	GYAOMI	GYAOMI	ki	ki	k i	mand1415		40.0209	116.228	
 31600	124_give	Give	GYAOMI	GYAOMI	yo-ho	yo-ho	j o + h o	mand1415		40.0209	116.228	
@@ -5906,7 +5906,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 31794	124_give	Give	TAVOYAN	TAVOYAN	pe	pe	p e	tavo1242		14.1078	98.194	
 #
 24804	118_go	Go	MANDARIN	MANDARIN	˦˨ k’ü	k’ü˦˨	kʰ y ⁴²	mand1415		40.0209	116.228	
-24805	118_go	Go	MANDARIN	MANDARIN	˦˨ k’a	k’a˦˨	kʰ ʌ ⁴²	mand1415		40.0209	116.228	
+24805	118_go	Go	MANDARIN	MANDARIN	˦˨ k’a	k’a˦˨	kʰ a ⁴²	mand1415		40.0209	116.228	
 24806	118_go	Go	CANTONESE	CANTONESE	˥˦ hui	hui˥˦	h u i ⁵⁴	cant1236				
 24807	118_go	Go	GYAOMI	GYAOMI	ch’i	ch’i	tʃʰ i	mand1415		40.0209	116.228	
 24819	118_go	Go	PWOLITERARY	PWO_LITERARY	˨˦ le	le˨˦	l e ²⁴	phra1235		18.0048	99.6382	
@@ -6098,7 +6098,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 25034	118_go	Go	INTHA	INTHA	swā	swā	s w ʌː	inth1239				
 25035	118_go	Go	TAVOYAN	TAVOYAN	θwā	θwā	θ w ʌː	tavo1242		14.1078	98.194	
 #
-54189	44_god	God	MANDARIN	MANDARIN	˦ T’yēn	T’yēn˦	t̪ j eː n̪ ⁴	mand1415		40.0209	116.228	
+54189	44_god	God	MANDARIN	MANDARIN	˦ T’yēn	T’yēn˦	t j ɛ n̪ ⁴	mand1415		40.0209	116.228	
 54190	44_god	God	CANTONESE	CANTONESE	˨ Šan	Šan˨	ʃ ʌ n̪ ²	cant1236				
 54200	44_god	God	PWOLITERARY	PWO_LITERARY	˧ Ka ˧ s’ā ˨˦ ywa	Ka˧s’ā˧ywa˨˦	k ʌ ³ + sʰ ʌː ³ + j w ʌ ²⁴	phra1235		18.0048	99.6382	
 54201	44_god	God	PWOBASSEIN	PWO_BASSEIN	Yuà	Yuà	y u a	pwow1235		17.3622	97.7044	
@@ -6363,7 +6363,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 52755	39_gold	Gold	INTHA	INTHA	chwi	chwi	tʃ w i	inth1239				
 52756	39_gold	Gold	TAVOYAN	TAVOYAN	šwei	šwei	ʃ w ei	tavo1242		14.1078	98.194	
 #
-50279	33_hair	Hair	MANDARIN	MANDARIN	(human) ˨ fā°	fā°˨	f ʌː ²	mand1415		40.0209	116.228	
+50279	33_hair	Hair	MANDARIN	MANDARIN	(human) ˨ fā°	fā°˨	f a ²	mand1415		40.0209	116.228	
 50280	33_hair	Hair	CANTONESE	CANTONESE	(of head) ˨ t’au ˥˦ fā^t	t’au˨fā^t˥˦	t̪ʰ au ² + f ʌː t̪ ⁵⁴	cant1236				
 50281	33_hair	Hair	GYAOMI	GYAOMI	t’au-p’wå	t’au-p’wå	t̪ʰ au + pʰ w ɔ	mand1415		40.0209	116.228	
 50290	33_hair	Hair	PWOLITERARY	PWO_LITERARY	˨ s’åṅ	s’åṅ˨	sʰ ɔ ŋ ²	phra1235		18.0048	99.6382	
@@ -6565,8 +6565,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 50510	33_hair	Hair	TAVOYAN	TAVOYAN	sàn bàn (of head)	sàn bàn	s a n̪ + b a n̪	tavo1242		14.1078	98.194	
 50511	33_hair	Hair	TAVOYAN	TAVOYAN	^amwi (of body)	^amwi	ʌ m w i	tavo1242		14.1078	98.194	
 #
-47502	26_hand	Hand	MANDARIN	MANDARIN	˨˧ šō	šō˨˧	ʃ oː ²³	mand1415		40.0209	116.228	
-47503	26_hand	Hand	MANDARIN	MANDARIN	˨˧ sō	sō˨˧	s oː ²³	mand1415		40.0209	116.228	
+47502	26_hand	Hand	MANDARIN	MANDARIN	˨˧ šō	šō˨˧	ʐ o ²³	mand1415		40.0209	116.228	
+47503	26_hand	Hand	MANDARIN	MANDARIN	˨˧ sō	sō˨˧	s o ²³	mand1415		40.0209	116.228	
 47504	26_hand	Hand	CANTONESE	CANTONESE	˦˥ šau	šau˦˥	ʃ au ⁴⁵	cant1236				
 47505	26_hand	Hand	GYAOMI	GYAOMI	šū	šū	ʃ uː	mand1415		40.0209	116.228	
 47506	26_hand	Hand	GYAOMI	GYAOMI	šö	šö	ʃ ø	mand1415		40.0209	116.228	
@@ -6735,7 +6735,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 47698	26_hand	Hand	INTHA	INTHA	làk	làk	l a k	inth1239				
 47699	26_hand	Hand	TAVOYAN	TAVOYAN	làk	làk	l a k	tavo1242		14.1078	98.194	
 #
-45516	22_he	He	MANDARIN	MANDARIN	˦ t’a	t’a˦	t̪ʰ ʌ ⁴	mand1415		40.0209	116.228	
+45516	22_he	He	MANDARIN	MANDARIN	˦ t’a	t’a˦	tʰ a ⁴	mand1415		40.0209	116.228	
 45517	22_he	He	CANTONESE	CANTONESE	˩˨ k’ui	k’ui˩˨	kʰ u i ¹²	cant1236				
 45518	22_he	He	GYAOMI	GYAOMI	t’å	t’å	t̪ʰ ɔ	mand1415		40.0209	116.228	
 45529	22_he	He	PWOLITERARY	PWO_LITERARY	˧ a ˨ wē	a˧wē˨	ʌ ³ + w eː ²	phra1235		18.0048	99.6382	
@@ -6966,8 +6966,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 45780	22_he	He	INTHA	INTHA	su	su	s u	inth1239				
 45781	22_he	He	TAVOYAN	TAVOYAN	θu	θu	θ u	tavo1242		14.1078	98.194	
 #
-50726	34_head	Head	MANDARIN	MANDARIN	˨˦ šo	šo˨˦	ʃ o ²⁴	mand1415		40.0209	116.228	
-50727	34_head	Head	MANDARIN	MANDARIN	˨ t’ō	t’ō˨	t̪ʰ oː ²	mand1415		40.0209	116.228	
+50726	34_head	Head	MANDARIN	MANDARIN	˨˦ šo	šo˨˦	ʐ o ²⁴	mand1415		40.0209	116.228	
+50727	34_head	Head	MANDARIN	MANDARIN	˨ t’ō	t’ō˨	tʰ o ²	mand1415		40.0209	116.228	
 50728	34_head	Head	CANTONESE	CANTONESE	˨ t’au	t’au˨	t̪ʰ au ²	cant1236				
 50729	34_head	Head	GYAOMI	GYAOMI	t’au	t’au	t̪ʰ au	mand1415		40.0209	116.228	
 50738	34_head	Head	PWOLITERARY	PWO_LITERARY	= k’ō	= k’ō	+ + kʰ oː	phra1235		18.0048	99.6382	
@@ -7276,7 +7276,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 19428	104_high	High	INTHA	INTHA	myàṅ	myàṅ	m j a ŋ	inth1239				
 19429	104_high	High	TAVOYAN	TAVOYAN	byin	byin	b j i n̪	tavo1242		14.1078	98.194	
 #
-46049	23_his	His	MANDARIN	MANDARIN	˦ t’ā ˨ ti° (P.)	t’ā˦ti°˨	t̪ʰ ʌː ⁴ + t̪ i ²	mand1415		40.0209	116.228	
+46049	23_his	His	MANDARIN	MANDARIN	˦ t’ā ˨ ti° (P.)	t’ā˦ti°˨	tʰ a ⁴ + t i ²	mand1415		40.0209	116.228	
 46050	23_his	His	CANTONESE	CANTONESE	˩˨ k’ui ˥˦ kē (P.)	k’ui˩˨kē˥˦	kʰ u i ¹² + k eː ⁵⁴	cant1236				
 46051	23_his	His	GYAOMI	GYAOMI	t’å-ti	t’å-ti	t̪ʰ ɔ + t̪ i	mand1415		40.0209	116.228	
 46060	23_his	His	PWOLITERARY	PWO_LITERARY	˦ a ˨ wē ˧a (P.)	a˦wē˨˧a	ʌ ⁴ + w eː ²³ + ʌ	phra1235		18.0048	99.6382	
@@ -7473,7 +7473,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 46275	23_his	His	INTHA	INTHA	su	su	s u	inth1239				
 46276	23_his	His	TAVOYAN	TAVOYAN	θu (P.)	θu	θ u	tavo1242		14.1078	98.194	
 #
-55744	52_horse	Horse	MANDARIN	MANDARIN	˨˦ mā	mā˨˦	m ʌː ²⁴	mand1415		40.0209	116.228	
+55744	52_horse	Horse	MANDARIN	MANDARIN	˨˦ mā	mā˨˦	m a ²⁴	mand1415		40.0209	116.228	
 55745	52_horse	Horse	CANTONESE	CANTONESE	˩˨ mā	mā˩˨	m ʌː ¹²	cant1236				
 55746	52_horse	Horse	GYAOMI	GYAOMI	mà	mà	m a	mand1415		40.0209	116.228	
 55755	52_horse	Horse	PWOLITERARY	PWO_LITERARY	= θē	= θē	+ + θ eː	phra1235		18.0048	99.6382	
@@ -7636,7 +7636,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 55934	52_horse	Horse	INTHA	INTHA	myàṅ	myàṅ	m j a ŋ	inth1239				
 55935	52_horse	Horse	TAVOYAN	TAVOYAN	byin	byin	b j i n̪	tavo1242		14.1078	98.194	
 #
-55320	51_house	House	MANDARIN	MANDARIN	˨ fāṅ	fāṅ˨	f ʌː ŋ ²	mand1415		40.0209	116.228	
+55320	51_house	House	MANDARIN	MANDARIN	˨ fāṅ	fāṅ˨	f a ŋ ²	mand1415		40.0209	116.228	
 55321	51_house	House	MANDARIN	MANDARIN	˨ wu°	wu°˨	w u ²	mand1415		40.0209	116.228	
 55322	51_house	House	CANTONESE	CANTONESE	˦ uᵏ	uᵏ˦	u k̚ ⁴	cant1236				
 55323	51_house	House	GYAOMI	GYAOMI	š’àṅ-chà	š’àṅ-chà	ʃ a ŋ + tʃ a	mand1415		40.0209	116.228	
@@ -7810,7 +7810,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 55522	51_house	House	INTHA	INTHA	ein	ein	ei n̪	inth1239				
 55523	51_house	House	TAVOYAN	TAVOYAN	i	i	i	tavo1242		14.1078	98.194	
 #
-26694	13_hundred	Hundred	MANDARIN	MANDARIN	˨ pa° (Pekin ˨˧ pai)	pa°˨	p ʌ ²	mand1415		40.0209	116.228	
+26694	13_hundred	Hundred	MANDARIN	MANDARIN	˨ pa° (Pekin ˨˧ pai)	pa°˨	p a ²	mand1415		40.0209	116.228	
 26695	13_hundred	Hundred	CANTONESE	CANTONESE	˦ yat ˥˦ pāk	yat˦pāk˥˦	j ʌ t̪ ⁴ + p ʌː k ⁵⁴	cant1236				
 26696	13_hundred	Hundred	GYAOMI	GYAOMI	ī-pai	ī-pai	iː + p ai	mand1415		40.0209	116.228	
 26705	13_hundred	Hundred	PWOLITERARY	PWO_LITERARY	˨ ka ˨˧ ya	ka˨ya˨˧	k ʌ ² + j ʌ ²³	phra1235		18.0048	99.6382	
@@ -8163,7 +8163,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 27324	14_i	I	INTHA	INTHA	ṅā	ṅā	ŋ ʌː	inth1239				
 27325	14_i	I	TAVOYAN	TAVOYAN	ṅā	ṅā	ŋ ʌː	tavo1242		14.1078	98.194	
 #
-52218	38_iron	Iron	MANDARIN	MANDARIN	˨ t’ye°	t’ye°˨	t̪ʰ j e ²	mand1415		40.0209	116.228	
+52218	38_iron	Iron	MANDARIN	MANDARIN	˨ t’ye°	t’ye°˨	tʰ j e ²	mand1415		40.0209	116.228	
 52219	38_iron	Iron	CANTONESE	CANTONESE	˥˦ t’īᵗ	t’īᵗ˥˦	t̪ʰ iː t̪̚ ⁵⁴	cant1236				
 52220	38_iron	Iron	GYAOMI	GYAOMI	t’ai	t’ai	t̪ʰ ai	mand1415		40.0209	116.228	
 52229	38_iron	Iron	PWOLITERARY	PWO_LITERARY	˦ t’a	t’a˦	t̪ʰ ʌ ⁴	phra1235		18.0048	99.6382	
@@ -8329,9 +8329,9 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 52411	38_iron	Iron	INTHA	INTHA	s’àṅ	s’àṅ	sʰ a ŋ	inth1239				
 52412	38_iron	Iron	TAVOYAN	TAVOYAN	θàṅ	θàṅ	θ a ŋ	tavo1242		14.1078	98.194	
 #
-8545	73_man	Man	MANDARIN	MANDARIN	(vir) ˨ nān	nān˨	n̪ ʌː n̪ ²	mand1415		40.0209	116.228	
-8546	73_man	Man	MANDARIN	MANDARIN	˨ lān	lān˨	l ʌː n̪ ²	mand1415		40.0209	116.228	
-8547	73_man	Man	MANDARIN	MANDARIN	(homo) ˨ žan	žan˨	ʒ ʌ n̪ ²	mand1415		40.0209	116.228	
+8545	73_man	Man	MANDARIN	MANDARIN	(vir) ˨ nān	nān˨	n a n̪ ²	mand1415		40.0209	116.228	
+8546	73_man	Man	MANDARIN	MANDARIN	˨ lān	lān˨	l a n̪ ²	mand1415		40.0209	116.228	
+8547	73_man	Man	MANDARIN	MANDARIN	(homo) ˨ žan	žan˨	ʐ a n̪ ²	mand1415		40.0209	116.228	
 8548	73_man	Man	CANTONESE	CANTONESE	(vir) ˨ nām	nām˨	n̪ ʌː m ²	cant1236				
 8549	73_man	Man	CANTONESE	CANTONESE	(homo) ˨ yan	yan˨	j ʌ n̪ ²	cant1236				
 8550	73_man	Man	GYAOMI	GYAOMI	rin	rin	r i n̪	mand1415		40.0209	116.228	
@@ -8597,8 +8597,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 8852	73_man	Man	INTHA	INTHA	lu	lu	l u	inth1239				
 8853	73_man	Man	TAVOYAN	TAVOYAN	lu	lu	l u	tavo1242		14.1078	98.194	
 #
-11917	81_mare	Mare	MANDARIN	MANDARIN	˦˨ k’å ˨˦ mā	k’å˦˨mā˨˦	kʰ ɔ ⁴² + m ʌː ²⁴	mand1415		40.0209	116.228	
-11918	81_mare	Mare	MANDARIN	MANDARIN	˨˦ mu ˨˦ mā	mu˨˦mā˨˦	m u ²⁴ + m ʌː ²⁴	mand1415		40.0209	116.228	
+11917	81_mare	Mare	MANDARIN	MANDARIN	˦˨ k’å ˨˦ mā	k’å˦˨mā˨˦	kʰ ɔ ⁴² + m a ²⁴	mand1415		40.0209	116.228	
+11918	81_mare	Mare	MANDARIN	MANDARIN	˨˦ mu ˨˦ mā	mu˨˦mā˨˦	m u ²⁴ + m a ²⁴	mand1415		40.0209	116.228	
 11919	81_mare	Mare	CANTONESE	CANTONESE	˩˨ mā ˩˨ mō	mā˩˨mō˩˨	m ʌː ¹² + m oː ¹²	cant1236				
 11927	81_mare	Mare	PWOLITERARY	PWO_LITERARY	˧ ka = θē ˧ mō	θē=ka˧mō˧	θ eː + k ʌ ³ + m oː ³	phra1235		18.0048	99.6382	
 11928	81_mare	Mare	PWOBASSEIN	PWO_BASSEIN	k^àθi mü	k^àθi mü	k a θ i + m y	pwow1235		17.3622	97.7044	
@@ -8731,7 +8731,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 12069	81_mare	Mare	INTHA	INTHA	myàṅ mā	myàṅ mā	m j a ŋ + m ʌː	inth1239				
 12070	81_mare	Mare	TAVOYAN	TAVOYAN	byin mā	byin mā	b j i n̪ + m ʌː	tavo1242		14.1078	98.194	
 #
-59372	47_moon	Moon	MANDARIN	MANDARIN	˨ yüeh°	yüeh°˨	j y e h ²	mand1415		40.0209	116.228	
+59372	47_moon	Moon	MANDARIN	MANDARIN	˨ yüeh°	yüeh°˨	j y e ²	mand1415		40.0209	116.228	
 59373	47_moon	Moon	CANTONESE	CANTONESE	˨˩ yüᵗ	yüᵗ˨˩	j y t̪̚ ²¹	cant1236				
 59374	47_moon	Moon	GYAOMI	GYAOMI	yo-liåṅ	yo-liåṅ	j o + l i ɔ ŋ	mand1415		40.0209	116.228	
 59386	47_moon	Moon	PWOLITERARY	PWO_LITERARY	˨˦ la	la˨˦	l ʌ ²⁴	phra1235		18.0048	99.6382	
@@ -9253,7 +9253,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 49292	30_mouth	Mouth	INTHA	INTHA	pasà°	pasà°	p ʌ s a	inth1239				
 49293	30_mouth	Mouth	TAVOYAN	TAVOYAN	pazǎt	pazǎt	p ʌ z æ t̪	tavo1242		14.1078	98.194	
 #
-27557	15_my	My	MANDARIN	MANDARIN	˨˧ wå ˨ ti° (P.)	wå˨˧ti°˨	w ɔ ²³ + t̪ i ²	mand1415		40.0209	116.228	
+27557	15_my	My	MANDARIN	MANDARIN	˨˧ wå ˨ ti° (P.)	wå˨˧ti°˨	w ɔ ²³ + t i ²	mand1415		40.0209	116.228	
 27558	15_my	My	CANTONESE	CANTONESE	˩˨ ṅå ˥˦ kē (P.)	ṅå˩˨kē˥˦	ŋ ɔ ¹² + k eː ⁵⁴	cant1236				
 27559	15_my	My	GYAOMI	GYAOMI	ṅau-ti	ṅau-ti	ŋ au + t̪ i	mand1415		40.0209	116.228	
 27568	15_my	My	PWOLITERARY	PWO_LITERARY	˧ ya (P.)	ya˧	j ʌ ³	phra1235		18.0048	99.6382	
@@ -9454,7 +9454,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 27788	15_my	My	INTHA	INTHA	ṅà (P.)	ṅà	ŋ a	inth1239				
 27789	15_my	My	TAVOYAN	TAVOYAN	ṅà (P.)	ṅà	ŋ a	tavo1242		14.1078	98.194	
 #
-20461	107_near	Near	MANDARIN	MANDARIN	˦˨ chin	chin˦˨	tʃ i n̪ ⁴²	mand1415		40.0209	116.228	
+20461	107_near	Near	MANDARIN	MANDARIN	˦˨ chin	chin˦˨	tɕ i n̪ ⁴²	mand1415		40.0209	116.228	
 20462	107_near	Near	CANTONESE	CANTONESE	˨˩ kan	kan˨˩	k ʌ n̪ ²¹	cant1236				
 20463	107_near	Near	CANTONESE	CANTONESE	˩˨ k’an	k’an˩˨	kʰ ʌ n̪ ¹²	cant1236				
 20464	107_near	Near	CANTONESE	CANTONESE	˨ māi	māi˨	m aːi ²	cant1236				
@@ -9623,7 +9623,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 20659	107_near	Near	INTHA	INTHA	ᵃni	ᵃni	ă n̪ i	inth1239				
 20660	107_near	Near	TAVOYAN	TAVOYAN	ᵃnā	ᵃnā	ă n̪ ʌː	tavo1242		14.1078	98.194	
 #
-1540	9_nine	Nine	MANDARIN	MANDARIN	˨˧ chīu	chīu˨˧	tʃ iː u ²³	mand1415		40.0209	116.228	
+1540	9_nine	Nine	MANDARIN	MANDARIN	˨˧ chīu	chīu˨˧	tɕ j ou ²³	mand1415		40.0209	116.228	
 1541	9_nine	Nine	CANTONESE	CANTONESE	˦˥ kau	kau˦˥	k au ⁴⁵	cant1236				
 1542	9_nine	Nine	GYAOMI	GYAOMI	chyū-kū	chyū-kū	tʃ j uː + k uː	mand1415		40.0209	116.228	
 1543	9_nine	Nine	GYAOMI	GYAOMI	chyū	chyū	tʃ j uː	mand1415		40.0209	116.228	
@@ -9780,7 +9780,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1722	9_nine	Nine	INTHA	INTHA	ko	ko	k o	inth1239				
 1723	9_nine	Nine	TAVOYAN	TAVOYAN	ko ku	ko ku	k o + k u	tavo1242		14.1078	98.194	
 #
-24383	117_no	No	MANDARIN	MANDARIN	˨ pu ˦˨ ših	pu˨ših˦˨	p u ² + ʃ i h ⁴²	mand1415		40.0209	116.228	
+24383	117_no	No	MANDARIN	MANDARIN	˨ pu ˦˨ ših	pu˨ših˦˨	p u ² + ʂ ɿ ⁴²	mand1415		40.0209	116.228	
 24384	117_no	No	CANTONESE	CANTONESE	˦ paᵗ ˨˩ šī	paᵗ˦šī˨˩	p ʌ t̪̚ ⁴ + ʃ iː ²¹	cant1236				
 24385	117_no	No	CANTONESE	CANTONESE	˨ m ˨˩ hai	m˨hai˨˩	m ² + h ai ²¹	cant1236				
 24386	117_no	No	GYAOMI	GYAOMI	pūsiti-aiyau	pūsiti-aiyau	p uː s i t̪ i + ai j au	mand1415		40.0209	116.228	
@@ -10284,7 +10284,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2151	1_one	One	INTHA	INTHA	ta ku	ta ku	t̪ ʌ + k u	inth1239				
 2152	1_one	One	TAVOYAN	TAVOYAN	ta ku	ta ku	t̪ ʌ + k u	tavo1242		14.1078	98.194	
 #
-28585	17_our	Our	MANDARIN	MANDARIN	˨˧ wå ˨ man ˨ ti° (P.)	wå˨˧man˨ti°˨	w ɔ ²³ + m ʌ n̪ ² + t̪ i ²	mand1415		40.0209	116.228	
+28585	17_our	Our	MANDARIN	MANDARIN	˨˧ wå ˨ man ˨ ti° (P.)	wå˨˧man˨ti°˨	w ɔ ²³ + m a n̪ ² + t i ²	mand1415		40.0209	116.228	
 28586	17_our	Our	CANTONESE	CANTONESE	˩˨ ṅå ˨˩ tä ˥˦ kē (P.)	ṅå˩˨tä˨˩kē˥˦	ŋ ɔ ¹² + t̪ ɛ ²¹ + k eː ⁵⁴	cant1236				
 28587	17_our	Our	GYAOMI	GYAOMI	ṅau-mai-ti	ṅau-mai-ti	ŋ au + m ai + t̪ i	mand1415		40.0209	116.228	
 28597	17_our	Our	PWOLITERARY	PWO_LITERARY	˨ pà (P.)	pà˨	p a ²	phra1235		18.0048	99.6382	
@@ -10648,7 +10648,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 32179	125_run	Run	INTHA	INTHA	pre	pre	p r e	inth1239				
 32180	125_run	Run	TAVOYAN	TAVOYAN	ple	ple	p l e	tavo1242		14.1078	98.194	
 #
-804	7_seven	Seven	MANDARIN	MANDARIN	˨ ch’i°	ch’i°˨	tʃʰ i ²	mand1415		40.0209	116.228	
+804	7_seven	Seven	MANDARIN	MANDARIN	˨ ch’i°	ch’i°˨	tɕʰ i ²	mand1415		40.0209	116.228	
 805	7_seven	Seven	CANTONESE	CANTONESE	˦ ts’at	ts’at˦	tsʰ ʌ t̪ ⁴	cant1236				
 806	7_seven	Seven	GYAOMI	GYAOMI	ch’i-kū	ch’i-kū	tʃʰ i + k uː	mand1415		40.0209	116.228	
 807	7_seven	Seven	GYAOMI	GYAOMI	ch’i	ch’i	tʃʰ i	mand1415		40.0209	116.228	
@@ -10813,7 +10813,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 994	7_seven	Seven	INTHA	INTHA	ko-nek ku	ko-nek ku	k o + n̪ e k + k u	inth1239				
 995	7_seven	Seven	TAVOYAN	TAVOYAN	ku-nit ku	ku-nit ku	k u + n̪ i t̪ + k u	tavo1242		14.1078	98.194	
 #
-53903	43_shepherd	Shepherd	MANDARIN	MANDARIN	˦˨ k’an ˨ yāṅ ˨ ti°	k’an˦˨yāṅ˨ti°˨	kʰ ʌ n̪ ⁴² + j ʌː ŋ ² + t̪ i ²	mand1415		40.0209	116.228	
+53903	43_shepherd	Shepherd	MANDARIN	MANDARIN	˦˨ k’an ˨ yāṅ ˨ ti°	k’an˦˨yāṅ˨ti°˨	kʰ a n̪ ⁴² + j a ŋ ² + t i ²	mand1415		40.0209	116.228	
 53904	43_shepherd	Shepherd	CANTONESE	CANTONESE	˨˩ muᵏ ˨ yōṅ ˨ yan	muᵏ˨˩yōṅ˨yan˨	m u k̚ ²¹ + j oː ŋ ² + j ʌ n̪ ²	cant1236				
 53905	43_shepherd	Shepherd	CANTONESE	CANTONESE	˦ hōn ˨ yōṅ ˥˦ kē	hōn˦yōṅ˨kē˥˦	h oː n̪ ⁴ + j oː ŋ ² + k eː ⁵⁴	cant1236				
 53913	43_shepherd	Shepherd	PWOLITERARY	PWO_LITERARY	˧ φa ˦ yū° = θō	φa˧θō=yū°˦	ɸ ʌ ³ + θ oː + j uː ⁴	phra1235		18.0048	99.6382	
@@ -11034,7 +11034,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 53095	40_silver	Silver	INTHA	INTHA	ṅwe	ṅwe	ŋ w e	inth1239				
 53096	40_silver	Silver	TAVOYAN	TAVOYAN	ṅwe	ṅwe	ŋ w e	tavo1242		14.1078	98.194	
 #
-8006	72_sister	Sister	MANDARIN	MANDARIN	(E.) ˨˦ chyē	chyē˨˦	tʃ j eː ²⁴	mand1415		40.0209	116.228	
+8006	72_sister	Sister	MANDARIN	MANDARIN	(E.) ˨˦ chyē	chyē˨˦	tʃ j ɛ ²⁴	mand1415		40.0209	116.228	
 8007	72_sister	Sister	MANDARIN	MANDARIN	(Y.) ˦˨ mä	mä˦˨	m ɛ ⁴²	mand1415		40.0209	116.228	
 8008	72_sister	Sister	CANTONESE	CANTONESE	(E.) ˥˦ ā ˦˥ tsē	ā˥˦tsē˦˥	ʌː ⁵⁴ + ts eː ⁴⁵	cant1236				
 8009	72_sister	Sister	CANTONESE	CANTONESE	(Y.) ˥˦ ā ˨˩ mūi	ā˥˦mūi˨˩	ʌː ⁵⁴ + m uː i ²¹	cant1236				
@@ -11591,7 +11591,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 615	6_six	Six	INTHA	INTHA	chauk ku	chauk ku	tʃ au k + k u	inth1239				
 616	6_six	Six	TAVOYAN	TAVOYAN	chǒk ku	chǒk ku	tʃ ɒ k + k u	tavo1242		14.1078	98.194	
 #
-53279	41_slave	Slave	MANDARIN	MANDARIN	˨ lō	lō˨	l oː ²	mand1415		40.0209	116.228	
+53279	41_slave	Slave	MANDARIN	MANDARIN	˨ lō	lō˨	l o ²	mand1415		40.0209	116.228	
 53280	41_slave	Slave	MANDARIN	MANDARIN	˨ lu	lu˨	l u ²	mand1415		40.0209	116.228	
 53281	41_slave	Slave	CANTONESE	CANTONESE	˨˩ puᵏ	puᵏ˨˩	p u k̚ ²¹	cant1236				
 53290	41_slave	Slave	PWOLITERARY	PWO_LITERARY	˧ φa ˦ ꭓåṅ°	φa˧ꭓåṅ°˦	ɸ ʌ ³ + x ɔ ŋ ⁴	phra1235		18.0048	99.6382	
@@ -11722,7 +11722,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 10437	77_son	Son	MANDARIN	MANDARIN	˨ ṅᵉ	ṅᵉ˨	ŋ ĕ ²	mand1415		40.0209	116.228	
 10438	77_son	Son	MANDARIN	MANDARIN	˨ yᵃ	yᵃ˨	j ă ²	mand1415		40.0209	116.228	
-10439	77_son	Son	MANDARIN	MANDARIN	˨˦ tsz	tsz˨˦	ts z ²⁴	mand1415		40.0209	116.228	
+10439	77_son	Son	MANDARIN	MANDARIN	˨˦ tsz	tsz˨˦	ts ɿ ²⁴	mand1415		40.0209	116.228	
 10440	77_son	Son	CANTONESE	CANTONESE	˦˥ ṯs̱ai	ṯs̱ai˦˥	ts ai ⁴⁵	cant1236				
 10441	77_son	Son	CANTONESE	CANTONESE	˨˦ tsz	tsz˨˦	ts z ²⁴	cant1236				
 10450	77_son	Son	PWOLITERARY	PWO_LITERARY	= p’ō ˨ kwā	p’ō=kwā˨	pʰ oː + k w ʌː ²	phra1235		18.0048	99.6382	
@@ -11896,8 +11896,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 10633	77_son	Son	INTHA	INTHA	sā	sā	s ʌː	inth1239				
 10634	77_son	Son	TAVOYAN	TAVOYAN	θā	θā	θ ʌː	tavo1242		14.1078	98.194	
 #
-30873	122_stand	Stand	MANDARIN	MANDARIN	˦˨ chān	chān˦˨	tʃ ʌː n̪ ⁴²	mand1415		40.0209	116.228	
-30874	122_stand	Stand	MANDARIN	MANDARIN	˦˨ tsān	tsān˦˨	ts ʌː n̪ ⁴²	mand1415		40.0209	116.228	
+30873	122_stand	Stand	MANDARIN	MANDARIN	˦˨ chān	chān˦˨	tʃ a n̪ ⁴²	mand1415		40.0209	116.228	
+30874	122_stand	Stand	MANDARIN	MANDARIN	˦˨ tsān	tsān˦˨	ts a n̪ ⁴²	mand1415		40.0209	116.228	
 30875	122_stand	Stand	CANTONESE	CANTONESE	˩˨ k’ä	k’ä˩˨	kʰ ɛ ¹²	cant1236				
 30876	122_stand	Stand	GYAOMI	GYAOMI	ch’i-lai	ch’i-lai	tʃʰ i + l ai	mand1415		40.0209	116.228	
 30885	122_stand	Stand	PWOLITERARY	PWO_LITERARY	˨ s’öṅ = t’uṅ	t’uṅ=s’öṅ˨	t̪ʰ u ŋ + sʰ ø ŋ ²	phra1235		18.0048	99.6382	
@@ -12056,7 +12056,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 31055	122_stand	Stand	INTHA	INTHA	tā	tā	t̪ ʌː	inth1239				
 31056	122_stand	Stand	TAVOYAN	TAVOYAN	yàt	yàt	j a t̪	tavo1242		14.1078	98.194	
 #
-59785	48_star	Star	MANDARIN	MANDARIN	˦ hsiṅ	hsiṅ˦	h s i ŋ ⁴	mand1415		40.0209	116.228	
+59785	48_star	Star	MANDARIN	MANDARIN	˦ hsiṅ	hsiṅ˦	ɕ i ŋ ⁴	mand1415		40.0209	116.228	
 59786	48_star	Star	CANTONESE	CANTONESE	˦ siṅ	siṅ˦	s i ŋ ⁴	cant1236				
 59787	48_star	Star	GYAOMI	GYAOMI	siṅh-šu	siṅh-šu	s i ŋ h + ʃ u	mand1415		40.0209	116.228	
 59796	48_star	Star	PWOLITERARY	PWO_LITERARY	= ša	= ša	+ + ʃ ʌ	phra1235		18.0048	99.6382	
@@ -12223,7 +12223,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 59976	48_star	Star	INTHA	INTHA	che	che	tʃ e	inth1239				
 59977	48_star	Star	TAVOYAN	TAVOYAN	che	che	tʃ e	tavo1242		14.1078	98.194	
 #
-58960	46_sun	Sun	MANDARIN	MANDARIN	˨ žᵃ°	žᵃ°˨	ʒ ă ²	mand1415		40.0209	116.228	
+58960	46_sun	Sun	MANDARIN	MANDARIN	˨ žᵃ°	žᵃ°˨	ʐ ʅ ²	mand1415		40.0209	116.228	
 58961	46_sun	Sun	CANTONESE	CANTONESE	˨˩ yaᵗ	yaᵗ˨˩	j ʌ t̪̚ ²¹	cant1236				
 58962	46_sun	Sun	CANTONESE	CANTONESE	˨˩ yaᵗ ˨ t’au	yaᵗ˨˩t’au˨	j ʌ t̪̚ ²¹ + t̪ʰ au ²	cant1236				
 58963	46_sun	Sun	GYAOMI	GYAOMI	tai-t’au	tai-t’au	t̪ ai + t̪ʰ au	mand1415		40.0209	116.228	
@@ -12391,7 +12391,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 59155	46_sun	Sun	INTHA	INTHA	nei	nei	n̪ ei	inth1239				
 59156	46_sun	Sun	TAVOYAN	TAVOYAN	nei	nei	n̪ ei	tavo1242		14.1078	98.194	
 #
-2365	10_ten	Ten	MANDARIN	MANDARIN	˨ sza°	sza°˨	s z ʌ ²	mand1415		40.0209	116.228	
+2365	10_ten	Ten	MANDARIN	MANDARIN	˨ sza°	sza°˨	s ɿ ²	mand1415		40.0209	116.228	
 2366	10_ten	Ten	CANTONESE	CANTONESE	˨˩ šap	šap˨˩	ʃ ʌ p ²¹	cant1236				
 2367	10_ten	Ten	GYAOMI	GYAOMI	īš-sa	īš-sa	iː ʃ + s ʌ	mand1415		40.0209	116.228	
 2377	10_ten	Ten	PWOLITERARY	PWO_LITERARY	˧ ka ˨ s’ī	ka˧s’ī˨	k ʌ ³ + sʰ iː ²	phra1235		18.0048	99.6382	
@@ -12557,7 +12557,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2558	10_ten	Ten	TAVOYAN	TAVOYAN	tā sä	tā sä	t̪ ʌː + s ɛ	tavo1242		14.1078	98.194	
 2559	10_ten	Ten	TAVOYAN	TAVOYAN	tā ji	tā ji	t̪ ʌː + dʒ i	tavo1242		14.1078	98.194	
 #
-47055	25_their	Their	MANDARIN	MANDARIN	˧ t’a ˨ man ˨ ti° (P.)	t’a˧man˨ti°˨	t̪ʰ ʌ ³ + m ʌ n̪ ² + t̪ i ²	mand1415		40.0209	116.228	
+47055	25_their	Their	MANDARIN	MANDARIN	˧ t’a ˨ man ˨ ti° (P.)	t’a˧man˨ti°˨	tʰ a ³ + m a n̪ ² + t i ²	mand1415		40.0209	116.228	
 47056	25_their	Their	CANTONESE	CANTONESE	˩˨ k’ui ˨˩ tä ˥˦ kē (P.)	k’ui˩˨tä˨˩kē˥˦	kʰ u i ¹² + t̪ ɛ ²¹ + k eː ⁵⁴	cant1236				
 47057	25_their	Their	GYAOMI	GYAOMI	t’å-mai-ti	t’å-mai-ti	t̪ʰ ɔ + m ai + t̪ i	mand1415		40.0209	116.228	
 47066	25_their	Their	PWOLITERARY	PWO_LITERARY	˧ a ˨ wē = θī ˧ a- ((P.)	a˧θī=wē˨a-˧	ʌ ³ + θ iː + w eː ² + ʌ + ³	phra1235		18.0048	99.6382	
@@ -12731,7 +12731,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 47255	25_their	Their	TAVOYAN	TAVOYAN	θu do (P.)	θu do	θ u + d̪ o	tavo1242		14.1078	98.194	
 47256	25_their	Their	TAVOYAN	TAVOYAN	θu no (P.)	θu no	θ u + n̪ o	tavo1242		14.1078	98.194	
 #
-46537	24_they	They	MANDARIN	MANDARIN	˦ t’ā ˨ man	t’ā˦man˨	t̪ʰ ʌː ⁴ + m ʌ n̪ ²	mand1415		40.0209	116.228	
+46537	24_they	They	MANDARIN	MANDARIN	˦ t’ā ˨ man	t’ā˦man˨	tʰ a ⁴ + m a n̪ ²	mand1415		40.0209	116.228	
 46538	24_they	They	CANTONESE	CANTONESE	˩˨ k’ui ˨˩ tä	k’ui˩˨tä˨˩	kʰ u i ¹² + t̪ ɛ ²¹	cant1236				
 46539	24_they	They	GYAOMI	GYAOMI	t’å-mai	t’å-mai	t̪ʰ ɔ + m ai	mand1415		40.0209	116.228	
 46550	24_they	They	PWOLITERARY	PWO_LITERARY	˧ a ˨ wē = θī	a˧θī=wē˨	ʌ ³ + θ iː + w eː ²	phra1235		18.0048	99.6382	
@@ -12958,8 +12958,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 46795	24_they	They	TAVOYAN	TAVOYAN	θu do	θu do	θ u + d̪ o	tavo1242		14.1078	98.194	
 46796	24_they	They	TAVOYAN	TAVOYAN	θu no	θu no	θ u + n̪ o	tavo1242		14.1078	98.194	
 #
-29063	18_thou	Thou	MANDARIN	MANDARIN	˨˧ nī	nī˨˧	n̪ iː ²³	mand1415		40.0209	116.228	
-29064	18_thou	Thou	MANDARIN	MANDARIN	˨˧ lī	lī˨˧	l iː ²³	mand1415		40.0209	116.228	
+29063	18_thou	Thou	MANDARIN	MANDARIN	˨˧ nī	nī˨˧	n i ²³	mand1415		40.0209	116.228	
+29064	18_thou	Thou	MANDARIN	MANDARIN	˨˧ lī	lī˨˧	l i ²³	mand1415		40.0209	116.228	
 29065	18_thou	Thou	CANTONESE	CANTONESE	˩˨ nä	nä˩˨	n̪ ɛ ¹²	cant1236				
 29066	18_thou	Thou	GYAOMI	GYAOMI	ni	ni	n̪ i	mand1415		40.0209	116.228	
 29076	18_thou	Thou	PWOLITERARY	PWO_LITERARY	˨ na	na˨	n̪ ʌ ²	phra1235		18.0048	99.6382	
@@ -13155,7 +13155,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 29292	18_thou	Thou	INTHA	INTHA	nàṅ	nàṅ	n̪ a ŋ	inth1239				
 29293	18_thou	Thou	TAVOYAN	TAVOYAN	nàn	nàn	n̪ a n̪	tavo1242		14.1078	98.194	
 #
-3176	3_three	Three	MANDARIN	MANDARIN	˧ sān	sān˧	s ʌː n̪ ³	mand1415		40.0209	116.228	
+3176	3_three	Three	MANDARIN	MANDARIN	˧ sān	sān˧	s a n̪ ³	mand1415		40.0209	116.228	
 3177	3_three	Three	CANTONESE	CANTONESE	˧ sām	sām˧	s ʌː m ³	cant1236				
 3178	3_three	Three	GYAOMI	GYAOMI	såṅ-kū	såṅ-kū	s ɔ ŋ + k uː	mand1415		40.0209	116.228	
 3179	3_three	Three	GYAOMI	GYAOMI	sån	sån	s ɔ n̪	mand1415		40.0209	116.228	
@@ -13326,7 +13326,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 3372	3_three	Three	INTHA	INTHA	soṅ ku	soṅ ku	s o ŋ + k u	inth1239				
 3373	3_three	Three	TAVOYAN	TAVOYAN	θauṅ ku	θauṅ ku	θ au ŋ + k u	tavo1242		14.1078	98.194	
 #
-29523	19_thy	Thy	MANDARIN	MANDARIN	˨˧ nī ˨ ti° (P.)	nī˨˧ti°˨	n̪ iː ²³ + t̪ i ²	mand1415		40.0209	116.228	
+29523	19_thy	Thy	MANDARIN	MANDARIN	˨˧ nī ˨ ti° (P.)	nī˨˧ti°˨	n i ²³ + t i ²	mand1415		40.0209	116.228	
 29524	19_thy	Thy	CANTONESE	CANTONESE	˩˨ nä ˥˦ kē (P.)	nä˩˨kē˥˦	n̪ ɛ ¹² + k eː ⁵⁴	cant1236				
 29525	19_thy	Thy	GYAOMI	GYAOMI	ni-ti	ni-ti	n̪ i + t̪ i	mand1415		40.0209	116.228	
 29534	19_thy	Thy	PWOLITERARY	PWO_LITERARY	˧ na (P.)	na˧	n̪ ʌ ³	phra1235		18.0048	99.6382	
@@ -13516,7 +13516,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 29741	19_thy	Thy	TAVOYAN	TAVOYAN	nàn (P.)	nàn	n̪ a n̪	tavo1242		14.1078	98.194	
 29742	19_thy	Thy	TAVOYAN	TAVOYAN	nà- (P.)	nà-	n̪ a	tavo1242		14.1078	98.194	
 #
-51129	35_tongue	Tongue	MANDARIN	MANDARIN	˨ sa°	sa°˨	s ʌ ²	mand1415		40.0209	116.228	
+51129	35_tongue	Tongue	MANDARIN	MANDARIN	˨ sa°	sa°˨	s a ²	mand1415		40.0209	116.228	
 51130	35_tongue	Tongue	CANTONESE	CANTONESE	˨˩ lä	lä˨˩	l ɛ ²¹	cant1236				
 51139	35_tongue	Tongue	PWOBASSEIN	PWO_BASSEIN	pli	pli	p l i	pwow1235		17.3622	97.7044	
 51140	35_tongue	Tongue	PWOMAULMEIN	PWO_MAULMEIN	pli	pli	p l i	pwoe1235		15.1915	98.7355	
@@ -13654,7 +13654,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 51287	35_tongue	Tongue	INTHA	INTHA	chā	chā	tʃ ʌː	inth1239				
 51288	35_tongue	Tongue	TAVOYAN	TAVOYAN	šā	šā	ʃ ʌː	tavo1242		14.1078	98.194	
 #
-49501	31_tooth	Tooth	MANDARIN	MANDARIN	(back tooth) ˨ yā	yā˨	j ʌː ²	mand1415		40.0209	116.228	
+49501	31_tooth	Tooth	MANDARIN	MANDARIN	(back tooth) ˨ yā	yā˨	j a ²	mand1415		40.0209	116.228	
 49502	31_tooth	Tooth	MANDARIN	MANDARIN	(front) ˨˦ ṯs̱’z	ṯs̱’z˨˦	tsʰ z ²⁴	mand1415		40.0209	116.228	
 49503	31_tooth	Tooth	CANTONESE	CANTONESE	˨ ṅā	ṅā˨	ŋ ʌː ²	cant1236				
 49504	31_tooth	Tooth	GYAOMI	GYAOMI	yå	yå	j ɔ	mand1415		40.0209	116.228	
@@ -13821,7 +13821,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 49692	31_tooth	Tooth	INTHA	INTHA	swà	swà	s w a	inth1239				
 49693	31_tooth	Tooth	TAVOYAN	TAVOYAN	θwā	θwā	θ w ʌː	tavo1242		14.1078	98.194	
 #
-25999	11_twenty	Twenty	MANDARIN	MANDARIN	˧˨ ṅa ˨ sza°	ṅa˧˨sza°˨	ŋ ʌ ³² + s z ʌ ²	mand1415		40.0209	116.228	
+25999	11_twenty	Twenty	MANDARIN	MANDARIN	˧˨ ṅa ˨ sza°	ṅa˧˨sza°˨	ŋ a ³² + s ɿ ²	mand1415		40.0209	116.228	
 26000	11_twenty	Twenty	CANTONESE	CANTONESE	˨˩ yī	yī˨˩	j iː ²¹	cant1236				
 26001	11_twenty	Twenty	CANTONESE	CANTONESE	˩˨ löṅ	löṅ˩˨	l ø ŋ ¹²	cant1236				
 26002	11_twenty	Twenty	GYAOMI	GYAOMI	liåṅ-kū	liåṅ-kū	l i ɔ ŋ + k uː	mand1415		40.0209	116.228	
@@ -13978,8 +13978,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 26181	11_twenty	Twenty	TAVOYAN	TAVOYAN	hni sä	hni sä	h n̪ i + s ɛ	tavo1242		14.1078	98.194	
 26182	11_twenty	Twenty	TAVOYAN	TAVOYAN	hni ji	hni ji	h n̪ i + dʒ i	tavo1242		14.1078	98.194	
 #
-2754	2_two	Two	MANDARIN	MANDARIN	˧˨ ṅa	ṅa˧˨	ŋ ʌ ³²	mand1415		40.0209	116.228	
-2755	2_two	Two	MANDARIN	MANDARIN	˨˧ lyaṅ	lyaṅ˨˧	l j ʌ ŋ ²³	mand1415		40.0209	116.228	
+2754	2_two	Two	MANDARIN	MANDARIN	˧˨ ṅa	ṅa˧˨	ŋ a ³²	mand1415		40.0209	116.228	
+2755	2_two	Two	MANDARIN	MANDARIN	˨˧ lyaṅ	lyaṅ˨˧	l j a ŋ ²³	mand1415		40.0209	116.228	
 2756	2_two	Two	CANTONESE	CANTONESE	˨˩ yī	yī˨˩	j iː ²¹	cant1236				
 2757	2_two	Two	CANTONESE	CANTONESE	˩˨ löṅ	löṅ˩˨	l ø ŋ ¹²	cant1236				
 2758	2_two	Two	GYAOMI	GYAOMI	liåṅ-kū	liåṅ-kū	l i ɔ ŋ + k uː	mand1415		40.0209	116.228	
@@ -14162,8 +14162,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2963	2_two	Two	INTHA	INTHA	ni ku	ni ku	n̪ i + k u	inth1239				
 2964	2_two	Two	TAVOYAN	TAVOYAN	hni ku	hni ku	h n̪ i + k u	tavo1242		14.1078	98.194	
 #
-19634	105_up	Up	MANDARIN	MANDARIN	˦˨ sāṅ	sāṅ˦˨	s ʌː ŋ ⁴²	mand1415		40.0209	116.228	
-19635	105_up	Up	MANDARIN	MANDARIN	˨˦ sāṅ	sāṅ˨˦	s ʌː ŋ ²⁴	mand1415		40.0209	116.228	
+19634	105_up	Up	MANDARIN	MANDARIN	˦˨ sāṅ	sāṅ˦˨	s a ŋ ⁴²	mand1415		40.0209	116.228	
+19635	105_up	Up	MANDARIN	MANDARIN	˨˦ sāṅ	sāṅ˨˦	s a ŋ ²⁴	mand1415		40.0209	116.228	
 19636	105_up	Up	CANTONESE	CANTONESE	˩˨ šöṅ	šöṅ˩˨	ʃ ø ŋ ¹²	cant1236				
 19637	105_up	Up	GYAOMI	GYAOMI	šåṅ-t’au (above)	šåṅ-t’au	ʃ ɔ ŋ + t̪ʰ au	mand1415		40.0209	116.228	
 19646	105_up	Up	PWOLITERARY	PWO_LITERARY	= taṅ	= taṅ	+ + t̪ ʌ ŋ	phra1235		18.0048	99.6382	
@@ -14497,7 +14497,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 55115	50_water	Water	INTHA	INTHA	ye	ye	j e	inth1239				
 55116	50_water	Water	TAVOYAN	TAVOYAN	ye	ye	j e	tavo1242		14.1078	98.194	
 #
-28052	16_we	We	MANDARIN	MANDARIN	˨˧ wå ˨ man	wå˨˧man˨	w ɔ ²³ + m ʌ n̪ ²	mand1415		40.0209	116.228	
+28052	16_we	We	MANDARIN	MANDARIN	˨˧ wå ˨ man	wå˨˧man˨	w ɔ ²³ + m a n̪ ²	mand1415		40.0209	116.228	
 28053	16_we	We	CANTONESE	CANTONESE	˩˨ ṅå ˨˩ tä	ṅå˩˨tä˨˩	ŋ ɔ ¹² + t̪ ɛ ²¹	cant1236				
 28054	16_we	We	GYAOMI	GYAOMI	ṅau-mai	ṅau-mai	ŋ au + m ai	mand1415		40.0209	116.228	
 28067	16_we	We	PWOLITERARY	PWO_LITERARY	˧ pa	pa˧	p ʌ ³	phra1235		18.0048	99.6382	
@@ -14755,8 +14755,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 28347	16_we	We	TAVOYAN	TAVOYAN	ṅā do	ṅā do	ŋ ʌː + d̪ o	tavo1242		14.1078	98.194	
 28348	16_we	We	TAVOYAN	TAVOYAN	no	no	n̪ o	tavo1242		14.1078	98.194	
 #
-22486	112_what	What?	MANDARIN	MANDARIN	˨˦ san	san˨˦	s ʌ n̪ ²⁴	mand1415		40.0209	116.228	
-22487	112_what	What?	MANDARIN	MANDARIN	˨˦ śan	śan˨˦	ʃ ʌ n̪ ²⁴	mand1415		40.0209	116.228	
+22486	112_what	What?	MANDARIN	MANDARIN	˨˦ san	san˨˦	s a n̪ ²⁴	mand1415		40.0209	116.228	
+22487	112_what	What?	MANDARIN	MANDARIN	˨˦ śan	śan˨˦	ʐ a n̪ ²⁴	mand1415		40.0209	116.228	
 22488	112_what	What?	CANTONESE	CANTONESE	˨ šui ˨ hå	šui˨hå˨	ʃ u i ² + h ɔ ²	cant1236				
 22489	112_what	What?	CANTONESE	CANTONESE	˦ pīn	pīn˦	p iː n̪ ⁴	cant1236				
 22490	112_what	What?	GYAOMI	GYAOMI	šå-chà	šå-chà	ʃ ɔ + tʃ a	mand1415		40.0209	116.228	
@@ -14912,7 +14912,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 22678	112_what	What?	TAVOYAN	TAVOYAN	pà yā	pà yā	p a + j ʌː	tavo1242		14.1078	98.194	
 #
 22080	111_who	Who?	MANDARIN	MANDARIN	˨ sui	sui˨	s u i ²	mand1415		40.0209	116.228	
-22081	111_who	Who?	MANDARIN	MANDARIN	˧ šui	šui˧	ʃ u i ³	mand1415		40.0209	116.228	
+22081	111_who	Who?	MANDARIN	MANDARIN	˧ šui	šui˧	ʐ u i ³	mand1415		40.0209	116.228	
 22082	111_who	Who?	CANTONESE	CANTONESE	˨ šui	šui˨	ʃ u i ²	cant1236				
 22083	111_who	Who?	CANTONESE	CANTONESE	˦ pīn	pīn˦	p iː n̪ ⁴	cant1236				
 22084	111_who	Who?	GYAOMI	GYAOMI	šå	šå	ʃ ɔ	mand1415		40.0209	116.228	
@@ -15075,7 +15075,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 22274	111_who	Who?	INTHA	INTHA	mᵃsu lå	mᵃsu lå	m ă s u + l ɔ	inth1239				
 22275	111_who	Who?	TAVOYAN	TAVOYAN	pe θu	pe θu	p e + θ u	tavo1242		14.1078	98.194	
 #
-22889	113_why	Why?	MANDARIN	MANDARIN	˦˨ wä ˨˦ san ˨˦ må	wä˦˨san˨˦må˨˦	w ɛ ⁴² + s ʌ n̪ ²⁴ + m ɔ ²⁴	mand1415		40.0209	116.228	
+22889	113_why	Why?	MANDARIN	MANDARIN	˦˨ wä ˨˦ san ˨˦ må	wä˦˨san˨˦må˨˦	w ɛ ⁴² + s a n̪ ²⁴ + m ɔ ²⁴	mand1415		40.0209	116.228	
 22890	113_why	Why?	CANTONESE	CANTONESE	˦ yan ˨ hå	yan˦hå˨	j ʌ n̪ ⁴ + h ɔ ²	cant1236				
 22891	113_why	Why?	GYAOMI	GYAOMI	šå-chū	šå-chū	ʃ ɔ + tʃ uː	mand1415		40.0209	116.228	
 22902	113_why	Why?	PWOLITERARY	PWO_LITERARY	˧ mwai = ba ˧ sö = nå = lai	ba=mwai˧lai=nå=sö˧	b ʌ + m w ai ³ + l ai + n̪ ɔ + s ø ³	phra1235		18.0048	99.6382	
@@ -15234,7 +15234,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23072	113_why	Why?	INTHA	INTHA	mᵃsà lå	mᵃsà lå	m ă s a + l ɔ	inth1239				
 23073	113_why	Why?	TAVOYAN	TAVOYAN	pà yà bu dí	pà yà bu dí	p a + j a + b u + d̪ i	tavo1242		14.1078	98.194	
 #
-9574	75_wife	Wife	MANDARIN	MANDARIN	˦ ch’ī	ch’ī˦	tʃʰ iː ⁴	mand1415		40.0209	116.228	
+9574	75_wife	Wife	MANDARIN	MANDARIN	˦ ch’ī	ch’ī˦	tɕʰ i ⁴	mand1415		40.0209	116.228	
 9575	75_wife	Wife	CANTONESE	CANTONESE	˩˨ lō ˨ p’å	lō˩˨p’å˨	l oː ¹² + pʰ ɔ ²	cant1236				
 9586	75_wife	Wife	PWOLITERARY	PWO_LITERARY	˨ ma	ma˨	m ʌ ²	phra1235		18.0048	99.6382	
 9587	75_wife	Wife	PWOBASSEIN	PWO_BASSEIN	mà	mà	m a	pwow1235		17.3622	97.7044	
@@ -15388,7 +15388,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9752	75_wife	Wife	INTHA	INTHA	ṅà i-mā (my woman)	ṅà i-mā	ŋ a + i + m ʌː	inth1239				
 9753	75_wife	Wife	TAVOYAN	TAVOYAN	mᵉyā	mᵉyā	m ĕ j ʌː	tavo1242		14.1078	98.194	
 #
-9140	74_woman	Woman	MANDARIN	MANDARIN	˨˦ nü	nü˨˦	n̪ y ²⁴	mand1415		40.0209	116.228	
+9140	74_woman	Woman	MANDARIN	MANDARIN	˨˦ nü	nü˨˦	n y ²⁴	mand1415		40.0209	116.228	
 9141	74_woman	Woman	CANTONESE	CANTONESE	˩˨ nui ˨ yan	nui˩˨yan˨	n̪ u i ¹² + j ʌ n̪ ²	cant1236				
 9152	74_woman	Woman	PWOLITERARY	PWO_LITERARY	˧ φa = mu	mu=φa˧	m u + ɸ ʌ ³	phra1235		18.0048	99.6382	
 9153	74_woman	Woman	PWOBASSEIN	PWO_BASSEIN	p^àmü	p^àmü	p a m y	pwow1235		17.3622	97.7044	
@@ -15559,8 +15559,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9337	74_woman	Woman	INTHA	INTHA	i-mā	i-mā	i + m ʌː	inth1239				
 9338	74_woman	Woman	TAVOYAN	TAVOYAN	mi-mā	mi-mā	m i + m ʌː	tavo1242		14.1078	98.194	
 #
-23964	116_yes	Yes	MANDARIN	MANDARIN	˦˨ szᵃ	szᵃ˦˨	s z ă ⁴²	mand1415		40.0209	116.228	
-23965	116_yes	Yes	MANDARIN	MANDARIN	˦˨ ših	ših˦˨	ʃ i h ⁴²	mand1415		40.0209	116.228	
+23964	116_yes	Yes	MANDARIN	MANDARIN	˦˨ szᵃ	szᵃ˦˨	s ɿ ⁴²	mand1415		40.0209	116.228	
+23965	116_yes	Yes	MANDARIN	MANDARIN	˦˨ ših	ših˦˨	ʂ ɿ ⁴²	mand1415		40.0209	116.228	
 23966	116_yes	Yes	CANTONESE	CANTONESE	˨˩ šī	šī˨˩	ʃ iː ²¹	cant1236				
 23967	116_yes	Yes	CANTONESE	CANTONESE	˨˩ hai	hai˨˩	h ai ²¹	cant1236				
 23968	116_yes	Yes	GYAOMI	GYAOMI	šau	šau	ʃ au	mand1415		40.0209	116.228	
@@ -15731,7 +15731,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 24161	116_yes	Yes	INTHA	INTHA	mm (mouth closed)	mm	m m	inth1239				
 24162	116_yes	Yes	TAVOYAN	TAVOYAN	nn (mouth slightly open. Tongue in roof of mouth)	nn	n̪ n̪	tavo1242		14.1078	98.194	
 #
-30008	20_you	You	MANDARIN	MANDARIN	˨˧ nī ˨ man	nī˨˧man˨	n̪ iː ²³ + m ʌ n̪ ²	mand1415		40.0209	116.228	
+30008	20_you	You	MANDARIN	MANDARIN	˨˧ nī ˨ man	nī˨˧man˨	n i ²³ + m a n̪ ²	mand1415		40.0209	116.228	
 30009	20_you	You	CANTONESE	CANTONESE	˩˨ nä ˨˩ tä	nä˩˨tä˨˩	n̪ ɛ ¹² + t̪ ɛ ²¹	cant1236				
 30010	20_you	You	GYAOMI	GYAOMI	ni-mai	ni-mai	n̪ i + m ai	mand1415		40.0209	116.228	
 30019	20_you	You	PWOLITERARY	PWO_LITERARY	˨ na = θī	θī=na˨	θ iː + n̪ ʌ ²	phra1235		18.0048	99.6382	
@@ -15933,7 +15933,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 30244	20_you	You	TAVOYAN	TAVOYAN	nàn do	nàn do	n̪ a n̪ + d̪ o	tavo1242		14.1078	98.194	
 30245	20_you	You	TAVOYAN	TAVOYAN	nàn no	nàn no	n̪ a n̪ + n̪ o	tavo1242		14.1078	98.194	
 #
-45043	21_your	Your	MANDARIN	MANDARIN	˨˧ nī ˨ man ˨ ti° (P.)	nī˨˧man˨ti°˨	n̪ iː ²³ + m ʌ n̪ ² + t̪ i ²	mand1415		40.0209	116.228	
+45043	21_your	Your	MANDARIN	MANDARIN	˨˧ nī ˨ man ˨ ti° (P.)	nī˨˧man˨ti°˨	n i ²³ + m a n̪ ² + t i ²	mand1415		40.0209	116.228	
 45044	21_your	Your	CANTONESE	CANTONESE	˩˨ nä ˨˩ tä ˥˦ kē (P.)	nä˩˨tä˨˩kē˥˦	n̪ ɛ ¹² + t̪ ɛ ²¹ + k eː ⁵⁴	cant1236				
 45045	21_your	Your	GYAOMI	GYAOMI	ni-mai-ti	ni-mai-ti	n̪ i + m ai + t̪ i	mand1415		40.0209	116.228	
 45054	21_your	Your	PWOLITERARY	PWO_LITERARY	˨ na = θī (P.)	θī=na˨	θ iː + n̪ ʌ ²	phra1235		18.0048	99.6382	

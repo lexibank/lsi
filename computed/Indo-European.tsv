@@ -38,11 +38,11 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23491	114_and	And	CHILASIOFDRAS	CHILASI_OF_DRAS	mutō	mutō	m u t̪ oː	dras1242				
 23492	114_and	And	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	ũgā	ũgā	ũ g ʌː	brok1247		34.5308	76.6026	
 23493	114_and	And	KASHMIRI	KASHMIRI	ta	ta	t̪ ʌ	kash1277		34.166825	74.330455	
-23494	114_and	And	KASHMIRI	KASHMIRI	biyě	biyě	b i j ə	kash1277		34.166825	74.330455	
-23495	114_and	And	KASHTAWARI	KASHTAWARI	tě	tě	t̪ ə	kish1245				
-23496	114_and	And	KASHTAWARI	KASHTAWARI	biyě	biyě	b i j ə	kish1245				
-23497	114_and	And	POGULI	POGULI	tě	tě	t̪ ə	pogu1238				
-23498	114_and	And	DODASIRAJI	DODA_SIRAJI	tě	tě	t̪ ə	sira1264				
+23494	114_and	And	KASHMIRI	KASHMIRI	biyě	biyě	b i j e	kash1277		34.166825	74.330455	
+23495	114_and	And	KASHTAWARI	KASHTAWARI	tě	tě	t̪ e	kish1245				
+23496	114_and	And	KASHTAWARI	KASHTAWARI	biyě	biyě	b i j e	kish1245				
+23497	114_and	And	POGULI	POGULI	tě	tě	t̪ e	pogu1238				
+23498	114_and	And	DODASIRAJI	DODA_SIRAJI	tě	tě	t̪ e	sira1264				
 23499	114_and	And	DODASIRAJI	DODA_SIRAJI	tē	tē	t̪ eː	sira1264				
 23500	114_and	And	RAMBANI	RAMBANI	hōr	hōr	h oː r	ramb1240				
 23501	114_and	And	RAMBANI	RAMBANI	tǎ	tǎ	t̪ æ	ramb1240				
@@ -132,7 +132,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23595	114_and	And	JAIPURI	JAIPURI	aur	aur	au r	dhun1238		26.473	76.198	
 23596	114_and	And	MEWATI	MEWATI	ar	ar	ʌ r	mewa1249		24.57	73.68	
 23597	114_and	And	MEWATI	MEWATI	aur	aur	au r	mewa1249		24.57	73.68	
-23598	114_and	And	GUJURIOFHAZARA	GUJURI_OF_HAZARA	tě	tě	t̪ ə	guja1253		33.7	75.11	
+23598	114_and	And	GUJURIOFHAZARA	GUJURI_OF_HAZARA	tě	tě	t̪ e	guja1253		33.7	75.11	
 23599	114_and	And	MALVI	MALVI	nē	nē	n̪ eː	malv1243		23.488	75.562	
 23600	114_and	And	MALVI	MALVI	aur	aur	au r	malv1243		23.488	75.562	
 23601	114_and	And	MALVI	MALVI	ōr	ōr	oː r	malv1243		23.488	75.562	
@@ -168,7 +168,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23631	114_and	And	BHADRAWAHI	BHADRAWAHI	aur	aur	au r	bhad1241		33.2851	75.8707	
 23632	114_and	And	BHADRAWAHI	BHADRAWAHI	p’irī	p’irī	pʰ i r iː	bhad1241		33.2851	75.8707	
 23633	114_and	And	BHADRAWAHI	BHADRAWAHI	b’irī	b’irī	bʰ i r iː	bhad1241		33.2851	75.8707	
-23634	114_and	And	PADARI	PADARI	tě	tě	t̪ ə	pada1256				
+23634	114_and	And	PADARI	PADARI	tě	tě	t̪ e	pada1256				
 #
 56213	53_ass	Ass	AVESTAN	AVESTAN	ꭓara-	ꭓara-	x ʌ r ʌ	aves1237		31.541	53.633	
 56214	53_ass	Ass	PAHLAVI	PAHLAVI	ꭓar	ꭓar	x ʌ r	pahl1241		30.06	52.7	
@@ -337,7 +337,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 52053	37_back	Back	GAWARBATI	GAWAR_BATI	pišṭi	pišṭi	p i ʃ ʈ i	gawa1247		35.1982	71.5428	
 52054	37_back	Back	PASHAIEASTERN	PASHAI_EASTERN	chān	chān	tʃ ʌː n̪	sout2672		34.43099	70.30351	
 52055	37_back	Back	PASHAIWESTERN	PASHAI_WESTERN	chānṭ	chānṭ	tʃ ʌː n̪ ʈ	sout2671		34.8478	69.8734	
-52056	37_back	Back	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	krěm	krěm	k r ə m	khow1242		36.0	72.0	
+52056	37_back	Back	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	krěm	krěm	k r e m	khow1242		36.0	72.0	
 52057	37_back	Back	SHINAGILGITI	SHINA_GILGITI	ḍāki	ḍāki	ɖ ʌː k i	gilg1242				
 52058	37_back	Back	SHINAGILGITI	SHINA_GILGITI	piṭu	piṭu	p i ʈ u	gilg1242				
 52059	37_back	Back	CHILASI	CHILASI	ḍākī	ḍākī	ɖ ʌː k iː	shin1264		34.6515	75.287	
@@ -725,7 +725,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 21647	109_before	Before	KULUI	KULUI	āggē	āggē	ʌː g g eː	kllu1238				
 21648	109_before	Before	KULUI	KULUI	āg’ē	āg’ē	ʌː gʰ eː	kllu1238				
 21649	109_before	Before	MANDEALI	MANDEALI	aggē	aggē	ʌ g g eː	mand1409		31.5425	77.0419	
-21650	109_before	Before	MANDEALI	MANDEALI	āgě	āgě	ʌː g ə	mand1409		31.5425	77.0419	
+21650	109_before	Before	MANDEALI	MANDEALI	āgě	āgě	ʌː g e	mand1409		31.5425	77.0419	
 21651	109_before	Before	CHAMEALI	CHAMEALI	aggē	aggē	ʌ g g eː	cham1307		32.5476	76.1796	
 21652	109_before	Before	GADI	GADI	agū̃h	agū̃h	ʌ g ũː h	gadi1238				
 21653	109_before	Before	PANGWALI	PANGWALI	agar	agar	ʌ g ʌ r	pang1282		32.9753	76.5569	
@@ -764,7 +764,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 21906	110_behind	Behind	GAWARBATI	GAWAR_BATI	pata	pata	p ʌ t̪ ʌ	gawa1247		35.1982	71.5428	
 21907	110_behind	Behind	PASHAIEASTERN	PASHAI_EASTERN	paškin	paškin	p ʌ ʃ k i n̪	sout2672		34.43099	70.30351	
 21908	110_behind	Behind	PASHAIWESTERN	PASHAI_WESTERN	pachaṛā	pachaṛā	p ʌ tʃ ʌ ɽ ʌː	sout2671		34.8478	69.8734	
-21909	110_behind	Behind	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	achě	achě	ʌ tʃ ə	khow1242		36.0	72.0	
+21909	110_behind	Behind	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	achě	achě	ʌ tʃ e	khow1242		36.0	72.0	
 21910	110_behind	Behind	SHINAGILGITI	SHINA_GILGITI	fatū	fatū	f ʌ t̪ uː	gilg1242				
 21911	110_behind	Behind	CHILASI	CHILASI	patū	patū	p ʌ t̪ uː	shin1264		34.6515	75.287	
 21912	110_behind	Behind	CHILASI	CHILASI	patō	patō	p ʌ t̪ oː	shin1264		34.6515	75.287	
@@ -915,7 +915,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 51708	36_belly	Belly	CHILASIOFDRAS	CHILASI_OF_DRAS	der	der	d̪ e r	dras1242				
 51709	36_belly	Belly	CHILASIOFDRAS	CHILASI_OF_DRAS	dārē	dārē	d̪ ʌː r eː	dras1242				
 51710	36_belly	Belly	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	ūar	ūar	uː ʌ r	brok1247		34.5308	76.6026	
-51711	36_belly	Belly	KASHMIRI	KASHMIRI	yěḍ	yěḍ	j ə ɖ	kash1277		34.166825	74.330455	
+51711	36_belly	Belly	KASHMIRI	KASHMIRI	yěḍ	yěḍ	j e ɖ	kash1277		34.166825	74.330455	
 51712	36_belly	Belly	KASHTAWARI	KASHTAWARI	yaḍ	yaḍ	j ʌ ɖ	kish1245				
 51713	36_belly	Belly	POGULI	POGULI	iḍ	iḍ	i ɖ	pogu1238				
 51714	36_belly	Belly	DODASIRAJI	DODA_SIRAJI	iḍḍ	iḍḍ	i ɖ ɖ	sira1264				
@@ -1190,8 +1190,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 14745	89_bitch	Bitch	KASHMIRI	KASHMIRI	hūñ^ü	hūñ^ü	h uː ɲ y	kash1277		34.166825	74.330455	
 14746	89_bitch	Bitch	KASHTAWARI	KASHTAWARI	hōñⁱ	hōñⁱ	h oː ɲ ĭ	kish1245				
 14747	89_bitch	Bitch	POGULI	POGULI	huⁱnnⁱ	huⁱnnⁱ	h u ĭ n̪ n̪ ĭ	pogu1238				
-14748	89_bitch	Bitch	DODASIRAJI	DODA_SIRAJI	šuṇěī	šuṇěī	ʃ u ɳ ə iː	sira1264				
-14749	89_bitch	Bitch	RAMBANI	RAMBANI	šuṇěī	šuṇěī	ʃ u ɳ ə iː	ramb1240				
+14748	89_bitch	Bitch	DODASIRAJI	DODA_SIRAJI	šuṇěī	šuṇěī	ʃ u ɳ e iː	sira1264				
+14749	89_bitch	Bitch	RAMBANI	RAMBANI	šuṇěī	šuṇěī	ʃ u ɳ e iː	ramb1240				
 14750	89_bitch	Bitch	KOHISTANIGARWI	KOHISTANI_GARWI	kīchir	kīchir	k iː tʃ i r	indu1241		35.3389	73.0154	
 14751	89_bitch	Bitch	TORWALI	TORWALI	kižī	kižī	k i ʒ iː	torw1241		35.3101	72.5316	
 14752	89_bitch	Bitch	MAIYA	MAIYA	kūsīr	kūsīr	k uː s iː r	indu1241		35.3389	73.0154	
@@ -1273,7 +1273,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 14834	89_bitch	Bitch	GADI	GADI	kutrī	kutrī	k u t̪ r iː	gadi1238				
 14835	89_bitch	Bitch	PANGWALI	PANGWALI	kuttrī	kuttrī	k u t̪ t̪ r iː	pang1282		32.9753	76.5569	
 14836	89_bitch	Bitch	BHADRAWAHI	BHADRAWAHI	kutrī	kutrī	k u t̪ r iː	bhad1241		33.2851	75.8707	
-14837	89_bitch	Bitch	PADARI	PADARI	kōtěr	kōtěr	k oː t̪ ə r	pada1256				
+14837	89_bitch	Bitch	PADARI	PADARI	kōtěr	kōtěr	k oː t̪ e r	pada1256				
 #
 7755	71_brother	Brother	OLDPERSIAN	OLD_PERSIAN	brātar-	brātar-	b r ʌː t̪ ʌ r	oldp1254		32.0	54.0	
 7756	71_brother	Brother	AVESTAN	AVESTAN	brātar-	brātar-	b r ʌː t̪ ʌ r	aves1237		31.541	53.633	
@@ -1686,7 +1686,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23917	115_but	But	GADI	GADI	par	par	p ʌ r	gadi1238				
 23918	115_but	But	PANGWALI	PANGWALI	par	par	p ʌ r	pang1282		32.9753	76.5569	
 23919	115_but	But	BHADRAWAHI	BHADRAWAHI	magar	magar	m ʌ g ʌ r	bhad1241		33.2851	75.8707	
-23920	115_but	But	PADARI	PADARI	tě	tě	t̪ ə	pada1256				
+23920	115_but	But	PADARI	PADARI	tě	tě	t̪ e	pada1256				
 #
 56463	54_camel	Camel	AVESTAN	AVESTAN	uštra	uštra	u ʃ t̪ r ʌ	aves1237		31.541	53.633	
 56464	54_camel	Camel	PAHLAVI	PAHLAVI	uštr	uštr	u ʃ t̪ r	pahl1241		30.06	52.7	
@@ -2355,7 +2355,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 30826	121_come	Come	CHAMEALI	CHAMEALI	ā-	ā-	ʌː	cham1307		32.5476	76.1796	
 30827	121_come	Come	GADI	GADI	ā-	ā-	ʌː	gadi1238				
 30828	121_come	Come	PANGWALI	PANGWALI	ā-	ā-	ʌː	pang1282		32.9753	76.5569	
-30829	121_come	Come	BHADRAWAHI	BHADRAWAHI	ěj-	ěj-	ə dʒ	bhad1241		33.2851	75.8707	
+30829	121_come	Come	BHADRAWAHI	BHADRAWAHI	ěj-	ěj-	e dʒ	bhad1241		33.2851	75.8707	
 30830	121_come	Come	PADARI	PADARI	adz-	adz-	ʌ dz	pada1256				
 #
 13410	85_cow	Cow	OLDPERSIAN	OLD_PERSIAN	*gau-	*gau-	g au	oldp1254		32.0	54.0	
@@ -2382,7 +2382,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 13431	85_cow	Cow	GAWARBATI	GAWAR_BATI	eṯs̱ī	eṯs̱ī	e ts iː	gawa1247		35.1982	71.5428	
 13432	85_cow	Cow	PASHAIEASTERN	PASHAI_EASTERN	gā	gā	g ʌː	sout2672		34.43099	70.30351	
 13433	85_cow	Cow	PASHAIWESTERN	PASHAI_WESTERN	gā	gā	g ʌː	sout2671		34.8478	69.8734	
-13434	85_cow	Cow	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	lěšu	lěšu	l ə ʃ u	khow1242		36.0	72.0	
+13434	85_cow	Cow	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	lěšu	lěšu	l e ʃ u	khow1242		36.0	72.0	
 13435	85_cow	Cow	SHINAGILGITI	SHINA_GILGITI	gào	gào	g a o	gilg1242				
 13436	85_cow	Cow	CHILASI	CHILASI	gāō	gāō	g ʌː oː	shin1264		34.6515	75.287	
 13437	85_cow	Cow	CHILASI	CHILASI	gō	gō	g oː	shin1264		34.6515	75.287	
@@ -2507,7 +2507,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 56880	55_cow	Cow	GAWARBATI	GAWAR_BATI	eṯs̱ī	eṯs̱ī	e ts iː	gawa1247		35.1982	71.5428	
 56881	55_cow	Cow	PASHAIEASTERN	PASHAI_EASTERN	gā	gā	g ʌː	sout2672		34.43099	70.30351	
 56882	55_cow	Cow	PASHAIWESTERN	PASHAI_WESTERN	gā	gā	g ʌː	sout2671		34.8478	69.8734	
-56883	55_cow	Cow	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	lěšū	lěšū	l ə ʃ uː	khow1242		36.0	72.0	
+56883	55_cow	Cow	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	lěšū	lěšū	l e ʃ uː	khow1242		36.0	72.0	
 56884	55_cow	Cow	SHINAGILGITI	SHINA_GILGITI	gào	gào	g a o	gilg1242				
 56885	55_cow	Cow	CHILASI	CHILASI	gāū	gāū	g ʌː uː	shin1264		34.6515	75.287	
 56886	55_cow	Cow	CHILASI	CHILASI	gō	gō	g oː	shin1264		34.6515	75.287	
@@ -2635,7 +2635,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 53762	42_cultivator	Cultivator	GAWARBATI	GAWAR_BATI	goet-kerit’la	goet-kerit’la	g o e t̪ + k e r i t̪ʰ l ʌ	gawa1247		35.1982	71.5428	
 53763	42_cultivator	Cultivator	PASHAIEASTERN	PASHAI_EASTERN	dēkān	dēkān	d̪ eː k ʌː n̪	sout2672		34.43099	70.30351	
 53764	42_cultivator	Cultivator	PASHAIWESTERN	PASHAI_WESTERN	dēkān	dēkān	d̪ eː k ʌː n̪	sout2671		34.8478	69.8734	
-53765	42_cultivator	Cultivator	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	děhqān	děhqān	d̪ ə h q ʌː n̪	khow1242		36.0	72.0	
+53765	42_cultivator	Cultivator	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	děhqān	děhqān	d̪ e h q ʌː n̪	khow1242		36.0	72.0	
 53766	42_cultivator	Cultivator	SHINAGILGITI	SHINA_GILGITI	däkān	däkān	d̪ ɛ k ʌː n̪	gilg1242				
 53767	42_cultivator	Cultivator	CHILASI	CHILASI	dehqān	dehqān	d̪ e h q ʌː n̪	shin1264		34.6515	75.287	
 53768	42_cultivator	Cultivator	CHILASIOFDRAS	CHILASI_OF_DRAS	grēst	grēst	g r eː s t̪	dras1242				
@@ -2976,12 +2976,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 54722	45_devil	Devil	AVESTAN	AVESTAN	Aṅgro maⁱnyuš	Aṅgro maⁱnyuš	ʌ ŋ g r o + m ʌ ĭ n̪ j u ʃ	aves1237		31.541	53.633	
 54723	45_devil	Devil	PAHLAVI	PAHLAVI	Ahrman	Ahrman	ʌ h r m ʌ n̪	pahl1241		30.06	52.7	
-54724	45_devil	Devil	PERSIAN	PERSIAN	šait̤ān	šait̤ān	ʃ ai tˤ ʌː n̪	west2369		32.9	53.3	
+54724	45_devil	Devil	PERSIAN	PERSIAN	šait̤ān	šait̤ān	ʃ ai t ʌː n̪	west2369		32.9	53.3	
 54725	45_devil	Devil	PERSIAN	PERSIAN	Ahraman	Ahraman	ʌ h r ʌ m ʌ n̪	west2369		32.9	53.3	
-54726	45_devil	Devil	PASHTOOFPESHAWAR	PASHTO_OF_PESHAWAR	šait̤ōn (Arabic)	šait̤ōn	ʃ ai tˤ oː n̪	nort2646		34.0	71.33	
-54727	45_devil	Devil	WAZIRI	WAZIRI	šait̤ōn	šait̤ōn	ʃ ai tˤ oː n̪	cent1973		31.9153	69.4529	
-54728	45_devil	Devil	PASHTOOFKANDAHAR	PASHTO_OF_KANDAHAR	šait̤ān	šait̤ān	ʃ ai tˤ ʌː n̪	sout2649		37.17	68.25	
-54729	45_devil	Devil	ORMURI	ORMURI	šait̤ān	šait̤ān	ʃ ai tˤ ʌː n̪	ormu1247		32.6819	69.3444	
+54726	45_devil	Devil	PASHTOOFPESHAWAR	PASHTO_OF_PESHAWAR	šait̤ōn (Arabic)	šait̤ōn	ʃ ai t oː n̪	nort2646		34.0	71.33	
+54727	45_devil	Devil	WAZIRI	WAZIRI	šait̤ōn	šait̤ōn	ʃ ai t oː n̪	cent1973		31.9153	69.4529	
+54728	45_devil	Devil	PASHTOOFKANDAHAR	PASHTO_OF_KANDAHAR	šait̤ān	šait̤ān	ʃ ai t ʌː n̪	sout2649		37.17	68.25	
+54729	45_devil	Devil	ORMURI	ORMURI	šait̤ān	šait̤ān	ʃ ai t ʌː n̪	ormu1247		32.6819	69.3444	
 54730	45_devil	Devil	ORMURI	ORMURI	dēō	dēō	d̪ eː oː	ormu1247		32.6819	69.3444	
 54731	45_devil	Devil	BALOCHIMAKRANI	BALOCHI_MAKRANI	šaitān	šaitān	ʃ ai t̪ ʌː n̪	sout2642		26.0	64.0	
 54732	45_devil	Devil	EASTERNBENGALI	EASTERN_BENGALI	šaitān	šaitān	ʃ ai t̪ ʌː n̪	east2744				
@@ -3006,7 +3006,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 54751	45_devil	Devil	CHILASIOFDRAS	CHILASI_OF_DRAS	šaitān	šaitān	ʃ ai t̪ ʌː n̪	dras1242				
 54752	45_devil	Devil	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	būt	būt	b uː t̪	brok1247		34.5308	76.6026	
 54753	45_devil	Devil	KASHMIRI	KASHMIRI	šaitān	šaitān	ʃ ai t̪ ʌː n̪	kash1277		34.166825	74.330455	
-54754	45_devil	Devil	KASHMIRI	KASHMIRI	děv	děv	d̪ ə v	kash1277		34.166825	74.330455	
+54754	45_devil	Devil	KASHMIRI	KASHMIRI	děv	děv	d̪ e v	kash1277		34.166825	74.330455	
 54755	45_devil	Devil	KASHTAWARI	KASHTAWARI	šētān	šētān	ʃ eː t̪ ʌː n̪	kish1245				
 54756	45_devil	Devil	POGULI	POGULI	šēitān	šēitān	ʃ eː i t̪ ʌː n̪	pogu1238				
 54757	45_devil	Devil	DODASIRAJI	DODA_SIRAJI	šatān	šatān	ʃ ʌ t̪ ʌː n̪	sira1264				
@@ -3265,7 +3265,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 57289	56_dog	Dog	WAIALA	WAI_ALA	ṯs̱ū̃	ṯs̱ū̃	ts ũː	waig1243		35.0358	70.9761	
 57290	56_dog	Dog	WASIVERIORVERON	WASI_VERI_OR_VERON	keruk	keruk	k e r u k	pras1239		35.1731	70.8004	
 57291	56_dog	Dog	KALASHA	KALASHA	šũṛa	šũṛa	ʃ ũ ɽ ʌ	kala1372		35.6415	71.6657	
-57292	56_dog	Dog	KALASHA	KALASHA	šěṛ	šěṛ	ʃ ə ɽ	kala1372		35.6415	71.6657	
+57292	56_dog	Dog	KALASHA	KALASHA	šěṛ	šěṛ	ʃ e ɽ	kala1372		35.6415	71.6657	
 57293	56_dog	Dog	GAWARBATI	GAWAR_BATI	šunā	šunā	ʃ u n̪ ʌː	gawa1247		35.1982	71.5428	
 57294	56_dog	Dog	PASHAIEASTERN	PASHAI_EASTERN	sūṛiṅ	sūṛiṅ	s uː ɽ i ŋ	sout2672		34.43099	70.30351	
 57295	56_dog	Dog	PASHAIWESTERN	PASHAI_WESTERN	ꭓōṛiṅ	ꭓōṛiṅ	x oː ɽ i ŋ	sout2671		34.8478	69.8734	
@@ -3526,8 +3526,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 20408	106_down	Down	PADARI	PADARI	naiṇḍ	naiṇḍ	n̪ ai ɳ ɖ	pada1256				
 20409	106_down	Down	PADARI	PADARI	wöndᵉ	wöndᵉ	w ø n̪ d̪ ĕ	pada1256				
 #
-58797	60_duck	Duck	PERSIAN	PERSIAN	bat̤t̤	bat̤t̤	b ʌ tˤ tˤ	west2369		32.9	53.3	
-58798	60_duck	Duck	PERSIAN	PERSIAN	bat̤ꭓ	bat̤ꭓ	b ʌ tˤ x	west2369		32.9	53.3	
+58797	60_duck	Duck	PERSIAN	PERSIAN	bat̤t̤	bat̤t̤	b ʌ t t	west2369		32.9	53.3	
+58798	60_duck	Duck	PERSIAN	PERSIAN	bat̤ꭓ	bat̤ꭓ	b ʌ t x	west2369		32.9	53.3	
 58799	60_duck	Duck	PASHTOOFPESHAWAR	PASHTO_OF_PESHAWAR	hīlai	hīlai	h iː l ai	nort2646		34.0	71.33	
 58800	60_duck	Duck	WAZIRI	WAZIRI	ēlai	ēlai	eː l ai	cent1973		31.9153	69.4529	
 58801	60_duck	Duck	PASHTOOFKANDAHAR	PASHTO_OF_KANDAHAR	hīlai	hīlai	h iː l ai	sout2649		37.17	68.25	
@@ -3788,8 +3788,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 25487	119_eat	Eat	CHILASIOFDRAS	CHILASI_OF_DRAS	kē-	kē-	k eː	dras1242				
 25488	119_eat	Eat	CHILASIOFDRAS	CHILASI_OF_DRAS	k’ē-	k’ē-	kʰ eː	dras1242				
 25489	119_eat	Eat	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	k’ā-	k’ā-	kʰ ʌː	brok1247		34.5308	76.6026	
-25490	119_eat	Eat	KASHMIRI	KASHMIRI	k’ě-	k’ě-	kʰ ə	kash1277		34.166825	74.330455	
-25491	119_eat	Eat	KASHTAWARI	KASHTAWARI	k’ě-	k’ě-	kʰ ə	kish1245				
+25490	119_eat	Eat	KASHMIRI	KASHMIRI	k’ě-	k’ě-	kʰ e	kash1277		34.166825	74.330455	
+25491	119_eat	Eat	KASHTAWARI	KASHTAWARI	k’ě-	k’ě-	kʰ e	kish1245				
 25492	119_eat	Eat	POGULI	POGULI	k’āl-	k’āl-	kʰ ʌː l	pogu1238				
 25493	119_eat	Eat	DODASIRAJI	DODA_SIRAJI	k’ā-	k’ā-	kʰ ʌː	sira1264				
 25494	119_eat	Eat	RAMBANI	RAMBANI	k’ā-	k’ā-	kʰ ʌː	ramb1240				
@@ -4014,7 +4014,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 48916	29_eye	Eye	GAWARBATI	GAWAR_BATI	iṯs̱in	iṯs̱in	i ts i n̪	gawa1247		35.1982	71.5428	
 48917	29_eye	Eye	PASHAIEASTERN	PASHAI_EASTERN	anch	anch	ʌ n̪ tʃ	sout2672		34.43099	70.30351	
 48918	29_eye	Eye	PASHAIWESTERN	PASHAI_WESTERN	anch	anch	ʌ n̪ tʃ	sout2671		34.8478	69.8734	
-48919	29_eye	Eye	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	ɣěch	ɣěch	ɣ ə tʃ	khow1242		36.0	72.0	
+48919	29_eye	Eye	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	ɣěch	ɣěch	ɣ e tʃ	khow1242		36.0	72.0	
 48920	29_eye	Eye	SHINAGILGITI	SHINA_GILGITI	ǎc̣ḥi	ǎc̣ḥi	æ c h i	gilg1242				
 48921	29_eye	Eye	SHINAGILGITI	SHINA_GILGITI	àc̣ḥi	àc̣ḥi	a c h i	gilg1242				
 48922	29_eye	Eye	CHILASI	CHILASI	ašī	ašī	ʌ ʃ iː	shin1264		34.6515	75.287	
@@ -4119,7 +4119,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 49030	29_eye	Eye	GADI	GADI	hākk’rī	hākk’rī	h ʌː k kʰ r iː	gadi1238				
 49031	29_eye	Eye	GADI	GADI	hāk’ar	hāk’ar	h ʌː kʰ ʌ r	gadi1238				
 49032	29_eye	Eye	PANGWALI	PANGWALI	ṭir	ṭir	ʈ i r	pang1282		32.9753	76.5569	
-49033	29_eye	Eye	BHADRAWAHI	BHADRAWAHI	ěṯs̱’ī	ěṯs̱’ī	ə tsʰ iː	bhad1241		33.2851	75.8707	
+49033	29_eye	Eye	BHADRAWAHI	BHADRAWAHI	ěṯs̱’ī	ěṯs̱’ī	e tsʰ iː	bhad1241		33.2851	75.8707	
 49034	29_eye	Eye	BHADRAWAHI	BHADRAWAHI	aṯs̱’	aṯs̱’	ʌ tsʰ	bhad1241		33.2851	75.8707	
 49035	29_eye	Eye	PADARI	PADARI	ṭīr	ṭīr	ʈ iː r	pada1256				
 #
@@ -4534,7 +4534,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 26634	12_fifty	Fifty	RAJASTHANIMARWARI	RAJASTHANI_MARWARI	pachās	pachās	p ʌ tʃ ʌː s	marw1260		27.002	75.0656	
 26635	12_fifty	Fifty	JAIPURI	JAIPURI	pachās	pachās	p ʌ tʃ ʌː s	dhun1238		26.473	76.198	
 26636	12_fifty	Fifty	MEWATI	MEWATI	pãchās	pãchās	p ã tʃ ʌː s	mewa1249		24.57	73.68	
-26637	12_fifty	Fifty	GUJURIOFHAZARA	GUJURI_OF_HAZARA	das tě chālī	das tě chālī	d̪ ʌ s + t̪ ə + tʃ ʌː l iː	guja1253		33.7	75.11	
+26637	12_fifty	Fifty	GUJURIOFHAZARA	GUJURI_OF_HAZARA	das tě chālī	das tě chālī	d̪ ʌ s + t̪ e + tʃ ʌː l iː	guja1253		33.7	75.11	
 26638	12_fifty	Fifty	MALVI	MALVI	pachās	pachās	p ʌ tʃ ʌː s	malv1243		23.488	75.562	
 26639	12_fifty	Fifty	NIMADI	NIMADI	pachās	pachās	p ʌ tʃ ʌː s	nima1243		22.1263	76.1264	
 26640	12_fifty	Fifty	LABHANIOFBERAR	LABHANI_OF_BERAR	pachās	pachās	p ʌ tʃ ʌː s	lamb1269		16.5734	76.9717	
@@ -5490,7 +5490,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 52773	39_gold	Gold	AVESTAN	AVESTAN	zairi-	zairi-	z ai r i	aves1237		31.541	53.633	
 52774	39_gold	Gold	PAHLAVI	PAHLAVI	zar	zar	z ʌ r	pahl1241		30.06	52.7	
 52775	39_gold	Gold	PERSIAN	PERSIAN	zar	zar	z ʌ r	west2369		32.9	53.3	
-52776	39_gold	Gold	PERSIAN	PERSIAN	t̤illā	t̤illā	tˤ i l l ʌː	west2369		32.9	53.3	
+52776	39_gold	Gold	PERSIAN	PERSIAN	t̤illā	t̤illā	t i l l ʌː	west2369		32.9	53.3	
 52777	39_gold	Gold	PASHTOOFPESHAWAR	PASHTO_OF_PESHAWAR	srᵃ zar	srᵃ zar	s r ă + z ʌ r	nort2646		34.0	71.33	
 52778	39_gold	Gold	WAZIRI	WAZIRI	sra zar	sra zar	s r ʌ + z ʌ r	cent1973		31.9153	69.4529	
 52779	39_gold	Gold	PASHTOOFKANDAHAR	PASHTO_OF_KANDAHAR	sra zar	sra zar	s r ʌ + z ʌ r	sout2649		37.17	68.25	
@@ -5601,7 +5601,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 52892	39_gold	Gold	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	sunnō	sunnō	s u n̪ n̪ oː	jaun1243		30.5587	77.9084	
 52893	39_gold	Gold	SIRMAURI	SIRMAURI	sūnō	sūnō	s uː n̪ oː	sirm1239		31.1	77.17	
 52894	39_gold	Gold	BAGHATI	BAGHATI	sunā	sunā	s u n̪ ʌː	bagh1249				
-52895	39_gold	Gold	KIUTHALI	KIUTHALI	sōěnā	sōěnā	s oː ə n̪ ʌː	kiun1241				
+52895	39_gold	Gold	KIUTHALI	KIUTHALI	sōěnā	sōěnā	s oː e n̪ ʌː	kiun1241				
 52896	39_gold	Gold	SHODOCHI	SHODOCHI	sūnau	sūnau	s uː n̪ au	maha1287		31.0088	77.5317	
 52897	39_gold	Gold	KULUI	KULUI	sunā	sunā	s u n̪ ʌː	kllu1238				
 52898	39_gold	Gold	MANDEALI	MANDEALI	suīnā	suīnā	s u iː n̪ ʌː	mand1409		31.5425	77.0419	
@@ -5636,12 +5636,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 50554	33_hair	Hair	WAIALA	WAI_ALA	chorok	chorok	tʃ o r o k	waig1243		35.0358	70.9761	
 50555	33_hair	Hair	WASIVERIORVERON	WASI_VERI_OR_VERON	žui	žui	ʒ u i	pras1239		35.1731	70.8004	
 50556	33_hair	Hair	KALASHA	KALASHA	chūṛi	chūṛi	tʃ uː ɽ i	kala1372		35.6415	71.6657	
-50557	33_hair	Hair	GAWARBATI	GAWAR_BATI	k’ěs (one hair)	k’ěs	kʰ ə s	gawa1247		35.1982	71.5428	
+50557	33_hair	Hair	GAWARBATI	GAWAR_BATI	k’ěs (one hair)	k’ěs	kʰ e s	gawa1247		35.1982	71.5428	
 50558	33_hair	Hair	GAWARBATI	GAWAR_BATI	ṯs̱umuṭa (of head)	ṯs̱umuṭa	ts u m u ʈ ʌ	gawa1247		35.1982	71.5428	
 50559	33_hair	Hair	PASHAIEASTERN	PASHAI_EASTERN	chāl	chāl	tʃ ʌː l	sout2672		34.43099	70.30351	
 50560	33_hair	Hair	PASHAIWESTERN	PASHAI_WESTERN	chāl	chāl	tʃ ʌː l	sout2671		34.8478	69.8734	
 50561	33_hair	Hair	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	drō (one hair)	drō	d̪ r oː	khow1242		36.0	72.0	
-50562	33_hair	Hair	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	prěšū	prěšū	p r ə ʃ uː	khow1242		36.0	72.0	
+50562	33_hair	Hair	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	prěšū	prěšū	p r e ʃ uː	khow1242		36.0	72.0	
 50563	33_hair	Hair	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	p’ur (of head)	p’ur	pʰ u r	khow1242		36.0	72.0	
 50564	33_hair	Hair	SHINAGILGITI	SHINA_GILGITI	bālo (one hair)	bālo	b ʌː l o	gilg1242				
 50565	33_hair	Hair	SHINAGILGITI	SHINA_GILGITI	jakur	jakur	dʒ ʌ k u r	gilg1242				
@@ -6315,7 +6315,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 19572	104_high	High	MANDEALI	MANDEALI	uchchā	uchchā	u tʃ tʃ ʌː	mand1409		31.5425	77.0419	
 19573	104_high	High	CHAMEALI	CHAMEALI	uchchā	uchchā	u tʃ tʃ ʌː	cham1307		32.5476	76.1796	
 19574	104_high	High	GADI	GADI	ut’ṛā	ut’ṛā	u t̪ʰ ɽ ʌː	gadi1238				
-19575	104_high	High	PANGWALI	PANGWALI	ut’ěā	ut’ěā	u t̪ʰ ə ʌː	pang1282		32.9753	76.5569	
+19575	104_high	High	PANGWALI	PANGWALI	ut’ěā	ut’ěā	u t̪ʰ e ʌː	pang1282		32.9753	76.5569	
 19576	104_high	High	BHADRAWAHI	BHADRAWAHI	uchchā	uchchā	u tʃ tʃ ʌː	bhad1241		33.2851	75.8707	
 19577	104_high	High	PADARI	PADARI	ad’āmᵃ	ad’āmᵃ	ʌ d̪ʰ ʌː m ă	pada1256				
 #
@@ -6368,10 +6368,10 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 46345	23_his	His	KASHMIRI	KASHMIRI	tami-sondu	tami-sondu	t̪ ʌ m i + s o n̪ d̪ u	kash1277		34.166825	74.330455	
 46346	23_his	His	KASHMIRI	KASHMIRI	tasondu	tasondu	t̪ ʌ s o n̪ d̪ u	kash1277		34.166825	74.330455	
 46347	23_his	His	KASHTAWARI	KASHTAWARI	tyisun	tyisun	t̪ j i s u n̪	kish1245				
-46348	23_his	His	POGULI	POGULI	tyěsau	tyěsau	t̪ j ə s au	pogu1238				
-46349	23_his	His	POGULI	POGULI	těsau	těsau	t̪ ə s au	pogu1238				
+46348	23_his	His	POGULI	POGULI	tyěsau	tyěsau	t̪ j e s au	pogu1238				
+46349	23_his	His	POGULI	POGULI	těsau	těsau	t̪ e s au	pogu1238				
 46350	23_his	His	DODASIRAJI	DODA_SIRAJI	tē-tō	tē-tō	t̪ eː + t̪ oː	sira1264				
-46351	23_his	His	RAMBANI	RAMBANI	těsaũ	těsaũ	t̪ ə s ʌ ũ	ramb1240				
+46351	23_his	His	RAMBANI	RAMBANI	těsaũ	těsaũ	t̪ e s ʌ ũ	ramb1240				
 46352	23_his	His	RAMBANI	RAMBANI	tis	tis	t̪ i s	ramb1240				
 46353	23_his	His	RAMBANI	RAMBANI	usaũ	usaũ	u s ʌ ũ	ramb1240				
 46354	23_his	His	KOHISTANIGARWI	KOHISTANI_GARWI	asā̃	asā̃	ʌ s ãː	indu1241		35.3389	73.0154	
@@ -6479,20 +6479,20 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 46469	23_his	His	CENTRALPAHARIKUMAUNI	CENTRAL_PAHARI_KUMAUNI	wī-ko	wī-ko	w iː + k o	kuma1273		29.5622	80.0171	
 46470	23_his	His	GARHWALI	GARHWALI	wē-kō	wē-kō	w eː + k oː	garh1243		30.5061	78.7201	
 46471	23_his	His	GARHWALI	GARHWALI	ū-kō	ū-kō	uː + k oː	garh1243		30.5061	78.7201	
-46472	23_his	His	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	těs-kō	těs-kō	t̪ ə s + k oː	jaun1243		30.5587	77.9084	
-46473	23_his	His	SIRMAURI	SIRMAURI	těsrā	těsrā	t̪ ə s r ʌː	sirm1239		31.1	77.17	
-46474	23_his	His	BAGHATI	BAGHATI	těsrā	těsrā	t̪ ə s r ʌː	bagh1249				
-46475	23_his	His	KIUTHALI	KIUTHALI	těsrā	těsrā	t̪ ə s r ʌː	kiun1241				
+46472	23_his	His	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	těs-kō	těs-kō	t̪ e s + k oː	jaun1243		30.5587	77.9084	
+46473	23_his	His	SIRMAURI	SIRMAURI	těsrā	těsrā	t̪ e s r ʌː	sirm1239		31.1	77.17	
+46474	23_his	His	BAGHATI	BAGHATI	těsrā	těsrā	t̪ e s r ʌː	bagh1249				
+46475	23_his	His	KIUTHALI	KIUTHALI	těsrā	těsrā	t̪ e s r ʌː	kiun1241				
 46476	23_his	His	SHODOCHI	SHODOCHI	tēhrō	tēhrō	t̪ eː h r oː	maha1287		31.0088	77.5317	
-46477	23_his	His	SHODOCHI	SHODOCHI	těsro	těsro	t̪ ə s r o	maha1287		31.0088	77.5317	
+46477	23_his	His	SHODOCHI	SHODOCHI	těsro	těsro	t̪ e s r o	maha1287		31.0088	77.5317	
 46478	23_his	His	SHODOCHI	SHODOCHI	tēūō	tēūō	t̪ eː uː oː	maha1287		31.0088	77.5317	
 46479	23_his	His	KULUI	KULUI	tēīrā	tēīrā	t̪ eː iː r ʌː	kllu1238				
-46480	23_his	His	MANDEALI	MANDEALI	těsrā	těsrā	t̪ ə s r ʌː	mand1409		31.5425	77.0419	
+46480	23_his	His	MANDEALI	MANDEALI	těsrā	těsrā	t̪ e s r ʌː	mand1409		31.5425	77.0419	
 46481	23_his	His	CHAMEALI	CHAMEALI	usērā	usērā	u s eː r ʌː	cham1307		32.5476	76.1796	
 46482	23_his	His	GADI	GADI	usērā	usērā	u s eː r ʌː	gadi1238				
-46483	23_his	His	PANGWALI	PANGWALI	ěsā	ěsā	ə s ʌː	pang1282		32.9753	76.5569	
-46484	23_his	His	BHADRAWAHI	BHADRAWAHI	usěrū	usěrū	u s ə r uː	bhad1241		33.2851	75.8707	
-46485	23_his	His	BHADRAWAHI	BHADRAWAHI	tisěrū	tisěrū	t̪ i s ə r uː	bhad1241		33.2851	75.8707	
+46483	23_his	His	PANGWALI	PANGWALI	ěsā	ěsā	e s ʌː	pang1282		32.9753	76.5569	
+46484	23_his	His	BHADRAWAHI	BHADRAWAHI	usěrū	usěrū	u s e r uː	bhad1241		33.2851	75.8707	
+46485	23_his	His	BHADRAWAHI	BHADRAWAHI	tisěrū	tisěrū	t̪ i s e r uː	bhad1241		33.2851	75.8707	
 46486	23_his	His	PADARI	PADARI	tasar	tasar	t̪ ʌ s ʌ r	pada1256				
 #
 55955	52_horse	Horse	OLDPERSIAN	OLD_PERSIAN	aspa-	aspa-	ʌ s p ʌ	oldp1254		32.0	54.0	
@@ -6846,7 +6846,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 26962	13_hundred	Hundred	NAGPURIA	NAGPURIA	sai	sai	s ai	sadr1248		23.6585	84.8114	
 26963	13_hundred	Hundred	BENGALIWRITTEN	BENGALI_WRITTEN	šata	šata	ʃ ʌ t̪ ʌ	beng1280		24.0	90.0	
 26964	13_hundred	Hundred	BENGALIWRITTEN	BENGALI_WRITTEN	ša	ša	ʃ ʌ	beng1280		24.0	90.0	
-26967	13_hundred	Hundred	SOUTHWESTERNBENGALI	SOUTH_WESTERN_BENGALI	ěk sa	ěk sa	ə k + s ʌ	beng1280		24.0	90.0	
+26967	13_hundred	Hundred	SOUTHWESTERNBENGALI	SOUTH_WESTERN_BENGALI	ěk sa	ěk sa	e k + s ʌ	beng1280		24.0	90.0	
 26968	13_hundred	Hundred	SIRIPURIA	SIRIPURIA	sa	sa	s ʌ	siri1268				
 26969	13_hundred	Hundred	EASTERNBENGALI	EASTERN_BENGALI	ša	ša	ʃ ʌ	east2744				
 26970	13_hundred	Hundred	EASTERNBENGALIOFCACHAR	EASTERN_BENGALI_OF_CACHAR	ša	ša	ʃ ʌ	sylh1242		24.83724	92.25347	
@@ -7078,8 +7078,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 52455	38_iron	Iron	CHILASI	CHILASI	chimar (Burušaski)	chimar	tʃ i m ʌ r	shin1264		34.6515	75.287	
 52456	38_iron	Iron	CHILASIOFDRAS	CHILASI_OF_DRAS	chimir (Burušaski)	chimir	tʃ i m i r	dras1242				
 52457	38_iron	Iron	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	chingār	chingār	tʃ i ŋ ʌː r	brok1247		34.5308	76.6026	
-52458	38_iron	Iron	KASHMIRI	KASHMIRI	šěstᵃr	šěstᵃr	ʃ ə s t̪ ă r	kash1277		34.166825	74.330455	
-52459	38_iron	Iron	KASHTAWARI	KASHTAWARI	šět’ar	šět’ar	ʃ ə t̪ʰ ʌ r	kish1245				
+52458	38_iron	Iron	KASHMIRI	KASHMIRI	šěstᵃr	šěstᵃr	ʃ e s t̪ ă r	kash1277		34.166825	74.330455	
+52459	38_iron	Iron	KASHTAWARI	KASHTAWARI	šět’ar	šět’ar	ʃ e t̪ʰ ʌ r	kish1245				
 52460	38_iron	Iron	POGULI	POGULI	šahtar	šahtar	ʃ ʌ h t̪ ʌ r	pogu1238				
 52461	38_iron	Iron	DODASIRAJI	DODA_SIRAJI	lōhā	lōhā	l oː h ʌː	sira1264				
 52462	38_iron	Iron	RAMBANI	RAMBANI	lōhā	lōhā	l oː h ʌː	ramb1240				
@@ -7362,7 +7362,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9074	73_man	Man	PANGWALI	PANGWALI	mahṇū	mahṇū	m ʌ h ɳ uː	pang1282		32.9753	76.5569	
 9075	73_man	Man	PANGWALI	PANGWALI	māhṇū	māhṇū	m ʌː h ɳ uː	pang1282		32.9753	76.5569	
 9076	73_man	Man	PANGWALI	PANGWALI	maṛd	maṛd	m ʌ ɽ d̪	pang1282		32.9753	76.5569	
-9077	73_man	Man	BHADRAWAHI	BHADRAWAHI	měṇū	měṇū	m ə ɳ uː	bhad1241		33.2851	75.8707	
+9077	73_man	Man	BHADRAWAHI	BHADRAWAHI	měṇū	měṇū	m e ɳ uː	bhad1241		33.2851	75.8707	
 9078	73_man	Man	BHADRAWAHI	BHADRAWAHI	maṛd	maṛd	m ʌ ɽ d̪	bhad1241		33.2851	75.8707	
 9079	73_man	Man	PADARI	PADARI	mauhṇū	mauhṇū	m au h ɳ uː	pada1256				
 9080	73_man	Man	PADARI	PADARI	mōhaṇ	mōhaṇ	m oː h ʌ ɳ	pada1256				
@@ -7657,7 +7657,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 7212	70_mother	Mother	KASHMIRI	KASHMIRI	möj^ü	möj^ü	m ø dʒ y	kash1277		34.166825	74.330455	
 7213	70_mother	Mother	KASHTAWARI	KASHTAWARI	m’āili	m’āili	mʰ aːi l i	kish1245				
 7214	70_mother	Mother	KASHTAWARI	KASHTAWARI	bāī	bāī	b ʌː iː	kish1245				
-7215	70_mother	Mother	POGULI	POGULI	yěī	yěī	j ə iː	pogu1238				
+7215	70_mother	Mother	POGULI	POGULI	yěī	yěī	j e iː	pogu1238				
 7216	70_mother	Mother	DODASIRAJI	DODA_SIRAJI	ī	ī	iː	sira1264				
 7217	70_mother	Mother	RAMBANI	RAMBANI	ammā	ammā	ʌ m m ʌː	ramb1240				
 7218	70_mother	Mother	KOHISTANIGARWI	KOHISTANI_GARWI	yaī	yaī	j ʌ iː	indu1241		35.3389	73.0154	
@@ -8107,8 +8107,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 20715	107_near	Near	KASHTAWARI	KASHTAWARI	niōṛᵘ	niōṛᵘ	n̪ i oː ɽ ŭ	kish1245				
 20716	107_near	Near	POGULI	POGULI	nēṛi	nēṛi	n̪ eː ɽ i	pogu1238				
 20717	107_near	Near	DODASIRAJI	DODA_SIRAJI	nēṛē	nēṛē	n̪ eː ɽ eː	sira1264				
-20718	107_near	Near	RAMBANI	RAMBANI	nēṛě	nēṛě	n̪ eː ɽ ə	ramb1240				
-20719	107_near	Near	RAMBANI	RAMBANI	naiṛě	naiṛě	n̪ ai ɽ ə	ramb1240				
+20718	107_near	Near	RAMBANI	RAMBANI	nēṛě	nēṛě	n̪ eː ɽ e	ramb1240				
+20719	107_near	Near	RAMBANI	RAMBANI	naiṛě	naiṛě	n̪ ai ɽ e	ramb1240				
 20720	107_near	Near	KOHISTANIGARWI	KOHISTANI_GARWI	nīar	nīar	n̪ iː ʌ r	indu1241		35.3389	73.0154	
 20721	107_near	Near	TORWALI	TORWALI	niō	niō	n̪ i oː	torw1241		35.3101	72.5316	
 20722	107_near	Near	MAIYA	MAIYA	kas	kas	k ʌ s	indu1241		35.3389	73.0154	
@@ -8217,7 +8217,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 20834	107_near	Near	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	ḍ’āyā	ḍ’āyā	ɖʰ ʌː j ʌː	jaun1243		30.5587	77.9084	
 20835	107_near	Near	SIRMAURI	SIRMAURI	naujīk	naujīk	n̪ au dʒ iː k	sirm1239		31.1	77.17	
 20836	107_near	Near	BAGHATI	BAGHATI	nēṛē	nēṛē	n̪ eː ɽ eː	bagh1249				
-20837	107_near	Near	KIUTHALI	KIUTHALI	něūṛē	něūṛē	n̪ ə uː ɽ eː	kiun1241				
+20837	107_near	Near	KIUTHALI	KIUTHALI	něūṛē	něūṛē	n̪ e uː ɽ eː	kiun1241				
 20838	107_near	Near	SHODOCHI	SHODOCHI	nēṛī	nēṛī	n̪ eː ɽ iː	maha1287		31.0088	77.5317	
 20839	107_near	Near	SHODOCHI	SHODOCHI	nēḍḍ’ī	nēḍḍ’ī	n̪ eː ɖ ɖʰ iː	maha1287		31.0088	77.5317	
 20840	107_near	Near	KULUI	KULUI	b’ēṭī	b’ēṭī	bʰ eː ʈ iː	kllu1238				
@@ -8255,7 +8255,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1764	9_nine	Nine	GAWARBATI	GAWAR_BATI	nūh	nūh	n̪ uː h	gawa1247		35.1982	71.5428	
 1765	9_nine	Nine	PASHAIEASTERN	PASHAI_EASTERN	nō	nō	n̪ oː	sout2672		34.43099	70.30351	
 1766	9_nine	Nine	PASHAIWESTERN	PASHAI_WESTERN	nō	nō	n̪ oː	sout2671		34.8478	69.8734	
-1767	9_nine	Nine	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	něoh	něoh	n̪ ə o h	khow1242		36.0	72.0	
+1767	9_nine	Nine	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	něoh	něoh	n̪ e o h	khow1242		36.0	72.0	
 1768	9_nine	Nine	SHINAGILGITI	SHINA_GILGITI	nau	nau	n̪ au	gilg1242				
 1769	9_nine	Nine	CHILASI	CHILASI	nau	nau	n̪ au	shin1264		34.6515	75.287	
 1770	9_nine	Nine	CHILASIOFDRAS	CHILASI_OF_DRAS	nau	nau	n̪ au	dras1242				
@@ -8499,7 +8499,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 24743	117_no	No	GADI	GADI	nā	nā	n̪ ʌː	gadi1238				
 24744	117_no	No	PANGWALI	PANGWALI	nā	nā	n̪ ʌː	pang1282		32.9753	76.5569	
 24745	117_no	No	BHADRAWAHI	BHADRAWAHI	nahī̃	nahī̃	n̪ ʌ h ĩː	bhad1241		33.2851	75.8707	
-24746	117_no	No	BHADRAWAHI	BHADRAWAHI	něī̃h	něī̃h	n̪ ə ĩː h	bhad1241		33.2851	75.8707	
+24746	117_no	No	BHADRAWAHI	BHADRAWAHI	něī̃h	něī̃h	n̪ e ĩː h	bhad1241		33.2851	75.8707	
 24747	117_no	No	PADARI	PADARI	na	na	n̪ ʌ	pada1256				
 24748	117_no	No	PADARI	PADARI	nahī̃	nahī̃	n̪ ʌ h ĩː	pada1256				
 #
@@ -9452,7 +9452,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 8330	72_sister	Sister	CHILASIOFDRAS	CHILASI_OF_DRAS	sā	sā	s ʌː	dras1242				
 8331	72_sister	Sister	CHILASIOFDRAS	CHILASI_OF_DRAS	(E.) kākī	kākī	k ʌː k iː	dras1242				
 8332	72_sister	Sister	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	kākē	kākē	k ʌː k eː	brok1247		34.5308	76.6026	
-8333	72_sister	Sister	KASHMIRI	KASHMIRI	běñě	běñě	b ə ɲ ə	kash1277		34.166825	74.330455	
+8333	72_sister	Sister	KASHMIRI	KASHMIRI	běñě	běñě	b e ɲ e	kash1277		34.166825	74.330455	
 8334	72_sister	Sister	KASHTAWARI	KASHTAWARI	bihan	bihan	b i h ʌ n̪	kish1245				
 8335	72_sister	Sister	KASHTAWARI	KASHTAWARI	b’ain	b’ain	bʰ ai n̪	kish1245				
 8336	72_sister	Sister	POGULI	POGULI	bēan	bēan	b eː ʌ n̪	pogu1238				
@@ -9563,7 +9563,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 8451	72_sister	Sister	GARHWALI	GARHWALI	(E.) baiṇ	baiṇ	b ai ɳ	garh1243		30.5061	78.7201	
 8452	72_sister	Sister	GARHWALI	GARHWALI	didī	didī	d̪ i d̪ iː	garh1243		30.5061	78.7201	
 8453	72_sister	Sister	GARHWALI	GARHWALI	(Y.) b’ulī	b’ulī	bʰ u l iː	garh1243		30.5061	78.7201	
-8454	72_sister	Sister	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	bǒhěn	bǒhěn	b ɒ h ə n̪	jaun1243		30.5587	77.9084	
+8454	72_sister	Sister	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	bǒhěn	bǒhěn	b ɒ h e n̪	jaun1243		30.5587	77.9084	
 8455	72_sister	Sister	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	(E.) dādī	dādī	d̪ ʌː d̪ iː	jaun1243		30.5587	77.9084	
 8456	72_sister	Sister	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	(Y.) b’āīṭī	b’āīṭī	bʰ ʌː iː ʈ iː	jaun1243		30.5587	77.9084	
 8457	72_sister	Sister	SIRMAURI	SIRMAURI	dādē	dādē	d̪ ʌː d̪ eː	sirm1239		31.1	77.17	
@@ -9577,7 +9577,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 8465	72_sister	Sister	KULUI	KULUI	(E.) dāī	dāī	d̪ ʌː iː	kllu1238				
 8466	72_sister	Sister	KULUI	KULUI	(Y.) bēhṇ	bēhṇ	b eː h ɳ	kllu1238				
 8467	72_sister	Sister	MANDEALI	MANDEALI	(E.) bōbbō	bōbbō	b oː b b oː	mand1409		31.5425	77.0419	
-8468	72_sister	Sister	MANDEALI	MANDEALI	(Y.) bahěṇ	bahěṇ	b ʌ h ə ɳ	mand1409		31.5425	77.0419	
+8468	72_sister	Sister	MANDEALI	MANDEALI	(Y.) bahěṇ	bahěṇ	b ʌ h e ɳ	mand1409		31.5425	77.0419	
 8469	72_sister	Sister	MANDEALI	MANDEALI	baihṇ	baihṇ	b ai h ɳ	mand1409		31.5425	77.0419	
 8470	72_sister	Sister	CHAMEALI	CHAMEALI	b’ēṇ	b’ēṇ	bʰ eː ɳ	cham1307		32.5476	76.1796	
 8471	72_sister	Sister	CHAMEALI	CHAMEALI	baihṇ	baihṇ	b ai h ɳ	cham1307		32.5476	76.1796	
@@ -9617,7 +9617,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 25864	120_sit	Sit	CHILASI	CHILASI	baī-	baī-	b ʌ iː	shin1264		34.6515	75.287	
 25865	120_sit	Sit	CHILASIOFDRAS	CHILASI_OF_DRAS	bai-	bai-	b ai	dras1242				
 25866	120_sit	Sit	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	bāš-	bāš-	b ʌː ʃ	brok1247		34.5308	76.6026	
-25867	120_sit	Sit	KASHMIRI	KASHMIRI	běh-	běh-	b ə h	kash1277		34.166825	74.330455	
+25867	120_sit	Sit	KASHMIRI	KASHMIRI	běh-	běh-	b e h	kash1277		34.166825	74.330455	
 25868	120_sit	Sit	KASHTAWARI	KASHTAWARI	bih-	bih-	b i h	kish1245				
 25869	120_sit	Sit	POGULI	POGULI	byim-	byim-	b j i m	pogu1238				
 25870	120_sit	Sit	DODASIRAJI	DODA_SIRAJI	miš-	miš-	m i ʃ	sira1264				
@@ -9700,13 +9700,13 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 25954	120_sit	Sit	BAGHATI	BAGHATI	bēṭ’-	bēṭ’-	b eː ʈʰ	bagh1249				
 25955	120_sit	Sit	KIUTHALI	KIUTHALI	bēṭ’-	bēṭ’-	b eː ʈʰ	kiun1241				
 25956	120_sit	Sit	SHODOCHI	SHODOCHI	bēš-	bēš-	b eː ʃ	maha1287		31.0088	77.5317	
-25957	120_sit	Sit	KULUI	KULUI	běš-	běš-	b ə ʃ	kllu1238				
+25957	120_sit	Sit	KULUI	KULUI	běš-	běš-	b e ʃ	kllu1238				
 25958	120_sit	Sit	MANDEALI	MANDEALI	baiṭ’-	baiṭ’-	b ai ʈʰ	mand1409		31.5425	77.0419	
 25959	120_sit	Sit	CHAMEALI	CHAMEALI	baih-	baih-	b ai h	cham1307		32.5476	76.1796	
 25960	120_sit	Sit	GADI	GADI	bēꭓ-	bēꭓ-	b eː x	gadi1238				
 25961	120_sit	Sit	PANGWALI	PANGWALI	biš-	biš-	b i ʃ	pang1282		32.9753	76.5569	
 25962	120_sit	Sit	BHADRAWAHI	BHADRAWAHI	biš-	biš-	b i ʃ	bhad1241		33.2851	75.8707	
-25963	120_sit	Sit	PADARI	PADARI	běš-	běš-	b ə ʃ	pada1256				
+25963	120_sit	Sit	PADARI	PADARI	běš-	běš-	b e ʃ	pada1256				
 #
 637	6_six	Six	AVESTAN	AVESTAN	ꭓšvaš	ꭓšvaš	x ʃ v ʌ ʃ	aves1237		31.541	53.633	
 638	6_six	Six	PAHLAVI	PAHLAVI	šaš	šaš	ʃ ʌ ʃ	pahl1241		30.06	52.7	
@@ -9736,13 +9736,13 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 662	6_six	Six	CHILASI	CHILASI	šah	šah	ʃ ʌ h	shin1264		34.6515	75.287	
 663	6_six	Six	CHILASIOFDRAS	CHILASI_OF_DRAS	šā	šā	ʃ ʌː	dras1242				
 664	6_six	Six	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	šā	šā	ʃ ʌː	brok1247		34.5308	76.6026	
-665	6_six	Six	KASHMIRI	KASHMIRI	šěh	šěh	ʃ ə h	kash1277		34.166825	74.330455	
-666	6_six	Six	KASHTAWARI	KASHTAWARI	šě	šě	ʃ ə	kish1245				
-667	6_six	Six	POGULI	POGULI	šě	šě	ʃ ə	pogu1238				
+665	6_six	Six	KASHMIRI	KASHMIRI	šěh	šěh	ʃ e h	kash1277		34.166825	74.330455	
+666	6_six	Six	KASHTAWARI	KASHTAWARI	šě	šě	ʃ e	kish1245				
+667	6_six	Six	POGULI	POGULI	šě	šě	ʃ e	pogu1238				
 668	6_six	Six	DODASIRAJI	DODA_SIRAJI	šǎh	šǎh	ʃ æ h	sira1264				
 669	6_six	Six	DODASIRAJI	DODA_SIRAJI	še	še	ʃ e	sira1264				
-670	6_six	Six	RAMBANI	RAMBANI	šě	šě	ʃ ə	ramb1240				
-671	6_six	Six	RAMBANI	RAMBANI	ch’ě	ch’ě	tʃʰ ə	ramb1240				
+670	6_six	Six	RAMBANI	RAMBANI	šě	šě	ʃ e	ramb1240				
+671	6_six	Six	RAMBANI	RAMBANI	ch’ě	ch’ě	tʃʰ e	ramb1240				
 672	6_six	Six	KOHISTANIGARWI	KOHISTANI_GARWI	šō	šō	ʃ oː	indu1241		35.3389	73.0154	
 673	6_six	Six	TORWALI	TORWALI	šō	šō	ʃ oː	torw1241		35.3101	72.5316	
 674	6_six	Six	MAIYA	MAIYA	šoh	šoh	ʃ o h	indu1241		35.3389	73.0154	
@@ -9982,7 +9982,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 10673	77_son	Son	YUDYA	YUDYA	pūr	pūr	p uː r	yidg1240		36.014	71.5077	
 10674	77_son	Son	BASHGALI	BASHGALI	pitr	pitr	p i t̪ r	kati1270		35.4145	70.9826	
 10675	77_son	Son	WAIALA	WAI_ALA	piutr	piutr	p i u t̪ r	waig1243		35.0358	70.9761	
-10676	77_son	Son	WASIVERIORVERON	WASI_VERI_OR_VERON	piě	piě	p i ə	pras1239		35.1731	70.8004	
+10676	77_son	Son	WASIVERIORVERON	WASI_VERI_OR_VERON	piě	piě	p i e	pras1239		35.1731	70.8004	
 10677	77_son	Son	KALASHA	KALASHA	pūtr	pūtr	p uː t̪ r	kala1372		35.6415	71.6657	
 10678	77_son	Son	GAWARBATI	GAWAR_BATI	pult	pult	p u l t̪	gawa1247		35.1982	71.5428	
 10679	77_son	Son	PASHAIEASTERN	PASHAI_EASTERN	puṭ-hlᵃ	puṭ-hlᵃ	p u ʈ + h l ă	sout2672		34.43099	70.30351	
@@ -9993,7 +9993,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 10684	77_son	Son	CHILASIOFDRAS	CHILASI_OF_DRAS	puš	puš	p u ʃ	dras1242				
 10685	77_son	Son	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	biü	biü	b i y	brok1247		34.5308	76.6026	
 10686	77_son	Son	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	bē (Tibetan)	bē	b eː	brok1247		34.5308	76.6026	
-10687	77_son	Son	KASHMIRI	KASHMIRI	něchyuwᵘ	něchyuwᵘ	n̪ ə tʃ j u w ŭ	kash1277		34.166825	74.330455	
+10687	77_son	Son	KASHMIRI	KASHMIRI	něchyuwᵘ	něchyuwᵘ	n̪ e tʃ j u w ŭ	kash1277		34.166825	74.330455	
 10688	77_son	Son	KASHMIRI	KASHMIRI	pūtᵘ	pūtᵘ	p uː t̪ ŭ	kash1277		34.166825	74.330455	
 10689	77_son	Son	KASHTAWARI	KASHTAWARI	šuṛᵘ	šuṛᵘ	ʃ u ɽ ŭ	kish1245				
 10690	77_son	Son	POGULI	POGULI	lūk	lūk	l uː k	pogu1238				
@@ -10416,7 +10416,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 59210	46_sun	Sun	CHILASIOFDRAS	CHILASI_OF_DRAS	surya	surya	s u r j ʌ	dras1242				
 59211	46_sun	Sun	CHILASIOFDRAS	CHILASI_OF_DRAS	sur	sur	s u r	dras1242				
 59212	46_sun	Sun	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	sürī	sürī	s y r iː	brok1247		34.5308	76.6026	
-59213	46_sun	Sun	KASHMIRI	KASHMIRI	sirě	sirě	s i r ə	kash1277		34.166825	74.330455	
+59213	46_sun	Sun	KASHMIRI	KASHMIRI	sirě	sirě	s i r e	kash1277		34.166825	74.330455	
 59214	46_sun	Sun	KASHTAWARI	KASHTAWARI	sūraj	sūraj	s uː r ʌ dʒ	kish1245				
 59215	46_sun	Sun	KASHTAWARI	KASHTAWARI	dōs	dōs	d̪ oː s	kish1245				
 59216	46_sun	Sun	POGULI	POGULI	dūs	dūs	d̪ uː s	pogu1238				
@@ -10672,8 +10672,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 47308	25_their	Their	GAWARBATI	GAWAR_BATI	tasu-na	tasu-na	t̪ ʌ s u + n̪ ʌ	gawa1247		35.1982	71.5428	
 47309	25_their	Their	PASHAIEASTERN	PASHAI_EASTERN	ūtēnā	ūtēnā	uː t̪ eː n̪ ʌː	sout2672		34.43099	70.30351	
 47310	25_their	Their	PASHAIWESTERN	PASHAI_WESTERN	ūtēnā	ūtēnā	uː t̪ eː n̪ ʌː	sout2671		34.8478	69.8734	
-47311	25_their	Their	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	hatětan	hatětan	h ʌ t̪ ə t̪ ʌ n̪	khow1242		36.0	72.0	
-47312	25_their	Their	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	hětan	hětan	h ə t̪ ʌ n̪	khow1242		36.0	72.0	
+47311	25_their	Their	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	hatětan	hatětan	h ʌ t̪ e t̪ ʌ n̪	khow1242		36.0	72.0	
+47312	25_their	Their	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	hětan	hětan	h e t̪ ʌ n̪	khow1242		36.0	72.0	
 47313	25_their	Their	SHINAGILGITI	SHINA_GILGITI	aino	aino	ai n̪ o	gilg1242				
 47314	25_their	Their	SHINAGILGITI	SHINA_GILGITI	ainēi	ainēi	ai n̪ eː i	gilg1242				
 47315	25_their	Their	SHINAGILGITI	SHINA_GILGITI	rīno	rīno	r iː n̪ o	gilg1242				
@@ -10802,7 +10802,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 47451	25_their	Their	GADI	GADI	un’ērā	un’ērā	u n̪̊ʰ eː r ʌː	gadi1238				
 47452	25_their	Their	GADI	GADI	un’ārā	un’ārā	u n̪̊ʰ ʌː r ʌː	gadi1238				
 47453	25_their	Their	GADI	GADI	ūā̃rā	ūā̃rā	uː ãː r ʌː	gadi1238				
-47454	25_their	Their	PANGWALI	PANGWALI	un-kěā	un-kěā	u n̪ + k ə ʌː	pang1282		32.9753	76.5569	
+47454	25_their	Their	PANGWALI	PANGWALI	un-kěā	un-kěā	u n̪ + k e ʌː	pang1282		32.9753	76.5569	
 47455	25_their	Their	BHADRAWAHI	BHADRAWAHI	uṇkarũ	uṇkarũ	u ɳ k ʌ r ũ	bhad1241		33.2851	75.8707	
 47456	25_their	Their	BHADRAWAHI	BHADRAWAHI	taṇkarũ	taṇkarũ	t̪ ʌ ɳ k ʌ r ũ	bhad1241		33.2851	75.8707	
 47457	25_their	Their	PADARI	PADARI	taī̃-kar	taī̃-kar	t̪ ʌ ĩː + k ʌ r	pada1256				
@@ -10834,8 +10834,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 46846	24_they	They	GAWARBATI	GAWAR_BATI	teme	teme	t̪ e m e	gawa1247		35.1982	71.5428	
 46847	24_they	They	PASHAIEASTERN	PASHAI_EASTERN	utu	utu	u t̪ u	sout2672		34.43099	70.30351	
 46848	24_they	They	PASHAIWESTERN	PASHAI_WESTERN	ūtē	ūtē	uː t̪ eː	sout2671		34.8478	69.8734	
-46849	24_they	They	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	hátět	hátět	h á t̪ ə t̪	khow1242		36.0	72.0	
-46850	24_they	They	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	hětt	hětt	h ə t̪ t̪	khow1242		36.0	72.0	
+46849	24_they	They	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	hátět	hátět	h á t̪ e t̪	khow1242		36.0	72.0	
+46850	24_they	They	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	hětt	hětt	h e t̪ t̪	khow1242		36.0	72.0	
 46851	24_they	They	SHINAGILGITI	SHINA_GILGITI	ai	ai	ai	gilg1242				
 46852	24_they	They	SHINAGILGITI	SHINA_GILGITI	aisä	aisä	ai s ɛ	gilg1242				
 46853	24_they	They	SHINAGILGITI	SHINA_GILGITI	rī	rī	r iː	gilg1242				
@@ -10974,7 +10974,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 47000	24_they	They	KIUTHALI	KIUTHALI	sē	sē	s eː	kiun1241				
 47001	24_they	They	SHODOCHI	SHODOCHI	sai	sai	s ai	maha1287		31.0088	77.5317	
 47002	24_they	They	KULUI	KULUI	tē	tē	t̪ eː	kllu1238				
-47003	24_they	They	MANDEALI	MANDEALI	sěō̃	sěō̃	s ə õː	mand1409		31.5425	77.0419	
+47003	24_they	They	MANDEALI	MANDEALI	sěō̃	sěō̃	s e õː	mand1409		31.5425	77.0419	
 47004	24_they	They	CHAMEALI	CHAMEALI	ō	ō	oː	cham1307		32.5476	76.1796	
 47005	24_they	They	CHAMEALI	CHAMEALI	sē	sē	s eː	cham1307		32.5476	76.1796	
 47006	24_they	They	GADI	GADI	ōh	ōh	oː h	gadi1238				
@@ -11169,8 +11169,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 3427	3_three	Three	CHILASIOFDRAS	CHILASI_OF_DRAS	trē	trē	t̪ r eː	dras1242				
 3428	3_three	Three	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	trā	trā	t̪ r ʌː	brok1247		34.5308	76.6026	
 3429	3_three	Three	KASHMIRI	KASHMIRI	trih	trih	t̪ r i h	kash1277		34.166825	74.330455	
-3430	3_three	Three	KASHMIRI	KASHMIRI	trěh	trěh	t̪ r ə h	kash1277		34.166825	74.330455	
-3431	3_three	Three	KASHTAWARI	KASHTAWARI	trě	trě	t̪ r ə	kish1245				
+3430	3_three	Three	KASHMIRI	KASHMIRI	trěh	trěh	t̪ r e h	kash1277		34.166825	74.330455	
+3431	3_three	Three	KASHTAWARI	KASHTAWARI	trě	trě	t̪ r e	kish1245				
 3432	3_three	Three	KASHTAWARI	KASHTAWARI	tra	tra	t̪ r ʌ	kish1245				
 3433	3_three	Three	POGULI	POGULI	chāē	chāē	tʃ ʌː eː	pogu1238				
 3434	3_three	Three	DODASIRAJI	DODA_SIRAJI	trēī	trēī	t̪ r eː iː	sira1264				
@@ -11340,7 +11340,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 29849	19_thy	Thy	POTHWARI	POTHWARI	tuhāḍā	tuhāḍā	t̪ u h ʌː ɖ ʌː	poth1238				
 29850	19_thy	Thy	CHIBHALI	CHIBHALI	tuhāṛā	tuhāṛā	t̪ u h ʌː ɽ ʌː	chib1247				
 29851	19_thy	Thy	PUNCHHI	PUNCHHI	tuhāṛā	tuhāṛā	t̪ u h ʌː ɽ ʌː	punc1239				
-29852	19_thy	Thy	SINDHIVICHOLI	SINDHI_VICHOLI	tũhě-jō	tũhě-jō	t̪ ũ h ə + dʒ oː	sind1272		26.0	69.0	
+29852	19_thy	Thy	SINDHIVICHOLI	SINDHI_VICHOLI	tũhě-jō	tũhě-jō	t̪ ũ h e + dʒ oː	sind1272		26.0	69.0	
 29853	19_thy	Thy	LARI	LARI	tō-jō	tō-jō	t̪ oː + dʒ oː	lari1254				
 29854	19_thy	Thy	KACHCHHI	KACHCHHI	tō-jō	tō-jō	t̪ oː + dʒ oː	kach1277		23.83	69.0	
 29855	19_thy	Thy	MARATHIDESHI	MARATHI_DESHI	tuḏẕ’ā	tuḏẕ’ā	t̪ u dz ʌː	mara1378		17.9344	76.6665	
@@ -11423,7 +11423,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 29936	19_thy	Thy	CENTRALPAHARIKUMAUNI	CENTRAL_PAHARI_KUMAUNI	tyǒro	tyǒro	t̪ j ɒ r o	kuma1273		29.5622	80.0171	
 29937	19_thy	Thy	GARHWALI	GARHWALI	tērō	tērō	t̪ eː r oː	garh1243		30.5061	78.7201	
 29938	19_thy	Thy	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	tērō	tērō	t̪ eː r oː	jaun1243		30.5587	77.9084	
-29939	19_thy	Thy	SIRMAURI	SIRMAURI	těārā	těārā	t̪ ə ʌː r ʌː	sirm1239		31.1	77.17	
+29939	19_thy	Thy	SIRMAURI	SIRMAURI	těārā	těārā	t̪ e ʌː r ʌː	sirm1239		31.1	77.17	
 29940	19_thy	Thy	SIRMAURI	SIRMAURI	tuãkā	tuãkā	t̪ u ã k ʌː	sirm1239		31.1	77.17	
 29941	19_thy	Thy	BAGHATI	BAGHATI	tērā	tērā	t̪ eː r ʌː	bagh1249				
 29942	19_thy	Thy	KIUTHALI	KIUTHALI	tērā	tērā	t̪ eː r ʌː	kiun1241				
@@ -11474,8 +11474,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 51333	35_tongue	Tongue	CHILASI	CHILASI	jib	jib	dʒ i b	shin1264		34.6515	75.287	
 51334	35_tongue	Tongue	CHILASIOFDRAS	CHILASI_OF_DRAS	žīp	žīp	ʒ iː p	dras1242				
 51335	35_tongue	Tongue	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	gip	gip	g i p	brok1247		34.5308	76.6026	
-51336	35_tongue	Tongue	KASHMIRI	KASHMIRI	zěv	zěv	z ə v	kash1277		34.166825	74.330455	
-51337	35_tongue	Tongue	KASHTAWARI	KASHTAWARI	zěou	zěou	z ə əʊ	kish1245				
+51336	35_tongue	Tongue	KASHMIRI	KASHMIRI	zěv	zěv	z e v	kash1277		34.166825	74.330455	
+51337	35_tongue	Tongue	KASHTAWARI	KASHTAWARI	zěou	zěou	z e əʊ	kish1245				
 51338	35_tongue	Tongue	KASHTAWARI	KASHTAWARI	ziō	ziō	z i oː	kish1245				
 51339	35_tongue	Tongue	POGULI	POGULI	ziū	ziū	z i uː	pogu1238				
 51340	35_tongue	Tongue	DODASIRAJI	DODA_SIRAJI	jib	jib	dʒ i b	sira1264				
@@ -11568,7 +11568,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 51436	35_tongue	Tongue	GADI	GADI	jibb’	jibb’	dʒ i b bʰ	gadi1238				
 51437	35_tongue	Tongue	PANGWALI	PANGWALI	jib’	jib’	dʒ i bʰ	pang1282		32.9753	76.5569	
 51438	35_tongue	Tongue	BHADRAWAHI	BHADRAWAHI	zibb’	zibb’	z i b bʰ	bhad1241		33.2851	75.8707	
-51439	35_tongue	Tongue	PADARI	PADARI	ḏẕěb’	ḏẕěb’	dz ə bʰ	pada1256				
+51439	35_tongue	Tongue	PADARI	PADARI	ḏẕěb’	ḏẕěb’	dz e bʰ	pada1256				
 #
 49714	31_tooth	Tooth	AVESTAN	AVESTAN	dañtan-	dañtan-	d̪ ʌ ɲ t̪ ʌ n̪	aves1237		31.541	53.633	
 49715	31_tooth	Tooth	PAHLAVI	PAHLAVI	dandān	dandān	d̪ ʌ n̪ d̪ ʌː n̪	pahl1241		30.06	52.7	
@@ -12769,14 +12769,14 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23233	113_why	Why?	KIUTHALI	KIUTHALI	kōē	kōē	k oː eː	kiun1241				
 23234	113_why	Why?	SHODOCHI	SHODOCHI	kīlē	kīlē	k iː l eː	maha1287		31.0088	77.5317	
 23235	113_why	Why?	SHODOCHI	SHODOCHI	kīlai	kīlai	k iː l ai	maha1287		31.0088	77.5317	
-23236	113_why	Why?	KULUI	KULUI	kībě	kībě	k iː b ə	kllu1238				
+23236	113_why	Why?	KULUI	KULUI	kībě	kībě	k iː b e	kllu1238				
 23237	113_why	Why?	MANDEALI	MANDEALI	kī	kī	k iː	mand1409		31.5425	77.0419	
 23238	113_why	Why?	CHAMEALI	CHAMEALI	kiñjō	kiñjō	k i ɲ dʒ oː	cham1307		32.5476	76.1796	
 23239	113_why	Why?	GADI	GADI	kajō	kajō	k ʌ dʒ oː	gadi1238				
 23240	113_why	Why?	PANGWALI	PANGWALI	kis	kis	k i s	pang1282		32.9753	76.5569	
 23241	113_why	Why?	BHADRAWAHI	BHADRAWAHI	kujō	kujō	k u dʒ oː	bhad1241		33.2851	75.8707	
 23242	113_why	Why?	BHADRAWAHI	BHADRAWAHI	kī	kī	k iː	bhad1241		33.2851	75.8707	
-23243	113_why	Why?	PADARI	PADARI	kyěs	kyěs	kʲ ə s	pada1256				
+23243	113_why	Why?	PADARI	PADARI	kyěs	kyěs	kʲ e s	pada1256				
 #
 9774	75_wife	Wife	AVESTAN	AVESTAN	jēni-	jēni-	dʒ eː n̪ i	aves1237		31.541	53.633	
 9775	75_wife	Wife	AVESTAN	AVESTAN	jaini-	jaini-	dʒ ai n̪ i	aves1237		31.541	53.633	
@@ -12936,9 +12936,9 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9938	75_wife	Wife	GARHWALI	GARHWALI	janānī	janānī	dʒ ʌ n̪ ʌː n̪ iː	garh1243		30.5061	78.7201	
 9939	75_wife	Wife	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	jōrū	jōrū	dʒ oː r uː	jaun1243		30.5587	77.9084	
 9940	75_wife	Wife	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	ch’ēuṛī	ch’ēuṛī	tʃʰ eː u ɽ iː	jaun1243		30.5587	77.9084	
-9941	75_wife	Wife	SIRMAURI	SIRMAURI	ch’ěwṛī	ch’ěwṛī	tʃʰ ə w ɽ iː	sirm1239		31.1	77.17	
-9942	75_wife	Wife	SIRMAURI	SIRMAURI	ch’ěwṛē	ch’ěwṛē	tʃʰ ə w ɽ eː	sirm1239		31.1	77.17	
-9943	75_wife	Wife	BAGHATI	BAGHATI	ch’ěōṛī	ch’ěōṛī	tʃʰ ə oː ɽ iː	bagh1249				
+9941	75_wife	Wife	SIRMAURI	SIRMAURI	ch’ěwṛī	ch’ěwṛī	tʃʰ e w ɽ iː	sirm1239		31.1	77.17	
+9942	75_wife	Wife	SIRMAURI	SIRMAURI	ch’ěwṛē	ch’ěwṛē	tʃʰ e w ɽ eː	sirm1239		31.1	77.17	
+9943	75_wife	Wife	BAGHATI	BAGHATI	ch’ěōṛī	ch’ěōṛī	tʃʰ e oː ɽ iː	bagh1249				
 9944	75_wife	Wife	KIUTHALI	KIUTHALI	ch’ēwṛī	ch’ēwṛī	tʃʰ eː w ɽ iː	kiun1241				
 9945	75_wife	Wife	SHODOCHI	SHODOCHI	nā̃ṇī	nā̃ṇī	n̪ ãː ɳ iː	maha1287		31.0088	77.5317	
 9946	75_wife	Wife	KULUI	KULUI	jō	jō	dʒ oː	kllu1238				
@@ -13093,9 +13093,9 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9503	74_woman	Woman	CENTRALPAHARIKUMAUNI	CENTRAL_PAHARI_KUMAUNI	syaini	syaini	s j ai n̪ i	kuma1273		29.5622	80.0171	
 9504	74_woman	Woman	GARHWALI	GARHWALI	janānī	janānī	dʒ ʌ n̪ ʌː n̪ iː	garh1243		30.5061	78.7201	
 9505	74_woman	Woman	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	bēṭī-māṇukh	bēṭī-māṇukh	b eː ʈ iː + m ʌː ɳ u k h	jaun1243		30.5587	77.9084	
-9506	74_woman	Woman	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	běṭkūṛī	běṭkūṛī	b ə ʈ k uː ɽ iː	jaun1243		30.5587	77.9084	
-9507	74_woman	Woman	SIRMAURI	SIRMAURI	ch’ěwṛī	ch’ěwṛī	tʃʰ ə w ɽ iː	sirm1239		31.1	77.17	
-9508	74_woman	Woman	SIRMAURI	SIRMAURI	ch’ěwṛē	ch’ěwṛē	tʃʰ ə w ɽ eː	sirm1239		31.1	77.17	
+9506	74_woman	Woman	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	běṭkūṛī	běṭkūṛī	b e ʈ k uː ɽ iː	jaun1243		30.5587	77.9084	
+9507	74_woman	Woman	SIRMAURI	SIRMAURI	ch’ěwṛī	ch’ěwṛī	tʃʰ e w ɽ iː	sirm1239		31.1	77.17	
+9508	74_woman	Woman	SIRMAURI	SIRMAURI	ch’ěwṛē	ch’ěwṛē	tʃʰ e w ɽ eː	sirm1239		31.1	77.17	
 9509	74_woman	Woman	BAGHATI	BAGHATI	juāṇas	juāṇas	dʒ u ʌː ɳ ʌ s	bagh1249				
 9510	74_woman	Woman	BAGHATI	BAGHATI	juāṇsā	juāṇsā	dʒ u ʌː ɳ s ʌː	bagh1249				
 9511	74_woman	Woman	KIUTHALI	KIUTHALI	jwānas	jwānas	dʒ w ʌː n̪ ʌ s	kiun1241				
@@ -13107,7 +13107,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9517	74_woman	Woman	CHAMEALI	CHAMEALI	trīmat	trīmat	t̪ r iː m ʌ t̪	cham1307		32.5476	76.1796	
 9518	74_woman	Woman	GADI	GADI	trīmat	trīmat	t̪ r iː m ʌ t̪	gadi1238				
 9519	74_woman	Woman	PANGWALI	PANGWALI	j’alāṇū	j’alāṇū	dʒʰ ʌ l ʌː ɳ uː	pang1282		32.9753	76.5569	
-9520	74_woman	Woman	PANGWALI	PANGWALI	jěl’āṇū	jěl’āṇū	dʒ ə l ʌː ɳ uː	pang1282		32.9753	76.5569	
+9520	74_woman	Woman	PANGWALI	PANGWALI	jěl’āṇū	jěl’āṇū	dʒ e l ʌː ɳ uː	pang1282		32.9753	76.5569	
 9521	74_woman	Woman	BHADRAWAHI	BHADRAWAHI	ṭᵃḷī	ṭᵃḷī	ʈ ă ɭ iː	bhad1241		33.2851	75.8707	
 9522	74_woman	Woman	PADARI	PADARI	k’ihōn	k’ihōn	kʰ i h oː n̪	pada1256				
 9523	74_woman	Woman	PADARI	PADARI	g’iōṇᵘ	g’iōṇᵘ	gʰ i oː ɳ ŭ	pada1256				

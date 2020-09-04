@@ -71,7 +71,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 35822	138_beat	Beat	SAKAI	SAKAI	båt	båt	b ɔ t̪	seno1278				
 35823	138_beat	Beat	SEMANG	SEMANG	tᵉbåh	tᵉbåh	t̪ ĕ b ɔ h	nort2682				
 35824	138_beat	Beat	SEMANG	SEMANG	tàṅkåh	tàṅkåh	t̪ a ŋ k ɔ h	nort2682				
-35825	138_beat	Beat	PALAUNG	PALAUNG	lạr	lạr	l ø̜ r	ruma1248		23.6404	97.3172	
+35825	138_beat	Beat	PALAUNG	PALAUNG	lạr	lạr	l a r	ruma1248		23.6404	97.3172	
 35826	138_beat	Beat	PALAUNG	PALAUNG	(slap) tā	tā	t̪ ʌː	ruma1248		23.6404	97.3172	
 35828	138_beat	Beat	DARANG	DARANG	mà	mà	m a	ruch1235		21.6176	98.0915	
 35829	138_beat	Beat	WA	WA	mün	mün	m y n̪	nucl1290		23.1024	99.108	
@@ -227,7 +227,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 14533	89_bitch	Bitch	KHMER	KHMER	ch’kē ñi	ch’kē ñi	tʃʰ k eː + ɲ i	cent1989		12.0515	105.015	
 14534	89_bitch	Bitch	TALAINGWRITTEN	TALAING_WRITTEN	kluiw ḇo°	kluiw ḇo°	k l u i w + b o	monn1252		15.49394	98.122465	
-14536	89_bitch	Bitch	PALAUNG	PALAUNG	à°-o° kạ-mā	à°-o° kạ-mā	a + o + k ø̜ + m ʌː	ruma1248		23.6404	97.3172	
+14536	89_bitch	Bitch	PALAUNG	PALAUNG	à°-o° kạ-mā	à°-o° kạ-mā	a + o + k a + m ʌː	ruma1248		23.6404	97.3172	
 14538	89_bitch	Bitch	WA	WA	möà s’o	möà s’o	m ø a + sʰ o	nucl1290		23.1024	99.108	
 14539	89_bitch	Bitch	DANAO	DANAO	mei tso	mei tso	m ei + ts o	dana1252		20.4957	96.998	
 14540	89_bitch	Bitch	KHASISTANDARD	KHASI_STANDARD	(kà) ksew	ksew	k s e w	khas1269		24.977	91.9998	
@@ -396,7 +396,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9998	76_child	Child	WAR	WAR	(i) hūn	hūn	h uː n̪	warj1242		25.1154	91.6266	
 9999	76_child	Child	NICOBARESE	NICOBARESE	kenyūm	kenyūm	k e n̪ j uː m	cent1990		7.94812	93.3921	
 10000	76_child	Child	NICOBARESE	NICOBARESE	kōan	kōan	k oː ʌ n̪	cent1990		7.94812	93.3921	
-10001	76_child	Child	KHERWARISANTHALI	KHERWARI_SANTHALI	gīdrạ̄	gīdrạ̄	g iː d̪ r ʌː	sant1410		25.0317	87.8185	
+10001	76_child	Child	KHERWARISANTHALI	KHERWARI_SANTHALI	gīdrạ̄	gīdrạ̄	g iː d̪ r aː	sant1410		25.0317	87.8185	
 10002	76_child	Child	KHERWARISANTHALI	KHERWARI_SANTHALI	hån	hån	h ɔ n̪	sant1410		25.0317	87.8185	
 10003	76_child	Child	KHERWARISANTHALI	KHERWARI_SANTHALI	håpån	håpån	h ɔ p ɔ n̪	sant1410		25.0317	87.8185	
 10004	76_child	Child	MUNDARI	MUNDARI	hån	hån	h ɔ n̪	mund1320		23.03	85.85	
@@ -429,8 +429,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 58248	59_cock	Cock	WAR	WAR	sei	sei	s ei	warj1242		25.1154	91.6266	
 58249	59_cock	Cock	NICOBARESE	NICOBARESE	kamōe-enkoiña	kamōe-enkoiña	k ʌ m oː e + e n̪ k ɔɪ ɲ ʌ	cent1990		7.94812	93.3921	
 58250	59_cock	Cock	NICOBARESE	NICOBARESE	kamōe-koin	kamōe-koin	k ʌ m oː e + k ɔɪ n̪	cent1990		7.94812	93.3921	
-58251	59_cock	Cock	KHERWARISANTHALI	KHERWARI_SANTHALI	sīm sạ̄ṇḍī	sīm sạ̄ṇḍī	s iː m + s ʌː ɳ ɖ iː	sant1410		25.0317	87.8185	
-58252	59_cock	Cock	MUNDARI	MUNDARI	sạṇḍi sīm	sạṇḍi sīm	s ø̜ ɳ ɖ i + s iː m	mund1320		23.03	85.85	
+58251	59_cock	Cock	KHERWARISANTHALI	KHERWARI_SANTHALI	sīm sạ̄ṇḍī	sīm sạ̄ṇḍī	s iː m + s aː ɳ ɖ iː	sant1410		25.0317	87.8185	
+58252	59_cock	Cock	MUNDARI	MUNDARI	sạṇḍi sīm	sạṇḍi sīm	s a ɳ ɖ i + s iː m	mund1320		23.03	85.85	
 58253	59_cock	Cock	KURKU	KURKU	kōmbā	kōmbā	k oː m b ʌː	kork1243		21.8358	77.5541	
 58254	59_cock	Cock	KHARIA	KHARIA	kokṛo (Aryan)	kokṛo	k o k ɽ o	khar1287		22.3571	84.3922	
 58255	59_cock	Cock	JUANG	JUANG	sanke	sanke	s ʌ n̪ k e	juan1238		21.2606	85.5845	
@@ -490,7 +490,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 13190	85_cow	Cow	KHASISTANDARD	KHASI_STANDARD	(kà) màssi künt’ei	màssi künt’ei	m a s s i + k y n̪ t̪ʰ ei	khas1269		24.977	91.9998	
 13191	85_cow	Cow	WAR	WAR	(kà) màssow	màssow	m a s s o w	warj1242		25.1154	91.6266	
 13192	85_cow	Cow	NICOBARESE	NICOBARESE	kapo-enkāna	kapo-enkāna	k ʌ p o + e n̪ k ʌː n̪ ʌ	cent1990		7.94812	93.3921	
-13193	85_cow	Cow	KHERWARISANTHALI	KHERWARI_SANTHALI	gạ̄i (Aryan)	gạ̄i	g ʌː i	sant1410		25.0317	87.8185	
+13193	85_cow	Cow	KHERWARISANTHALI	KHERWARI_SANTHALI	gạ̄i (Aryan)	gạ̄i	g aː i	sant1410		25.0317	87.8185	
 13194	85_cow	Cow	MUNDARI	MUNDARI	gāe (Aryan)	gāe	g ʌː e	mund1320		23.03	85.85	
 13195	85_cow	Cow	KURKU	KURKU	gāī (Aryan)	gāī	g ʌː iː	kork1243		21.8358	77.5541	
 13196	85_cow	Cow	KHARIA	KHARIA	oreᶜʰ	oreᶜʰ	o r e c̚ h	khar1287		22.3571	84.3922	
@@ -500,7 +500,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 13210	85_cow	Cow	VIETNAMESE	VIETNAMESE	˧ kon ˨˩ bo ˦˥ kai	kon˧bo˨˩kai˦˥	k o n̪ ³ + b o ²¹ + k ai ⁴⁵	viet1252		20.681188	105.774071	
 56608	55_cow	Cow	KHMER	KHMER	kō	kō	k oː	cent1989		12.0515	105.015	
 56609	55_cow	Cow	TALAINGWRITTEN	TALAING_WRITTEN	glau ḇo°	glau ḇo°	g l au + b o	monn1252		15.49394	98.122465	
-56611	55_cow	Cow	PALAUNG	PALAUNG	mǚᵏ kạ-mā	mǚᵏ kạ-mā	m y̆ k̚ + k ø̜ + m ʌː	ruma1248		23.6404	97.3172	
+56611	55_cow	Cow	PALAUNG	PALAUNG	mǚᵏ kạ-mā	mǚᵏ kạ-mā	m y̆ k̚ + k a + m ʌː	ruma1248		23.6404	97.3172	
 56613	55_cow	Cow	DARANG	DARANG	mà-màk	mà-màk	m a + m a k	ruch1235		21.6176	98.0915	
 56614	55_cow	Cow	WA	WA	moi	moi	m ɔɪ	nucl1290		23.1024	99.108	
 56615	55_cow	Cow	SON	SON	mōk-mà	mōk-mà	m oː k + m a	sonn1238				
@@ -595,7 +595,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 54540	45_devil	Devil	KHMER	KHMER	àràk	àràk	a r a k	cent1989		12.0515	105.015	
 54541	45_devil	Devil	TALAINGWRITTEN	TALAING_WRITTEN	mā	mā	m ʌː	monn1252		15.49394	98.122465	
 54542	45_devil	Devil	TALAINGWRITTEN	TALAING_WRITTEN	kalok mā (= Māra)	kalok mā	k ʌ l o k + m ʌː	monn1252		15.49394	98.122465	
-54544	45_devil	Devil	PALAUNG	PALAUNG	kạr-nạ̄m ka-oᵗ (spirit bad)	kạr-nạ̄m ka-oᵗ	k ø̜ r + n̪ ʌː m + k ʌ + o t̪̚	ruma1248		23.6404	97.3172	
+54544	45_devil	Devil	PALAUNG	PALAUNG	kạr-nạ̄m ka-oᵗ (spirit bad)	kạr-nạ̄m ka-oᵗ	k a r + n̪ ʌː m + k ʌ + o t̪̚	ruma1248		23.6404	97.3172	
 54546	45_devil	Devil	DARANG	DARANG	kà-nàm (spirit)	kà-nàm	k a + n̪ a m	ruch1235		21.6176	98.0915	
 54547	45_devil	Devil	WA	WA	yūm-tsào-kēṅ	yūm-tsào-kēṅ	j uː m + ts a o + k eː ŋ	nucl1290		23.1024	99.108	
 54548	45_devil	Devil	SON	SON	p’i (spirit)	p’i	pʰ i	sonn1238				
@@ -720,7 +720,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 58606	60_duck	Duck	KHMER	KHMER	teà	teà	t̪ e a	cent1989		12.0515	105.015	
 58607	60_duck	Duck	TALAINGWRITTEN	TALAING_WRITTEN	adā	adā	ʌ d̪ ʌː	monn1252		15.49394	98.122465	
 58609	60_duck	Duck	SEMANG	SEMANG	itek (Malay)	itek	i t̪ e k	nort2682				
-58610	60_duck	Duck	PALAUNG	PALAUNG	pē-iᵗ kạ-mā	pē-iᵗ kạ-mā	p eː + i t̪̚ + k ø̜ + m ʌː	ruma1248		23.6404	97.3172	
+58610	60_duck	Duck	PALAUNG	PALAUNG	pē-iᵗ kạ-mā	pē-iᵗ kạ-mā	p eː + i t̪̚ + k a + m ʌː	ruma1248		23.6404	97.3172	
 58612	60_duck	Duck	DARANG	DARANG	oyit	oyit	o j i t̪	ruch1235		21.6176	98.0915	
 58613	60_duck	Duck	WA	WA	pit	pit	p i t̪	nucl1290		23.1024	99.108	
 58614	60_duck	Duck	SON	SON	āp	āp	ʌː p	sonn1238				
@@ -820,7 +820,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1162	8_eight	Eight	KHASISTANDARD	KHASI_STANDARD	p’rā	p’rā	pʰ r ʌː	khas1269		24.977	91.9998	
 1163	8_eight	Eight	WAR	WAR	hümpüā	hümpüā	h y m p y ʌː	warj1242		25.1154	91.6266	
 1164	8_eight	Eight	NICOBARESE	NICOBARESE	enfōan	enfōan	e n̪ f oː ʌ n̪	cent1990		7.94812	93.3921	
-1165	8_eight	Eight	KHERWARISANTHALI	KHERWARI_SANTHALI	irạ̄l	irạ̄l	i r ʌː l	sant1410		25.0317	87.8185	
+1165	8_eight	Eight	KHERWARISANTHALI	KHERWARI_SANTHALI	irạ̄l	irạ̄l	i r aː l	sant1410		25.0317	87.8185	
 1166	8_eight	Eight	MUNDARI	MUNDARI	iral	iral	i r ʌ l	mund1320		23.03	85.85	
 1167	8_eight	Eight	MUNDARI	MUNDARI	iril	iril	i r i l	mund1320		23.03	85.85	
 1168	8_eight	Eight	KURKU	KURKU	ilār	ilār	i l ʌː r	kork1243		21.8358	77.5541	
@@ -870,7 +870,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 20865	108_far	Far	SAKAI	SAKAI	ñà	ñà	ɲ a	seno1278				
 20866	108_far	Far	SEMANG	SEMANG	mᵉjī’	mᵉjī’	m ĕ dʒ iː	nort2682				
 20867	108_far	Far	SEMANG	SEMANG	menjī’	menjī’	m e n̪ dʒ iː	nort2682				
-20868	108_far	Far	PALAUNG	PALAUNG	s’ạ-ṅai	s’ạ-ṅai	sʰ ø̜ + ŋ ai	ruma1248		23.6404	97.3172	
+20868	108_far	Far	PALAUNG	PALAUNG	s’ạ-ṅai	s’ạ-ṅai	sʰ a + ŋ ai	ruma1248		23.6404	97.3172	
 20869	108_far	Far	DARANG	DARANG	toṅ	toṅ	t̪ o ŋ	ruch1235		21.6176	98.0915	
 20870	108_far	Far	WA	WA	ṅai	ṅai	ŋ ai	nucl1290		23.1024	99.108	
 20871	108_far	Far	WA	WA	ṅe	ṅe	ŋ e	nucl1290		23.1024	99.108	
@@ -885,7 +885,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 20881	108_far	Far	KHASISTANDARD	KHASI_STANDARD	jiṅ-ṅāi	jiṅ-ṅāi	dʒ i ŋ + ŋ aːi	khas1269		24.977	91.9998	
 20882	108_far	Far	WAR	WAR	š’ṅūi	š’ṅūi	ʃ ŋ uː i	warj1242		25.1154	91.6266	
 20883	108_far	Far	NICOBARESE	NICOBARESE	höi	höi	h ø i	cent1990		7.94812	93.3921	
-20884	108_far	Far	KHERWARISANTHALI	KHERWARI_SANTHALI	sạ̄ṅgīñ	sạ̄ṅgīñ	s ʌː ŋ g iː ɲ	sant1410		25.0317	87.8185	
+20884	108_far	Far	KHERWARISANTHALI	KHERWARI_SANTHALI	sạ̄ṅgīñ	sạ̄ṅgīñ	s aː ŋ g iː ɲ	sant1410		25.0317	87.8185	
 20885	108_far	Far	KHERWARISANTHALI	KHERWARI_SANTHALI	laṅka	laṅka	l ʌ ŋ k ʌ	sant1410		25.0317	87.8185	
 20886	108_far	Far	MUNDARI	MUNDARI	sāṅgīn	sāṅgīn	s ʌː ŋ g iː n̪	mund1320		23.03	85.85	
 20887	108_far	Far	KURKU	KURKU	laṅkan	laṅkan	l ʌ ŋ k ʌ n̪	kork1243		21.8358	77.5541	
@@ -1431,7 +1431,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 26671	13_hundred	Hundred	KHMER	KHMER	roy	roy	r o j	cent1989		12.0515	105.015	
 26672	13_hundred	Hundred	TALAINGWRITTEN	TALAING_WRITTEN	mwai klam	mwai klam	m w ai + k l ʌ m	monn1252		15.49394	98.122465	
-26674	13_hundred	Hundred	PALAUNG	PALAUNG	ū pạ-ri-āꭓ	ū pạ-ri-āꭓ	uː + p ø̜ + r i + ʌː x	ruma1248		23.6404	97.3172	
+26674	13_hundred	Hundred	PALAUNG	PALAUNG	ū pạ-ri-āꭓ	ū pạ-ri-āꭓ	uː + p a + r i + ʌː x	ruma1248		23.6404	97.3172	
 26675	13_hundred	Hundred	PALAUNG	PALAUNG	ū pri-ā	ū pri-ā	uː + p r i + ʌː	ruma1248		23.6404	97.3172	
 26677	13_hundred	Hundred	DARANG	DARANG	u-mē-yåɣ	u-mē-yåɣ	u + m eː + j ɔ ɣ	ruch1235		21.6176	98.0915	
 26678	13_hundred	Hundred	WA	WA	tà riyà	tà riyà	t̪ a + r i j a	nucl1290		23.1024	99.108	
@@ -1528,7 +1528,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 8510	73_man	Man	SAKAI	SAKAI	mōi	mōi	m oː i	seno1278				
 8511	73_man	Man	SEMANG	SEMANG	(vir) tᵉmkàl	tᵉmkàl	t̪ ĕ m k a l	nort2682				
 8512	73_man	Man	SEMANG	SEMANG	(homo) hemī’	hemī’	h e m iː	nort2682				
-8513	73_man	Man	SEMANG	SEMANG	měnik	měnik	m ə n̪ i k	nort2682				
+8513	73_man	Man	SEMANG	SEMANG	měnik	měnik	m e n̪ i k	nort2682				
 8514	73_man	Man	PALAUNG	PALAUNG	(vir) ī-mē	ī-mē	iː + m eː	ruma1248		23.6404	97.3172	
 8515	73_man	Man	PALAUNG	PALAUNG	(homo) bī	bī	b iː	ruma1248		23.6404	97.3172	
 8518	73_man	Man	DARANG	DARANG	i-mai	i-mai	i + m ai	ruch1235		21.6176	98.0915	
@@ -1561,7 +1561,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 11900	81_mare	Mare	KHMER	KHMER	seḥ ñi	seḥ ñi	s e h + ɲ i	cent1989		12.0515	105.015	
 11901	81_mare	Mare	TALAINGWRITTEN	TALAING_WRITTEN	k’yeh ḇo°	k’yeh ḇo°	kʰ j e h + b o	monn1252		15.49394	98.122465	
-11903	81_mare	Mare	PALAUNG	PALAUNG	brạ̄ṅ kạ-mā	brạ̄ṅ kạ-mā	b r ʌː ŋ + k ø̜ + m ʌː	ruma1248		23.6404	97.3172	
+11903	81_mare	Mare	PALAUNG	PALAUNG	brạ̄ṅ kạ-mā	brạ̄ṅ kạ-mā	b r ʌː ŋ + k a + m ʌː	ruma1248		23.6404	97.3172	
 11905	81_mare	Mare	WA	WA	möà màruàṅ	möà màruàṅ	m ø a + m a r u a ŋ	nucl1290		23.1024	99.108	
 11906	81_mare	Mare	DANAO	DANAO	mei θe (or se)	mei θe	m ei + θ e	dana1252		20.4957	96.998	
 11907	81_mare	Mare	KHASISTANDARD	KHASI_STANDARD	(kà) kulai	kulai	k u l ai	khas1269		24.977	91.9998	
@@ -1594,7 +1594,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 59361	47_moon	Moon	KHASISTANDARD	KHASI_STANDARD	bünai	bünai	b y n̪ ai	khas1269		24.977	91.9998	
 59362	47_moon	Moon	WAR	WAR	p’nui	p’nui	pʰ n̪ u i	warj1242		25.1154	91.6266	
 59363	47_moon	Moon	NICOBARESE	NICOBARESE	kāhē	kāhē	k ʌː h eː	cent1990		7.94812	93.3921	
-59364	47_moon	Moon	KHERWARISANTHALI	KHERWARI_SANTHALI	ñīndạ̄ chandō	ñīndạ̄ chandō	ɲ iː n̪ d̪ ʌː + tʃ ʌ n̪ d̪ oː	sant1410		25.0317	87.8185	
+59364	47_moon	Moon	KHERWARISANTHALI	KHERWARI_SANTHALI	ñīndạ̄ chandō	ñīndạ̄ chandō	ɲ iː n̪ d̪ aː + tʃ ʌ n̪ d̪ oː	sant1410		25.0317	87.8185	
 59365	47_moon	Moon	MUNDARI	MUNDARI	chamdūᵏ	chamdūᵏ	tʃ ʌ m d̪ uː k̚	mund1320		23.03	85.85	
 59366	47_moon	Moon	KURKU	KURKU	tende gōmōẽj	tende gōmōẽj	t̪ e n̪ d̪ e + g oː m oː ẽ dʒ	kork1243		21.8358	77.5541	
 59367	47_moon	Moon	KHARIA	KHARIA	leraṅg	leraṅg	l e r ʌ ŋ g	khar1287		22.3571	84.3922	
@@ -1716,7 +1716,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 20431	107_near	Near	SAKAI	SAKAI	rō	rō	r oː	seno1278				
 20432	107_near	Near	SAKAI	SAKAI	ñōn	ñōn	ɲ oː n̪	seno1278				
 20433	107_near	Near	SEMANG	SEMANG	pᵉdöh	pᵉdöh	p ĕ d̪ ø h	nort2682				
-20434	107_near	Near	PALAUNG	PALAUNG	dạᵗ	dạᵗ	d̪ ø̜ t̪̚	ruma1248		23.6404	97.3172	
+20434	107_near	Near	PALAUNG	PALAUNG	dạᵗ	dạᵗ	d̪ a t̪̚	ruma1248		23.6404	97.3172	
 20435	107_near	Near	PALAUNG	PALAUNG	à-rāᵖ	à-rāᵖ	a + r ʌː p̚	ruma1248		23.6404	97.3172	
 20436	107_near	Near	PALAUNG	PALAUNG	peᵏ	peᵏ	p e k̚	ruma1248		23.6404	97.3172	
 20438	107_near	Near	DARANG	DARANG	n’tāt	n’tāt	n̪̊ t̪ ʌː t̪	ruch1235		21.6176	98.0915	
@@ -2183,7 +2183,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 59759	48_star	Star	SEMANG	SEMANG	chundàn	chundàn	tʃ u n̪ d̪ a n̪	nort2682				
 59760	48_star	Star	SEMANG	SEMANG	làṅēr	làṅēr	l a ŋ eː r	nort2682				
 59761	48_star	Star	PALAUNG	PALAUNG	sà-mị̄ṅ	sà-mị̄ṅ	s a + m ɪː ŋ	ruma1248		23.6404	97.3172	
-59762	48_star	Star	PALAUNG	PALAUNG	pạr-lāṅ	pạr-lāṅ	p ø̜ r + l ʌː ŋ	ruma1248		23.6404	97.3172	
+59762	48_star	Star	PALAUNG	PALAUNG	pạr-lāṅ	pạr-lāṅ	p a r + l ʌː ŋ	ruma1248		23.6404	97.3172	
 59763	48_star	Star	DARANG	DARANG	si-main	si-main	s i + m ai n̪	ruch1235		21.6176	98.0915	
 59764	48_star	Star	WA	WA	s’i-muṅ	s’i-muṅ	sʰ i + m u ŋ	nucl1290		23.1024	99.108	
 59765	48_star	Star	SON	SON	se-mwin	se-mwin	s e + m w i n̪	sonn1238				
@@ -2424,7 +2424,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 51102	35_tongue	Tongue	SAKAI	SAKAI	lᵉntāk	lᵉntāk	l ĕ n̪ t̪ ʌː k	seno1278				
 51103	35_tongue	Tongue	SAKAI	SAKAI	ntàk	ntàk	n̪ t̪ a k	seno1278				
 51104	35_tongue	Tongue	SEMANG	SEMANG	letik	letik	l e t̪ i k	nort2682				
-51105	35_tongue	Tongue	PALAUNG	PALAUNG	kạr-tā	kạr-tā	k ø̜ r + t̪ ʌː	ruma1248		23.6404	97.3172	
+51105	35_tongue	Tongue	PALAUNG	PALAUNG	kạr-tā	kạr-tā	k a r + t̪ ʌː	ruma1248		23.6404	97.3172	
 51107	35_tongue	Tongue	DARANG	DARANG	s’là	s’là	sʰ l a	ruch1235		21.6176	98.0915	
 51108	35_tongue	Tongue	WA	WA	tàk	tàk	t̪ a k	nucl1290		23.1024	99.108	
 51109	35_tongue	Tongue	SON	SON	dāk	dāk	d̪ ʌː k	sonn1238				
@@ -2540,7 +2540,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 19599	105_up	Up	SAKAI	SAKAI	ka	ka	k ʌ	seno1278				
 19600	105_up	Up	SEMANG	SEMANG	kᵉpeṅ	kᵉpeṅ	k ĕ p e ŋ	nort2682				
 19601	105_up	Up	SEMANG	SEMANG	kentök	kentök	k e n̪ t̪ ø k	nort2682				
-19602	105_up	Up	PALAUNG	PALAUNG	(above) kạr-vǖ-ä	kạr-vǖ-ä	k ø̜ r + v yː + ɛ	ruma1248		23.6404	97.3172	
+19602	105_up	Up	PALAUNG	PALAUNG	(above) kạr-vǖ-ä	kạr-vǖ-ä	k a r + v yː + ɛ	ruma1248		23.6404	97.3172	
 19603	105_up	Up	PALAUNG	PALAUNG	nȫṅ	nȫṅ	n̪ øː ŋ	ruma1248		23.6404	97.3172	
 19607	105_up	Up	DARANG	DARANG	(above) i-deṅ	i-deṅ	i + d̪ e ŋ	ruch1235		21.6176	98.0915	
 19608	105_up	Up	WA	WA	kà	kà	k a	nucl1290		23.1024	99.108	
@@ -2655,7 +2655,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 22454	112_what	What?	SAKAI	SAKAI	mā	mā	m ʌː	seno1278				
 22455	112_what	What?	SEMANG	SEMANG	luwē’	luwē’	l u w eː	nort2682				
 22456	112_what	What?	SEMANG	SEMANG	ailöō	ailöō	ai l ø oː	nort2682				
-22457	112_what	What?	SEMANG	SEMANG	jělök	jělök	dʒ ə l ø k	nort2682				
+22457	112_what	What?	SEMANG	SEMANG	jělök	jělök	dʒ e l ø k	nort2682				
 22458	112_what	What?	PALAUNG	PALAUNG	s’ē	s’ē	sʰ eː	ruma1248		23.6404	97.3172	
 22459	112_what	What?	PALAUNG	PALAUNG	šē	šē	ʃ eː	ruma1248		23.6404	97.3172	
 22460	112_what	What?	PALAUNG	PALAUNG	s’ī	s’ī	sʰ iː	ruma1248		23.6404	97.3172	
@@ -2725,7 +2725,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 22876	113_why	Why?	WAR	WAR	ai ni	ai ni	ai + n̪ i	warj1242		25.1154	91.6266	
 22877	113_why	Why?	NICOBARESE	NICOBARESE	chāwe	chāwe	tʃ ʌː w e	cent1990		7.94812	93.3921	
 22878	113_why	Why?	NICOBARESE	NICOBARESE	chūa	chūa	tʃ uː ʌ	cent1990		7.94812	93.3921	
-22879	113_why	Why?	KHERWARISANTHALI	KHERWARI_SANTHALI	chēᵗ-iạ̄-tä	chēᵗ-iạ̄-tä	tʃ eː t̪̚ + i ʌː + t̪ ɛ	sant1410		25.0317	87.8185	
+22879	113_why	Why?	KHERWARISANTHALI	KHERWARI_SANTHALI	chēᵗ-iạ̄-tä	chēᵗ-iạ̄-tä	tʃ eː t̪̚ + i aː + t̪ ɛ	sant1410		25.0317	87.8185	
 22880	113_why	Why?	MUNDARI	MUNDARI	chikạ̄n mäntē	chikạ̄n mäntē	tʃ i k ʌː n̪ + m ɛ n̪ t̪ eː	mund1320		23.03	85.85	
 22881	113_why	Why?	KURKU	KURKU	chōᶜʰ-ten	chōᶜʰ-ten	tʃ oː c̚ h + t̪ e n̪	kork1243		21.8358	77.5541	
 22882	113_why	Why?	KURKU	KURKU	chōen	chōen	tʃ oː e n̪	kork1243		21.8358	77.5541	
@@ -2796,7 +2796,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9127	74_woman	Woman	NICOBARESE	NICOBARESE	(mulier) yūaṅ-enkāna	yūaṅ-enkāna	j uː ʌ ŋ + e n̪ k ʌː n̪ ʌ	cent1990		7.94812	93.3921	
 9128	74_woman	Woman	NICOBARESE	NICOBARESE	paiyūh-enkāna	paiyūh-enkāna	p ai j uː h + e n̪ k ʌː n̪ ʌ	cent1990		7.94812	93.3921	
 9129	74_woman	Woman	KHERWARISANTHALI	KHERWARI_SANTHALI	māejīu	māejīu	m ʌː e dʒ iː u	sant1410		25.0317	87.8185	
-9130	74_woman	Woman	KHERWARISANTHALI	KHERWARI_SANTHALI	ạ̄imạ̄i	ạ̄imạ̄i	ʌː i m ʌː i	sant1410		25.0317	87.8185	
+9130	74_woman	Woman	KHERWARISANTHALI	KHERWARI_SANTHALI	ạ̄imạ̄i	ạ̄imạ̄i	aː i m aː i	sant1410		25.0317	87.8185	
 9131	74_woman	Woman	KHERWARISANTHALI	KHERWARI_SANTHALI	kūṛī	kūṛī	k uː ɽ iː	sant1410		25.0317	87.8185	
 9132	74_woman	Woman	MUNDARI	MUNDARI	kūṛī	kūṛī	k uː ɽ iː	mund1320		23.03	85.85	
 9133	74_woman	Woman	KURKU	KURKU	jāpai	jāpai	dʒ ʌː p ai	kork1243		21.8358	77.5541	

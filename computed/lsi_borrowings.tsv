@@ -253,11 +253,11 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23491	114_and	And	CHILASIOFDRAS	CHILASI_OF_DRAS	mutō	mutō	m u t̪ oː	dras1242				
 23492	114_and	And	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	ũgā	ũgā	ũ g ʌː	brok1247		34.5308	76.6026	
 23493	114_and	And	KASHMIRI	KASHMIRI	ta	ta	t̪ ʌ	kash1277		34.166825	74.330455	
-23494	114_and	And	KASHMIRI	KASHMIRI	biyě	biyě	b i j ə	kash1277		34.166825	74.330455	
-23495	114_and	And	KASHTAWARI	KASHTAWARI	tě	tě	t̪ ə	kish1245				
-23496	114_and	And	KASHTAWARI	KASHTAWARI	biyě	biyě	b i j ə	kish1245				
-23497	114_and	And	POGULI	POGULI	tě	tě	t̪ ə	pogu1238				
-23498	114_and	And	DODASIRAJI	DODA_SIRAJI	tě	tě	t̪ ə	sira1264				
+23494	114_and	And	KASHMIRI	KASHMIRI	biyě	biyě	b i j e	kash1277		34.166825	74.330455	
+23495	114_and	And	KASHTAWARI	KASHTAWARI	tě	tě	t̪ e	kish1245				
+23496	114_and	And	KASHTAWARI	KASHTAWARI	biyě	biyě	b i j e	kish1245				
+23497	114_and	And	POGULI	POGULI	tě	tě	t̪ e	pogu1238				
+23498	114_and	And	DODASIRAJI	DODA_SIRAJI	tě	tě	t̪ e	sira1264				
 23499	114_and	And	DODASIRAJI	DODA_SIRAJI	tē	tē	t̪ eː	sira1264				
 23500	114_and	And	RAMBANI	RAMBANI	hōr	hōr	h oː r	ramb1240				
 23501	114_and	And	RAMBANI	RAMBANI	tǎ	tǎ	t̪ æ	ramb1240				
@@ -282,7 +282,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23520	114_and	And	THALI	THALI	atē	atē	ʌ t̪ eː	thal1241				
 23521	114_and	And	THALI	THALI	hōr	hōr	h oː r	thal1241				
 23522	114_and	And	DHANNI	DHANNI	tä	tä	t̪ ɛ					
-23523	114_and	And	TINAULI	TINAULI	tě	tě	t̪ ə					
+23523	114_and	And	TINAULI	TINAULI	tě	tě	t̪ e					
 23524	114_and	And	TINAULIOFSALTRANGE	TINAULI_OF_SALT_RANGE	te	te	t̪ e					
 23525	114_and	And	POTHWARI	POTHWARI	hōr	hōr	h oː r	poth1238				
 23526	114_and	And	CHIBHALI	CHIBHALI	tē	tē	t̪ eː	chib1247				
@@ -357,7 +357,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23595	114_and	And	JAIPURI	JAIPURI	aur	aur	au r	dhun1238		26.473	76.198	
 23596	114_and	And	MEWATI	MEWATI	ar	ar	ʌ r	mewa1249		24.57	73.68	
 23597	114_and	And	MEWATI	MEWATI	aur	aur	au r	mewa1249		24.57	73.68	
-23598	114_and	And	GUJURIOFHAZARA	GUJURI_OF_HAZARA	tě	tě	t̪ ə	guja1253		33.7	75.11	
+23598	114_and	And	GUJURIOFHAZARA	GUJURI_OF_HAZARA	tě	tě	t̪ e	guja1253		33.7	75.11	
 23599	114_and	And	MALVI	MALVI	nē	nē	n̪ eː	malv1243		23.488	75.562	
 23600	114_and	And	MALVI	MALVI	aur	aur	au r	malv1243		23.488	75.562	
 23601	114_and	And	MALVI	MALVI	ōr	ōr	oː r	malv1243		23.488	75.562	
@@ -393,7 +393,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23631	114_and	And	BHADRAWAHI	BHADRAWAHI	aur	aur	au r	bhad1241		33.2851	75.8707	
 23632	114_and	And	BHADRAWAHI	BHADRAWAHI	p’irī	p’irī	pʰ i r iː	bhad1241		33.2851	75.8707	
 23633	114_and	And	BHADRAWAHI	BHADRAWAHI	b’irī	b’irī	bʰ i r iː	bhad1241		33.2851	75.8707	
-23634	114_and	And	PADARI	PADARI	tě	tě	t̪ ə	pada1256				
+23634	114_and	And	PADARI	PADARI	tě	tě	t̪ e	pada1256				
 #
 56101	53_ass	Ass	JAPANESE	JAPANESE	usagi uma	usagi uma	u s ʌ g i + u m ʌ	nucl1643		35.0	135.0	
 56102	53_ass	Ass	KOREAN	KOREAN	nàkui	nàkui	n̪ a k u i	kore1280		37.5	128.0	
@@ -422,7 +422,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 56125	53_ass	Ass	KHASISTANDARD	KHASI_STANDARD	kàddà	kàddà	k a d̪ d̪ a	khas1269		24.977	91.9998	
 56126	53_ass	Ass	WAR	WAR	kàddà	kàddà	k a d̪ d̪ a	warj1242		25.1154	91.6266	
 56127	53_ass	Ass	SAVARA	SAVARA	pekui	pekui	p e k u i	sora1254		19.1213	84.19	
-56128	53_ass	Ass	MANDARIN	MANDARIN	˨ lū	lū˨	l uː ²	mand1415		40.0209	116.228	
+56128	53_ass	Ass	MANDARIN	MANDARIN	˨ lū	lū˨	l u ²	mand1415		40.0209	116.228	
 56129	53_ass	Ass	CANTONESE	CANTONESE	˨ lui	lui˨	l u i ²	cant1236				
 56130	53_ass	Ass	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧ lā	lā˧	l ʌː ³	thai1261		14.192	100.671	
 56131	53_ass	Ass	SIAMESESPOKEN	SIAMESE_SPOKEN	˧ lā	lā˧	l ʌː ³					
@@ -892,7 +892,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 52053	37_back	Back	GAWARBATI	GAWAR_BATI	pišṭi	pišṭi	p i ʃ ʈ i	gawa1247		35.1982	71.5428	
 52054	37_back	Back	PASHAIEASTERN	PASHAI_EASTERN	chān	chān	tʃ ʌː n̪	sout2672		34.43099	70.30351	
 52055	37_back	Back	PASHAIWESTERN	PASHAI_WESTERN	chānṭ	chānṭ	tʃ ʌː n̪ ʈ	sout2671		34.8478	69.8734	
-52056	37_back	Back	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	krěm	krěm	k r ə m	khow1242		36.0	72.0	
+52056	37_back	Back	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	krěm	krěm	k r e m	khow1242		36.0	72.0	
 52057	37_back	Back	SHINAGILGITI	SHINA_GILGITI	ḍāki	ḍāki	ɖ ʌː k i	gilg1242				
 52058	37_back	Back	SHINAGILGITI	SHINA_GILGITI	piṭu	piṭu	p i ʈ u	gilg1242				
 52059	37_back	Back	CHILASI	CHILASI	ḍākī	ḍākī	ɖ ʌː k iː	shin1264		34.6515	75.287	
@@ -1036,7 +1036,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 35822	138_beat	Beat	SAKAI	SAKAI	båt	båt	b ɔ t̪	seno1278				
 35823	138_beat	Beat	SEMANG	SEMANG	tᵉbåh	tᵉbåh	t̪ ĕ b ɔ h	nort2682				
 35824	138_beat	Beat	SEMANG	SEMANG	tàṅkåh	tàṅkåh	t̪ a ŋ k ɔ h	nort2682				
-35825	138_beat	Beat	PALAUNG	PALAUNG	lạr	lạr	l ø̜ r	ruma1248		23.6404	97.3172	
+35825	138_beat	Beat	PALAUNG	PALAUNG	lạr	lạr	l a r	ruma1248		23.6404	97.3172	
 35826	138_beat	Beat	PALAUNG	PALAUNG	(slap) tā	tā	t̪ ʌː	ruma1248		23.6404	97.3172	
 35827	138_beat	Beat	KATURR	KATURR	lǔ^ṟʰ	lǔ^ṟʰ	l ŏ r h					
 35828	138_beat	Beat	DARANG	DARANG	mà	mà	m a	ruch1235		21.6176	98.0915	
@@ -1060,7 +1060,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 35846	138_beat	Beat	JUANG	JUANG	ab’a	ab’a	ʌ bʰ ʌ	juan1238		21.2606	85.5845	
 35847	138_beat	Beat	SAVARA	SAVARA	tiḍ	tiḍ	t̪ i ɖ	sora1254		19.1213	84.19	
 35848	138_beat	Beat	GADABA	GADABA	buk	buk	b u k	bodo1267		18.3857	82.771	
-35849	138_beat	Beat	MANDARIN	MANDARIN	˨˦ tā	tā˨˦	t̪ ʌː ²⁴	mand1415		40.0209	116.228	
+35849	138_beat	Beat	MANDARIN	MANDARIN	˨˦ tā	tā˨˦	t a ²⁴	mand1415		40.0209	116.228	
 35850	138_beat	Beat	CANTONESE	CANTONESE	˦˥ tā	tā˦˥	t̪ ʌː ⁴⁵	cant1236				
 35851	138_beat	Beat	GYAOMI	GYAOMI	tå	tå	t̪ ɔ	mand1415		40.0209	116.228	
 35852	138_beat	Beat	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧ tī	tī˧	t̪ iː ³	thai1261		14.192	100.671	
@@ -1486,7 +1486,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 21306	109_before	Before	SAVARA	SAVARA	amaṅ-ban	amaṅ-ban	ʌ m ʌ ŋ + b ʌ n̪	sora1254		19.1213	84.19	
 21307	109_before	Before	GADABA	GADABA	sē̃isei	sē̃isei	s ẽː i s ei	bodo1267		18.3857	82.771	
 21308	109_before	Before	GADABA	GADABA	ammāṅgu	ammāṅgu	ʌ m m ʌː ŋ g u	bodo1267		18.3857	82.771	
-21309	109_before	Before	MANDARIN	MANDARIN	˨ ch’yen	ch’yen˨	tʃʰ j e n̪ ²	mand1415		40.0209	116.228	
+21309	109_before	Before	MANDARIN	MANDARIN	˨ ch’yen	ch’yen˨	tɕʰ j e n ²	mand1415		40.0209	116.228	
 21310	109_before	Before	CANTONESE	CANTONESE	˨ tsīn	tsīn˨	ts iː n̪ ²	cant1236				
 21311	109_before	Before	CANTONESE	CANTONESE	˨ ts’īn ˨˩ min	ts’īn˨min˨˩	tsʰ iː n̪ ² + m i n̪ ²¹	cant1236				
 21312	109_before	Before	CANTONESE	CANTONESE	˨ ts’īn ˨˩ pīn	ts’īn˨pīn˨˩	tsʰ iː n̪ ² + p iː n̪ ²¹	cant1236				
@@ -1827,7 +1827,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 21647	109_before	Before	KULUI	KULUI	āggē	āggē	ʌː g g eː	kllu1238				
 21648	109_before	Before	KULUI	KULUI	āg’ē	āg’ē	ʌː gʰ eː	kllu1238				
 21649	109_before	Before	MANDEALI	MANDEALI	aggē	aggē	ʌ g g eː	mand1409		31.5425	77.0419	
-21650	109_before	Before	MANDEALI	MANDEALI	āgě	āgě	ʌː g ə	mand1409		31.5425	77.0419	
+21650	109_before	Before	MANDEALI	MANDEALI	āgě	āgě	ʌː g e	mand1409		31.5425	77.0419	
 21651	109_before	Before	CHAMEALI	CHAMEALI	aggē	aggē	ʌ g g eː	cham1307		32.5476	76.1796	
 21652	109_before	Before	GADI	GADI	agū̃h	agū̃h	ʌ g ũː h	gadi1238				
 21653	109_before	Before	PANGWALI	PANGWALI	agar	agar	ʌ g ʌ r	pang1282		32.9753	76.5569	
@@ -1883,7 +1883,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 21702	110_behind	Behind	SAVARA	SAVARA	kiṇḍoṅ-ban	kiṇḍoṅ-ban	k i ɳ ɖ o ŋ + b ʌ n̪	sora1254		19.1213	84.19	
 21703	110_behind	Behind	GADABA	GADABA	giiḍāṅg	giiḍāṅg	g i i ɖ ʌː ŋ g	bodo1267		18.3857	82.771	
 21704	110_behind	Behind	GADABA	GADABA	lakki	lakki	l ʌ k k i	bodo1267		18.3857	82.771	
-21705	110_behind	Behind	MANDARIN	MANDARIN	˦˨ hō	hō˦˨	h oː ⁴²	mand1415		40.0209	116.228	
+21705	110_behind	Behind	MANDARIN	MANDARIN	˦˨ hō	hō˦˨	h o ⁴²	mand1415		40.0209	116.228	
 21706	110_behind	Behind	CANTONESE	CANTONESE	˨˩ hau	hau˨˩	h au ²¹	cant1236				
 21707	110_behind	Behind	CANTONESE	CANTONESE	˨˩ hay ˨˩ pīn	hay˨˩pīn˨˩	h ʌ j ²¹ + p iː n̪ ²¹	cant1236				
 21708	110_behind	Behind	SIAMESEWRITTEN	SIAMESE_WRITTEN	˦˨ k’āṅ ˨˦ hlàṅ	k’āṅ˦˨hlàṅ˨˦	kʰ ʌː ŋ ⁴² + h l a ŋ ²⁴	thai1261		14.192	100.671	
@@ -2087,7 +2087,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 21906	110_behind	Behind	GAWARBATI	GAWAR_BATI	pata	pata	p ʌ t̪ ʌ	gawa1247		35.1982	71.5428	
 21907	110_behind	Behind	PASHAIEASTERN	PASHAI_EASTERN	paškin	paškin	p ʌ ʃ k i n̪	sout2672		34.43099	70.30351	
 21908	110_behind	Behind	PASHAIWESTERN	PASHAI_WESTERN	pachaṛā	pachaṛā	p ʌ tʃ ʌ ɽ ʌː	sout2671		34.8478	69.8734	
-21909	110_behind	Behind	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	achě	achě	ʌ tʃ ə	khow1242		36.0	72.0	
+21909	110_behind	Behind	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	achě	achě	ʌ tʃ e	khow1242		36.0	72.0	
 21910	110_behind	Behind	SHINAGILGITI	SHINA_GILGITI	fatū	fatū	f ʌ t̪ uː	gilg1242				
 21911	110_behind	Behind	CHILASI	CHILASI	patū	patū	p ʌ t̪ uː	shin1264		34.6515	75.287	
 21912	110_behind	Behind	CHILASI	CHILASI	patō	patō	p ʌ t̪ oː	shin1264		34.6515	75.287	
@@ -2266,8 +2266,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 51485	36_belly	Belly	SAVARA	SAVARA	kimpoṅ	kimpoṅ	k i m p o ŋ	sora1254		19.1213	84.19	
 51486	36_belly	Belly	GADABA	GADABA	sulōi	sulōi	s u l oː i	bodo1267		18.3857	82.771	
 51487	36_belly	Belly	GADABA	GADABA	puṭāni	puṭāni	p u ʈ ʌː n̪ i	bodo1267		18.3857	82.771	
-51488	36_belly	Belly	MANDARIN	MANDARIN	˨˦ tu	tu˨˦	t̪ u ²⁴	mand1415		40.0209	116.228	
-51489	36_belly	Belly	MANDARIN	MANDARIN	˦˨ tu	tu˦˨	t̪ u ⁴²	mand1415		40.0209	116.228	
+51488	36_belly	Belly	MANDARIN	MANDARIN	˨˦ tu	tu˨˦	t u ²⁴	mand1415		40.0209	116.228	
+51489	36_belly	Belly	MANDARIN	MANDARIN	˦˨ tu	tu˦˨	t u ⁴²	mand1415		40.0209	116.228	
 51490	36_belly	Belly	CANTONESE	CANTONESE	˩˨ t’ō	t’ō˩˨	t̪ʰ oː ¹²	cant1236				
 51491	36_belly	Belly	SIAMESEWRITTEN	SIAMESE_WRITTEN	˦ ˦˨ dåṅ	dåṅ˦˦˨	d̪ ɔ ŋ ⁴⁴ + ²	thai1261		14.192	100.671	
 51492	36_belly	Belly	SIAMESESPOKEN	SIAMESE_SPOKEN	˦ ˦˨ t’åṅ	t’åṅ˦˦˨	t̪ʰ ɔ ŋ ⁴⁴ + ²					
@@ -2489,7 +2489,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 51708	36_belly	Belly	CHILASIOFDRAS	CHILASI_OF_DRAS	der	der	d̪ e r	dras1242				
 51709	36_belly	Belly	CHILASIOFDRAS	CHILASI_OF_DRAS	dārē	dārē	d̪ ʌː r eː	dras1242				
 51710	36_belly	Belly	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	ūar	ūar	uː ʌ r	brok1247		34.5308	76.6026	
-51711	36_belly	Belly	KASHMIRI	KASHMIRI	yěḍ	yěḍ	j ə ɖ	kash1277		34.166825	74.330455	
+51711	36_belly	Belly	KASHMIRI	KASHMIRI	yěḍ	yěḍ	j e ɖ	kash1277		34.166825	74.330455	
 51712	36_belly	Belly	KASHTAWARI	KASHTAWARI	yaḍ	yaḍ	j ʌ ɖ	kish1245				
 51713	36_belly	Belly	POGULI	POGULI	iḍ	iḍ	i ɖ	pogu1238				
 51714	36_belly	Belly	DODASIRAJI	DODA_SIRAJI	iḍḍ	iḍḍ	i ɖ ɖ	sira1264				
@@ -3011,7 +3011,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 14533	89_bitch	Bitch	KHMER	KHMER	ch’kē ñi	ch’kē ñi	tʃʰ k eː + ɲ i	cent1989		12.0515	105.015	
 14534	89_bitch	Bitch	TALAINGWRITTEN	TALAING_WRITTEN	kluiw ḇo°	kluiw ḇo°	k l u i w + b o	monn1252		15.49394	98.122465	
 14535	89_bitch	Bitch	TALAINGSPOKEN	TALAING_SPOKEN	klà böᵏ	klà böᵏ	k l a + b ø k̚					
-14536	89_bitch	Bitch	PALAUNG	PALAUNG	à°-o° kạ-mā	à°-o° kạ-mā	a + o + k ø̜ + m ʌː	ruma1248		23.6404	97.3172	
+14536	89_bitch	Bitch	PALAUNG	PALAUNG	à°-o° kạ-mā	à°-o° kạ-mā	a + o + k a + m ʌː	ruma1248		23.6404	97.3172	
 14537	89_bitch	Bitch	KATURR	KATURR	ǎ̀-o͝u kǎ̀-mǎ̀	ǎ̀-o͝u kǎ̀-mǎ̀	ă + o u + k ă + m ă					
 14538	89_bitch	Bitch	WA	WA	möà s’o	möà s’o	m ø a + sʰ o	nucl1290		23.1024	99.108	
 14539	89_bitch	Bitch	DANAO	DANAO	mei tso	mei tso	m ei + ts o	dana1252		20.4957	96.998	
@@ -3025,7 +3025,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 14547	89_bitch	Bitch	JUANG	JUANG	taki solok	taki solok	t̪ ʌ k i + s o l o k	juan1238		21.2606	85.5845	
 14548	89_bitch	Bitch	SAVARA	SAVARA	yāṅ kinsor	yāṅ kinsor	j ʌː ŋ + k i n̪ s o r	sora1254		19.1213	84.19	
 14549	89_bitch	Bitch	GADABA	GADABA	bulī g’usō	bulī g’usō	b u l iː + gʰ u s oː	bodo1267		18.3857	82.771	
-14550	89_bitch	Bitch	MANDARIN	MANDARIN	˨˦ mu ˨˦ kō	mu˨˦kō˨˦	m u ²⁴ + k oː ²⁴	mand1415		40.0209	116.228	
+14550	89_bitch	Bitch	MANDARIN	MANDARIN	˨˦ mu ˨˦ kō	mu˨˦kō˨˦	m u ²⁴ + k o ²⁴	mand1415		40.0209	116.228	
 14551	89_bitch	Bitch	CANTONESE	CANTONESE	˦˥ kau ˩˨ mō	kau˦˥mō˩˨	k au ⁴⁵ + m oː ¹²	cant1236				
 14552	89_bitch	Bitch	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨˦ hmā ˧ tuà ˧ mīà	hmā˨˦tuà˧mīà˧	h m ʌː ²⁴ + t̪ u a ³ + m iː a ³	thai1261		14.192	100.671	
 14553	89_bitch	Bitch	SIAMESESPOKEN	SIAMESE_SPOKEN	˨˦ mā ˧ tuà ˧ mīà	mā˨˦tuà˧mīà˧	m ʌː ²⁴ + t̪ u a ³ + m iː a ³					
@@ -3223,8 +3223,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 14745	89_bitch	Bitch	KASHMIRI	KASHMIRI	hūñ^ü	hūñ^ü	h uː ɲ y	kash1277		34.166825	74.330455	
 14746	89_bitch	Bitch	KASHTAWARI	KASHTAWARI	hōñⁱ	hōñⁱ	h oː ɲ ĭ	kish1245				
 14747	89_bitch	Bitch	POGULI	POGULI	huⁱnnⁱ	huⁱnnⁱ	h u ĭ n̪ n̪ ĭ	pogu1238				
-14748	89_bitch	Bitch	DODASIRAJI	DODA_SIRAJI	šuṇěī	šuṇěī	ʃ u ɳ ə iː	sira1264				
-14749	89_bitch	Bitch	RAMBANI	RAMBANI	šuṇěī	šuṇěī	ʃ u ɳ ə iː	ramb1240				
+14748	89_bitch	Bitch	DODASIRAJI	DODA_SIRAJI	šuṇěī	šuṇěī	ʃ u ɳ e iː	sira1264				
+14749	89_bitch	Bitch	RAMBANI	RAMBANI	šuṇěī	šuṇěī	ʃ u ɳ e iː	ramb1240				
 14750	89_bitch	Bitch	KOHISTANIGARWI	KOHISTANI_GARWI	kīchir	kīchir	k iː tʃ i r	indu1241		35.3389	73.0154	
 14751	89_bitch	Bitch	TORWALI	TORWALI	kižī	kižī	k i ʒ iː	torw1241		35.3101	72.5316	
 14752	89_bitch	Bitch	MAIYA	MAIYA	kūsīr	kūsīr	k uː s iː r	indu1241		35.3389	73.0154	
@@ -3312,7 +3312,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 14834	89_bitch	Bitch	GADI	GADI	kutrī	kutrī	k u t̪ r iː	gadi1238				
 14835	89_bitch	Bitch	PANGWALI	PANGWALI	kuttrī	kuttrī	k u t̪ t̪ r iː	pang1282		32.9753	76.5569	
 14836	89_bitch	Bitch	BHADRAWAHI	BHADRAWAHI	kutrī	kutrī	k u t̪ r iː	bhad1241		33.2851	75.8707	
-14837	89_bitch	Bitch	PADARI	PADARI	kōtěr	kōtěr	k oː t̪ ə r	pada1256				
+14837	89_bitch	Bitch	PADARI	PADARI	kōtěr	kōtěr	k oː t̪ e r	pada1256				
 #
 7342	71_brother	Brother	JAPANESE	JAPANESE	kyodai	kyodai	kʲ o d̪ ai	nucl1643		35.0	135.0	
 7343	71_brother	Brother	JAPANESE	JAPANESE	(E.) ani	ani	ʌ n̪ i	nucl1643		35.0	135.0	
@@ -3341,7 +3341,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 7366	71_brother	Brother	MALAY	MALAY	(E.) àbàṅ	àbàṅ	a b a ŋ	baba1267		1.75414	103.076	
 7367	71_brother	Brother	MALAY	MALAY	(Y.) àdeᵏ	àdeᵏ	a d̪ e k̚	baba1267		1.75414	103.076	
 7368	71_brother	Brother	CHAM	CHAM	(E.) ai	ai	ai	cham1328				
-7369	71_brother	Brother	CHAM	CHAM	(Y.) àděo	àděo	a d̪ ə o	cham1328				
+7369	71_brother	Brother	CHAM	CHAM	(Y.) àděo	àděo	a d̪ e o	cham1328				
 7370	71_brother	Brother	SALON	SALON	bīai*	bīai*	b iː ai	moke1242		10.1474	98.6765	
 7371	71_brother	Brother	KHMER	KHMER	(E.) bàṅ	bàṅ	b a ŋ	cent1989		12.0515	105.015	
 7372	71_brother	Brother	TALAINGWRITTEN	TALAING_WRITTEN	(E.) ko	ko	k o	monn1252		15.49394	98.122465	
@@ -3406,8 +3406,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 7431	71_brother	Brother	SAVARA	SAVARA	(Y.) ubāṅ	ubāṅ	u b ʌː ŋ	sora1254		19.1213	84.19	
 7432	71_brother	Brother	GADABA	GADABA	buāṅg	buāṅg	b u ʌː ŋ g	bodo1267		18.3857	82.771	
 7433	71_brother	Brother	GADABA	GADABA	annāni	annāni	ʌ n̪ n̪ ʌː n̪ i	bodo1267		18.3857	82.771	
-7434	71_brother	Brother	MANDARIN	MANDARIN	(E.) ˦ hsiuṅ	hsiuṅ˦	h s i u ŋ ⁴	mand1415		40.0209	116.228	
-7435	71_brother	Brother	MANDARIN	MANDARIN	(Y.) ˦˨ tī	tī˦˨	t̪ iː ⁴²	mand1415		40.0209	116.228	
+7434	71_brother	Brother	MANDARIN	MANDARIN	(E.) ˦ hsiuṅ	hsiuṅ˦	ɕ j u ŋ ⁴	mand1415		40.0209	116.228	
+7435	71_brother	Brother	MANDARIN	MANDARIN	(Y.) ˦˨ tī	tī˦˨	t i ⁴²	mand1415		40.0209	116.228	
 7436	71_brother	Brother	CANTONESE	CANTONESE	(E.) ˨˩ tāi ˦˥ lō	tāi˨˩lō˦˥	t̪ aːi ²¹ + l oː ⁴⁵	cant1236				
 7437	71_brother	Brother	CANTONESE	CANTONESE	˦ hiṅ	hiṅ˦	h i ŋ ⁴	cant1236				
 7438	71_brother	Brother	CANTONESE	CANTONESE	(Y.) ˥˦ sai lō	lōsai˥˦	l oː s ai ⁵⁴	cant1236				
@@ -4281,7 +4281,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23654	115_but	But	MUNDARI	MUNDARI	män-då	män-då	m ɛ n̪ + d̪ ɔ	mund1320		23.03	85.85	
 23655	115_but	But	KURKU	KURKU	mētin	mētin	m eː t̪ i n̪	kork1243		21.8358	77.5541	
 23656	115_but	But	SAVARA	SAVARA	-ḍo	-ḍo	+ ɖ o	sora1254		19.1213	84.19	
-23657	115_but	But	MANDARIN	MANDARIN	˦˨ tan	tan˦˨	t̪ ʌ n̪ ⁴²	mand1415		40.0209	116.228	
+23657	115_but	But	MANDARIN	MANDARIN	˦˨ tan	tan˦˨	t a n̪ ⁴²	mand1415		40.0209	116.228	
 23658	115_but	But	CANTONESE	CANTONESE	˨˩ tān	tān˨˩	t̪ ʌː n̪ ²¹	cant1236				
 23659	115_but	But	CANTONESE	CANTONESE	˨˩ tān ˨˩ hai	tān˨˩hai˨˩	t̪ ʌː n̪ ²¹ + h ai ²¹	cant1236				
 23660	115_but	But	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨ tä ˦˨ wā	tä˨wā˦˨	t̪ ɛ ² + w ʌː ⁴²	thai1261		14.192	100.671	
@@ -4544,7 +4544,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23917	115_but	But	GADI	GADI	par	par	p ʌ r	gadi1238				
 23918	115_but	But	PANGWALI	PANGWALI	par	par	p ʌ r	pang1282		32.9753	76.5569	
 23919	115_but	But	BHADRAWAHI	BHADRAWAHI	magar	magar	m ʌ g ʌ r	bhad1241		33.2851	75.8707	
-23920	115_but	But	PADARI	PADARI	tě	tě	t̪ ə	pada1256				
+23920	115_but	But	PADARI	PADARI	tě	tě	t̪ e	pada1256				
 #
 56359	54_camel	Camel	JAPANESE	JAPANESE	rakuda	rakuda	r ʌ k u d̪ ʌ	nucl1643		35.0	135.0	
 56360	54_camel	Camel	KOREAN	KOREAN	yàktǎ̀i	yàktǎ̀i	j a k t̪ ă i	kore1280		37.5	128.0	
@@ -4562,7 +4562,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 56372	54_camel	Camel	KHASISTANDARD	KHASI_STANDARD	ut	ut	u t̪	khas1269		24.977	91.9998	
 56373	54_camel	Camel	WAR	WAR	ut	ut	u t̪	warj1242		25.1154	91.6266	
 56374	54_camel	Camel	SAVARA	SAVARA	sisalai	sisalai	s i s ʌ l ai	sora1254		19.1213	84.19	
-56375	54_camel	Camel	MANDARIN	MANDARIN	˨ t’å	t’å˨	t̪ʰ ɔ ²	mand1415		40.0209	116.228	
+56375	54_camel	Camel	MANDARIN	MANDARIN	˨ t’å	t’å˨	tʰ ɔ ²	mand1415		40.0209	116.228	
 56376	54_camel	Camel	CANTONESE	CANTONESE	˥˦ låᵏ ˨ t’å	låᵏ˥˦t’å˨	l ɔ k̚ ⁵⁴ + t̪ʰ ɔ ²	cant1236				
 56377	54_camel	Camel	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨ ūṭ’	ūṭ’˨	uː ʈʰ ²	thai1261		14.192	100.671	
 56378	54_camel	Camel	SIAMESESPOKEN	SIAMESE_SPOKEN	˨ ūt	ūt˨	uː t̪ ²					
@@ -5228,7 +5228,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9998	76_child	Child	WAR	WAR	(i) hūn	hūn	h uː n̪	warj1242		25.1154	91.6266	
 9999	76_child	Child	NICOBARESE	NICOBARESE	kenyūm	kenyūm	k e n̪ j uː m	cent1990		7.94812	93.3921	
 10000	76_child	Child	NICOBARESE	NICOBARESE	kōan	kōan	k oː ʌ n̪	cent1990		7.94812	93.3921	
-10001	76_child	Child	KHERWARISANTHALI	KHERWARI_SANTHALI	gīdrạ̄	gīdrạ̄	g iː d̪ r ʌː	sant1410		25.0317	87.8185	
+10001	76_child	Child	KHERWARISANTHALI	KHERWARI_SANTHALI	gīdrạ̄	gīdrạ̄	g iː d̪ r aː	sant1410		25.0317	87.8185	
 10002	76_child	Child	KHERWARISANTHALI	KHERWARI_SANTHALI	hån	hån	h ɔ n̪	sant1410		25.0317	87.8185	
 10003	76_child	Child	KHERWARISANTHALI	KHERWARI_SANTHALI	håpån	håpån	h ɔ p ɔ n̪	sant1410		25.0317	87.8185	
 10004	76_child	Child	MUNDARI	MUNDARI	hån	hån	h ɔ n̪	mund1320		23.03	85.85	
@@ -5658,15 +5658,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 58248	59_cock	Cock	WAR	WAR	sei	sei	s ei	warj1242		25.1154	91.6266	
 58249	59_cock	Cock	NICOBARESE	NICOBARESE	kamōe-enkoiña	kamōe-enkoiña	k ʌ m oː e + e n̪ k ɔɪ ɲ ʌ	cent1990		7.94812	93.3921	
 58250	59_cock	Cock	NICOBARESE	NICOBARESE	kamōe-koin	kamōe-koin	k ʌ m oː e + k ɔɪ n̪	cent1990		7.94812	93.3921	
-58251	59_cock	Cock	KHERWARISANTHALI	KHERWARI_SANTHALI	sīm sạ̄ṇḍī	sīm sạ̄ṇḍī	s iː m + s ʌː ɳ ɖ iː	sant1410		25.0317	87.8185	
-58252	59_cock	Cock	MUNDARI	MUNDARI	sạṇḍi sīm	sạṇḍi sīm	s ø̜ ɳ ɖ i + s iː m	mund1320		23.03	85.85	
+58251	59_cock	Cock	KHERWARISANTHALI	KHERWARI_SANTHALI	sīm sạ̄ṇḍī	sīm sạ̄ṇḍī	s iː m + s aː ɳ ɖ iː	sant1410		25.0317	87.8185	
+58252	59_cock	Cock	MUNDARI	MUNDARI	sạṇḍi sīm	sạṇḍi sīm	s a ɳ ɖ i + s iː m	mund1320		23.03	85.85	
 58253	59_cock	Cock	KURKU	KURKU	kōmbā	kōmbā	k oː m b ʌː	kork1243		21.8358	77.5541	
 58254	59_cock	Cock	KHARIA	KHARIA	kokṛo (Aryan)	kokṛo	k o k ɽ o	khar1287		22.3571	84.3922	
 58255	59_cock	Cock	JUANG	JUANG	sanke	sanke	s ʌ n̪ k e	juan1238		21.2606	85.5845	
 58256	59_cock	Cock	SAVARA	SAVARA	kansim	kansim	k ʌ n̪ s i m	sora1254		19.1213	84.19	
 58257	59_cock	Cock	SAVARA	SAVARA	im	im	i m	sora1254		19.1213	84.19	
 58258	59_cock	Cock	GADABA	GADABA	g’usaṅg ḍāṅg	g’usaṅg ḍāṅg	gʰ u s ʌ ŋ g + ɖ ʌː ŋ g	bodo1267		18.3857	82.771	
-58259	59_cock	Cock	MANDARIN	MANDARIN	˦ kuṅ ˦ chī	kuṅ˦chī˦	k u ŋ ⁴ + tʃ iː ⁴	mand1415		40.0209	116.228	
+58259	59_cock	Cock	MANDARIN	MANDARIN	˦ kuṅ ˦ chī	kuṅ˦chī˦	k u ŋ ⁴ + tɕ i ⁴	mand1415		40.0209	116.228	
 58260	59_cock	Cock	CANTONESE	CANTONESE	˦ kai ˦ kuṅ	kai˦kuṅ˦	k ai ⁴ + k u ŋ ⁴	cant1236				
 58261	59_cock	Cock	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨ kai ˧ tuà ˦˨ p’ū	kai˨tuà˧p’ū˦˨	k ai ² + t̪ u a ³ + pʰ uː ⁴²	thai1261		14.192	100.671	
 58262	59_cock	Cock	SIAMESESPOKEN	SIAMESE_SPOKEN	˨ kai ˧ tuà ˦˨ p’ū	kai˨tuà˧p’ū˦˨	k ai ² + t̪ u a ³ + pʰ uː ⁴²					
@@ -6177,7 +6177,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 30605	121_come	Come	DEURICHUTIYA	DEURI_CHUTIYA	k’u	k’u	kʰ u	deor1238		26.86152	93.70572	
 30606	121_come	Come	ANGAMI	ANGAMI	vǒr	vǒr	v ɒ r	anga1288		25.6841	93.8668	
 30607	121_come	Come	SEMA	SEMA	gwǒɣe	gwǒɣe	g w ɒ ɣ e	sumi1235		25.9996	94.4235	
-30608	121_come	Come	SEMA	SEMA	ěɣe	ěɣe	ə ɣ e	sumi1235		25.9996	94.4235	
+30608	121_come	Come	SEMA	SEMA	ěɣe	ěɣe	e ɣ e	sumi1235		25.9996	94.4235	
 30609	121_come	Come	RENGMA	RENGMA	he (?)	he	h e	nort2725		26.4492	94.5683	
 30610	121_come	Come	KEZAMA	KEZAMA	gwo	gwo	g w o	khez1235		25.7078	94.3114	
 30611	121_come	Come	SOPVOMA	SOPVOMA	hēk	hēk	h eː k	maon1238		25.3836	94.0035	
@@ -6398,7 +6398,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 30826	121_come	Come	CHAMEALI	CHAMEALI	ā-	ā-	ʌː	cham1307		32.5476	76.1796	
 30827	121_come	Come	GADI	GADI	ā-	ā-	ʌː	gadi1238				
 30828	121_come	Come	PANGWALI	PANGWALI	ā-	ā-	ʌː	pang1282		32.9753	76.5569	
-30829	121_come	Come	BHADRAWAHI	BHADRAWAHI	ěj-	ěj-	ə dʒ	bhad1241		33.2851	75.8707	
+30829	121_come	Come	BHADRAWAHI	BHADRAWAHI	ěj-	ěj-	e dʒ	bhad1241		33.2851	75.8707	
 30830	121_come	Come	PADARI	PADARI	adz-	adz-	ʌ dz	pada1256				
 #
 13161	85_cow	Cow	JAPANESE	JAPANESE	me uši	me uši	m e + u ʃ i	nucl1643		35.0	135.0	
@@ -6433,7 +6433,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 13190	85_cow	Cow	KHASISTANDARD	KHASI_STANDARD	(kà) màssi künt’ei	màssi künt’ei	m a s s i + k y n̪ t̪ʰ ei	khas1269		24.977	91.9998	
 13191	85_cow	Cow	WAR	WAR	(kà) màssow	màssow	m a s s o w	warj1242		25.1154	91.6266	
 13192	85_cow	Cow	NICOBARESE	NICOBARESE	kapo-enkāna	kapo-enkāna	k ʌ p o + e n̪ k ʌː n̪ ʌ	cent1990		7.94812	93.3921	
-13193	85_cow	Cow	KHERWARISANTHALI	KHERWARI_SANTHALI	gạ̄i (Aryan)	gạ̄i	g ʌː i	sant1410		25.0317	87.8185	
+13193	85_cow	Cow	KHERWARISANTHALI	KHERWARI_SANTHALI	gạ̄i (Aryan)	gạ̄i	g aː i	sant1410		25.0317	87.8185	
 13194	85_cow	Cow	MUNDARI	MUNDARI	gāe (Aryan)	gāe	g ʌː e	mund1320		23.03	85.85	
 13195	85_cow	Cow	KURKU	KURKU	gāī (Aryan)	gāī	g ʌː iː	kork1243		21.8358	77.5541	
 13196	85_cow	Cow	KHARIA	KHARIA	oreᶜʰ	oreᶜʰ	o r e c̚ h	khar1287		22.3571	84.3922	
@@ -6674,7 +6674,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 13431	85_cow	Cow	GAWARBATI	GAWAR_BATI	eṯs̱ī	eṯs̱ī	e ts iː	gawa1247		35.1982	71.5428	
 13432	85_cow	Cow	PASHAIEASTERN	PASHAI_EASTERN	gā	gā	g ʌː	sout2672		34.43099	70.30351	
 13433	85_cow	Cow	PASHAIWESTERN	PASHAI_WESTERN	gā	gā	g ʌː	sout2671		34.8478	69.8734	
-13434	85_cow	Cow	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	lěšu	lěšu	l ə ʃ u	khow1242		36.0	72.0	
+13434	85_cow	Cow	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	lěšu	lěšu	l e ʃ u	khow1242		36.0	72.0	
 13435	85_cow	Cow	SHINAGILGITI	SHINA_GILGITI	gào	gào	g a o	gilg1242				
 13436	85_cow	Cow	CHILASI	CHILASI	gāō	gāō	g ʌː oː	shin1264		34.6515	75.287	
 13437	85_cow	Cow	CHILASI	CHILASI	gō	gō	g oː	shin1264		34.6515	75.287	
@@ -6798,7 +6798,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 56608	55_cow	Cow	KHMER	KHMER	kō	kō	k oː	cent1989		12.0515	105.015	
 56609	55_cow	Cow	TALAINGWRITTEN	TALAING_WRITTEN	glau ḇo°	glau ḇo°	g l au + b o	monn1252		15.49394	98.122465	
 56610	55_cow	Cow	TALAINGSPOKEN	TALAING_SPOKEN	gleà	gleà	g l e a					
-56611	55_cow	Cow	PALAUNG	PALAUNG	mǚᵏ kạ-mā	mǚᵏ kạ-mā	m y̆ k̚ + k ø̜ + m ʌː	ruma1248		23.6404	97.3172	
+56611	55_cow	Cow	PALAUNG	PALAUNG	mǚᵏ kạ-mā	mǚᵏ kạ-mā	m y̆ k̚ + k a + m ʌː	ruma1248		23.6404	97.3172	
 56612	55_cow	Cow	KATURR	KATURR	muᵏ kǎ̀-mǎ̀	muᵏ kǎ̀-mǎ̀	m u k̚ + k ă + m ă					
 56613	55_cow	Cow	DARANG	DARANG	mà-màk	mà-màk	m a + m a k	ruch1235		21.6176	98.0915	
 56614	55_cow	Cow	WA	WA	moi	moi	m ɔɪ	nucl1290		23.1024	99.108	
@@ -6819,7 +6819,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 56629	55_cow	Cow	SAVARA	SAVARA	taṅli	taṅli	t̪ ʌ ŋ l i	sora1254		19.1213	84.19	
 56630	55_cow	Cow	SAVARA	SAVARA	taṅ	taṅ	t̪ ʌ ŋ	sora1254		19.1213	84.19	
 56631	55_cow	Cow	GADABA	GADABA	kii-taṅg	kii-taṅg	k i i + t̪ ʌ ŋ g	bodo1267		18.3857	82.771	
-56632	55_cow	Cow	MANDARIN	MANDARIN	˨ niu	niu˨	n̪ i u ²	mand1415		40.0209	116.228	
+56632	55_cow	Cow	MANDARIN	MANDARIN	˨ niu	niu˨	n i u ²	mand1415		40.0209	116.228	
 56633	55_cow	Cow	MANDARIN	MANDARIN	˨ liu	liu˨	l i u ²	mand1415		40.0209	116.228	
 56634	55_cow	Cow	CANTONESE	CANTONESE	˨ ṅau ˩˨ mō	ṅau˨mō˩˨	ŋ au ² + m oː ¹²	cant1236				
 56635	55_cow	Cow	CANTONESE	CANTONESE	˨ ṅau ˦˥ mā	ṅau˨mā˦˥	ŋ au ² + m ʌː ⁴⁵	cant1236				
@@ -7070,7 +7070,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 56880	55_cow	Cow	GAWARBATI	GAWAR_BATI	eṯs̱ī	eṯs̱ī	e ts iː	gawa1247		35.1982	71.5428	
 56881	55_cow	Cow	PASHAIEASTERN	PASHAI_EASTERN	gā	gā	g ʌː	sout2672		34.43099	70.30351	
 56882	55_cow	Cow	PASHAIWESTERN	PASHAI_WESTERN	gā	gā	g ʌː	sout2671		34.8478	69.8734	
-56883	55_cow	Cow	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	lěšū	lěšū	l ə ʃ uː	khow1242		36.0	72.0	
+56883	55_cow	Cow	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	lěšū	lěšū	l e ʃ uː	khow1242		36.0	72.0	
 56884	55_cow	Cow	SHINAGILGITI	SHINA_GILGITI	gào	gào	g a o	gilg1242				
 56885	55_cow	Cow	CHILASI	CHILASI	gāū	gāū	g ʌː uː	shin1264		34.6515	75.287	
 56886	55_cow	Cow	CHILASI	CHILASI	gō	gō	g oː	shin1264		34.6515	75.287	
@@ -7222,7 +7222,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 53608	42_cultivator	Cultivator	KHARIA	KHARIA	silo° lebu	silo° lebu	s i l o + l e b u	khar1287		22.3571	84.3922	
 53609	42_cultivator	Cultivator	SAVARA	SAVARA	oro-mar	oro-mar	o r o + m ʌ r	sora1254		19.1213	84.19	
 53610	42_cultivator	Cultivator	GADABA	GADABA	sunīṅg	sunīṅg	s u n̪ iː ŋ g	bodo1267		18.3857	82.771	
-53611	42_cultivator	Cultivator	MANDARIN	MANDARIN	˨ luṅ ˨ žan	luṅ˨žan˨	l u ŋ ² + ʒ ʌ n̪ ²	mand1415		40.0209	116.228	
+53611	42_cultivator	Cultivator	MANDARIN	MANDARIN	˨ luṅ ˨ žan	luṅ˨žan˨	l u ŋ ² + ʐ a n̪ ²	mand1415		40.0209	116.228	
 53612	42_cultivator	Cultivator	CANTONESE	CANTONESE	˨ nuṅ ˦ fū	nuṅ˨fū˦	n̪ u ŋ ² + f uː ⁴	cant1236				
 53613	42_cultivator	Cultivator	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧ jāo ˧ nà	jāo˧nà˧	dʒ ʌː o ³ + n̪ a ³	thai1261		14.192	100.671	
 53614	42_cultivator	Cultivator	SIAMESESPOKEN	SIAMESE_SPOKEN	˧ ch’āo ˧ nā	ch’āo˧nā˧	tʃʰ ʌː o ³ + n̪ ʌː ³					
@@ -7376,7 +7376,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 53762	42_cultivator	Cultivator	GAWARBATI	GAWAR_BATI	goet-kerit’la	goet-kerit’la	g o e t̪ + k e r i t̪ʰ l ʌ	gawa1247		35.1982	71.5428	
 53763	42_cultivator	Cultivator	PASHAIEASTERN	PASHAI_EASTERN	dēkān	dēkān	d̪ eː k ʌː n̪	sout2672		34.43099	70.30351	
 53764	42_cultivator	Cultivator	PASHAIWESTERN	PASHAI_WESTERN	dēkān	dēkān	d̪ eː k ʌː n̪	sout2671		34.8478	69.8734	
-53765	42_cultivator	Cultivator	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	děhqān	děhqān	d̪ ə h q ʌː n̪	khow1242		36.0	72.0	
+53765	42_cultivator	Cultivator	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	děhqān	děhqān	d̪ e h q ʌː n̪	khow1242		36.0	72.0	
 53766	42_cultivator	Cultivator	SHINAGILGITI	SHINA_GILGITI	däkān	däkān	d̪ ɛ k ʌː n̪	gilg1242				
 53767	42_cultivator	Cultivator	CHILASI	CHILASI	dehqān	dehqān	d̪ e h q ʌː n̪	shin1264		34.6515	75.287	
 53768	42_cultivator	Cultivator	CHILASIOFDRAS	CHILASI_OF_DRAS	grēst	grēst	g r eː s t̪	dras1242				
@@ -7499,7 +7499,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 10836	78_daughter	Daughter	BASQUE	BASQUE	alaba	alaba	ʌ l ʌ b ʌ	basq1248		43.2787	-1.31622	
 10837	78_daughter	Daughter	BURUSHASKI	BURUSHASKI	ēī	ēī	eː iː	buru1296		36.2161	74.8236	
 10838	78_daughter	Daughter	MALAY	MALAY	ànàᵏ parampuàn	ànàᵏ parampuàn	a n̪ a k̚ + p ʌ r ʌ m p u a n̪	baba1267		1.75414	103.076	
-10839	78_daughter	Daughter	CHAM	CHAM	ànök kuměi	ànök kuměi	a n̪ ø k + k u m ə i	cham1328				
+10839	78_daughter	Daughter	CHAM	CHAM	ànök kuměi	ànök kuměi	a n̪ ø k + k u m e i	cham1328				
 10840	78_daughter	Daughter	CHAM	CHAM	mugàt	mugàt	m u g a t̪	cham1328				
 10841	78_daughter	Daughter	SALON	SALON	meh*	meh*	m e h	moke1242		10.1474	98.6765	
 10842	78_daughter	Daughter	SALON	SALON	ànàt binaiṅ*	ànàt binaiṅ*	a n̪ a t̪ + b i n̪ ai ŋ	moke1242		10.1474	98.6765	
@@ -7531,7 +7531,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 10868	78_daughter	Daughter	SAVARA	SAVARA	ōn-selo	ōn-selo	oː n̪ + s e l o	sora1254		19.1213	84.19	
 10869	78_daughter	Daughter	GADABA	GADABA	ōnō-ōn	ōnō-ōn	oː n̪ oː + oː n̪	bodo1267		18.3857	82.771	
 10870	78_daughter	Daughter	GADABA	GADABA	koḍam-lē	koḍam-lē	k o ɖ ʌ m + l eː	bodo1267		18.3857	82.771	
-10871	78_daughter	Daughter	MANDARIN	MANDARIN	˨˦ nü ˦ hai tsz (atonic)	nü˨˦tszhai˦	n̪ y ²⁴ + ts z h ai ⁴	mand1415		40.0209	116.228	
+10871	78_daughter	Daughter	MANDARIN	MANDARIN	˨˦ nü ˦ hai tsz (atonic)	nü˨˦tszhai˦	n y ²⁴ + ts ɿ h ai ⁴	mand1415		40.0209	116.228	
 10872	78_daughter	Daughter	CANTONESE	CANTONESE	˩˨ nui	nui˩˨	n̪ u i ¹²	cant1236				
 10873	78_daughter	Daughter	SIAMESEWRITTEN	SIAMESE_WRITTEN	˦˨ lūk ˨˦ hñiṅ	lūk˦˨hñiṅ˨˦	l uː k ⁴² + h ɲ i ŋ ²⁴	thai1261		14.192	100.671	
 10874	78_daughter	Daughter	SIAMESESPOKEN	SIAMESE_SPOKEN	˦˨ lūᵏ ˨˦ yiṅ	lūᵏ˦˨yiṅ˨˦	l uː k̚ ⁴² + j i ŋ ²⁴					
@@ -8177,7 +8177,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 54541	45_devil	Devil	TALAINGWRITTEN	TALAING_WRITTEN	mā	mā	m ʌː	monn1252		15.49394	98.122465	
 54542	45_devil	Devil	TALAINGWRITTEN	TALAING_WRITTEN	kalok mā (= Māra)	kalok mā	k ʌ l o k + m ʌː	monn1252		15.49394	98.122465	
 54543	45_devil	Devil	TALAINGSPOKEN	TALAING_SPOKEN	k^àluk-mä	k^àluk-mä	k a l u k + m ɛ					
-54544	45_devil	Devil	PALAUNG	PALAUNG	kạr-nạ̄m ka-oᵗ (spirit bad)	kạr-nạ̄m ka-oᵗ	k ø̜ r + n̪ ʌː m + k ʌ + o t̪̚	ruma1248		23.6404	97.3172	
+54544	45_devil	Devil	PALAUNG	PALAUNG	kạr-nạ̄m ka-oᵗ (spirit bad)	kạr-nạ̄m ka-oᵗ	k a r + n̪ ʌː m + k ʌ + o t̪̚	ruma1248		23.6404	97.3172	
 54545	45_devil	Devil	KATURR	KATURR	kàṟ-nàm (evil spirit)	kàṟ-nàm	k a r + n̪ a m					
 54546	45_devil	Devil	DARANG	DARANG	kà-nàm (spirit)	kà-nàm	k a + n̪ a m	ruch1235		21.6176	98.0915	
 54547	45_devil	Devil	WA	WA	yūm-tsào-kēṅ	yūm-tsào-kēṅ	j uː m + ts a o + k eː ŋ	nucl1290		23.1024	99.108	
@@ -8357,12 +8357,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 54721	45_devil	Devil	ARABIC	ARABIC	(the Devil) Iblis	Iblis	i b l i s	stan1318		27.9625	43.8525	
 54722	45_devil	Devil	AVESTAN	AVESTAN	Aṅgro maⁱnyuš	Aṅgro maⁱnyuš	ʌ ŋ g r o + m ʌ ĭ n̪ j u ʃ	aves1237		31.541	53.633	
 54723	45_devil	Devil	PAHLAVI	PAHLAVI	Ahrman	Ahrman	ʌ h r m ʌ n̪	pahl1241		30.06	52.7	
-54724	45_devil	Devil	PERSIAN	PERSIAN	šait̤ān	šait̤ān	ʃ ai tˤ ʌː n̪	west2369		32.9	53.3	
+54724	45_devil	Devil	PERSIAN	PERSIAN	šait̤ān	šait̤ān	ʃ ai t ʌː n̪	west2369		32.9	53.3	
 54725	45_devil	Devil	PERSIAN	PERSIAN	Ahraman	Ahraman	ʌ h r ʌ m ʌ n̪	west2369		32.9	53.3	
-54726	45_devil	Devil	PASHTOOFPESHAWAR	PASHTO_OF_PESHAWAR	šait̤ōn (Arabic)	šait̤ōn	ʃ ai tˤ oː n̪	nort2646		34.0	71.33	
-54727	45_devil	Devil	WAZIRI	WAZIRI	šait̤ōn	šait̤ōn	ʃ ai tˤ oː n̪	cent1973		31.9153	69.4529	
-54728	45_devil	Devil	PASHTOOFKANDAHAR	PASHTO_OF_KANDAHAR	šait̤ān	šait̤ān	ʃ ai tˤ ʌː n̪	sout2649		37.17	68.25	
-54729	45_devil	Devil	ORMURI	ORMURI	šait̤ān	šait̤ān	ʃ ai tˤ ʌː n̪	ormu1247		32.6819	69.3444	
+54726	45_devil	Devil	PASHTOOFPESHAWAR	PASHTO_OF_PESHAWAR	šait̤ōn (Arabic)	šait̤ōn	ʃ ai t oː n̪	nort2646		34.0	71.33	
+54727	45_devil	Devil	WAZIRI	WAZIRI	šait̤ōn	šait̤ōn	ʃ ai t oː n̪	cent1973		31.9153	69.4529	
+54728	45_devil	Devil	PASHTOOFKANDAHAR	PASHTO_OF_KANDAHAR	šait̤ān	šait̤ān	ʃ ai t ʌː n̪	sout2649		37.17	68.25	
+54729	45_devil	Devil	ORMURI	ORMURI	šait̤ān	šait̤ān	ʃ ai t ʌː n̪	ormu1247		32.6819	69.3444	
 54730	45_devil	Devil	ORMURI	ORMURI	dēō	dēō	d̪ eː oː	ormu1247		32.6819	69.3444	
 54731	45_devil	Devil	BALOCHIMAKRANI	BALOCHI_MAKRANI	šaitān	šaitān	ʃ ai t̪ ʌː n̪	sout2642		26.0	64.0	
 54732	45_devil	Devil	EASTERNBENGALI	EASTERN_BENGALI	šaitān	šaitān	ʃ ai t̪ ʌː n̪	east2744				
@@ -8387,7 +8387,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 54751	45_devil	Devil	CHILASIOFDRAS	CHILASI_OF_DRAS	šaitān	šaitān	ʃ ai t̪ ʌː n̪	dras1242				
 54752	45_devil	Devil	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	būt	būt	b uː t̪	brok1247		34.5308	76.6026	
 54753	45_devil	Devil	KASHMIRI	KASHMIRI	šaitān	šaitān	ʃ ai t̪ ʌː n̪	kash1277		34.166825	74.330455	
-54754	45_devil	Devil	KASHMIRI	KASHMIRI	děv	děv	d̪ ə v	kash1277		34.166825	74.330455	
+54754	45_devil	Devil	KASHMIRI	KASHMIRI	děv	děv	d̪ e v	kash1277		34.166825	74.330455	
 54755	45_devil	Devil	KASHTAWARI	KASHTAWARI	šētān	šētān	ʃ eː t̪ ʌː n̪	kish1245				
 54756	45_devil	Devil	POGULI	POGULI	šēitān	šēitān	ʃ eː i t̪ ʌː n̪	pogu1238				
 54757	45_devil	Devil	DODASIRAJI	DODA_SIRAJI	šatān	šatān	ʃ ʌ t̪ ʌː n̪	sira1264				
@@ -8441,7 +8441,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 54805	45_devil	Devil	BENGALIWRITTEN	BENGALI_WRITTEN	apadēvatā	apadēvatā	ʌ p ʌ d̪ eː v ʌ t̪ ʌː	beng1280		24.0	90.0	
 54806	45_devil	Devil	BENGALIWRITTEN	BENGALI_WRITTEN	saytān	saytān	s ʌ j t̪ ʌː n̪	beng1280		24.0	90.0	
 54807	45_devil	Devil	BENGALISPOKEN	BENGALI_SPOKEN	apadebtā	apadebtā	ʌ p ʌ d̪ e b t̪ ʌː					
-54808	45_devil	Devil	BENGALISPOKEN	BENGALI_SPOKEN	šǒětān	šǒětān	ʃ ɒ ə t̪ ʌː n̪					
+54808	45_devil	Devil	BENGALISPOKEN	BENGALI_SPOKEN	šǒětān	šǒětān	ʃ ɒ e t̪ ʌː n̪					
 54809	45_devil	Devil	SOUTHWESTERNBENGALI	SOUTH_WESTERN_BENGALI	daitʸi	daitʸi	d̪ ai t̪ j̚ i	beng1280		24.0	90.0	
 54810	45_devil	Devil	SIRIPURIA	SIRIPURIA	b’ūt	b’ūt	bʰ uː t̪	siri1268				
 54811	45_devil	Devil	SIRIPURIA	SIRIPURIA	perēt	perēt	p e r eː t̪	siri1268				
@@ -8556,7 +8556,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 31248	123_die	Die	JUANG	JUANG	goju	goju	g o dʒ u	juan1238		21.2606	85.5845	
 31249	123_die	Die	SAVARA	SAVARA	kie	kie	k i e	sora1254		19.1213	84.19	
 31250	123_die	Die	GADABA	GADABA	gōi	gōi	g oː i	bodo1267		18.3857	82.771	
-31251	123_die	Die	MANDARIN	MANDARIN	˨˦ szᵃ	szᵃ˨˦	s z ă ²⁴	mand1415		40.0209	116.228	
+31251	123_die	Die	MANDARIN	MANDARIN	˨˦ szᵃ	szᵃ˨˦	s ɿ ²⁴	mand1415		40.0209	116.228	
 31252	123_die	Die	CANTONESE	CANTONESE	˦˥ sz	sz˦˥	s z ⁴⁵	cant1236				
 31253	123_die	Die	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧ tāi	tāi˧	t̪ aːi ³	thai1261		14.192	100.671	
 31254	123_die	Die	SIAMESESPOKEN	SIAMESE_SPOKEN	˧ tāi	tāi˧	t̪ aːi ³					
@@ -8918,7 +8918,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 57047	56_dog	Dog	SAVARA	SAVARA	sōr	sōr	s oː r	sora1254		19.1213	84.19	
 57048	56_dog	Dog	GADABA	GADABA	g’usō	g’usō	gʰ u s oː	bodo1267		18.3857	82.771	
 57049	56_dog	Dog	GADABA	GADABA	kussō	kussō	k u s s oː	bodo1267		18.3857	82.771	
-57050	56_dog	Dog	MANDARIN	MANDARIN	˨˦ kō	kō˨˦	k oː ²⁴	mand1415		40.0209	116.228	
+57050	56_dog	Dog	MANDARIN	MANDARIN	˨˦ kō	kō˨˦	k o ²⁴	mand1415		40.0209	116.228	
 57051	56_dog	Dog	CANTONESE	CANTONESE	˦˥ kau	kau˦˥	k au ⁴⁵	cant1236				
 57052	56_dog	Dog	GYAOMI	GYAOMI	kau	kau	k au	mand1415		40.0209	116.228	
 57053	56_dog	Dog	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨˦ hmā	hmā˨˦	h m ʌː ²⁴	thai1261		14.192	100.671	
@@ -9160,7 +9160,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 57289	56_dog	Dog	WAIALA	WAI_ALA	ṯs̱ū̃	ṯs̱ū̃	ts ũː	waig1243		35.0358	70.9761	
 57290	56_dog	Dog	WASIVERIORVERON	WASI_VERI_OR_VERON	keruk	keruk	k e r u k	pras1239		35.1731	70.8004	
 57291	56_dog	Dog	KALASHA	KALASHA	šũṛa	šũṛa	ʃ ũ ɽ ʌ	kala1372		35.6415	71.6657	
-57292	56_dog	Dog	KALASHA	KALASHA	šěṛ	šěṛ	ʃ ə ɽ	kala1372		35.6415	71.6657	
+57292	56_dog	Dog	KALASHA	KALASHA	šěṛ	šěṛ	ʃ e ɽ	kala1372		35.6415	71.6657	
 57293	56_dog	Dog	GAWARBATI	GAWAR_BATI	šunā	šunā	ʃ u n̪ ʌː	gawa1247		35.1982	71.5428	
 57294	56_dog	Dog	PASHAIEASTERN	PASHAI_EASTERN	sūṛiṅ	sūṛiṅ	s uː ɽ i ŋ	sout2672		34.43099	70.30351	
 57295	56_dog	Dog	PASHAIWESTERN	PASHAI_WESTERN	ꭓōṛiṅ	ꭓōṛiṅ	x oː ɽ i ŋ	sout2671		34.8478	69.8734	
@@ -9325,9 +9325,9 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 20035	106_down	Down	SAVARA	SAVARA	jaitan	jaitan	dʒ ai t̪ ʌ n̪	sora1254		19.1213	84.19	
 20036	106_down	Down	GADABA	GADABA	ā̃luṅg	ā̃luṅg	ãː l u ŋ g	bodo1267		18.3857	82.771	
 20037	106_down	Down	GADABA	GADABA	hakki	hakki	h ʌ k k i	bodo1267		18.3857	82.771	
-20038	106_down	Down	MANDARIN	MANDARIN	˦˨ hsya	hsya˦˨	h s j ʌ ⁴²	mand1415		40.0209	116.228	
-20039	106_down	Down	MANDARIN	MANDARIN	˦˨ hyā	hyā˦˨	hʲ ʌː ⁴²	mand1415		40.0209	116.228	
-20040	106_down	Down	MANDARIN	MANDARIN	˦˨ hā	hā˦˨	h ʌː ⁴²	mand1415		40.0209	116.228	
+20038	106_down	Down	MANDARIN	MANDARIN	˦˨ hsya	hsya˦˨	ɕ j a ⁴²	mand1415		40.0209	116.228	
+20039	106_down	Down	MANDARIN	MANDARIN	˦˨ hyā	hyā˦˨	ɕ j a ⁴²	mand1415		40.0209	116.228	
+20040	106_down	Down	MANDARIN	MANDARIN	˦˨ hā	hā˦˨	ɕ j a ⁴²	mand1415		40.0209	116.228	
 20041	106_down	Down	CANTONESE	CANTONESE	˨˩ hā	hā˨˩	h ʌː ²¹	cant1236				
 20042	106_down	Down	CANTONESE	CANTONESE	˨˩ låᵏ	låᵏ˨˩	l ɔ k̚ ²¹	cant1236				
 20043	106_down	Down	GYAOMI	GYAOMI	ti-šå (below)	ti-šå	t̪ i + ʃ ɔ	mand1415		40.0209	116.228	
@@ -9714,7 +9714,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 58607	60_duck	Duck	TALAINGWRITTEN	TALAING_WRITTEN	adā	adā	ʌ d̪ ʌː	monn1252		15.49394	98.122465	
 58608	60_duck	Duck	TALAINGSPOKEN	TALAING_SPOKEN	k^àt’ä	k^àt’ä	k a t̪ʰ ɛ					
 58609	60_duck	Duck	SEMANG	SEMANG	itek (Malay)	itek	i t̪ e k	nort2682				
-58610	60_duck	Duck	PALAUNG	PALAUNG	pē-iᵗ kạ-mā	pē-iᵗ kạ-mā	p eː + i t̪̚ + k ø̜ + m ʌː	ruma1248		23.6404	97.3172	
+58610	60_duck	Duck	PALAUNG	PALAUNG	pē-iᵗ kạ-mā	pē-iᵗ kạ-mā	p eː + i t̪̚ + k a + m ʌː	ruma1248		23.6404	97.3172	
 58611	60_duck	Duck	KATURR	KATURR	bīᵗ	bīᵗ	b iː t̪̚					
 58612	60_duck	Duck	DARANG	DARANG	oyit	oyit	o j i t̪	ruch1235		21.6176	98.0915	
 58613	60_duck	Duck	WA	WA	pit	pit	p i t̪	nucl1290		23.1024	99.108	
@@ -9736,7 +9736,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 58629	60_duck	Duck	SAVARA	SAVARA	papāra	papāra	p ʌ p ʌː r ʌ	sora1254		19.1213	84.19	
 58630	60_duck	Duck	GADABA	GADABA	hansa (Aryan)	hansa	h ʌ n̪ s ʌ	bodo1267		18.3857	82.771	
 58631	60_duck	Duck	GADABA	GADABA	gāgu	gāgu	g ʌː g u	bodo1267		18.3857	82.771	
-58632	60_duck	Duck	MANDARIN	MANDARIN	˨ yā°	yā°˨	j ʌː ²	mand1415		40.0209	116.228	
+58632	60_duck	Duck	MANDARIN	MANDARIN	˨ yā°	yā°˨	j a ²	mand1415		40.0209	116.228	
 58633	60_duck	Duck	CANTONESE	CANTONESE	˥˦ āʳ	āʳ˥˦	ʌː r̚ ⁵⁴	cant1236				
 58634	60_duck	Duck	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨ pēt	pēt˨	p eː t̪ ²	thai1261		14.192	100.671	
 58635	60_duck	Duck	SIAMESESPOKEN	SIAMESE_SPOKEN	˨ pēᵗ	pēᵗ˨	p eː t̪̚ ²					
@@ -9883,7 +9883,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 58776	60_duck	Duck	ARAKANESE	ARAKANESE	bei	bei	b ei	marm1234		22.759948	92.210748	
 58777	60_duck	Duck	TAUNGYO	TAUNGYO	wǒṅ	wǒṅ	w ɒ ŋ	taun1248		20.4104	96.7401	
 58778	60_duck	Duck	DANU	DANU	wum bä	wum bä	w u m + b ɛ	danu1251				
-58779	60_duck	Duck	INTHA	INTHA	wum pě	wum pě	w u m + p ə	inth1239				
+58779	60_duck	Duck	INTHA	INTHA	wum pě	wum pě	w u m + p e	inth1239				
 58780	60_duck	Duck	TAVOYAN	TAVOYAN	wum be	wum be	w u m + b e	tavo1242		14.1078	98.194	
 58781	60_duck	Duck	TAVOYAN	TAVOYAN	be	be	b e	tavo1242		14.1078	98.194	
 58782	60_duck	Duck	TAMIL	TAMIL	peṇdārā	peṇdārā	p e ɳ d̪ ʌː r ʌː	tami1289		10.520219	78.825989	
@@ -9901,8 +9901,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 58794	60_duck	Duck	TELUGU	TELUGU	badakᵘ	badakᵘ	b ʌ d̪ ʌ k ŭ	telu1262		16.4529	78.7024	
 58795	60_duck	Duck	BRAHUI	BRAHUI	hañj	hañj	h ʌ ɲ dʒ	brah1256		29.04	66.56	
 58796	60_duck	Duck	ARABIC	ARABIC	bat̤t̤ah	bat̤t̤ah	b ʌ tˤ tˤ ʌ h	stan1318		27.9625	43.8525	
-58797	60_duck	Duck	PERSIAN	PERSIAN	bat̤t̤	bat̤t̤	b ʌ tˤ tˤ	west2369		32.9	53.3	
-58798	60_duck	Duck	PERSIAN	PERSIAN	bat̤ꭓ	bat̤ꭓ	b ʌ tˤ x	west2369		32.9	53.3	
+58797	60_duck	Duck	PERSIAN	PERSIAN	bat̤t̤	bat̤t̤	b ʌ t t	west2369		32.9	53.3	
+58798	60_duck	Duck	PERSIAN	PERSIAN	bat̤ꭓ	bat̤ꭓ	b ʌ t x	west2369		32.9	53.3	
 58799	60_duck	Duck	PASHTOOFPESHAWAR	PASHTO_OF_PESHAWAR	hīlai	hīlai	h iː l ai	nort2646		34.0	71.33	
 58800	60_duck	Duck	WAZIRI	WAZIRI	ēlai	ēlai	eː l ai	cent1973		31.9153	69.4529	
 58801	60_duck	Duck	PASHTOOFKANDAHAR	PASHTO_OF_KANDAHAR	hīlai	hīlai	h iː l ai	sout2649		37.17	68.25	
@@ -10457,7 +10457,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 25244	119_eat	Eat	SAVARA	SAVARA	gā	gā	g ʌː	sora1254		19.1213	84.19	
 25245	119_eat	Eat	GADABA	GADABA	sōm	sōm	s oː m	bodo1267		18.3857	82.771	
 25246	119_eat	Eat	GADABA	GADABA	gā	gā	g ʌː	bodo1267		18.3857	82.771	
-25247	119_eat	Eat	MANDARIN	MANDARIN	˨ ch’i°	ch’i°˨	tʃʰ i ²	mand1415		40.0209	116.228	
+25247	119_eat	Eat	MANDARIN	MANDARIN	˨ ch’i°	ch’i°˨	tɕʰ i ²	mand1415		40.0209	116.228	
 25248	119_eat	Eat	CANTONESE	CANTONESE	˨˩ šiᵏ	šiᵏ˨˩	ʃ i k̚ ²¹	cant1236				
 25249	119_eat	Eat	CANTONESE	CANTONESE	˥˦ yåᵏ	yåᵏ˥˦	j ɔ k̚ ⁵⁴	cant1236				
 25250	119_eat	Eat	GYAOMI	GYAOMI	t’yai	t’yai	t̪ʰ j ai	mand1415		40.0209	116.228	
@@ -10700,8 +10700,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 25487	119_eat	Eat	CHILASIOFDRAS	CHILASI_OF_DRAS	kē-	kē-	k eː	dras1242				
 25488	119_eat	Eat	CHILASIOFDRAS	CHILASI_OF_DRAS	k’ē-	k’ē-	kʰ eː	dras1242				
 25489	119_eat	Eat	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	k’ā-	k’ā-	kʰ ʌː	brok1247		34.5308	76.6026	
-25490	119_eat	Eat	KASHMIRI	KASHMIRI	k’ě-	k’ě-	kʰ ə	kash1277		34.166825	74.330455	
-25491	119_eat	Eat	KASHTAWARI	KASHTAWARI	k’ě-	k’ě-	kʰ ə	kish1245				
+25490	119_eat	Eat	KASHMIRI	KASHMIRI	k’ě-	k’ě-	kʰ e	kash1277		34.166825	74.330455	
+25491	119_eat	Eat	KASHTAWARI	KASHTAWARI	k’ě-	k’ě-	kʰ e	kish1245				
 25492	119_eat	Eat	POGULI	POGULI	k’āl-	k’āl-	kʰ ʌː l	pogu1238				
 25493	119_eat	Eat	DODASIRAJI	DODA_SIRAJI	k’ā-	k’ā-	kʰ ʌː	sira1264				
 25494	119_eat	Eat	RAMBANI	RAMBANI	k’ā-	k’ā-	kʰ ʌː	ramb1240				
@@ -10825,14 +10825,14 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1162	8_eight	Eight	KHASISTANDARD	KHASI_STANDARD	p’rā	p’rā	pʰ r ʌː	khas1269		24.977	91.9998	
 1163	8_eight	Eight	WAR	WAR	hümpüā	hümpüā	h y m p y ʌː	warj1242		25.1154	91.6266	
 1164	8_eight	Eight	NICOBARESE	NICOBARESE	enfōan	enfōan	e n̪ f oː ʌ n̪	cent1990		7.94812	93.3921	
-1165	8_eight	Eight	KHERWARISANTHALI	KHERWARI_SANTHALI	irạ̄l	irạ̄l	i r ʌː l	sant1410		25.0317	87.8185	
+1165	8_eight	Eight	KHERWARISANTHALI	KHERWARI_SANTHALI	irạ̄l	irạ̄l	i r aː l	sant1410		25.0317	87.8185	
 1166	8_eight	Eight	MUNDARI	MUNDARI	iral	iral	i r ʌ l	mund1320		23.03	85.85	
 1167	8_eight	Eight	MUNDARI	MUNDARI	iril	iril	i r i l	mund1320		23.03	85.85	
 1168	8_eight	Eight	KURKU	KURKU	ilār	ilār	i l ʌː r	kork1243		21.8358	77.5541	
 1169	8_eight	Eight	KHARIA	KHARIA	t’am	t’am	t̪ʰ ʌ m	khar1287		22.3571	84.3922	
 1170	8_eight	Eight	SAVARA	SAVARA	tamji	tamji	t̪ ʌ m dʒ i	sora1254		19.1213	84.19	
 1171	8_eight	Eight	GADABA	GADABA	bāgu punza	bāgu punza	b ʌː g u + p u n̪ z ʌ	bodo1267		18.3857	82.771	
-1172	8_eight	Eight	MANDARIN	MANDARIN	˨ pā°	pā°˨	p ʌː ²	mand1415		40.0209	116.228	
+1172	8_eight	Eight	MANDARIN	MANDARIN	˨ pā°	pā°˨	p a ²	mand1415		40.0209	116.228	
 1173	8_eight	Eight	CANTONESE	CANTONESE	˥˦ pat	pat˥˦	p ʌ t̪ ⁵⁴	cant1236				
 1174	8_eight	Eight	GYAOMI	GYAOMI	pà-kū	pà-kū	p a + k uː	mand1415		40.0209	116.228	
 1175	8_eight	Eight	GYAOMI	GYAOMI	pà	pà	p a	mand1415		40.0209	116.228	
@@ -11080,7 +11080,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1417	8_eight	Eight	TORWALI	TORWALI	aṭ	aṭ	ʌ ʈ	torw1241		35.3101	72.5316	
 1418	8_eight	Eight	MAIYA	MAIYA	āṭ’	āṭ’	ʌː ʈʰ	indu1241		35.3389	73.0154	
 1419	8_eight	Eight	GYPSYEUROPEAN	GYPSY_EUROPEAN	oꭓtō (Greek)	oꭓtō	o x t̪ oː					
-1420	8_eight	Eight	GYPSYSYRIAN	GYPSY_SYRIAN	ḥaišt̤	ḥaišt̤	h ai ʃ tˤ					
+1420	8_eight	Eight	GYPSYSYRIAN	GYPSY_SYRIAN	ḥaišt̤	ḥaišt̤	h ai ʃ t					
 1421	8_eight	Eight	SANSKRIT	SANSKRIT	aṣṭau	aṣṭau	ʌ ʂ ʈ au	sans1269		20.0	77.0	
 1422	8_eight	Eight	PRAKRIT	PRAKRIT	aṭṭ’a	aṭṭ’a	ʌ ʈ ʈʰ ʌ	saur1252		27.46	77.56	
 1423	8_eight	Eight	KHETRANI	KHETRANI	aṭ’	aṭ’	ʌ ʈʰ	khet1238		30.4799	70.2828	
@@ -11448,7 +11448,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 48916	29_eye	Eye	GAWARBATI	GAWAR_BATI	iṯs̱in	iṯs̱in	i ts i n̪	gawa1247		35.1982	71.5428	
 48917	29_eye	Eye	PASHAIEASTERN	PASHAI_EASTERN	anch	anch	ʌ n̪ tʃ	sout2672		34.43099	70.30351	
 48918	29_eye	Eye	PASHAIWESTERN	PASHAI_WESTERN	anch	anch	ʌ n̪ tʃ	sout2671		34.8478	69.8734	
-48919	29_eye	Eye	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	ɣěch	ɣěch	ɣ ə tʃ	khow1242		36.0	72.0	
+48919	29_eye	Eye	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	ɣěch	ɣěch	ɣ e tʃ	khow1242		36.0	72.0	
 48920	29_eye	Eye	SHINAGILGITI	SHINA_GILGITI	ǎc̣ḥi	ǎc̣ḥi	æ c h i	gilg1242				
 48921	29_eye	Eye	SHINAGILGITI	SHINA_GILGITI	àc̣ḥi	àc̣ḥi	a c h i	gilg1242				
 48922	29_eye	Eye	CHILASI	CHILASI	ašī	ašī	ʌ ʃ iː	shin1264		34.6515	75.287	
@@ -11562,7 +11562,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 49030	29_eye	Eye	GADI	GADI	hākk’rī	hākk’rī	h ʌː k kʰ r iː	gadi1238				
 49031	29_eye	Eye	GADI	GADI	hāk’ar	hāk’ar	h ʌː kʰ ʌ r	gadi1238				
 49032	29_eye	Eye	PANGWALI	PANGWALI	ṭir	ṭir	ʈ i r	pang1282		32.9753	76.5569	
-49033	29_eye	Eye	BHADRAWAHI	BHADRAWAHI	ěṯs̱’ī	ěṯs̱’ī	ə tsʰ iː	bhad1241		33.2851	75.8707	
+49033	29_eye	Eye	BHADRAWAHI	BHADRAWAHI	ěṯs̱’ī	ěṯs̱’ī	e tsʰ iː	bhad1241		33.2851	75.8707	
 49034	29_eye	Eye	BHADRAWAHI	BHADRAWAHI	aṯs̱’	aṯs̱’	ʌ tsʰ	bhad1241		33.2851	75.8707	
 49035	29_eye	Eye	PADARI	PADARI	ṭīr	ṭīr	ʈ iː r	pada1256				
 #
@@ -11585,7 +11585,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 20865	108_far	Far	SAKAI	SAKAI	ñà	ñà	ɲ a	seno1278				
 20866	108_far	Far	SEMANG	SEMANG	mᵉjī’	mᵉjī’	m ĕ dʒ iː	nort2682				
 20867	108_far	Far	SEMANG	SEMANG	menjī’	menjī’	m e n̪ dʒ iː	nort2682				
-20868	108_far	Far	PALAUNG	PALAUNG	s’ạ-ṅai	s’ạ-ṅai	sʰ ø̜ + ŋ ai	ruma1248		23.6404	97.3172	
+20868	108_far	Far	PALAUNG	PALAUNG	s’ạ-ṅai	s’ạ-ṅai	sʰ a + ŋ ai	ruma1248		23.6404	97.3172	
 20869	108_far	Far	DARANG	DARANG	toṅ	toṅ	t̪ o ŋ	ruch1235		21.6176	98.0915	
 20870	108_far	Far	WA	WA	ṅai	ṅai	ŋ ai	nucl1290		23.1024	99.108	
 20871	108_far	Far	WA	WA	ṅe	ṅe	ŋ e	nucl1290		23.1024	99.108	
@@ -11601,7 +11601,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 20881	108_far	Far	KHASISTANDARD	KHASI_STANDARD	jiṅ-ṅāi	jiṅ-ṅāi	dʒ i ŋ + ŋ aːi	khas1269		24.977	91.9998	
 20882	108_far	Far	WAR	WAR	š’ṅūi	š’ṅūi	ʃ ŋ uː i	warj1242		25.1154	91.6266	
 20883	108_far	Far	NICOBARESE	NICOBARESE	höi	höi	h ø i	cent1990		7.94812	93.3921	
-20884	108_far	Far	KHERWARISANTHALI	KHERWARI_SANTHALI	sạ̄ṅgīñ	sạ̄ṅgīñ	s ʌː ŋ g iː ɲ	sant1410		25.0317	87.8185	
+20884	108_far	Far	KHERWARISANTHALI	KHERWARI_SANTHALI	sạ̄ṅgīñ	sạ̄ṅgīñ	s aː ŋ g iː ɲ	sant1410		25.0317	87.8185	
 20885	108_far	Far	KHERWARISANTHALI	KHERWARI_SANTHALI	laṅka	laṅka	l ʌ ŋ k ʌ	sant1410		25.0317	87.8185	
 20886	108_far	Far	MUNDARI	MUNDARI	sāṅgīn	sāṅgīn	s ʌː ŋ g iː n̪	mund1320		23.03	85.85	
 20887	108_far	Far	KURKU	KURKU	laṅkan	laṅkan	l ʌ ŋ k ʌ n̪	kork1243		21.8358	77.5541	
@@ -11612,7 +11612,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 20892	108_far	Far	SAVARA	SAVARA	sāṅayi	sāṅayi	s ʌː ŋ ʌ j i	sora1254		19.1213	84.19	
 20893	108_far	Far	GADABA	GADABA	sulōṅg	sulōṅg	s u l oː ŋ g	bodo1267		18.3857	82.771	
 20894	108_far	Far	GADABA	GADABA	saṅgāyi	saṅgāyi	s ʌ ŋ g ʌː j i	bodo1267		18.3857	82.771	
-20895	108_far	Far	MANDARIN	MANDARIN	˨˦ yüan	yüan˨˦	j y ʌ n̪ ²⁴	mand1415		40.0209	116.228	
+20895	108_far	Far	MANDARIN	MANDARIN	˨˦ yüan	yüan˨˦	j y a n̪ ²⁴	mand1415		40.0209	116.228	
 20896	108_far	Far	CANTONESE	CANTONESE	˩˨ yün	yün˩˨	j y n̪ ¹²	cant1236				
 20897	108_far	Far	GYAOMI	GYAOMI	ywain	ywain	j w ai n̪	mand1415		40.0209	116.228	
 20898	108_far	Far	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧ klai	klai˧	k l ai ³	thai1261		14.192	100.671	
@@ -12493,7 +12493,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 26357	12_fifty	Fifty	KURKU	KURKU	aṛhāī īsā	aṛhāī īsā	ʌ ɽ h ʌː iː + iː s ʌː	kork1243		21.8358	77.5541	
 26358	12_fifty	Fifty	SAVARA	SAVARA	bāgu koḍi galji	bāgu koḍi galji	b ʌː g u + k o ɖ i + g ʌ l dʒ i	sora1254		19.1213	84.19	
 26359	12_fifty	Fifty	GADABA	GADABA	bāgu mika galigi	bāgu mika galigi	b ʌː g u + m i k ʌ + g ʌ l i g i	bodo1267		18.3857	82.771	
-26360	12_fifty	Fifty	MANDARIN	MANDARIN	˨˧ wu ˨ sza°	wu˨˧sza°˨	w u ²³ + s z ʌ ²	mand1415		40.0209	116.228	
+26360	12_fifty	Fifty	MANDARIN	MANDARIN	˨˧ wu ˨ sza°	wu˨˧sza°˨	w u ²³ + s ɿ ²	mand1415		40.0209	116.228	
 26361	12_fifty	Fifty	CANTONESE	CANTONESE	˩˨ ṅ ˨˩ šap	ṅ˩˨šap˨˩	ŋ ¹² + ʃ ʌ p ²¹	cant1236				
 26362	12_fifty	Fifty	GYAOMI	GYAOMI	wū-sà	wū-sà	w uː + s a	mand1415		40.0209	116.228	
 26363	12_fifty	Fifty	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧˨ hā ˨ sip	hā˧˨sip˨	h ʌː ³² + s i p ²	thai1261		14.192	100.671	
@@ -12718,7 +12718,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 26582	12_fifty	Fifty	HINDKI	HINDKI	pañhā	pañhā	p ʌ ɲ h ʌː	sout2668		33.2122	72.1702	
 26583	12_fifty	Fifty	THALI	THALI	pañāh	pañāh	p ʌ ɲ ʌː h	thal1241				
 26584	12_fifty	Fifty	DHANNI	DHANNI	pañāh	pañāh	p ʌ ɲ ʌː h					
-26585	12_fifty	Fifty	TINAULI	TINAULI	dāh tě chālī	dāh tě chālī	d̪ ʌː h + t̪ ə + tʃ ʌː l iː					
+26585	12_fifty	Fifty	TINAULI	TINAULI	dāh tě chālī	dāh tě chālī	d̪ ʌː h + t̪ e + tʃ ʌː l iː					
 26586	12_fifty	Fifty	TINAULIOFSALTRANGE	TINAULI_OF_SALT_RANGE	pañāh	pañāh	p ʌ ɲ ʌː h					
 26587	12_fifty	Fifty	POTHWARI	POTHWARI	pañāh	pañāh	p ʌ ɲ ʌː h	poth1238				
 26588	12_fifty	Fifty	CHIBHALI	CHIBHALI	pañāh	pañāh	p ʌ ɲ ʌː h	chib1247				
@@ -12770,7 +12770,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 26634	12_fifty	Fifty	RAJASTHANIMARWARI	RAJASTHANI_MARWARI	pachās	pachās	p ʌ tʃ ʌː s	marw1260		27.002	75.0656	
 26635	12_fifty	Fifty	JAIPURI	JAIPURI	pachās	pachās	p ʌ tʃ ʌː s	dhun1238		26.473	76.198	
 26636	12_fifty	Fifty	MEWATI	MEWATI	pãchās	pãchās	p ã tʃ ʌː s	mewa1249		24.57	73.68	
-26637	12_fifty	Fifty	GUJURIOFHAZARA	GUJURI_OF_HAZARA	das tě chālī	das tě chālī	d̪ ʌ s + t̪ ə + tʃ ʌː l iː	guja1253		33.7	75.11	
+26637	12_fifty	Fifty	GUJURIOFHAZARA	GUJURI_OF_HAZARA	das tě chālī	das tě chālī	d̪ ʌ s + t̪ e + tʃ ʌː l iː	guja1253		33.7	75.11	
 26638	12_fifty	Fifty	MALVI	MALVI	pachās	pachās	p ʌ tʃ ʌː s	malv1243		23.488	75.562	
 26639	12_fifty	Fifty	NIMADI	NIMADI	pachās	pachās	p ʌ tʃ ʌː s	nima1243		22.1263	76.1264	
 26640	12_fifty	Fifty	LABHANIOFBERAR	LABHANI_OF_BERAR	pachās	pachās	p ʌ tʃ ʌː s	lamb1269		16.5734	76.9717	
@@ -12803,7 +12803,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 60143	49_fire	Fire	BASQUE	BASQUE	su	su	s u	basq1248		43.2787	-1.31622	
 60144	49_fire	Fire	BURUSHASKI	BURUSHASKI	p’ū	p’ū	pʰ uː	buru1296		36.2161	74.8236	
 60145	49_fire	Fire	MALAY	MALAY	àpi	àpi	a p i	baba1267		1.75414	103.076	
-60146	49_fire	Fire	CHAM	CHAM	àpu̯ěi	àpu̯ěi	a p w ə i	cham1328				
+60146	49_fire	Fire	CHAM	CHAM	àpu̯ěi	àpu̯ěi	a p w e i	cham1328				
 60147	49_fire	Fire	SALON	SALON	àpoi*	àpoi*	a p ɔɪ	moke1242		10.1474	98.6765	
 60148	49_fire	Fire	KHMER	KHMER	p’löṅ	p’löṅ	pʰ l ø ŋ	cent1989		12.0515	105.015	
 60149	49_fire	Fire	TALAINGWRITTEN	TALAING_WRITTEN	pmat	pmat	p m ʌ t̪	monn1252		15.49394	98.122465	
@@ -14029,7 +14029,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 3571	4_four	Four	SAVARA	SAVARA	uñji	uñji	u ɲ dʒ i	sora1254		19.1213	84.19	
 3572	4_four	Four	GADABA	GADABA	uun-rō	uun-rō	u u n̪ + r oː	bodo1267		18.3857	82.771	
 3573	4_four	Four	GADABA	GADABA	vunigi	vunigi	v u n̪ i g i	bodo1267		18.3857	82.771	
-3574	4_four	Four	MANDARIN	MANDARIN	˧˨ sza	sza˧˨	s z ʌ ³²	mand1415		40.0209	116.228	
+3574	4_four	Four	MANDARIN	MANDARIN	˧˨ sza	sza˧˨	s ɿ ³²	mand1415		40.0209	116.228	
 3575	4_four	Four	CANTONESE	CANTONESE	˥˦ sz	sz˥˦	s z ⁵⁴	cant1236				
 3576	4_four	Four	GYAOMI	GYAOMI	si-kū	si-kū	s i + k uː	mand1415		40.0209	116.228	
 3577	4_four	Four	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨ sā	sā˨	s ʌː ²	thai1261		14.192	100.671	
@@ -14394,7 +14394,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 31570	124_give	Give	BASQUE	BASQUE	aurkeztu	aurkeztu	au r k e z t̪ u	basq1248		43.2787	-1.31622	
 31571	124_give	Give	BURUSHASKI	BURUSHASKI	yū	yū	j uː	buru1296		36.2161	74.8236	
 31572	124_give	Give	MALAY	MALAY	bari	bari	b ʌ r i	baba1267		1.75414	103.076	
-31573	124_give	Give	CHAM	CHAM	brěi	brěi	b r ə i	cham1328				
+31573	124_give	Give	CHAM	CHAM	brěi	brěi	b r e i	cham1328				
 31574	124_give	Give	KHMER	KHMER	oi	oi	ɔɪ	cent1989		12.0515	105.015	
 31575	124_give	Give	TALAINGWRITTEN	TALAING_WRITTEN	kuiw	kuiw	k u i w	monn1252		15.49394	98.122465	
 31576	124_give	Give	TALAINGSPOKEN	TALAING_SPOKEN	k’à	k’à	kʰ a					
@@ -14417,8 +14417,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 31593	124_give	Give	SAVARA	SAVARA	ti	ti	t̪ i	sora1254		19.1213	84.19	
 31594	124_give	Give	GADABA	GADABA	bē	bē	b eː	bodo1267		18.3857	82.771	
 31595	124_give	Give	GADABA	GADABA	tā	tā	t̪ ʌː	bodo1267		18.3857	82.771	
-31596	124_give	Give	MANDARIN	MANDARIN	˨ chī°	chī°˨	tʃ iː ²	mand1415		40.0209	116.228	
-31597	124_give	Give	MANDARIN	MANDARIN	˨˦ ka	ka˨˦	k ʌ ²⁴	mand1415		40.0209	116.228	
+31596	124_give	Give	MANDARIN	MANDARIN	˨ chī°	chī°˨	tɕ i ²	mand1415		40.0209	116.228	
+31597	124_give	Give	MANDARIN	MANDARIN	˨˦ ka	ka˨˦	k a ²⁴	mand1415		40.0209	116.228	
 31598	124_give	Give	CANTONESE	CANTONESE	˦˥ pä	pä˦˥	p ɛ ⁴⁵	cant1236				
 31599	124_give	Give	GYAOMI	GYAOMI	ki	ki	k i	mand1415		40.0209	116.228	
 31600	124_give	Give	GYAOMI	GYAOMI	yo-ho	yo-ho	j o + h o	mand1415		40.0209	116.228	
@@ -14824,7 +14824,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 24802	118_go	Go	SAVARA	SAVARA	mā	mā	m ʌː	sora1254		19.1213	84.19	
 24803	118_go	Go	GADABA	GADABA	i	i	i	bodo1267		18.3857	82.771	
 24804	118_go	Go	MANDARIN	MANDARIN	˦˨ k’ü	k’ü˦˨	kʰ y ⁴²	mand1415		40.0209	116.228	
-24805	118_go	Go	MANDARIN	MANDARIN	˦˨ k’a	k’a˦˨	kʰ ʌ ⁴²	mand1415		40.0209	116.228	
+24805	118_go	Go	MANDARIN	MANDARIN	˦˨ k’a	k’a˦˨	kʰ a ⁴²	mand1415		40.0209	116.228	
 24806	118_go	Go	CANTONESE	CANTONESE	˥˦ hui	hui˥˦	h u i ⁵⁴	cant1236				
 24807	118_go	Go	GYAOMI	GYAOMI	ch’i	ch’i	tʃʰ i	mand1415		40.0209	116.228	
 24808	118_go	Go	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧ pai	pai˧	p ai ³	thai1261		14.192	100.671	
@@ -15259,7 +15259,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 54186	44_god	God	SAVARA	SAVARA	Kituṅ	Kituṅ	k i t̪ u ŋ	sora1254		19.1213	84.19	
 54187	44_god	God	SAVARA	SAVARA	Sōnum	Sōnum	s oː n̪ u m	sora1254		19.1213	84.19	
 54188	44_god	God	GADABA	GADABA	Kītuōm	Kītuōm	k iː t̪ u oː m	bodo1267		18.3857	82.771	
-54189	44_god	God	MANDARIN	MANDARIN	˦ T’yēn	T’yēn˦	t̪ j eː n̪ ⁴	mand1415		40.0209	116.228	
+54189	44_god	God	MANDARIN	MANDARIN	˦ T’yēn	T’yēn˦	t j ɛ n̪ ⁴	mand1415		40.0209	116.228	
 54190	44_god	God	CANTONESE	CANTONESE	˨ Šan	Šan˨	ʃ ʌ n̪ ²	cant1236				
 54191	44_god	God	SIAMESEWRITTEN	SIAMESE_WRITTEN	˦ Brǎ ˦˨ chau	Brǎ˦chau˦˨	b r æ ⁴ + tʃ au ⁴²	thai1261		14.192	100.671	
 54192	44_god	God	SIAMESESPOKEN	SIAMESE_SPOKEN	˦ P’rǎ ˦˨ chau	P’rǎ˦chau˦˨	p r æ ⁴ + tʃ au ⁴²					
@@ -15811,7 +15811,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 52773	39_gold	Gold	AVESTAN	AVESTAN	zairi-	zairi-	z ai r i	aves1237		31.541	53.633	
 52774	39_gold	Gold	PAHLAVI	PAHLAVI	zar	zar	z ʌ r	pahl1241		30.06	52.7	
 52775	39_gold	Gold	PERSIAN	PERSIAN	zar	zar	z ʌ r	west2369		32.9	53.3	
-52776	39_gold	Gold	PERSIAN	PERSIAN	t̤illā	t̤illā	tˤ i l l ʌː	west2369		32.9	53.3	
+52776	39_gold	Gold	PERSIAN	PERSIAN	t̤illā	t̤illā	t i l l ʌː	west2369		32.9	53.3	
 52777	39_gold	Gold	PASHTOOFPESHAWAR	PASHTO_OF_PESHAWAR	srᵃ zar	srᵃ zar	s r ă + z ʌ r	nort2646		34.0	71.33	
 52778	39_gold	Gold	WAZIRI	WAZIRI	sra zar	sra zar	s r ʌ + z ʌ r	cent1973		31.9153	69.4529	
 52779	39_gold	Gold	PASHTOOFKANDAHAR	PASHTO_OF_KANDAHAR	sra zar	sra zar	s r ʌ + z ʌ r	sout2649		37.17	68.25	
@@ -15930,7 +15930,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 52892	39_gold	Gold	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	sunnō	sunnō	s u n̪ n̪ oː	jaun1243		30.5587	77.9084	
 52893	39_gold	Gold	SIRMAURI	SIRMAURI	sūnō	sūnō	s uː n̪ oː	sirm1239		31.1	77.17	
 52894	39_gold	Gold	BAGHATI	BAGHATI	sunā	sunā	s u n̪ ʌː	bagh1249				
-52895	39_gold	Gold	KIUTHALI	KIUTHALI	sōěnā	sōěnā	s oː ə n̪ ʌː	kiun1241				
+52895	39_gold	Gold	KIUTHALI	KIUTHALI	sōěnā	sōěnā	s oː e n̪ ʌː	kiun1241				
 52896	39_gold	Gold	SHODOCHI	SHODOCHI	sūnau	sūnau	s uː n̪ au	maha1287		31.0088	77.5317	
 52897	39_gold	Gold	KULUI	KULUI	sunā	sunā	s u n̪ ʌː	kllu1238				
 52898	39_gold	Gold	MANDEALI	MANDEALI	suīnā	suīnā	s u iː n̪ ʌː	mand1409		31.5425	77.0419	
@@ -15993,7 +15993,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 50276	33_hair	Hair	SAVARA	SAVARA	ū	ū	uː	sora1254		19.1213	84.19	
 50277	33_hair	Hair	GADABA	GADABA	iṅgbō	iṅgbō	i ŋ g b oː	bodo1267		18.3857	82.771	
 50278	33_hair	Hair	GADABA	GADABA	tikkōyi	tikkōyi	t̪ i k k oː j i	bodo1267		18.3857	82.771	
-50279	33_hair	Hair	MANDARIN	MANDARIN	(human) ˨ fā°	fā°˨	f ʌː ²	mand1415		40.0209	116.228	
+50279	33_hair	Hair	MANDARIN	MANDARIN	(human) ˨ fā°	fā°˨	f a ²	mand1415		40.0209	116.228	
 50280	33_hair	Hair	CANTONESE	CANTONESE	(of head) ˨ t’au ˥˦ fā^t	t’au˨fā^t˥˦	t̪ʰ au ² + f ʌː t̪ ⁵⁴	cant1236				
 50281	33_hair	Hair	GYAOMI	GYAOMI	t’au-p’wå	t’au-p’wå	t̪ʰ au + pʰ w ɔ	mand1415		40.0209	116.228	
 50282	33_hair	Hair	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨˦ p’om	p’om˨˦	pʰ o m ²⁴	thai1261		14.192	100.671	
@@ -16271,12 +16271,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 50554	33_hair	Hair	WAIALA	WAI_ALA	chorok	chorok	tʃ o r o k	waig1243		35.0358	70.9761	
 50555	33_hair	Hair	WASIVERIORVERON	WASI_VERI_OR_VERON	žui	žui	ʒ u i	pras1239		35.1731	70.8004	
 50556	33_hair	Hair	KALASHA	KALASHA	chūṛi	chūṛi	tʃ uː ɽ i	kala1372		35.6415	71.6657	
-50557	33_hair	Hair	GAWARBATI	GAWAR_BATI	k’ěs (one hair)	k’ěs	kʰ ə s	gawa1247		35.1982	71.5428	
+50557	33_hair	Hair	GAWARBATI	GAWAR_BATI	k’ěs (one hair)	k’ěs	kʰ e s	gawa1247		35.1982	71.5428	
 50558	33_hair	Hair	GAWARBATI	GAWAR_BATI	ṯs̱umuṭa (of head)	ṯs̱umuṭa	ts u m u ʈ ʌ	gawa1247		35.1982	71.5428	
 50559	33_hair	Hair	PASHAIEASTERN	PASHAI_EASTERN	chāl	chāl	tʃ ʌː l	sout2672		34.43099	70.30351	
 50560	33_hair	Hair	PASHAIWESTERN	PASHAI_WESTERN	chāl	chāl	tʃ ʌː l	sout2671		34.8478	69.8734	
 50561	33_hair	Hair	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	drō (one hair)	drō	d̪ r oː	khow1242		36.0	72.0	
-50562	33_hair	Hair	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	prěšū	prěšū	p r ə ʃ uː	khow1242		36.0	72.0	
+50562	33_hair	Hair	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	prěšū	prěšū	p r e ʃ uː	khow1242		36.0	72.0	
 50563	33_hair	Hair	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	p’ur (of head)	p’ur	pʰ u r	khow1242		36.0	72.0	
 50564	33_hair	Hair	SHINAGILGITI	SHINA_GILGITI	bālo (one hair)	bālo	b ʌː l o	gilg1242				
 50565	33_hair	Hair	SHINAGILGITI	SHINA_GILGITI	jakur	jakur	dʒ ʌ k u r	gilg1242				
@@ -16439,8 +16439,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 47499	26_hand	Hand	SAVARA	SAVARA	si	si	s i	sora1254		19.1213	84.19	
 47500	26_hand	Hand	GADABA	GADABA	tītī	tītī	t̪ iː t̪ iː	bodo1267		18.3857	82.771	
 47501	26_hand	Hand	GADABA	GADABA	siyyī	siyyī	s i j j iː	bodo1267		18.3857	82.771	
-47502	26_hand	Hand	MANDARIN	MANDARIN	˨˧ šō	šō˨˧	ʃ oː ²³	mand1415		40.0209	116.228	
-47503	26_hand	Hand	MANDARIN	MANDARIN	˨˧ sō	sō˨˧	s oː ²³	mand1415		40.0209	116.228	
+47502	26_hand	Hand	MANDARIN	MANDARIN	˨˧ šō	šō˨˧	ʐ o ²³	mand1415		40.0209	116.228	
+47503	26_hand	Hand	MANDARIN	MANDARIN	˨˧ sō	sō˨˧	s o ²³	mand1415		40.0209	116.228	
 47504	26_hand	Hand	CANTONESE	CANTONESE	˦˥ šau	šau˦˥	ʃ au ⁴⁵	cant1236				
 47505	26_hand	Hand	GYAOMI	GYAOMI	šū	šū	ʃ uː	mand1415		40.0209	116.228	
 47506	26_hand	Hand	GYAOMI	GYAOMI	šö	šö	ʃ ø	mand1415		40.0209	116.228	
@@ -16852,7 +16852,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 45513	22_he	He	JUANG	JUANG	ār	ār	ʌː r	juan1238		21.2606	85.5845	
 45514	22_he	He	SAVARA	SAVARA	anin	anin	ʌ n̪ i n̪	sora1254		19.1213	84.19	
 45515	22_he	He	GADABA	GADABA	māy	māy	m ʌː j	bodo1267		18.3857	82.771	
-45516	22_he	He	MANDARIN	MANDARIN	˦ t’a	t’a˦	t̪ʰ ʌ ⁴	mand1415		40.0209	116.228	
+45516	22_he	He	MANDARIN	MANDARIN	˦ t’a	t’a˦	tʰ a ⁴	mand1415		40.0209	116.228	
 45517	22_he	He	CANTONESE	CANTONESE	˩˨ k’ui	k’ui˩˨	kʰ u i ¹²	cant1236				
 45518	22_he	He	GYAOMI	GYAOMI	t’å	t’å	t̪ʰ ɔ	mand1415		40.0209	116.228	
 45519	22_he	He	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨˧ k’au	k’au˨˧	kʰ au ²³	thai1261		14.192	100.671	
@@ -17383,8 +17383,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 50723	34_head	Head	SAVARA	SAVARA	bob	bob	b o b	sora1254		19.1213	84.19	
 50724	34_head	Head	GADABA	GADABA	bōk	bōk	b oː k	bodo1267		18.3857	82.771	
 50725	34_head	Head	GADABA	GADABA	b’ā	b’ā	bʰ ʌː	bodo1267		18.3857	82.771	
-50726	34_head	Head	MANDARIN	MANDARIN	˨˦ šo	šo˨˦	ʃ o ²⁴	mand1415		40.0209	116.228	
-50727	34_head	Head	MANDARIN	MANDARIN	˨ t’ō	t’ō˨	t̪ʰ oː ²	mand1415		40.0209	116.228	
+50726	34_head	Head	MANDARIN	MANDARIN	˨˦ šo	šo˨˦	ʐ o ²⁴	mand1415		40.0209	116.228	
+50727	34_head	Head	MANDARIN	MANDARIN	˨ t’ō	t’ō˨	tʰ o ²	mand1415		40.0209	116.228	
 50728	34_head	Head	CANTONESE	CANTONESE	˨ t’au	t’au˨	t̪ʰ au ²	cant1236				
 50729	34_head	Head	GYAOMI	GYAOMI	t’au	t’au	t̪ʰ au	mand1415		40.0209	116.228	
 50730	34_head	Head	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨˦ huà	huà˨˦	h u a ²⁴	thai1261		14.192	100.671	
@@ -18094,7 +18094,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 19572	104_high	High	MANDEALI	MANDEALI	uchchā	uchchā	u tʃ tʃ ʌː	mand1409		31.5425	77.0419	
 19573	104_high	High	CHAMEALI	CHAMEALI	uchchā	uchchā	u tʃ tʃ ʌː	cham1307		32.5476	76.1796	
 19574	104_high	High	GADI	GADI	ut’ṛā	ut’ṛā	u t̪ʰ ɽ ʌː	gadi1238				
-19575	104_high	High	PANGWALI	PANGWALI	ut’ěā	ut’ěā	u t̪ʰ ə ʌː	pang1282		32.9753	76.5569	
+19575	104_high	High	PANGWALI	PANGWALI	ut’ěā	ut’ěā	u t̪ʰ e ʌː	pang1282		32.9753	76.5569	
 19576	104_high	High	BHADRAWAHI	BHADRAWAHI	uchchā	uchchā	u tʃ tʃ ʌː	bhad1241		33.2851	75.8707	
 19577	104_high	High	PADARI	PADARI	ad’āmᵃ	ad’āmᵃ	ʌ d̪ʰ ʌː m ă	pada1256				
 #
@@ -18147,7 +18147,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 46046	23_his	His	JUANG	JUANG	ār-ā (P.)	ār-ā	ʌː r + ʌː	juan1238		21.2606	85.5845	
 46047	23_his	His	SAVARA	SAVARA	anin-ā (P.)	anin-ā	ʌ n̪ i n̪ + ʌː	sora1254		19.1213	84.19	
 46048	23_his	His	GADABA	GADABA	māy-nū (P.)	māy-nū	m ʌː j + n̪ uː	bodo1267		18.3857	82.771	
-46049	23_his	His	MANDARIN	MANDARIN	˦ t’ā ˨ ti° (P.)	t’ā˦ti°˨	t̪ʰ ʌː ⁴ + t̪ i ²	mand1415		40.0209	116.228	
+46049	23_his	His	MANDARIN	MANDARIN	˦ t’ā ˨ ti° (P.)	t’ā˦ti°˨	tʰ a ⁴ + t i ²	mand1415		40.0209	116.228	
 46050	23_his	His	CANTONESE	CANTONESE	˩˨ k’ui ˥˦ kē (P.)	k’ui˩˨kē˥˦	kʰ u i ¹² + k eː ⁵⁴	cant1236				
 46051	23_his	His	GYAOMI	GYAOMI	t’å-ti	t’å-ti	t̪ʰ ɔ + t̪ i	mand1415		40.0209	116.228	
 46052	23_his	His	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨˧ k’aṅ ˨˧ k’au (F.)	k’aṅ˨˧k’au˨˧	kʰ ʌ ŋ ²³ + kʰ au ²³	thai1261		14.192	100.671	
@@ -18446,10 +18446,10 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 46345	23_his	His	KASHMIRI	KASHMIRI	tami-sondu	tami-sondu	t̪ ʌ m i + s o n̪ d̪ u	kash1277		34.166825	74.330455	
 46346	23_his	His	KASHMIRI	KASHMIRI	tasondu	tasondu	t̪ ʌ s o n̪ d̪ u	kash1277		34.166825	74.330455	
 46347	23_his	His	KASHTAWARI	KASHTAWARI	tyisun	tyisun	t̪ j i s u n̪	kish1245				
-46348	23_his	His	POGULI	POGULI	tyěsau	tyěsau	t̪ j ə s au	pogu1238				
-46349	23_his	His	POGULI	POGULI	těsau	těsau	t̪ ə s au	pogu1238				
+46348	23_his	His	POGULI	POGULI	tyěsau	tyěsau	t̪ j e s au	pogu1238				
+46349	23_his	His	POGULI	POGULI	těsau	těsau	t̪ e s au	pogu1238				
 46350	23_his	His	DODASIRAJI	DODA_SIRAJI	tē-tō	tē-tō	t̪ eː + t̪ oː	sira1264				
-46351	23_his	His	RAMBANI	RAMBANI	těsaũ	těsaũ	t̪ ə s ʌ ũ	ramb1240				
+46351	23_his	His	RAMBANI	RAMBANI	těsaũ	těsaũ	t̪ e s ʌ ũ	ramb1240				
 46352	23_his	His	RAMBANI	RAMBANI	tis	tis	t̪ i s	ramb1240				
 46353	23_his	His	RAMBANI	RAMBANI	usaũ	usaũ	u s ʌ ũ	ramb1240				
 46354	23_his	His	KOHISTANIGARWI	KOHISTANI_GARWI	asā̃	asā̃	ʌ s ãː	indu1241		35.3389	73.0154	
@@ -18570,20 +18570,20 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 46469	23_his	His	CENTRALPAHARIKUMAUNI	CENTRAL_PAHARI_KUMAUNI	wī-ko	wī-ko	w iː + k o	kuma1273		29.5622	80.0171	
 46470	23_his	His	GARHWALI	GARHWALI	wē-kō	wē-kō	w eː + k oː	garh1243		30.5061	78.7201	
 46471	23_his	His	GARHWALI	GARHWALI	ū-kō	ū-kō	uː + k oː	garh1243		30.5061	78.7201	
-46472	23_his	His	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	těs-kō	těs-kō	t̪ ə s + k oː	jaun1243		30.5587	77.9084	
-46473	23_his	His	SIRMAURI	SIRMAURI	těsrā	těsrā	t̪ ə s r ʌː	sirm1239		31.1	77.17	
-46474	23_his	His	BAGHATI	BAGHATI	těsrā	těsrā	t̪ ə s r ʌː	bagh1249				
-46475	23_his	His	KIUTHALI	KIUTHALI	těsrā	těsrā	t̪ ə s r ʌː	kiun1241				
+46472	23_his	His	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	těs-kō	těs-kō	t̪ e s + k oː	jaun1243		30.5587	77.9084	
+46473	23_his	His	SIRMAURI	SIRMAURI	těsrā	těsrā	t̪ e s r ʌː	sirm1239		31.1	77.17	
+46474	23_his	His	BAGHATI	BAGHATI	těsrā	těsrā	t̪ e s r ʌː	bagh1249				
+46475	23_his	His	KIUTHALI	KIUTHALI	těsrā	těsrā	t̪ e s r ʌː	kiun1241				
 46476	23_his	His	SHODOCHI	SHODOCHI	tēhrō	tēhrō	t̪ eː h r oː	maha1287		31.0088	77.5317	
-46477	23_his	His	SHODOCHI	SHODOCHI	těsro	těsro	t̪ ə s r o	maha1287		31.0088	77.5317	
+46477	23_his	His	SHODOCHI	SHODOCHI	těsro	těsro	t̪ e s r o	maha1287		31.0088	77.5317	
 46478	23_his	His	SHODOCHI	SHODOCHI	tēūō	tēūō	t̪ eː uː oː	maha1287		31.0088	77.5317	
 46479	23_his	His	KULUI	KULUI	tēīrā	tēīrā	t̪ eː iː r ʌː	kllu1238				
-46480	23_his	His	MANDEALI	MANDEALI	těsrā	těsrā	t̪ ə s r ʌː	mand1409		31.5425	77.0419	
+46480	23_his	His	MANDEALI	MANDEALI	těsrā	těsrā	t̪ e s r ʌː	mand1409		31.5425	77.0419	
 46481	23_his	His	CHAMEALI	CHAMEALI	usērā	usērā	u s eː r ʌː	cham1307		32.5476	76.1796	
 46482	23_his	His	GADI	GADI	usērā	usērā	u s eː r ʌː	gadi1238				
-46483	23_his	His	PANGWALI	PANGWALI	ěsā	ěsā	ə s ʌː	pang1282		32.9753	76.5569	
-46484	23_his	His	BHADRAWAHI	BHADRAWAHI	usěrū	usěrū	u s ə r uː	bhad1241		33.2851	75.8707	
-46485	23_his	His	BHADRAWAHI	BHADRAWAHI	tisěrū	tisěrū	t̪ i s ə r uː	bhad1241		33.2851	75.8707	
+46483	23_his	His	PANGWALI	PANGWALI	ěsā	ěsā	e s ʌː	pang1282		32.9753	76.5569	
+46484	23_his	His	BHADRAWAHI	BHADRAWAHI	usěrū	usěrū	u s e r uː	bhad1241		33.2851	75.8707	
+46485	23_his	His	BHADRAWAHI	BHADRAWAHI	tisěrū	tisěrū	t̪ i s e r uː	bhad1241		33.2851	75.8707	
 46486	23_his	His	PADARI	PADARI	tasar	tasar	t̪ ʌ s ʌ r	pada1256				
 #
 55701	52_horse	Horse	JAPANESE	JAPANESE	uma	uma	u m ʌ	nucl1643		35.0	135.0	
@@ -18629,7 +18629,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 55741	52_horse	Horse	GADABA	GADABA	kirkān	kirkān	k i r k ʌː n̪	bodo1267		18.3857	82.771	
 55742	52_horse	Horse	GADABA	GADABA	krutā	krutā	k r u t̪ ʌː	bodo1267		18.3857	82.771	
 55743	52_horse	Horse	GADABA	GADABA	kirtāk	kirtāk	k i r t̪ ʌː k	bodo1267		18.3857	82.771	
-55744	52_horse	Horse	MANDARIN	MANDARIN	˨˦ mā	mā˨˦	m ʌː ²⁴	mand1415		40.0209	116.228	
+55744	52_horse	Horse	MANDARIN	MANDARIN	˨˦ mā	mā˨˦	m a ²⁴	mand1415		40.0209	116.228	
 55745	52_horse	Horse	CANTONESE	CANTONESE	˩˨ mā	mā˩˨	m ʌː ¹²	cant1236				
 55746	52_horse	Horse	GYAOMI	GYAOMI	mà	mà	m a	mand1415		40.0209	116.228	
 55747	52_horse	Horse	SIAMESEWRITTEN	SIAMESE_WRITTEN	˦ ˦˨ mā	mā˦˦˨	m ʌː ⁴⁴ + ²	thai1261		14.192	100.671	
@@ -19033,7 +19033,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 55317	51_house	House	SAVARA	SAVARA	suṅ	suṅ	s u ŋ	sora1254		19.1213	84.19	
 55318	51_house	House	SAVARA	SAVARA	siṅ	siṅ	s i ŋ	sora1254		19.1213	84.19	
 55319	51_house	House	GADABA	GADABA	ḍiyēn	ḍiyēn	ɖ i j eː n̪	bodo1267		18.3857	82.771	
-55320	51_house	House	MANDARIN	MANDARIN	˨ fāṅ	fāṅ˨	f ʌː ŋ ²	mand1415		40.0209	116.228	
+55320	51_house	House	MANDARIN	MANDARIN	˨ fāṅ	fāṅ˨	f a ŋ ²	mand1415		40.0209	116.228	
 55321	51_house	House	MANDARIN	MANDARIN	˨ wu°	wu°˨	w u ²	mand1415		40.0209	116.228	
 55322	51_house	House	CANTONESE	CANTONESE	˦ uᵏ	uᵏ˦	u k̚ ⁴	cant1236				
 55323	51_house	House	GYAOMI	GYAOMI	š’àṅ-chà	š’àṅ-chà	ʃ a ŋ + tʃ a	mand1415		40.0209	116.228	
@@ -19043,7 +19043,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 55327	51_house	House	SIAMESESPOKEN	SIAMESE_SPOKEN	˦˨ bān	bān˦˨	b ʌː n̪ ⁴²					
 55328	51_house	House	LU	LU	hün	hün	h y n̪	luuu1242		21.0321	101.282	
 55329	51_house	House	KHUN	KHUN	rün	rün	r y n̪	khun1259		19.6062	99.3363	
-55330	51_house	House	SHAN	SHAN	˦ hạ̄n	hạ̄n˦	h ʌː n̪ ⁴	shan1277		21.5995	98.0342	
+55330	51_house	House	SHAN	SHAN	˦ hạ̄n	hạ̄n˦	h aː n̪ ⁴	shan1277		21.5995	98.0342	
 55331	51_house	House	AHOM	AHOM	rün	rün	r y n̪	ahom1240		27.2778	88.464	
 55332	51_house	House	KHAMTI	KHAMTI	hün	hün	h y n̪	kham1290		27.6653	97.0359	
 55333	51_house	House	VIETNAMESE	VIETNAMESE	˨˩ ñà	ñà˨˩	ɲ a ²¹	viet1252		20.681188	105.774071	
@@ -19430,7 +19430,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 26671	13_hundred	Hundred	KHMER	KHMER	roy	roy	r o j	cent1989		12.0515	105.015	
 26672	13_hundred	Hundred	TALAINGWRITTEN	TALAING_WRITTEN	mwai klam	mwai klam	m w ai + k l ʌ m	monn1252		15.49394	98.122465	
 26673	13_hundred	Hundred	TALAINGSPOKEN	TALAING_SPOKEN	klǒn	klǒn	k l ɒ n̪					
-26674	13_hundred	Hundred	PALAUNG	PALAUNG	ū pạ-ri-āꭓ	ū pạ-ri-āꭓ	uː + p ø̜ + r i + ʌː x	ruma1248		23.6404	97.3172	
+26674	13_hundred	Hundred	PALAUNG	PALAUNG	ū pạ-ri-āꭓ	ū pạ-ri-āꭓ	uː + p a + r i + ʌː x	ruma1248		23.6404	97.3172	
 26675	13_hundred	Hundred	PALAUNG	PALAUNG	ū pri-ā	ū pri-ā	uː + p r i + ʌː	ruma1248		23.6404	97.3172	
 26676	13_hundred	Hundred	KATURR	KATURR	ǔw pūṟṟ yat	ǔw pūṟṟ yat	ŏ w + p uː r r + j ʌ t̪					
 26677	13_hundred	Hundred	DARANG	DARANG	u-mē-yåɣ	u-mē-yåɣ	u + m eː + j ɔ ɣ	ruch1235		21.6176	98.0915	
@@ -19450,7 +19450,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 26691	13_hundred	Hundred	SAVARA	SAVARA	bo sua	bo sua	b o + s u ʌ	sora1254		19.1213	84.19	
 26692	13_hundred	Hundred	SAVARA	SAVARA	molloi koḍi	molloi koḍi	m o l l ɔɪ + k o ɖ i	sora1254		19.1213	84.19	
 26693	13_hundred	Hundred	GADABA	GADABA	monolōyi mika	monolōyi mika	m o n̪ o l oː j i + m i k ʌ	bodo1267		18.3857	82.771	
-26694	13_hundred	Hundred	MANDARIN	MANDARIN	˨ pa° (Pekin ˨˧ pai)	pa°˨	p ʌ ²	mand1415		40.0209	116.228	
+26694	13_hundred	Hundred	MANDARIN	MANDARIN	˨ pa° (Pekin ˨˧ pai)	pa°˨	p a ²	mand1415		40.0209	116.228	
 26695	13_hundred	Hundred	CANTONESE	CANTONESE	˦ yat ˥˦ pāk	yat˦pāk˥˦	j ʌ t̪ ⁴ + p ʌː k ⁵⁴	cant1236				
 26696	13_hundred	Hundred	GYAOMI	GYAOMI	ī-pai	ī-pai	iː + p ai	mand1415		40.0209	116.228	
 26697	13_hundred	Hundred	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧˧˨ råi	råi˧˧˨	r ɔ i ³³ + ²	thai1261		14.192	100.671	
@@ -19723,7 +19723,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 26964	13_hundred	Hundred	BENGALIWRITTEN	BENGALI_WRITTEN	ša	ša	ʃ ʌ	beng1280		24.0	90.0	
 26965	13_hundred	Hundred	BENGALISPOKEN	BENGALI_SPOKEN	šo	šo	ʃ o					
 26966	13_hundred	Hundred	BENGALISPOKEN	BENGALI_SPOKEN	šǒ	šǒ	ʃ ɒ					
-26967	13_hundred	Hundred	SOUTHWESTERNBENGALI	SOUTH_WESTERN_BENGALI	ěk sa	ěk sa	ə k + s ʌ	beng1280		24.0	90.0	
+26967	13_hundred	Hundred	SOUTHWESTERNBENGALI	SOUTH_WESTERN_BENGALI	ěk sa	ěk sa	e k + s ʌ	beng1280		24.0	90.0	
 26968	13_hundred	Hundred	SIRIPURIA	SIRIPURIA	sa	sa	s ʌ	siri1268				
 26969	13_hundred	Hundred	EASTERNBENGALI	EASTERN_BENGALI	ša	ša	ʃ ʌ	east2744				
 26970	13_hundred	Hundred	EASTERNBENGALIOFCACHAR	EASTERN_BENGALI_OF_CACHAR	ša	ša	ʃ ʌ	sylh1242		24.83724	92.25347	
@@ -20276,7 +20276,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 52185	38_iron	Iron	BASQUE	BASQUE	burni	burni	b u r n̪ i	basq1248		43.2787	-1.31622	
 52186	38_iron	Iron	BURUSHASKI	BURUSHASKI	ch’omar	ch’omar	tʃʰ o m ʌ r	buru1296		36.2161	74.8236	
 52187	38_iron	Iron	MALAY	MALAY	basi	basi	b ʌ s i	baba1267		1.75414	103.076	
-52188	38_iron	Iron	CHAM	CHAM	bàsěi	bàsěi	b a s ə i	cham1328				
+52188	38_iron	Iron	CHAM	CHAM	bàsěi	bàsěi	b a s e i	cham1328				
 52189	38_iron	Iron	SALON	SALON	b’choe	b’choe	bʰ tʃ o e	moke1242		10.1474	98.6765	
 52190	38_iron	Iron	KHMER	KHMER	dek	dek	d̪ e k	cent1989		12.0515	105.015	
 52191	38_iron	Iron	TALAINGWRITTEN	TALAING_WRITTEN	pasai	pasai	p ʌ s ai	monn1252		15.49394	98.122465	
@@ -20306,7 +20306,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 52215	38_iron	Iron	SAVARA	SAVARA	lwāṅ	lwāṅ	l w ʌː ŋ	sora1254		19.1213	84.19	
 52216	38_iron	Iron	GADABA	GADABA	ō̃sō̃n	ō̃sō̃n	õː s õː n̪	bodo1267		18.3857	82.771	
 52217	38_iron	Iron	GADABA	GADABA	vummaru	vummaru	v u m m ʌ r u	bodo1267		18.3857	82.771	
-52218	38_iron	Iron	MANDARIN	MANDARIN	˨ t’ye°	t’ye°˨	t̪ʰ j e ²	mand1415		40.0209	116.228	
+52218	38_iron	Iron	MANDARIN	MANDARIN	˨ t’ye°	t’ye°˨	tʰ j e ²	mand1415		40.0209	116.228	
 52219	38_iron	Iron	CANTONESE	CANTONESE	˥˦ t’īᵗ	t’īᵗ˥˦	t̪ʰ iː t̪̚ ⁵⁴	cant1236				
 52220	38_iron	Iron	GYAOMI	GYAOMI	t’ai	t’ai	t̪ʰ ai	mand1415		40.0209	116.228	
 52221	38_iron	Iron	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨ hlek	hlek˨	h l e k ²	thai1261		14.192	100.671	
@@ -20546,8 +20546,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 52455	38_iron	Iron	CHILASI	CHILASI	chimar (Burušaski)	chimar	tʃ i m ʌ r	shin1264		34.6515	75.287	
 52456	38_iron	Iron	CHILASIOFDRAS	CHILASI_OF_DRAS	chimir (Burušaski)	chimir	tʃ i m i r	dras1242				
 52457	38_iron	Iron	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	chingār	chingār	tʃ i ŋ ʌː r	brok1247		34.5308	76.6026	
-52458	38_iron	Iron	KASHMIRI	KASHMIRI	šěstᵃr	šěstᵃr	ʃ ə s t̪ ă r	kash1277		34.166825	74.330455	
-52459	38_iron	Iron	KASHTAWARI	KASHTAWARI	šět’ar	šět’ar	ʃ ə t̪ʰ ʌ r	kish1245				
+52458	38_iron	Iron	KASHMIRI	KASHMIRI	šěstᵃr	šěstᵃr	ʃ e s t̪ ă r	kash1277		34.166825	74.330455	
+52459	38_iron	Iron	KASHTAWARI	KASHTAWARI	šět’ar	šět’ar	ʃ e t̪ʰ ʌ r	kish1245				
 52460	38_iron	Iron	POGULI	POGULI	šahtar	šahtar	ʃ ʌ h t̪ ʌ r	pogu1238				
 52461	38_iron	Iron	DODASIRAJI	DODA_SIRAJI	lōhā	lōhā	l oː h ʌː	sira1264				
 52462	38_iron	Iron	RAMBANI	RAMBANI	lōhā	lōhā	l oː h ʌː	ramb1240				
@@ -20667,7 +20667,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 8493	73_man	Man	BURUSHASKI	BURUSHASKI	(vir) hir	hir	h i r	buru1296		36.2161	74.8236	
 8494	73_man	Man	MALAY	MALAY	(vir) oràṅ làki-làki yàṅ	oràṅ làki-làki yàṅ	o r a ŋ + l a k i + l a k i + j a ŋ	baba1267		1.75414	103.076	
 8495	73_man	Man	MALAY	MALAY	(homo) oràṅ	oràṅ	o r a ŋ	baba1267		1.75414	103.076	
-8496	73_man	Man	CHAM	CHAM	(vir) làkěi	làkěi	l a k ə i	cham1328				
+8496	73_man	Man	CHAM	CHAM	(vir) làkěi	làkěi	l a k e i	cham1328				
 8497	73_man	Man	CHAM	CHAM	(homo) uràṅ	uràṅ	u r a ŋ	cham1328				
 8498	73_man	Man	SALON	SALON	mànūt	mànūt	m a n̪ uː t̪	moke1242		10.1474	98.6765	
 8499	73_man	Man	SALON	SALON	mešà	mešà	m e ʃ a	moke1242		10.1474	98.6765	
@@ -20684,7 +20684,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 8510	73_man	Man	SAKAI	SAKAI	mōi	mōi	m oː i	seno1278				
 8511	73_man	Man	SEMANG	SEMANG	(vir) tᵉmkàl	tᵉmkàl	t̪ ĕ m k a l	nort2682				
 8512	73_man	Man	SEMANG	SEMANG	(homo) hemī’	hemī’	h e m iː	nort2682				
-8513	73_man	Man	SEMANG	SEMANG	měnik	měnik	m ə n̪ i k	nort2682				
+8513	73_man	Man	SEMANG	SEMANG	měnik	měnik	m e n̪ i k	nort2682				
 8514	73_man	Man	PALAUNG	PALAUNG	(vir) ī-mē	ī-mē	iː + m eː	ruma1248		23.6404	97.3172	
 8515	73_man	Man	PALAUNG	PALAUNG	(homo) bī	bī	b iː	ruma1248		23.6404	97.3172	
 8516	73_man	Man	KATURR	KATURR	(vir) ī-mě	ī-mě	iː + m ə					
@@ -20716,9 +20716,9 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 8542	73_man	Man	JUANG	JUANG	loka (Aryan)	loka	l o k ʌ	juan1238		21.2606	85.5845	
 8543	73_man	Man	SAVARA	SAVARA	maṇḍrā	maṇḍrā	m ʌ ɳ ɖ r ʌː	sora1254		19.1213	84.19	
 8544	73_man	Man	GADABA	GADABA	rēmal	rēmal	r eː m ʌ l	bodo1267		18.3857	82.771	
-8545	73_man	Man	MANDARIN	MANDARIN	(vir) ˨ nān	nān˨	n̪ ʌː n̪ ²	mand1415		40.0209	116.228	
-8546	73_man	Man	MANDARIN	MANDARIN	˨ lān	lān˨	l ʌː n̪ ²	mand1415		40.0209	116.228	
-8547	73_man	Man	MANDARIN	MANDARIN	(homo) ˨ žan	žan˨	ʒ ʌ n̪ ²	mand1415		40.0209	116.228	
+8545	73_man	Man	MANDARIN	MANDARIN	(vir) ˨ nān	nān˨	n a n̪ ²	mand1415		40.0209	116.228	
+8546	73_man	Man	MANDARIN	MANDARIN	˨ lān	lān˨	l a n̪ ²	mand1415		40.0209	116.228	
+8547	73_man	Man	MANDARIN	MANDARIN	(homo) ˨ žan	žan˨	ʐ a n̪ ²	mand1415		40.0209	116.228	
 8548	73_man	Man	CANTONESE	CANTONESE	(vir) ˨ nām	nām˨	n̪ ʌː m ²	cant1236				
 8549	73_man	Man	CANTONESE	CANTONESE	(homo) ˨ yan	yan˨	j ʌ n̪ ²	cant1236				
 8550	73_man	Man	GYAOMI	GYAOMI	rin	rin	r i n̪	mand1415		40.0209	116.228	
@@ -21248,7 +21248,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9074	73_man	Man	PANGWALI	PANGWALI	mahṇū	mahṇū	m ʌ h ɳ uː	pang1282		32.9753	76.5569	
 9075	73_man	Man	PANGWALI	PANGWALI	māhṇū	māhṇū	m ʌː h ɳ uː	pang1282		32.9753	76.5569	
 9076	73_man	Man	PANGWALI	PANGWALI	maṛd	maṛd	m ʌ ɽ d̪	pang1282		32.9753	76.5569	
-9077	73_man	Man	BHADRAWAHI	BHADRAWAHI	měṇū	měṇū	m ə ɳ uː	bhad1241		33.2851	75.8707	
+9077	73_man	Man	BHADRAWAHI	BHADRAWAHI	měṇū	měṇū	m e ɳ uː	bhad1241		33.2851	75.8707	
 9078	73_man	Man	BHADRAWAHI	BHADRAWAHI	maṛd	maṛd	m ʌ ɽ d̪	bhad1241		33.2851	75.8707	
 9079	73_man	Man	PADARI	PADARI	mauhṇū	mauhṇū	m au h ɳ uː	pada1256				
 9080	73_man	Man	PADARI	PADARI	mōhaṇ	mōhaṇ	m oː h ʌ ɳ	pada1256				
@@ -21267,7 +21267,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 11900	81_mare	Mare	KHMER	KHMER	seḥ ñi	seḥ ñi	s e h + ɲ i	cent1989		12.0515	105.015	
 11901	81_mare	Mare	TALAINGWRITTEN	TALAING_WRITTEN	k’yeh ḇo°	k’yeh ḇo°	kʰ j e h + b o	monn1252		15.49394	98.122465	
 11902	81_mare	Mare	TALAINGSPOKEN	TALAING_SPOKEN	chä böᵏ	chä böᵏ	tʃ ɛ + b ø k̚					
-11903	81_mare	Mare	PALAUNG	PALAUNG	brạ̄ṅ kạ-mā	brạ̄ṅ kạ-mā	b r ʌː ŋ + k ø̜ + m ʌː	ruma1248		23.6404	97.3172	
+11903	81_mare	Mare	PALAUNG	PALAUNG	brạ̄ṅ kạ-mā	brạ̄ṅ kạ-mā	b r ʌː ŋ + k a + m ʌː	ruma1248		23.6404	97.3172	
 11904	81_mare	Mare	KATURR	KATURR	bràṅ kǎ̀-mǎ̀	bràṅ kǎ̀-mǎ̀	b r a ŋ + k ă + m ă					
 11905	81_mare	Mare	WA	WA	möà màruàṅ	möà màruàṅ	m ø a + m a r u a ŋ	nucl1290		23.1024	99.108	
 11906	81_mare	Mare	DANAO	DANAO	mei θe (or se)	mei θe	m ei + θ e	dana1252		20.4957	96.998	
@@ -21281,8 +21281,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 11914	81_mare	Mare	JUANG	JUANG	g’oḍi (Aryan)	g’oḍi	gʰ o ɖ i	juan1238		21.2606	85.5845	
 11915	81_mare	Mare	SAVARA	SAVARA	yāṅ kurtā	yāṅ kurtā	j ʌː ŋ + k u r t̪ ʌː	sora1254		19.1213	84.19	
 11916	81_mare	Mare	GADABA	GADABA	iyōṅkā kirtāk	iyōṅkā kirtāk	i j oː ŋ k ʌː + k i r t̪ ʌː k	bodo1267		18.3857	82.771	
-11917	81_mare	Mare	MANDARIN	MANDARIN	˦˨ k’å ˨˦ mā	k’å˦˨mā˨˦	kʰ ɔ ⁴² + m ʌː ²⁴	mand1415		40.0209	116.228	
-11918	81_mare	Mare	MANDARIN	MANDARIN	˨˦ mu ˨˦ mā	mu˨˦mā˨˦	m u ²⁴ + m ʌː ²⁴	mand1415		40.0209	116.228	
+11917	81_mare	Mare	MANDARIN	MANDARIN	˦˨ k’å ˨˦ mā	k’å˦˨mā˨˦	kʰ ɔ ⁴² + m a ²⁴	mand1415		40.0209	116.228	
+11918	81_mare	Mare	MANDARIN	MANDARIN	˨˦ mu ˨˦ mā	mu˨˦mā˨˦	m u ²⁴ + m a ²⁴	mand1415		40.0209	116.228	
 11919	81_mare	Mare	CANTONESE	CANTONESE	˩˨ mā ˩˨ mō	mā˩˨mō˩˨	m ʌː ¹² + m oː ¹²	cant1236				
 11920	81_mare	Mare	SIAMESEWRITTEN	SIAMESE_WRITTEN	˦ ˦˨ mā ˧ tuà ˧ mīà	mā˦˦˨tuà˧mīà˧	m ʌː ⁴⁴ + ² + t̪ u a ³ + m iː a ³	thai1261		14.192	100.671	
 11921	81_mare	Mare	SIAMESESPOKEN	SIAMESE_SPOKEN	˦ ˦˨ mā ˧ tuà ˧ mīà	mā˦˦˨tuà˧mīà˧	m ʌː ⁴⁴ + ² + t̪ u a ³ + m iː a ³					
@@ -21602,7 +21602,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 59361	47_moon	Moon	KHASISTANDARD	KHASI_STANDARD	bünai	bünai	b y n̪ ai	khas1269		24.977	91.9998	
 59362	47_moon	Moon	WAR	WAR	p’nui	p’nui	pʰ n̪ u i	warj1242		25.1154	91.6266	
 59363	47_moon	Moon	NICOBARESE	NICOBARESE	kāhē	kāhē	k ʌː h eː	cent1990		7.94812	93.3921	
-59364	47_moon	Moon	KHERWARISANTHALI	KHERWARI_SANTHALI	ñīndạ̄ chandō	ñīndạ̄ chandō	ɲ iː n̪ d̪ ʌː + tʃ ʌ n̪ d̪ oː	sant1410		25.0317	87.8185	
+59364	47_moon	Moon	KHERWARISANTHALI	KHERWARI_SANTHALI	ñīndạ̄ chandō	ñīndạ̄ chandō	ɲ iː n̪ d̪ aː + tʃ ʌ n̪ d̪ oː	sant1410		25.0317	87.8185	
 59365	47_moon	Moon	MUNDARI	MUNDARI	chamdūᵏ	chamdūᵏ	tʃ ʌ m d̪ uː k̚	mund1320		23.03	85.85	
 59366	47_moon	Moon	KURKU	KURKU	tende gōmōẽj	tende gōmōẽj	t̪ e n̪ d̪ e + g oː m oː ẽ dʒ	kork1243		21.8358	77.5541	
 59367	47_moon	Moon	KHARIA	KHARIA	leraṅg	leraṅg	l e r ʌ ŋ g	khar1287		22.3571	84.3922	
@@ -21610,7 +21610,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 59369	47_moon	Moon	SAVARA	SAVARA	aṅai	aṅai	ʌ ŋ ai	sora1254		19.1213	84.19	
 59370	47_moon	Moon	GADABA	GADABA	arkē	arkē	ʌ r k eː	bodo1267		18.3857	82.771	
 59371	47_moon	Moon	GADABA	GADABA	aṅgayita	aṅgayita	ʌ ŋ g ʌ j i t̪ ʌ	bodo1267		18.3857	82.771	
-59372	47_moon	Moon	MANDARIN	MANDARIN	˨ yüeh°	yüeh°˨	j y e h ²	mand1415		40.0209	116.228	
+59372	47_moon	Moon	MANDARIN	MANDARIN	˨ yüeh°	yüeh°˨	j y e ²	mand1415		40.0209	116.228	
 59373	47_moon	Moon	CANTONESE	CANTONESE	˨˩ yüᵗ	yüᵗ˨˩	j y t̪̚ ²¹	cant1236				
 59374	47_moon	Moon	GYAOMI	GYAOMI	yo-liåṅ	yo-liåṅ	j o + l i ɔ ŋ	mand1415		40.0209	116.228	
 59375	47_moon	Moon	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧ tụ̄ạn	tụ̄ạn˧	t̪ uː ø̜ n̪ ³	thai1261		14.192	100.671	
@@ -21619,7 +21619,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 59378	47_moon	Moon	SIAMESESPOKEN	SIAMESE_SPOKEN	˦ p’rǎ ˧ chan	p’rǎ˦chan˧	pʰ r æ ⁴ + tʃ ʌ n̪ ³					
 59379	47_moon	Moon	LU	LU	lün	lün	l y n̪	luuu1242		21.0321	101.282	
 59380	47_moon	Moon	KHUN	KHUN	lün	lün	l y n̪	khun1259		19.6062	99.3363	
-59381	47_moon	Moon	SHAN	SHAN	˨˦ lạ̄n	lạ̄n˨˦	l ʌː n̪ ²⁴	shan1277		21.5995	98.0342	
+59381	47_moon	Moon	SHAN	SHAN	˨˦ lạ̄n	lạ̄n˨˦	l aː n̪ ²⁴	shan1277		21.5995	98.0342	
 59382	47_moon	Moon	AHOM	AHOM	dün	dün	d̪ y n̪	ahom1240		27.2778	88.464	
 59383	47_moon	Moon	KHAMTI	KHAMTI	nün	nün	n̪ y n̪	kham1290		27.6653	97.0359	
 59384	47_moon	Moon	KHAMTI	KHAMTI	lün	lün	l y n̪	kham1290		27.6653	97.0359	
@@ -22301,7 +22301,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 7212	70_mother	Mother	KASHMIRI	KASHMIRI	möj^ü	möj^ü	m ø dʒ y	kash1277		34.166825	74.330455	
 7213	70_mother	Mother	KASHTAWARI	KASHTAWARI	m’āili	m’āili	mʰ aːi l i	kish1245				
 7214	70_mother	Mother	KASHTAWARI	KASHTAWARI	bāī	bāī	b ʌː iː	kish1245				
-7215	70_mother	Mother	POGULI	POGULI	yěī	yěī	j ə iː	pogu1238				
+7215	70_mother	Mother	POGULI	POGULI	yěī	yěī	j e iː	pogu1238				
 7216	70_mother	Mother	DODASIRAJI	DODA_SIRAJI	ī	ī	iː	sira1264				
 7217	70_mother	Mother	RAMBANI	RAMBANI	ammā	ammā	ʌ m m ʌː	ramb1240				
 7218	70_mother	Mother	KOHISTANIGARWI	KOHISTANI_GARWI	yaī	yaī	j ʌ iː	indu1241		35.3389	73.0154	
@@ -22445,7 +22445,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 49049	30_mouth	Mouth	BASQUE	BASQUE	ao	ao	ʌ o	basq1248		43.2787	-1.31622	
 49050	30_mouth	Mouth	BURUSHASKI	BURUSHASKI	iꭓat	iꭓat	i x ʌ t̪	buru1296		36.2161	74.8236	
 49051	30_mouth	Mouth	MALAY	MALAY	mulut	mulut	m u l u t̪	baba1267		1.75414	103.076	
-49052	30_mouth	Mouth	CHAM	CHAM	chàḅuěi	chàḅuěi	tʃ a b u ə i	cham1328				
+49052	30_mouth	Mouth	CHAM	CHAM	chàḅuěi	chàḅuěi	tʃ a b u e i	cham1328				
 49053	30_mouth	Mouth	SALON	SALON	åkàṅ	åkàṅ	ɔ k a ŋ	moke1242		10.1474	98.6765	
 49054	30_mouth	Mouth	KHMER	KHMER	meàt	meàt	m e a t̪	cent1989		12.0515	105.015	
 49055	30_mouth	Mouth	TALAINGWRITTEN	TALAING_WRITTEN	pāṅ	pāṅ	p ʌː ŋ	monn1252		15.49394	98.122465	
@@ -22900,7 +22900,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 27554	15_my	My	JUANG	JUANG	āiñjā (P.)	āiñjā	aːi ɲ dʒ ʌː	juan1238		21.2606	85.5845	
 27555	15_my	My	SAVARA	SAVARA	ñēn (F.)	ñēn	ɲ eː n̪	sora1254		19.1213	84.19	
 27556	15_my	My	GADABA	GADABA	nīṅg-nō (P.)	nīṅg-nō	n̪ iː ŋ g + n̪ oː	bodo1267		18.3857	82.771	
-27557	15_my	My	MANDARIN	MANDARIN	˨˧ wå ˨ ti° (P.)	wå˨˧ti°˨	w ɔ ²³ + t̪ i ²	mand1415		40.0209	116.228	
+27557	15_my	My	MANDARIN	MANDARIN	˨˧ wå ˨ ti° (P.)	wå˨˧ti°˨	w ɔ ²³ + t i ²	mand1415		40.0209	116.228	
 27558	15_my	My	CANTONESE	CANTONESE	˩˨ ṅå ˥˦ kē (P.)	ṅå˩˨kē˥˦	ŋ ɔ ¹² + k eː ⁵⁴	cant1236				
 27559	15_my	My	GYAOMI	GYAOMI	ṅau-ti	ṅau-ti	ŋ au + t̪ i	mand1415		40.0209	116.228	
 27560	15_my	My	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨˧ k’åṅ ˨˧ ch’àn (F.)	k’åṅ˨˧ch’àn˨˧	kʰ ɔ ŋ ²³ + tʃʰ a n̪ ²³	thai1261		14.192	100.671	
@@ -23353,7 +23353,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 20431	107_near	Near	SAKAI	SAKAI	rō	rō	r oː	seno1278				
 20432	107_near	Near	SAKAI	SAKAI	ñōn	ñōn	ɲ oː n̪	seno1278				
 20433	107_near	Near	SEMANG	SEMANG	pᵉdöh	pᵉdöh	p ĕ d̪ ø h	nort2682				
-20434	107_near	Near	PALAUNG	PALAUNG	dạᵗ	dạᵗ	d̪ ø̜ t̪̚	ruma1248		23.6404	97.3172	
+20434	107_near	Near	PALAUNG	PALAUNG	dạᵗ	dạᵗ	d̪ a t̪̚	ruma1248		23.6404	97.3172	
 20435	107_near	Near	PALAUNG	PALAUNG	à-rāᵖ	à-rāᵖ	a + r ʌː p̚	ruma1248		23.6404	97.3172	
 20436	107_near	Near	PALAUNG	PALAUNG	peᵏ	peᵏ	p e k̚	ruma1248		23.6404	97.3172	
 20437	107_near	Near	KATURR	KATURR	dàᵗ	dàᵗ	d̪ a t̪̚					
@@ -23380,7 +23380,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 20458	107_near	Near	SAVARA	SAVARA	aḍam	aḍam	ʌ ɖ ʌ m	sora1254		19.1213	84.19	
 20459	107_near	Near	GADABA	GADABA	ōḍōg	ōḍōg	oː ɖ oː g	bodo1267		18.3857	82.771	
 20460	107_near	Near	GADABA	GADABA	ravugā	ravugā	r ʌ v u g ʌː	bodo1267		18.3857	82.771	
-20461	107_near	Near	MANDARIN	MANDARIN	˦˨ chin	chin˦˨	tʃ i n̪ ⁴²	mand1415		40.0209	116.228	
+20461	107_near	Near	MANDARIN	MANDARIN	˦˨ chin	chin˦˨	tɕ i n̪ ⁴²	mand1415		40.0209	116.228	
 20462	107_near	Near	CANTONESE	CANTONESE	˨˩ kan	kan˨˩	k ʌ n̪ ²¹	cant1236				
 20463	107_near	Near	CANTONESE	CANTONESE	˩˨ k’an	k’an˩˨	kʰ ʌ n̪ ¹²	cant1236				
 20464	107_near	Near	CANTONESE	CANTONESE	˨ māi	māi˨	m aːi ²	cant1236				
@@ -23637,8 +23637,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 20715	107_near	Near	KASHTAWARI	KASHTAWARI	niōṛᵘ	niōṛᵘ	n̪ i oː ɽ ŭ	kish1245				
 20716	107_near	Near	POGULI	POGULI	nēṛi	nēṛi	n̪ eː ɽ i	pogu1238				
 20717	107_near	Near	DODASIRAJI	DODA_SIRAJI	nēṛē	nēṛē	n̪ eː ɽ eː	sira1264				
-20718	107_near	Near	RAMBANI	RAMBANI	nēṛě	nēṛě	n̪ eː ɽ ə	ramb1240				
-20719	107_near	Near	RAMBANI	RAMBANI	naiṛě	naiṛě	n̪ ai ɽ ə	ramb1240				
+20718	107_near	Near	RAMBANI	RAMBANI	nēṛě	nēṛě	n̪ eː ɽ e	ramb1240				
+20719	107_near	Near	RAMBANI	RAMBANI	naiṛě	naiṛě	n̪ ai ɽ e	ramb1240				
 20720	107_near	Near	KOHISTANIGARWI	KOHISTANI_GARWI	nīar	nīar	n̪ iː ʌ r	indu1241		35.3389	73.0154	
 20721	107_near	Near	TORWALI	TORWALI	niō	niō	n̪ i oː	torw1241		35.3101	72.5316	
 20722	107_near	Near	MAIYA	MAIYA	kas	kas	k ʌ s	indu1241		35.3389	73.0154	
@@ -23756,7 +23756,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 20834	107_near	Near	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	ḍ’āyā	ḍ’āyā	ɖʰ ʌː j ʌː	jaun1243		30.5587	77.9084	
 20835	107_near	Near	SIRMAURI	SIRMAURI	naujīk	naujīk	n̪ au dʒ iː k	sirm1239		31.1	77.17	
 20836	107_near	Near	BAGHATI	BAGHATI	nēṛē	nēṛē	n̪ eː ɽ eː	bagh1249				
-20837	107_near	Near	KIUTHALI	KIUTHALI	něūṛē	něūṛē	n̪ ə uː ɽ eː	kiun1241				
+20837	107_near	Near	KIUTHALI	KIUTHALI	něūṛē	něūṛē	n̪ e uː ɽ eː	kiun1241				
 20838	107_near	Near	SHODOCHI	SHODOCHI	nēṛī	nēṛī	n̪ eː ɽ iː	maha1287		31.0088	77.5317	
 20839	107_near	Near	SHODOCHI	SHODOCHI	nēḍḍ’ī	nēḍḍ’ī	n̪ eː ɖ ɖʰ iː	maha1287		31.0088	77.5317	
 20840	107_near	Near	KULUI	KULUI	b’ēṭī	b’ēṭī	bʰ eː ʈ iː	kllu1238				
@@ -23806,7 +23806,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1537	9_nine	Nine	SAVARA	SAVARA	timji	timji	t̪ i m dʒ i	sora1254		19.1213	84.19	
 1538	9_nine	Nine	SAVARA	SAVARA	tiñji	tiñji	t̪ i ɲ dʒ i	sora1254		19.1213	84.19	
 1539	9_nine	Nine	GADABA	GADABA	bāgu punza bōyi	bāgu punza bōyi	b ʌː g u + p u n̪ z ʌ + b oː j i	bodo1267		18.3857	82.771	
-1540	9_nine	Nine	MANDARIN	MANDARIN	˨˧ chīu	chīu˨˧	tʃ iː u ²³	mand1415		40.0209	116.228	
+1540	9_nine	Nine	MANDARIN	MANDARIN	˨˧ chīu	chīu˨˧	tɕ j ou ²³	mand1415		40.0209	116.228	
 1541	9_nine	Nine	CANTONESE	CANTONESE	˦˥ kau	kau˦˥	k au ⁴⁵	cant1236				
 1542	9_nine	Nine	GYAOMI	GYAOMI	chyū-kū	chyū-kū	tʃ j uː + k uː	mand1415		40.0209	116.228	
 1543	9_nine	Nine	GYAOMI	GYAOMI	chyū	chyū	tʃ j uː	mand1415		40.0209	116.228	
@@ -24033,7 +24033,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1764	9_nine	Nine	GAWARBATI	GAWAR_BATI	nūh	nūh	n̪ uː h	gawa1247		35.1982	71.5428	
 1765	9_nine	Nine	PASHAIEASTERN	PASHAI_EASTERN	nō	nō	n̪ oː	sout2672		34.43099	70.30351	
 1766	9_nine	Nine	PASHAIWESTERN	PASHAI_WESTERN	nō	nō	n̪ oː	sout2671		34.8478	69.8734	
-1767	9_nine	Nine	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	něoh	něoh	n̪ ə o h	khow1242		36.0	72.0	
+1767	9_nine	Nine	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	něoh	něoh	n̪ e o h	khow1242		36.0	72.0	
 1768	9_nine	Nine	SHINAGILGITI	SHINA_GILGITI	nau	nau	n̪ au	gilg1242				
 1769	9_nine	Nine	CHILASI	CHILASI	nau	nau	n̪ au	shin1264		34.6515	75.287	
 1770	9_nine	Nine	CHILASIOFDRAS	CHILASI_OF_DRAS	nau	nau	n̪ au	dras1242				
@@ -24077,7 +24077,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1808	9_nine	Nine	BHOJPURISOUTHERN	BHOJPURI_SOUTHERN	nau-gō	nau-gō	n̪ au + g oː	sout2661				
 1809	9_nine	Nine	NAGPURIA	NAGPURIA	nāo	nāo	n̪ ʌː o	sadr1248		23.6585	84.8114	
 1810	9_nine	Nine	BENGALIWRITTEN	BENGALI_WRITTEN	nay	nay	n̪ ʌ j	beng1280		24.0	90.0	
-1811	9_nine	Nine	BENGALISPOKEN	BENGALI_SPOKEN	nǒě	nǒě	n̪ ɒ ə					
+1811	9_nine	Nine	BENGALISPOKEN	BENGALI_SPOKEN	nǒě	nǒě	n̪ ɒ e					
 1812	9_nine	Nine	BENGALISPOKEN	BENGALI_SPOKEN	nǒ	nǒ	n̪ ɒ					
 1813	9_nine	Nine	SOUTHWESTERNBENGALI	SOUTH_WESTERN_BENGALI	lay	lay	l ʌ j	beng1280		24.0	90.0	
 1814	9_nine	Nine	SIRIPURIA	SIRIPURIA	na	na	n̪ ʌ	siri1268				
@@ -24178,7 +24178,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 24380	117_no	No	SAVARA	SAVARA	ejja	ejja	e dʒ dʒ ʌ	sora1254		19.1213	84.19	
 24381	117_no	No	GADABA	GADABA	urāk	urāk	u r ʌː k	bodo1267		18.3857	82.771	
 24382	117_no	No	GADABA	GADABA	yīk	yīk	j iː k	bodo1267		18.3857	82.771	
-24383	117_no	No	MANDARIN	MANDARIN	˨ pu ˦˨ ših	pu˨ših˦˨	p u ² + ʃ i h ⁴²	mand1415		40.0209	116.228	
+24383	117_no	No	MANDARIN	MANDARIN	˨ pu ˦˨ ših	pu˨ših˦˨	p u ² + ʂ ɿ ⁴²	mand1415		40.0209	116.228	
 24384	117_no	No	CANTONESE	CANTONESE	˦ paᵗ ˨˩ šī	paᵗ˦šī˨˩	p ʌ t̪̚ ⁴ + ʃ iː ²¹	cant1236				
 24385	117_no	No	CANTONESE	CANTONESE	˨ m ˨˩ hai	m˨hai˨˩	m ² + h ai ²¹	cant1236				
 24386	117_no	No	GYAOMI	GYAOMI	pūsiti-aiyau	pūsiti-aiyau	p uː s i t̪ i + ai j au	mand1415		40.0209	116.228	
@@ -24541,7 +24541,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 24743	117_no	No	GADI	GADI	nā	nā	n̪ ʌː	gadi1238				
 24744	117_no	No	PANGWALI	PANGWALI	nā	nā	n̪ ʌː	pang1282		32.9753	76.5569	
 24745	117_no	No	BHADRAWAHI	BHADRAWAHI	nahī̃	nahī̃	n̪ ʌ h ĩː	bhad1241		33.2851	75.8707	
-24746	117_no	No	BHADRAWAHI	BHADRAWAHI	něī̃h	něī̃h	n̪ ə ĩː h	bhad1241		33.2851	75.8707	
+24746	117_no	No	BHADRAWAHI	BHADRAWAHI	něī̃h	něī̃h	n̪ e ĩː h	bhad1241		33.2851	75.8707	
 24747	117_no	No	PADARI	PADARI	na	na	n̪ ʌ	pada1256				
 24748	117_no	No	PADARI	PADARI	nahī̃	nahī̃	n̪ ʌ h ĩː	pada1256				
 #
@@ -25417,7 +25417,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 28582	17_our	Our	JUANG	JUANG	niñjā	niñjā	n̪ i ɲ dʒ ʌː	juan1238		21.2606	85.5845	
 28583	17_our	Our	SAVARA	SAVARA	ellen (F.)	ellen	e l l e n̪	sora1254		19.1213	84.19	
 28584	17_our	Our	GADABA	GADABA	pēnuṅg	pēnuṅg	p eː n̪ u ŋ g	bodo1267		18.3857	82.771	
-28585	17_our	Our	MANDARIN	MANDARIN	˨˧ wå ˨ man ˨ ti° (P.)	wå˨˧man˨ti°˨	w ɔ ²³ + m ʌ n̪ ² + t̪ i ²	mand1415		40.0209	116.228	
+28585	17_our	Our	MANDARIN	MANDARIN	˨˧ wå ˨ man ˨ ti° (P.)	wå˨˧man˨ti°˨	w ɔ ²³ + m a n̪ ² + t i ²	mand1415		40.0209	116.228	
 28586	17_our	Our	CANTONESE	CANTONESE	˩˨ ṅå ˨˩ tä ˥˦ kē (P.)	ṅå˩˨tä˨˩kē˥˦	ŋ ɔ ¹² + t̪ ɛ ²¹ + k eː ⁵⁴	cant1236				
 28587	17_our	Our	GYAOMI	GYAOMI	ṅau-mai-ti	ṅau-mai-ti	ŋ au + m ai + t̪ i	mand1415		40.0209	116.228	
 28588	17_our	Our	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨˧ k’åṅ ˨ rau (F.)	k’åṅ˨˧rau˨	kʰ ɔ ŋ ²³ + r au ²	thai1261		14.192	100.671	
@@ -26278,7 +26278,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 801	7_seven	Seven	KHARIA	KHARIA	gul	gul	g u l	khar1287		22.3571	84.3922	
 802	7_seven	Seven	SAVARA	SAVARA	gulji	gulji	g u l dʒ i	sora1254		19.1213	84.19	
 803	7_seven	Seven	GADABA	GADABA	guligi	guligi	g u l i g i	bodo1267		18.3857	82.771	
-804	7_seven	Seven	MANDARIN	MANDARIN	˨ ch’i°	ch’i°˨	tʃʰ i ²	mand1415		40.0209	116.228	
+804	7_seven	Seven	MANDARIN	MANDARIN	˨ ch’i°	ch’i°˨	tɕʰ i ²	mand1415		40.0209	116.228	
 805	7_seven	Seven	CANTONESE	CANTONESE	˦ ts’at	ts’at˦	tsʰ ʌ t̪ ⁴	cant1236				
 806	7_seven	Seven	GYAOMI	GYAOMI	ch’i-kū	ch’i-kū	tʃʰ i + k uː	mand1415		40.0209	116.228	
 807	7_seven	Seven	GYAOMI	GYAOMI	ch’i	ch’i	tʃʰ i	mand1415		40.0209	116.228	
@@ -26528,7 +26528,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1051	7_seven	Seven	TORWALI	TORWALI	sat	sat	s ʌ t̪	torw1241		35.3101	72.5316	
 1052	7_seven	Seven	MAIYA	MAIYA	sāt	sāt	s ʌː t̪	indu1241		35.3389	73.0154	
 1053	7_seven	Seven	GYPSYEUROPEAN	GYPSY_EUROPEAN	eftǎ (Greek)	eftǎ	e f t̪ æ					
-1054	7_seven	Seven	GYPSYSYRIAN	GYPSY_SYRIAN	ḥōt̤ (Persian)	ḥōt̤	h oː tˤ					
+1054	7_seven	Seven	GYPSYSYRIAN	GYPSY_SYRIAN	ḥōt̤ (Persian)	ḥōt̤	h oː t					
 1055	7_seven	Seven	SANSKRIT	SANSKRIT	sapta	sapta	s ʌ p t̪ ʌ	sans1269		20.0	77.0	
 1056	7_seven	Seven	PRAKRIT	PRAKRIT	satta	satta	s ʌ t̪ t̪ ʌ	saur1252		27.46	77.56	
 1057	7_seven	Seven	KHETRANI	KHETRANI	sat	sat	s ʌ t̪	khet1238		30.4799	70.2828	
@@ -26637,7 +26637,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 53900	43_shepherd	Shepherd	JUANG	JUANG	gondā	gondā	g o n̪ d̪ ʌː	juan1238		21.2606	85.5845	
 53901	43_shepherd	Shepherd	SAVARA	SAVARA	gōpā-mar	gōpā-mar	g oː p ʌː + m ʌ r	sora1254		19.1213	84.19	
 53902	43_shepherd	Shepherd	GADABA	GADABA	dhoraī	dhoraī	d̪ h o r ʌ iː	bodo1267		18.3857	82.771	
-53903	43_shepherd	Shepherd	MANDARIN	MANDARIN	˦˨ k’an ˨ yāṅ ˨ ti°	k’an˦˨yāṅ˨ti°˨	kʰ ʌ n̪ ⁴² + j ʌː ŋ ² + t̪ i ²	mand1415		40.0209	116.228	
+53903	43_shepherd	Shepherd	MANDARIN	MANDARIN	˦˨ k’an ˨ yāṅ ˨ ti°	k’an˦˨yāṅ˨ti°˨	kʰ a n̪ ⁴² + j a ŋ ² + t i ²	mand1415		40.0209	116.228	
 53904	43_shepherd	Shepherd	CANTONESE	CANTONESE	˨˩ muᵏ ˨ yōṅ ˨ yan	muᵏ˨˩yōṅ˨yan˨	m u k̚ ²¹ + j oː ŋ ² + j ʌ n̪ ²	cant1236				
 53905	43_shepherd	Shepherd	CANTONESE	CANTONESE	˦ hōn ˨ yōṅ ˥˦ kē	hōn˦yōṅ˨kē˥˦	h oː n̪ ⁴ + j oː ŋ ² + k eː ⁵⁴	cant1236				
 53906	43_shepherd	Shepherd	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧ gon ˦ ˦˨ līeṅ ˨ kä̌	gon˧līeṅ˦˦˨kä̌˨	g o n̪ ³ + l iː e ŋ ⁴⁴ + ² + k ɛ ²	thai1261		14.192	100.671	
@@ -26916,8 +26916,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 52936	40_silver	Silver	NICOBARESE	NICOBARESE	chuā	chuā	tʃ u ʌː	cent1990		7.94812	93.3921	
 52937	40_silver	Silver	MANDARIN	MANDARIN	˨ yin	yin˨	j i n̪ ²	mand1415		40.0209	116.228	
 52938	40_silver	Silver	CANTONESE	CANTONESE	˦ ṅan	ṅan˦	ŋ ʌ n̪ ⁴	cant1236				
-52939	40_silver	Silver	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧ ṅạ̄n	ṅạ̄n˧	ŋ ʌː n̪ ³	thai1261		14.192	100.671	
-52940	40_silver	Silver	SIAMESESPOKEN	SIAMESE_SPOKEN	˧ ṅạ̄n	ṅạ̄n˧	ŋ ʌː n̪ ³					
+52939	40_silver	Silver	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧ ṅạ̄n	ṅạ̄n˧	ŋ ø̜ː n̪ ³	thai1261		14.192	100.671	
+52940	40_silver	Silver	SIAMESESPOKEN	SIAMESE_SPOKEN	˧ ṅạ̄n	ṅạ̄n˧	ŋ ø̜ː n̪ ³					
 52941	40_silver	Silver	LU	LU	ṅün	ṅün	ŋ y n̪	luuu1242		21.0321	101.282	
 52942	40_silver	Silver	KHUN	KHUN	ṅün	ṅün	ŋ y n̪	khun1259		19.6062	99.3363	
 52943	40_silver	Silver	SHAN	SHAN	˦ ṅụn	ṅụn˦	ŋ y̜ n̪ ⁴	shan1277		21.5995	98.0342	
@@ -27250,7 +27250,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 7939	72_sister	Sister	MALAY	MALAY	saudàrà	saudàrà	s au d̪ a r a	baba1267		1.75414	103.076	
 7940	72_sister	Sister	MALAY	MALAY	(E.) kàkàᵏ	kàkàᵏ	k a k a k̚	baba1267		1.75414	103.076	
 7941	72_sister	Sister	MALAY	MALAY	(Y.) àdeᵏ	àdeᵏ	a d̪ e k̚	baba1267		1.75414	103.076	
-7942	72_sister	Sister	CHAM	CHAM	(Y.) àděi	àděi	a d̪ ə i	cham1328				
+7942	72_sister	Sister	CHAM	CHAM	(Y.) àděi	àděi	a d̪ e i	cham1328				
 7943	72_sister	Sister	SALON	SALON	lū-àh*	lū-àh*	l uː + a h	moke1242		10.1474	98.6765	
 7944	72_sister	Sister	KHMER	KHMER	(E.) bàṅ srey	bàṅ srey	b a ŋ + s r e j	cent1989		12.0515	105.015	
 7945	72_sister	Sister	KHMER	KHMER	(Y.) p’un srey	p’un srey	pʰ u n̪ + s r e j	cent1989		12.0515	105.015	
@@ -27314,7 +27314,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 8003	72_sister	Sister	SAVARA	SAVARA	(E.) kāki	kāki	k ʌː k i	sora1254		19.1213	84.19	
 8004	72_sister	Sister	SAVARA	SAVARA	(Y.) āyi	āyi	ʌː j i	sora1254		19.1213	84.19	
 8005	72_sister	Sister	GADABA	GADABA	tōnān	tōnān	t̪ oː n̪ ʌː n̪	bodo1267		18.3857	82.771	
-8006	72_sister	Sister	MANDARIN	MANDARIN	(E.) ˨˦ chyē	chyē˨˦	tʃ j eː ²⁴	mand1415		40.0209	116.228	
+8006	72_sister	Sister	MANDARIN	MANDARIN	(E.) ˨˦ chyē	chyē˨˦	tʃ j ɛ ²⁴	mand1415		40.0209	116.228	
 8007	72_sister	Sister	MANDARIN	MANDARIN	(Y.) ˦˨ mä	mä˦˨	m ɛ ⁴²	mand1415		40.0209	116.228	
 8008	72_sister	Sister	CANTONESE	CANTONESE	(E.) ˥˦ ā ˦˥ tsē	ā˥˦tsē˦˥	ʌː ⁵⁴ + ts eː ⁴⁵	cant1236				
 8009	72_sister	Sister	CANTONESE	CANTONESE	(Y.) ˥˦ ā ˨˩ mūi	ā˥˦mūi˨˩	ʌː ⁵⁴ + m uː i ²¹	cant1236				
@@ -27641,7 +27641,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 8330	72_sister	Sister	CHILASIOFDRAS	CHILASI_OF_DRAS	sā	sā	s ʌː	dras1242				
 8331	72_sister	Sister	CHILASIOFDRAS	CHILASI_OF_DRAS	(E.) kākī	kākī	k ʌː k iː	dras1242				
 8332	72_sister	Sister	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	kākē	kākē	k ʌː k eː	brok1247		34.5308	76.6026	
-8333	72_sister	Sister	KASHMIRI	KASHMIRI	běñě	běñě	b ə ɲ ə	kash1277		34.166825	74.330455	
+8333	72_sister	Sister	KASHMIRI	KASHMIRI	běñě	běñě	b e ɲ e	kash1277		34.166825	74.330455	
 8334	72_sister	Sister	KASHTAWARI	KASHTAWARI	bihan	bihan	b i h ʌ n̪	kish1245				
 8335	72_sister	Sister	KASHTAWARI	KASHTAWARI	b’ain	b’ain	bʰ ai n̪	kish1245				
 8336	72_sister	Sister	POGULI	POGULI	bēan	bēan	b eː ʌ n̪	pogu1238				
@@ -27762,7 +27762,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 8451	72_sister	Sister	GARHWALI	GARHWALI	(E.) baiṇ	baiṇ	b ai ɳ	garh1243		30.5061	78.7201	
 8452	72_sister	Sister	GARHWALI	GARHWALI	didī	didī	d̪ i d̪ iː	garh1243		30.5061	78.7201	
 8453	72_sister	Sister	GARHWALI	GARHWALI	(Y.) b’ulī	b’ulī	bʰ u l iː	garh1243		30.5061	78.7201	
-8454	72_sister	Sister	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	bǒhěn	bǒhěn	b ɒ h ə n̪	jaun1243		30.5587	77.9084	
+8454	72_sister	Sister	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	bǒhěn	bǒhěn	b ɒ h e n̪	jaun1243		30.5587	77.9084	
 8455	72_sister	Sister	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	(E.) dādī	dādī	d̪ ʌː d̪ iː	jaun1243		30.5587	77.9084	
 8456	72_sister	Sister	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	(Y.) b’āīṭī	b’āīṭī	bʰ ʌː iː ʈ iː	jaun1243		30.5587	77.9084	
 8457	72_sister	Sister	SIRMAURI	SIRMAURI	dādē	dādē	d̪ ʌː d̪ eː	sirm1239		31.1	77.17	
@@ -27776,7 +27776,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 8465	72_sister	Sister	KULUI	KULUI	(E.) dāī	dāī	d̪ ʌː iː	kllu1238				
 8466	72_sister	Sister	KULUI	KULUI	(Y.) bēhṇ	bēhṇ	b eː h ɳ	kllu1238				
 8467	72_sister	Sister	MANDEALI	MANDEALI	(E.) bōbbō	bōbbō	b oː b b oː	mand1409		31.5425	77.0419	
-8468	72_sister	Sister	MANDEALI	MANDEALI	(Y.) bahěṇ	bahěṇ	b ʌ h ə ɳ	mand1409		31.5425	77.0419	
+8468	72_sister	Sister	MANDEALI	MANDEALI	(Y.) bahěṇ	bahěṇ	b ʌ h e ɳ	mand1409		31.5425	77.0419	
 8469	72_sister	Sister	MANDEALI	MANDEALI	baihṇ	baihṇ	b ai h ɳ	mand1409		31.5425	77.0419	
 8470	72_sister	Sister	CHAMEALI	CHAMEALI	b’ēṇ	b’ēṇ	bʰ eː ɳ	cham1307		32.5476	76.1796	
 8471	72_sister	Sister	CHAMEALI	CHAMEALI	baihṇ	baihṇ	b ai h ɳ	cham1307		32.5476	76.1796	
@@ -28070,7 +28070,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 25864	120_sit	Sit	CHILASI	CHILASI	baī-	baī-	b ʌ iː	shin1264		34.6515	75.287	
 25865	120_sit	Sit	CHILASIOFDRAS	CHILASI_OF_DRAS	bai-	bai-	b ai	dras1242				
 25866	120_sit	Sit	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	bāš-	bāš-	b ʌː ʃ	brok1247		34.5308	76.6026	
-25867	120_sit	Sit	KASHMIRI	KASHMIRI	běh-	běh-	b ə h	kash1277		34.166825	74.330455	
+25867	120_sit	Sit	KASHMIRI	KASHMIRI	běh-	běh-	b e h	kash1277		34.166825	74.330455	
 25868	120_sit	Sit	KASHTAWARI	KASHTAWARI	bih-	bih-	b i h	kish1245				
 25869	120_sit	Sit	POGULI	POGULI	byim-	byim-	b j i m	pogu1238				
 25870	120_sit	Sit	DODASIRAJI	DODA_SIRAJI	miš-	miš-	m i ʃ	sira1264				
@@ -28160,13 +28160,13 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 25954	120_sit	Sit	BAGHATI	BAGHATI	bēṭ’-	bēṭ’-	b eː ʈʰ	bagh1249				
 25955	120_sit	Sit	KIUTHALI	KIUTHALI	bēṭ’-	bēṭ’-	b eː ʈʰ	kiun1241				
 25956	120_sit	Sit	SHODOCHI	SHODOCHI	bēš-	bēš-	b eː ʃ	maha1287		31.0088	77.5317	
-25957	120_sit	Sit	KULUI	KULUI	běš-	běš-	b ə ʃ	kllu1238				
+25957	120_sit	Sit	KULUI	KULUI	běš-	běš-	b e ʃ	kllu1238				
 25958	120_sit	Sit	MANDEALI	MANDEALI	baiṭ’-	baiṭ’-	b ai ʈʰ	mand1409		31.5425	77.0419	
 25959	120_sit	Sit	CHAMEALI	CHAMEALI	baih-	baih-	b ai h	cham1307		32.5476	76.1796	
 25960	120_sit	Sit	GADI	GADI	bēꭓ-	bēꭓ-	b eː x	gadi1238				
 25961	120_sit	Sit	PANGWALI	PANGWALI	biš-	biš-	b i ʃ	pang1282		32.9753	76.5569	
 25962	120_sit	Sit	BHADRAWAHI	BHADRAWAHI	biš-	biš-	b i ʃ	bhad1241		33.2851	75.8707	
-25963	120_sit	Sit	PADARI	PADARI	běš-	běš-	b ə ʃ	pada1256				
+25963	120_sit	Sit	PADARI	PADARI	běš-	běš-	b e ʃ	pada1256				
 #
 378	6_six	Six	JAPANESE	JAPANESE	muttsu	muttsu	m u t̪ ts u	nucl1643		35.0	135.0	
 379	6_six	Six	AINU	AINU	iwa(n)	iwa	i w ʌ	sakh1245		48.141866	142.329834	
@@ -28455,13 +28455,13 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 662	6_six	Six	CHILASI	CHILASI	šah	šah	ʃ ʌ h	shin1264		34.6515	75.287	
 663	6_six	Six	CHILASIOFDRAS	CHILASI_OF_DRAS	šā	šā	ʃ ʌː	dras1242				
 664	6_six	Six	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	šā	šā	ʃ ʌː	brok1247		34.5308	76.6026	
-665	6_six	Six	KASHMIRI	KASHMIRI	šěh	šěh	ʃ ə h	kash1277		34.166825	74.330455	
-666	6_six	Six	KASHTAWARI	KASHTAWARI	šě	šě	ʃ ə	kish1245				
-667	6_six	Six	POGULI	POGULI	šě	šě	ʃ ə	pogu1238				
+665	6_six	Six	KASHMIRI	KASHMIRI	šěh	šěh	ʃ e h	kash1277		34.166825	74.330455	
+666	6_six	Six	KASHTAWARI	KASHTAWARI	šě	šě	ʃ e	kish1245				
+667	6_six	Six	POGULI	POGULI	šě	šě	ʃ e	pogu1238				
 668	6_six	Six	DODASIRAJI	DODA_SIRAJI	šǎh	šǎh	ʃ æ h	sira1264				
 669	6_six	Six	DODASIRAJI	DODA_SIRAJI	še	še	ʃ e	sira1264				
-670	6_six	Six	RAMBANI	RAMBANI	šě	šě	ʃ ə	ramb1240				
-671	6_six	Six	RAMBANI	RAMBANI	ch’ě	ch’ě	tʃʰ ə	ramb1240				
+670	6_six	Six	RAMBANI	RAMBANI	šě	šě	ʃ e	ramb1240				
+671	6_six	Six	RAMBANI	RAMBANI	ch’ě	ch’ě	tʃʰ e	ramb1240				
 672	6_six	Six	KOHISTANIGARWI	KOHISTANI_GARWI	šō	šō	ʃ oː	indu1241		35.3389	73.0154	
 673	6_six	Six	TORWALI	TORWALI	šō	šō	ʃ oː	torw1241		35.3101	72.5316	
 674	6_six	Six	MAIYA	MAIYA	šoh	šoh	ʃ o h	indu1241		35.3389	73.0154	
@@ -28496,7 +28496,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 703	6_six	Six	BHOJPURISOUTHERN	BHOJPURI_SOUTHERN	ch’au-gō	ch’au-gō	tʃʰ au + g oː	sout2661				
 704	6_six	Six	NAGPURIA	NAGPURIA	ch’aw	ch’aw	tʃʰ ʌ w	sadr1248		23.6585	84.8114	
 705	6_six	Six	BENGALIWRITTEN	BENGALI_WRITTEN	ch’ay	ch’ay	tʃʰ ʌ j	beng1280		24.0	90.0	
-706	6_six	Six	BENGALISPOKEN	BENGALI_SPOKEN	ch’ǒě	ch’ǒě	tʃʰ ɒ ə					
+706	6_six	Six	BENGALISPOKEN	BENGALI_SPOKEN	ch’ǒě	ch’ǒě	tʃʰ ɒ e					
 707	6_six	Six	BENGALISPOKEN	BENGALI_SPOKEN	ch’ǒ	ch’ǒ	tʃʰ ɒ					
 708	6_six	Six	SOUTHWESTERNBENGALI	SOUTH_WESTERN_BENGALI	ch’ay	ch’ay	tʃʰ ʌ j	beng1280		24.0	90.0	
 709	6_six	Six	SIRIPURIA	SIRIPURIA	ch’a	ch’a	tʃʰ ʌ	siri1268				
@@ -28590,7 +28590,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 53276	41_slave	Slave	SAVARA	SAVARA	kambāri	kambāri	k ʌ m b ʌː r i	sora1254		19.1213	84.19	
 53277	41_slave	Slave	GADABA	GADABA	gōtī rēmal	gōtī rēmal	g oː t̪ iː + r eː m ʌ l	bodo1267		18.3857	82.771	
 53278	41_slave	Slave	GADABA	GADABA	vīṅgārlē	vīṅgārlē	v iː ŋ g ʌː r l eː	bodo1267		18.3857	82.771	
-53279	41_slave	Slave	MANDARIN	MANDARIN	˨ lō	lō˨	l oː ²	mand1415		40.0209	116.228	
+53279	41_slave	Slave	MANDARIN	MANDARIN	˨ lō	lō˨	l o ²	mand1415		40.0209	116.228	
 53280	41_slave	Slave	MANDARIN	MANDARIN	˨ lu	lu˨	l u ²	mand1415		40.0209	116.228	
 53281	41_slave	Slave	CANTONESE	CANTONESE	˨˩ puᵏ	puᵏ˨˩	p u k̚ ²¹	cant1236				
 53282	41_slave	Slave	SIAMESEWRITTEN	SIAMESE_WRITTEN	˦˨ dāṣ	dāṣ˦˨	d̪ ʌː ʂ ⁴²	thai1261		14.192	100.671	
@@ -28895,7 +28895,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 10400	77_son	Son	BASQUE	BASQUE	seme	seme	s e m e	basq1248		43.2787	-1.31622	
 10401	77_son	Son	BURUSHASKI	BURUSHASKI	ī	ī	iː	buru1296		36.2161	74.8236	
 10402	77_son	Son	MALAY	MALAY	ànàᵏ làki-làki	ànàᵏ làki-làki	a n̪ a k̚ + l a k i + l a k i	baba1267		1.75414	103.076	
-10403	77_son	Son	CHAM	CHAM	ànök làkěi	ànök làkěi	a n̪ ø k + l a k ə i	cham1328				
+10403	77_son	Son	CHAM	CHAM	ànök làkěi	ànök làkěi	a n̪ ø k + l a k e i	cham1328				
 10404	77_son	Son	SALON	SALON	ànnàn*	ànnàn*	a n̪ n̪ a n̪	moke1242		10.1474	98.6765	
 10405	77_son	Son	SALON	SALON	ànàt*	ànàt*	a n̪ a t̪	moke1242		10.1474	98.6765	
 10406	77_son	Son	KHMER	KHMER	kon pros	kon pros	k o n̪ + p r o s	cent1989		12.0515	105.015	
@@ -28931,7 +28931,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 10436	77_son	Son	GADABA	GADABA	babbaṅgī	babbaṅgī	b ʌ b b ʌ ŋ g iː	bodo1267		18.3857	82.771	
 10437	77_son	Son	MANDARIN	MANDARIN	˨ ṅᵉ	ṅᵉ˨	ŋ ĕ ²	mand1415		40.0209	116.228	
 10438	77_son	Son	MANDARIN	MANDARIN	˨ yᵃ	yᵃ˨	j ă ²	mand1415		40.0209	116.228	
-10439	77_son	Son	MANDARIN	MANDARIN	˨˦ tsz	tsz˨˦	ts z ²⁴	mand1415		40.0209	116.228	
+10439	77_son	Son	MANDARIN	MANDARIN	˨˦ tsz	tsz˨˦	ts ɿ ²⁴	mand1415		40.0209	116.228	
 10440	77_son	Son	CANTONESE	CANTONESE	˦˥ ṯs̱ai	ṯs̱ai˦˥	ts ai ⁴⁵	cant1236				
 10441	77_son	Son	CANTONESE	CANTONESE	˨˦ tsz	tsz˨˦	ts z ²⁴	cant1236				
 10442	77_son	Son	SIAMESEWRITTEN	SIAMESE_WRITTEN	˦˨ lūk ˧ jāi	lūk˦˨jāi˧	l uː k ⁴² + dʒ aːi ³	thai1261		14.192	100.671	
@@ -29168,7 +29168,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 10673	77_son	Son	YUDYA	YUDYA	pūr	pūr	p uː r	yidg1240		36.014	71.5077	
 10674	77_son	Son	BASHGALI	BASHGALI	pitr	pitr	p i t̪ r	kati1270		35.4145	70.9826	
 10675	77_son	Son	WAIALA	WAI_ALA	piutr	piutr	p i u t̪ r	waig1243		35.0358	70.9761	
-10676	77_son	Son	WASIVERIORVERON	WASI_VERI_OR_VERON	piě	piě	p i ə	pras1239		35.1731	70.8004	
+10676	77_son	Son	WASIVERIORVERON	WASI_VERI_OR_VERON	piě	piě	p i e	pras1239		35.1731	70.8004	
 10677	77_son	Son	KALASHA	KALASHA	pūtr	pūtr	p uː t̪ r	kala1372		35.6415	71.6657	
 10678	77_son	Son	GAWARBATI	GAWAR_BATI	pult	pult	p u l t̪	gawa1247		35.1982	71.5428	
 10679	77_son	Son	PASHAIEASTERN	PASHAI_EASTERN	puṭ-hlᵃ	puṭ-hlᵃ	p u ʈ + h l ă	sout2672		34.43099	70.30351	
@@ -29179,7 +29179,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 10684	77_son	Son	CHILASIOFDRAS	CHILASI_OF_DRAS	puš	puš	p u ʃ	dras1242				
 10685	77_son	Son	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	biü	biü	b i y	brok1247		34.5308	76.6026	
 10686	77_son	Son	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	bē (Tibetan)	bē	b eː	brok1247		34.5308	76.6026	
-10687	77_son	Son	KASHMIRI	KASHMIRI	něchyuwᵘ	něchyuwᵘ	n̪ ə tʃ j u w ŭ	kash1277		34.166825	74.330455	
+10687	77_son	Son	KASHMIRI	KASHMIRI	něchyuwᵘ	něchyuwᵘ	n̪ e tʃ j u w ŭ	kash1277		34.166825	74.330455	
 10688	77_son	Son	KASHMIRI	KASHMIRI	pūtᵘ	pūtᵘ	p uː t̪ ŭ	kash1277		34.166825	74.330455	
 10689	77_son	Son	KASHTAWARI	KASHTAWARI	šuṛᵘ	šuṛᵘ	ʃ u ɽ ŭ	kish1245				
 10690	77_son	Son	POGULI	POGULI	lūk	lūk	l uː k	pogu1238				
@@ -29364,8 +29364,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 30870	122_stand	Stand	SAVARA	SAVARA	tanaṅ	tanaṅ	t̪ ʌ n̪ ʌ ŋ	sora1254		19.1213	84.19	
 30871	122_stand	Stand	GADABA	GADABA	tunōn	tunōn	t̪ u n̪ oː n̪	bodo1267		18.3857	82.771	
 30872	122_stand	Stand	GADABA	GADABA	tināṅg	tināṅg	t̪ i n̪ ʌː ŋ g	bodo1267		18.3857	82.771	
-30873	122_stand	Stand	MANDARIN	MANDARIN	˦˨ chān	chān˦˨	tʃ ʌː n̪ ⁴²	mand1415		40.0209	116.228	
-30874	122_stand	Stand	MANDARIN	MANDARIN	˦˨ tsān	tsān˦˨	ts ʌː n̪ ⁴²	mand1415		40.0209	116.228	
+30873	122_stand	Stand	MANDARIN	MANDARIN	˦˨ chān	chān˦˨	tʃ a n̪ ⁴²	mand1415		40.0209	116.228	
+30874	122_stand	Stand	MANDARIN	MANDARIN	˦˨ tsān	tsān˦˨	ts a n̪ ⁴²	mand1415		40.0209	116.228	
 30875	122_stand	Stand	CANTONESE	CANTONESE	˩˨ k’ä	k’ä˩˨	kʰ ɛ ¹²	cant1236				
 30876	122_stand	Stand	GYAOMI	GYAOMI	ch’i-lai	ch’i-lai	tʃʰ i + l ai	mand1415		40.0209	116.228	
 30877	122_stand	Stand	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧ yụ̄n	yụ̄n˧	j uː n ³	thai1261		14.192	100.671	
@@ -29718,7 +29718,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 59759	48_star	Star	SEMANG	SEMANG	chundàn	chundàn	tʃ u n̪ d̪ a n̪	nort2682				
 59760	48_star	Star	SEMANG	SEMANG	làṅēr	làṅēr	l a ŋ eː r	nort2682				
 59761	48_star	Star	PALAUNG	PALAUNG	sà-mị̄ṅ	sà-mị̄ṅ	s a + m ɪː ŋ	ruma1248		23.6404	97.3172	
-59762	48_star	Star	PALAUNG	PALAUNG	pạr-lāṅ	pạr-lāṅ	p ø̜ r + l ʌː ŋ	ruma1248		23.6404	97.3172	
+59762	48_star	Star	PALAUNG	PALAUNG	pạr-lāṅ	pạr-lāṅ	p a r + l ʌː ŋ	ruma1248		23.6404	97.3172	
 59763	48_star	Star	DARANG	DARANG	si-main	si-main	s i + m ai n̪	ruch1235		21.6176	98.0915	
 59764	48_star	Star	WA	WA	s’i-muṅ	s’i-muṅ	sʰ i + m u ŋ	nucl1290		23.1024	99.108	
 59765	48_star	Star	SON	SON	se-mwin	se-mwin	s e + m w i n̪	sonn1238				
@@ -29741,7 +29741,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 59782	48_star	Star	SAVARA	SAVARA	tui	tui	t̪ u i	sora1254		19.1213	84.19	
 59783	48_star	Star	SAVARA	SAVARA	tu-tui	tu-tui	t̪ u + t̪ u i	sora1254		19.1213	84.19	
 59784	48_star	Star	GADABA	GADABA	pōṭī̃g	pōṭī̃g	p oː ʈ ĩː g	bodo1267		18.3857	82.771	
-59785	48_star	Star	MANDARIN	MANDARIN	˦ hsiṅ	hsiṅ˦	h s i ŋ ⁴	mand1415		40.0209	116.228	
+59785	48_star	Star	MANDARIN	MANDARIN	˦ hsiṅ	hsiṅ˦	ɕ i ŋ ⁴	mand1415		40.0209	116.228	
 59786	48_star	Star	CANTONESE	CANTONESE	˦ siṅ	siṅ˦	s i ŋ ⁴	cant1236				
 59787	48_star	Star	GYAOMI	GYAOMI	siṅh-šu	siṅh-šu	s i ŋ h + ʃ u	mand1415		40.0209	116.228	
 59788	48_star	Star	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧ tāo	tāo˧	t̪ ʌː o ³	thai1261		14.192	100.671	
@@ -30106,7 +30106,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 58925	46_sun	Sun	BASQUE	BASQUE	eguzki	eguzki	e g u z k i	basq1248		43.2787	-1.31622	
 58926	46_sun	Sun	BURUSHASKI	BURUSHASKI	sah	sah	s ʌ h	buru1296		36.2161	74.8236	
 58927	46_sun	Sun	MALAY	MALAY	màtàhàri	màtàhàri	m a t̪ a h a r i	baba1267		1.75414	103.076	
-58928	46_sun	Sun	CHAM	CHAM	hàrěi	hàrěi	h a r ə i	cham1328				
+58928	46_sun	Sun	CHAM	CHAM	hàrěi	hàrěi	h a r e i	cham1328				
 58929	46_sun	Sun	SALON	SALON	màtà-àloi	màtà-àloi	m a t̪ a + a l ɔɪ	moke1242		10.1474	98.6765	
 58930	46_sun	Sun	KHMER	KHMER	t’ṅai	t’ṅai	t̪ʰ ŋ ai	cent1989		12.0515	105.015	
 58931	46_sun	Sun	TALAINGWRITTEN	TALAING_WRITTEN	tṅai	tṅai	t̪ ŋ ai	monn1252		15.49394	98.122465	
@@ -30138,7 +30138,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 58957	46_sun	Sun	JUANG	JUANG	belā (? Aryan)	belā	b e l ʌː	juan1238		21.2606	85.5845	
 58958	46_sun	Sun	SAVARA	SAVARA	uyuṅ	uyuṅ	u j u ŋ	sora1254		19.1213	84.19	
 58959	46_sun	Sun	GADABA	GADABA	sĩi	sĩi	s ĩ i	bodo1267		18.3857	82.771	
-58960	46_sun	Sun	MANDARIN	MANDARIN	˨ žᵃ°	žᵃ°˨	ʒ ă ²	mand1415		40.0209	116.228	
+58960	46_sun	Sun	MANDARIN	MANDARIN	˨ žᵃ°	žᵃ°˨	ʐ ʅ ²	mand1415		40.0209	116.228	
 58961	46_sun	Sun	CANTONESE	CANTONESE	˨˩ yaᵗ	yaᵗ˨˩	j ʌ t̪̚ ²¹	cant1236				
 58962	46_sun	Sun	CANTONESE	CANTONESE	˨˩ yaᵗ ˨ t’au	yaᵗ˨˩t’au˨	j ʌ t̪̚ ²¹ + t̪ʰ au ²	cant1236				
 58963	46_sun	Sun	GYAOMI	GYAOMI	tai-t’au	tai-t’au	t̪ ai + t̪ʰ au	mand1415		40.0209	116.228	
@@ -30391,7 +30391,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 59210	46_sun	Sun	CHILASIOFDRAS	CHILASI_OF_DRAS	surya	surya	s u r j ʌ	dras1242				
 59211	46_sun	Sun	CHILASIOFDRAS	CHILASI_OF_DRAS	sur	sur	s u r	dras1242				
 59212	46_sun	Sun	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	sürī	sürī	s y r iː	brok1247		34.5308	76.6026	
-59213	46_sun	Sun	KASHMIRI	KASHMIRI	sirě	sirě	s i r ə	kash1277		34.166825	74.330455	
+59213	46_sun	Sun	KASHMIRI	KASHMIRI	sirě	sirě	s i r e	kash1277		34.166825	74.330455	
 59214	46_sun	Sun	KASHTAWARI	KASHTAWARI	sūraj	sūraj	s uː r ʌ dʒ	kish1245				
 59215	46_sun	Sun	KASHTAWARI	KASHTAWARI	dōs	dōs	d̪ oː s	kish1245				
 59216	46_sun	Sun	POGULI	POGULI	dūs	dūs	d̪ uː s	pogu1238				
@@ -30547,7 +30547,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2362	10_ten	Ten	KHARIA	KHARIA	gol	gol	g o l	khar1287		22.3571	84.3922	
 2363	10_ten	Ten	SAVARA	SAVARA	galji	galji	g ʌ l dʒ i	sora1254		19.1213	84.19	
 2364	10_ten	Ten	GADABA	GADABA	galigi	galigi	g ʌ l i g i	bodo1267		18.3857	82.771	
-2365	10_ten	Ten	MANDARIN	MANDARIN	˨ sza°	sza°˨	s z ʌ ²	mand1415		40.0209	116.228	
+2365	10_ten	Ten	MANDARIN	MANDARIN	˨ sza°	sza°˨	s ɿ ²	mand1415		40.0209	116.228	
 2366	10_ten	Ten	CANTONESE	CANTONESE	˨˩ šap	šap˨˩	ʃ ʌ p ²¹	cant1236				
 2367	10_ten	Ten	GYAOMI	GYAOMI	īš-sa	īš-sa	iː ʃ + s ʌ	mand1415		40.0209	116.228	
 2368	10_ten	Ten	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨ sip	sip˨	s i p ²	thai1261		14.192	100.671	
@@ -30926,7 +30926,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 47052	25_their	Their	SAVARA	SAVARA	aniñji-nā (P.)	aniñji-nā	ʌ n̪ i ɲ dʒ i + n̪ ʌː	sora1254		19.1213	84.19	
 47053	25_their	Their	SAVARA	SAVARA	aniñji-ā (P.)	aniñji-ā	ʌ n̪ i ɲ dʒ i + ʌː	sora1254		19.1213	84.19	
 47054	25_their	Their	GADABA	GADABA	māyēn-nug (P.)	māyēn-nug	m ʌː j eː n̪ + n̪ u g	bodo1267		18.3857	82.771	
-47055	25_their	Their	MANDARIN	MANDARIN	˧ t’a ˨ man ˨ ti° (P.)	t’a˧man˨ti°˨	t̪ʰ ʌ ³ + m ʌ n̪ ² + t̪ i ²	mand1415		40.0209	116.228	
+47055	25_their	Their	MANDARIN	MANDARIN	˧ t’a ˨ man ˨ ti° (P.)	t’a˧man˨ti°˨	tʰ a ³ + m a n̪ ² + t i ²	mand1415		40.0209	116.228	
 47056	25_their	Their	CANTONESE	CANTONESE	˩˨ k’ui ˨˩ tä ˥˦ kē (P.)	k’ui˩˨tä˨˩kē˥˦	kʰ u i ¹² + t̪ ɛ ²¹ + k eː ⁵⁴	cant1236				
 47057	25_their	Their	GYAOMI	GYAOMI	t’å-mai-ti	t’å-mai-ti	t̪ʰ ɔ + m ai + t̪ i	mand1415		40.0209	116.228	
 47058	25_their	Their	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨˧ k’åṅ ˨˧ k’au (F.)	k’åṅ˨˧k’au˨˧	kʰ ɔ ŋ ²³ + kʰ au ²³	thai1261		14.192	100.671	
@@ -31182,8 +31182,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 47308	25_their	Their	GAWARBATI	GAWAR_BATI	tasu-na	tasu-na	t̪ ʌ s u + n̪ ʌ	gawa1247		35.1982	71.5428	
 47309	25_their	Their	PASHAIEASTERN	PASHAI_EASTERN	ūtēnā	ūtēnā	uː t̪ eː n̪ ʌː	sout2672		34.43099	70.30351	
 47310	25_their	Their	PASHAIWESTERN	PASHAI_WESTERN	ūtēnā	ūtēnā	uː t̪ eː n̪ ʌː	sout2671		34.8478	69.8734	
-47311	25_their	Their	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	hatětan	hatětan	h ʌ t̪ ə t̪ ʌ n̪	khow1242		36.0	72.0	
-47312	25_their	Their	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	hětan	hětan	h ə t̪ ʌ n̪	khow1242		36.0	72.0	
+47311	25_their	Their	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	hatětan	hatětan	h ʌ t̪ e t̪ ʌ n̪	khow1242		36.0	72.0	
+47312	25_their	Their	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	hětan	hětan	h e t̪ ʌ n̪	khow1242		36.0	72.0	
 47313	25_their	Their	SHINAGILGITI	SHINA_GILGITI	aino	aino	ai n̪ o	gilg1242				
 47314	25_their	Their	SHINAGILGITI	SHINA_GILGITI	ainēi	ainēi	ai n̪ eː i	gilg1242				
 47315	25_their	Their	SHINAGILGITI	SHINA_GILGITI	rīno	rīno	r iː n̪ o	gilg1242				
@@ -31325,7 +31325,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 47451	25_their	Their	GADI	GADI	un’ērā	un’ērā	u n̪̊ʰ eː r ʌː	gadi1238				
 47452	25_their	Their	GADI	GADI	un’ārā	un’ārā	u n̪̊ʰ ʌː r ʌː	gadi1238				
 47453	25_their	Their	GADI	GADI	ūā̃rā	ūā̃rā	uː ãː r ʌː	gadi1238				
-47454	25_their	Their	PANGWALI	PANGWALI	un-kěā	un-kěā	u n̪ + k ə ʌː	pang1282		32.9753	76.5569	
+47454	25_their	Their	PANGWALI	PANGWALI	un-kěā	un-kěā	u n̪ + k e ʌː	pang1282		32.9753	76.5569	
 47455	25_their	Their	BHADRAWAHI	BHADRAWAHI	uṇkarũ	uṇkarũ	u ɳ k ʌ r ũ	bhad1241		33.2851	75.8707	
 47456	25_their	Their	BHADRAWAHI	BHADRAWAHI	taṇkarũ	taṇkarũ	t̪ ʌ ɳ k ʌ r ũ	bhad1241		33.2851	75.8707	
 47457	25_their	Their	PADARI	PADARI	taī̃-kar	taī̃-kar	t̪ ʌ ĩː + k ʌ r	pada1256				
@@ -31380,7 +31380,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 46534	24_they	They	JUANG	JUANG	ār-ki	ār-ki	ʌː r + k i	juan1238		21.2606	85.5845	
 46535	24_they	They	SAVARA	SAVARA	aniñji	aniñji	ʌ n̪ i ɲ dʒ i	sora1254		19.1213	84.19	
 46536	24_they	They	GADABA	GADABA	māy-nēṅg	māy-nēṅg	m ʌː j + n̪ eː ŋ g	bodo1267		18.3857	82.771	
-46537	24_they	They	MANDARIN	MANDARIN	˦ t’ā ˨ man	t’ā˦man˨	t̪ʰ ʌː ⁴ + m ʌ n̪ ²	mand1415		40.0209	116.228	
+46537	24_they	They	MANDARIN	MANDARIN	˦ t’ā ˨ man	t’ā˦man˨	tʰ a ⁴ + m a n̪ ²	mand1415		40.0209	116.228	
 46538	24_they	They	CANTONESE	CANTONESE	˩˨ k’ui ˨˩ tä	k’ui˩˨tä˨˩	kʰ u i ¹² + t̪ ɛ ²¹	cant1236				
 46539	24_they	They	GYAOMI	GYAOMI	t’å-mai	t’å-mai	t̪ʰ ɔ + m ai	mand1415		40.0209	116.228	
 46540	24_they	They	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨˧ k’au	k’au˨˧	kʰ au ²³	thai1261		14.192	100.671	
@@ -31692,8 +31692,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 46846	24_they	They	GAWARBATI	GAWAR_BATI	teme	teme	t̪ e m e	gawa1247		35.1982	71.5428	
 46847	24_they	They	PASHAIEASTERN	PASHAI_EASTERN	utu	utu	u t̪ u	sout2672		34.43099	70.30351	
 46848	24_they	They	PASHAIWESTERN	PASHAI_WESTERN	ūtē	ūtē	uː t̪ eː	sout2671		34.8478	69.8734	
-46849	24_they	They	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	hátět	hátět	h á t̪ ə t̪	khow1242		36.0	72.0	
-46850	24_they	They	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	hětt	hětt	h ə t̪ t̪	khow1242		36.0	72.0	
+46849	24_they	They	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	hátět	hátět	h á t̪ e t̪	khow1242		36.0	72.0	
+46850	24_they	They	KHOWARORCHITRALI	KHOWAR_OR_CHITRALI	hětt	hětt	h e t̪ t̪	khow1242		36.0	72.0	
 46851	24_they	They	SHINAGILGITI	SHINA_GILGITI	ai	ai	ai	gilg1242				
 46852	24_they	They	SHINAGILGITI	SHINA_GILGITI	aisä	aisä	ai s ɛ	gilg1242				
 46853	24_they	They	SHINAGILGITI	SHINA_GILGITI	rī	rī	r iː	gilg1242				
@@ -31846,7 +31846,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 47000	24_they	They	KIUTHALI	KIUTHALI	sē	sē	s eː	kiun1241				
 47001	24_they	They	SHODOCHI	SHODOCHI	sai	sai	s ai	maha1287		31.0088	77.5317	
 47002	24_they	They	KULUI	KULUI	tē	tē	t̪ eː	kllu1238				
-47003	24_they	They	MANDEALI	MANDEALI	sěō̃	sěō̃	s ə õː	mand1409		31.5425	77.0419	
+47003	24_they	They	MANDEALI	MANDEALI	sěō̃	sěō̃	s e õː	mand1409		31.5425	77.0419	
 47004	24_they	They	CHAMEALI	CHAMEALI	ō	ō	oː	cham1307		32.5476	76.1796	
 47005	24_they	They	CHAMEALI	CHAMEALI	sē	sē	s eː	cham1307		32.5476	76.1796	
 47006	24_they	They	GADI	GADI	ōh	ōh	oː h	gadi1238				
@@ -31916,8 +31916,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 29060	18_thou	Thou	SAVARA	SAVARA	ām	ām	ʌː m	sora1254		19.1213	84.19	
 29061	18_thou	Thou	SAVARA	SAVARA	āman	āman	ʌː m ʌ n̪	sora1254		19.1213	84.19	
 29062	18_thou	Thou	GADABA	GADABA	nōm	nōm	n̪ oː m	bodo1267		18.3857	82.771	
-29063	18_thou	Thou	MANDARIN	MANDARIN	˨˧ nī	nī˨˧	n̪ iː ²³	mand1415		40.0209	116.228	
-29064	18_thou	Thou	MANDARIN	MANDARIN	˨˧ lī	lī˨˧	l iː ²³	mand1415		40.0209	116.228	
+29063	18_thou	Thou	MANDARIN	MANDARIN	˨˧ nī	nī˨˧	n i ²³	mand1415		40.0209	116.228	
+29064	18_thou	Thou	MANDARIN	MANDARIN	˨˧ lī	lī˨˧	l i ²³	mand1415		40.0209	116.228	
 29065	18_thou	Thou	CANTONESE	CANTONESE	˩˨ nä	nä˩˨	n̪ ɛ ¹²	cant1236				
 29066	18_thou	Thou	GYAOMI	GYAOMI	ni	ni	n̪ i	mand1415		40.0209	116.228	
 29067	18_thou	Thou	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧˨ dān	dān˧˨	d̪ ʌː n̪ ³²	thai1261		14.192	100.671	
@@ -32377,7 +32377,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 3173	3_three	Three	SAVARA	SAVARA	yār	yār	j ʌː r	sora1254		19.1213	84.19	
 3174	3_three	Three	SAVARA	SAVARA	yāgi	yāgi	j ʌː g i	sora1254		19.1213	84.19	
 3175	3_three	Three	GADABA	GADABA	ig-rō yāgi	ig-rō yāgi	i g + r oː + j ʌː g i	bodo1267		18.3857	82.771	
-3176	3_three	Three	MANDARIN	MANDARIN	˧ sān	sān˧	s ʌː n̪ ³	mand1415		40.0209	116.228	
+3176	3_three	Three	MANDARIN	MANDARIN	˧ sān	sān˧	s a n̪ ³	mand1415		40.0209	116.228	
 3177	3_three	Three	CANTONESE	CANTONESE	˧ sām	sām˧	s ʌː m ³	cant1236				
 3178	3_three	Three	GYAOMI	GYAOMI	såṅ-kū	såṅ-kū	s ɔ ŋ + k uː	mand1415		40.0209	116.228	
 3179	3_three	Three	GYAOMI	GYAOMI	sån	sån	s ɔ n̪	mand1415		40.0209	116.228	
@@ -32631,8 +32631,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 3427	3_three	Three	CHILASIOFDRAS	CHILASI_OF_DRAS	trē	trē	t̪ r eː	dras1242				
 3428	3_three	Three	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	trā	trā	t̪ r ʌː	brok1247		34.5308	76.6026	
 3429	3_three	Three	KASHMIRI	KASHMIRI	trih	trih	t̪ r i h	kash1277		34.166825	74.330455	
-3430	3_three	Three	KASHMIRI	KASHMIRI	trěh	trěh	t̪ r ə h	kash1277		34.166825	74.330455	
-3431	3_three	Three	KASHTAWARI	KASHTAWARI	trě	trě	t̪ r ə	kish1245				
+3430	3_three	Three	KASHMIRI	KASHMIRI	trěh	trěh	t̪ r e h	kash1277		34.166825	74.330455	
+3431	3_three	Three	KASHTAWARI	KASHTAWARI	trě	trě	t̪ r e	kish1245				
 3432	3_three	Three	KASHTAWARI	KASHTAWARI	tra	tra	t̪ r ʌ	kish1245				
 3433	3_three	Three	POGULI	POGULI	chāē	chāē	tʃ ʌː eː	pogu1238				
 3434	3_three	Three	DODASIRAJI	DODA_SIRAJI	trēī	trēī	t̪ r eː iː	sira1264				
@@ -32785,7 +32785,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 29520	19_thy	Thy	SAVARA	SAVARA	āman (F.)	āman	ʌː m ʌ n̪	sora1254		19.1213	84.19	
 29521	19_thy	Thy	SAVARA	SAVARA	nam (F.)	nam	n̪ ʌ m	sora1254		19.1213	84.19	
 29522	19_thy	Thy	GADABA	GADABA	nōm-nō (P.)	nōm-nō	n̪ oː m + n̪ oː	bodo1267		18.3857	82.771	
-29523	19_thy	Thy	MANDARIN	MANDARIN	˨˧ nī ˨ ti° (P.)	nī˨˧ti°˨	n̪ iː ²³ + t̪ i ²	mand1415		40.0209	116.228	
+29523	19_thy	Thy	MANDARIN	MANDARIN	˨˧ nī ˨ ti° (P.)	nī˨˧ti°˨	n i ²³ + t i ²	mand1415		40.0209	116.228	
 29524	19_thy	Thy	CANTONESE	CANTONESE	˩˨ nä ˥˦ kē (P.)	nä˩˨kē˥˦	n̪ ɛ ¹² + k eː ⁵⁴	cant1236				
 29525	19_thy	Thy	GYAOMI	GYAOMI	ni-ti	ni-ti	n̪ i + t̪ i	mand1415		40.0209	116.228	
 29526	19_thy	Thy	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨˧ k’åṅ ˧˨ dān (F.)	k’åṅ˨˧dān˧˨	kʰ ɔ ŋ ²³ + d̪ ʌː n̪ ³²	thai1261		14.192	100.671	
@@ -33114,7 +33114,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 29849	19_thy	Thy	POTHWARI	POTHWARI	tuhāḍā	tuhāḍā	t̪ u h ʌː ɖ ʌː	poth1238				
 29850	19_thy	Thy	CHIBHALI	CHIBHALI	tuhāṛā	tuhāṛā	t̪ u h ʌː ɽ ʌː	chib1247				
 29851	19_thy	Thy	PUNCHHI	PUNCHHI	tuhāṛā	tuhāṛā	t̪ u h ʌː ɽ ʌː	punc1239				
-29852	19_thy	Thy	SINDHIVICHOLI	SINDHI_VICHOLI	tũhě-jō	tũhě-jō	t̪ ũ h ə + dʒ oː	sind1272		26.0	69.0	
+29852	19_thy	Thy	SINDHIVICHOLI	SINDHI_VICHOLI	tũhě-jō	tũhě-jō	t̪ ũ h e + dʒ oː	sind1272		26.0	69.0	
 29853	19_thy	Thy	LARI	LARI	tō-jō	tō-jō	t̪ oː + dʒ oː	lari1254				
 29854	19_thy	Thy	KACHCHHI	KACHCHHI	tō-jō	tō-jō	t̪ oː + dʒ oː	kach1277		23.83	69.0	
 29855	19_thy	Thy	MARATHIDESHI	MARATHI_DESHI	tuḏẕ’ā	tuḏẕ’ā	t̪ u dz ʌː	mara1378		17.9344	76.6665	
@@ -33201,7 +33201,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 29936	19_thy	Thy	CENTRALPAHARIKUMAUNI	CENTRAL_PAHARI_KUMAUNI	tyǒro	tyǒro	t̪ j ɒ r o	kuma1273		29.5622	80.0171	
 29937	19_thy	Thy	GARHWALI	GARHWALI	tērō	tērō	t̪ eː r oː	garh1243		30.5061	78.7201	
 29938	19_thy	Thy	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	tērō	tērō	t̪ eː r oː	jaun1243		30.5587	77.9084	
-29939	19_thy	Thy	SIRMAURI	SIRMAURI	těārā	těārā	t̪ ə ʌː r ʌː	sirm1239		31.1	77.17	
+29939	19_thy	Thy	SIRMAURI	SIRMAURI	těārā	těārā	t̪ e ʌː r ʌː	sirm1239		31.1	77.17	
 29940	19_thy	Thy	SIRMAURI	SIRMAURI	tuãkā	tuãkā	t̪ u ã k ʌː	sirm1239		31.1	77.17	
 29941	19_thy	Thy	BAGHATI	BAGHATI	tērā	tērā	t̪ eː r ʌː	bagh1249				
 29942	19_thy	Thy	KIUTHALI	KIUTHALI	tērā	tērā	t̪ eː r ʌː	kiun1241				
@@ -33240,7 +33240,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 51102	35_tongue	Tongue	SAKAI	SAKAI	lᵉntāk	lᵉntāk	l ĕ n̪ t̪ ʌː k	seno1278				
 51103	35_tongue	Tongue	SAKAI	SAKAI	ntàk	ntàk	n̪ t̪ a k	seno1278				
 51104	35_tongue	Tongue	SEMANG	SEMANG	letik	letik	l e t̪ i k	nort2682				
-51105	35_tongue	Tongue	PALAUNG	PALAUNG	kạr-tā	kạr-tā	k ø̜ r + t̪ ʌː	ruma1248		23.6404	97.3172	
+51105	35_tongue	Tongue	PALAUNG	PALAUNG	kạr-tā	kạr-tā	k a r + t̪ ʌː	ruma1248		23.6404	97.3172	
 51106	35_tongue	Tongue	KATURR	KATURR	kàṟ-tà	kàṟ-tà	k a r + t̪ a					
 51107	35_tongue	Tongue	DARANG	DARANG	s’là	s’là	sʰ l a	ruch1235		21.6176	98.0915	
 51108	35_tongue	Tongue	WA	WA	tàk	tàk	t̪ a k	nucl1290		23.1024	99.108	
@@ -33264,7 +33264,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 51126	35_tongue	Tongue	SAVARA	SAVARA	alā	alā	ʌ l ʌː	sora1254		19.1213	84.19	
 51127	35_tongue	Tongue	GADABA	GADABA	laāṅg	laāṅg	l ʌ ʌː ŋ g	bodo1267		18.3857	82.771	
 51128	35_tongue	Tongue	GADABA	GADABA	lāku	lāku	l ʌː k u	bodo1267		18.3857	82.771	
-51129	35_tongue	Tongue	MANDARIN	MANDARIN	˨ sa°	sa°˨	s ʌ ²	mand1415		40.0209	116.228	
+51129	35_tongue	Tongue	MANDARIN	MANDARIN	˨ sa°	sa°˨	s a ²	mand1415		40.0209	116.228	
 51130	35_tongue	Tongue	CANTONESE	CANTONESE	˨˩ lä	lä˨˩	l ɛ ²¹	cant1236				
 51131	35_tongue	Tongue	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧ ˧˨ lin	lin˧˧˨	l i n̪ ³³ + ²	thai1261		14.192	100.671	
 51132	35_tongue	Tongue	SIAMESESPOKEN	SIAMESE_SPOKEN	˧ ˧˨ lin	lin˧˧˨	l i n̪ ³³ + ²					
@@ -33471,8 +33471,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 51333	35_tongue	Tongue	CHILASI	CHILASI	jib	jib	dʒ i b	shin1264		34.6515	75.287	
 51334	35_tongue	Tongue	CHILASIOFDRAS	CHILASI_OF_DRAS	žīp	žīp	ʒ iː p	dras1242				
 51335	35_tongue	Tongue	CHILASIOFDAHHANU	CHILASI_OF_DAH_HANU	gip	gip	g i p	brok1247		34.5308	76.6026	
-51336	35_tongue	Tongue	KASHMIRI	KASHMIRI	zěv	zěv	z ə v	kash1277		34.166825	74.330455	
-51337	35_tongue	Tongue	KASHTAWARI	KASHTAWARI	zěou	zěou	z ə əʊ	kish1245				
+51336	35_tongue	Tongue	KASHMIRI	KASHMIRI	zěv	zěv	z e v	kash1277		34.166825	74.330455	
+51337	35_tongue	Tongue	KASHTAWARI	KASHTAWARI	zěou	zěou	z e əʊ	kish1245				
 51338	35_tongue	Tongue	KASHTAWARI	KASHTAWARI	ziō	ziō	z i oː	kish1245				
 51339	35_tongue	Tongue	POGULI	POGULI	ziū	ziū	z i uː	pogu1238				
 51340	35_tongue	Tongue	DODASIRAJI	DODA_SIRAJI	jib	jib	dʒ i b	sira1264				
@@ -33574,7 +33574,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 51436	35_tongue	Tongue	GADI	GADI	jibb’	jibb’	dʒ i b bʰ	gadi1238				
 51437	35_tongue	Tongue	PANGWALI	PANGWALI	jib’	jib’	dʒ i bʰ	pang1282		32.9753	76.5569	
 51438	35_tongue	Tongue	BHADRAWAHI	BHADRAWAHI	zibb’	zibb’	z i b bʰ	bhad1241		33.2851	75.8707	
-51439	35_tongue	Tongue	PADARI	PADARI	ḏẕěb’	ḏẕěb’	dz ə bʰ	pada1256				
+51439	35_tongue	Tongue	PADARI	PADARI	ḏẕěb’	ḏẕěb’	dz e bʰ	pada1256				
 #
 49457	31_tooth	Tooth	JAPANESE	JAPANESE	ha	ha	h ʌ	nucl1643		35.0	135.0	
 49458	31_tooth	Tooth	AINU	AINU	nimaki	nimaki	n̪ i m ʌ k i	sakh1245		48.141866	142.329834	
@@ -33587,7 +33587,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 49465	31_tooth	Tooth	BASQUE	BASQUE	agin	agin	ʌ g i n̪	basq1248		43.2787	-1.31622	
 49466	31_tooth	Tooth	BURUSHASKI	BURUSHASKI	imih	imih	i m i h	buru1296		36.2161	74.8236	
 49467	31_tooth	Tooth	MALAY	MALAY	gigi	gigi	g i g i	baba1267		1.75414	103.076	
-49468	31_tooth	Tooth	CHAM	CHAM	tàgěi	tàgěi	t̪ a g ə i	cham1328				
+49468	31_tooth	Tooth	CHAM	CHAM	tàgěi	tàgěi	t̪ a g e i	cham1328				
 49469	31_tooth	Tooth	SALON	SALON	lepàn	lepàn	l e p a n̪	moke1242		10.1474	98.6765	
 49470	31_tooth	Tooth	KHMER	KHMER	t’meñ	t’meñ	t̪ʰ m e ɲ	cent1989		12.0515	105.015	
 49471	31_tooth	Tooth	TALAINGWRITTEN	TALAING_WRITTEN	ṅek	ṅek	ŋ e k	monn1252		15.49394	98.122465	
@@ -33620,7 +33620,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 49498	31_tooth	Tooth	SAVARA	SAVARA	ji	ji	dʒ i	sora1254		19.1213	84.19	
 49499	31_tooth	Tooth	GADABA	GADABA	gīnē	gīnē	g iː n̪ eː	bodo1267		18.3857	82.771	
 49500	31_tooth	Tooth	GADABA	GADABA	zī	zī	z iː	bodo1267		18.3857	82.771	
-49501	31_tooth	Tooth	MANDARIN	MANDARIN	(back tooth) ˨ yā	yā˨	j ʌː ²	mand1415		40.0209	116.228	
+49501	31_tooth	Tooth	MANDARIN	MANDARIN	(back tooth) ˨ yā	yā˨	j a ²	mand1415		40.0209	116.228	
 49502	31_tooth	Tooth	MANDARIN	MANDARIN	(front) ˨˦ ṯs̱’z	ṯs̱’z˨˦	tsʰ z ²⁴	mand1415		40.0209	116.228	
 49503	31_tooth	Tooth	CANTONESE	CANTONESE	˨ ṅā	ṅā˨	ŋ ʌː ²	cant1236				
 49504	31_tooth	Tooth	GYAOMI	GYAOMI	yå	yå	j ɔ	mand1415		40.0209	116.228	
@@ -33996,7 +33996,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 25996	11_twenty	Twenty	KURKU	KURKU	īsā	īsā	iː s ʌː	kork1243		21.8358	77.5541	
 25997	11_twenty	Twenty	SAVARA	SAVARA	bo koḍi	bo koḍi	b o + k o ɖ i	sora1254		19.1213	84.19	
 25998	11_twenty	Twenty	GADABA	GADABA	mika	mika	m i k ʌ	bodo1267		18.3857	82.771	
-25999	11_twenty	Twenty	MANDARIN	MANDARIN	˧˨ ṅa ˨ sza°	ṅa˧˨sza°˨	ŋ ʌ ³² + s z ʌ ²	mand1415		40.0209	116.228	
+25999	11_twenty	Twenty	MANDARIN	MANDARIN	˧˨ ṅa ˨ sza°	ṅa˧˨sza°˨	ŋ a ³² + s ɿ ²	mand1415		40.0209	116.228	
 26000	11_twenty	Twenty	CANTONESE	CANTONESE	˨˩ yī	yī˨˩	j iː ²¹	cant1236				
 26001	11_twenty	Twenty	CANTONESE	CANTONESE	˩˨ löṅ	löṅ˩˨	l ø ŋ ¹²	cant1236				
 26002	11_twenty	Twenty	GYAOMI	GYAOMI	liåṅ-kū	liåṅ-kū	l i ɔ ŋ + k uː	mand1415		40.0209	116.228	
@@ -34380,8 +34380,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2751	2_two	Two	SAVARA	SAVARA	bāgu	bāgu	b ʌː g u	sora1254		19.1213	84.19	
 2752	2_two	Two	GADABA	GADABA	bār-jū	bār-jū	b ʌː r + dʒ uː	bodo1267		18.3857	82.771	
 2753	2_two	Two	GADABA	GADABA	bāgu	bāgu	b ʌː g u	bodo1267		18.3857	82.771	
-2754	2_two	Two	MANDARIN	MANDARIN	˧˨ ṅa	ṅa˧˨	ŋ ʌ ³²	mand1415		40.0209	116.228	
-2755	2_two	Two	MANDARIN	MANDARIN	˨˧ lyaṅ	lyaṅ˨˧	l j ʌ ŋ ²³	mand1415		40.0209	116.228	
+2754	2_two	Two	MANDARIN	MANDARIN	˧˨ ṅa	ṅa˧˨	ŋ a ³²	mand1415		40.0209	116.228	
+2755	2_two	Two	MANDARIN	MANDARIN	˨˧ lyaṅ	lyaṅ˨˧	l j a ŋ ²³	mand1415		40.0209	116.228	
 2756	2_two	Two	CANTONESE	CANTONESE	˨˩ yī	yī˨˩	j iː ²¹	cant1236				
 2757	2_two	Two	CANTONESE	CANTONESE	˩˨ löṅ	löṅ˩˨	l ø ŋ ¹²	cant1236				
 2758	2_two	Two	GYAOMI	GYAOMI	liåṅ-kū	liåṅ-kū	l i ɔ ŋ + k uː	mand1415		40.0209	116.228	
@@ -34780,7 +34780,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 19599	105_up	Up	SAKAI	SAKAI	ka	ka	k ʌ	seno1278				
 19600	105_up	Up	SEMANG	SEMANG	kᵉpeṅ	kᵉpeṅ	k ĕ p e ŋ	nort2682				
 19601	105_up	Up	SEMANG	SEMANG	kentök	kentök	k e n̪ t̪ ø k	nort2682				
-19602	105_up	Up	PALAUNG	PALAUNG	(above) kạr-vǖ-ä	kạr-vǖ-ä	k ø̜ r + v yː + ɛ	ruma1248		23.6404	97.3172	
+19602	105_up	Up	PALAUNG	PALAUNG	(above) kạr-vǖ-ä	kạr-vǖ-ä	k a r + v yː + ɛ	ruma1248		23.6404	97.3172	
 19603	105_up	Up	PALAUNG	PALAUNG	nȫṅ	nȫṅ	n̪ øː ŋ	ruma1248		23.6404	97.3172	
 19604	105_up	Up	KATURR	KATURR	plīṅ	plīṅ	p l iː ŋ					
 19605	105_up	Up	KATURR	KATURR	(above) pàṅ	pàṅ	p a ŋ					
@@ -34812,8 +34812,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 19631	105_up	Up	SAVARA	SAVARA	laṅkān	laṅkān	l ʌ ŋ k ʌː n̪	sora1254		19.1213	84.19	
 19632	105_up	Up	GADABA	GADABA	tōmnāṅg	tōmnāṅg	t̪ oː m n̪ ʌː ŋ g	bodo1267		18.3857	82.771	
 19633	105_up	Up	GADABA	GADABA	hattu	hattu	h ʌ t̪ t̪ u	bodo1267		18.3857	82.771	
-19634	105_up	Up	MANDARIN	MANDARIN	˦˨ sāṅ	sāṅ˦˨	s ʌː ŋ ⁴²	mand1415		40.0209	116.228	
-19635	105_up	Up	MANDARIN	MANDARIN	˨˦ sāṅ	sāṅ˨˦	s ʌː ŋ ²⁴	mand1415		40.0209	116.228	
+19634	105_up	Up	MANDARIN	MANDARIN	˦˨ sāṅ	sāṅ˦˨	s a ŋ ⁴²	mand1415		40.0209	116.228	
+19635	105_up	Up	MANDARIN	MANDARIN	˨˦ sāṅ	sāṅ˨˦	s a ŋ ²⁴	mand1415		40.0209	116.228	
 19636	105_up	Up	CANTONESE	CANTONESE	˩˨ šöṅ	šöṅ˩˨	ʃ ø ŋ ¹²	cant1236				
 19637	105_up	Up	GYAOMI	GYAOMI	šåṅ-t’au (above)	šåṅ-t’au	ʃ ɔ ŋ + t̪ʰ au	mand1415		40.0209	116.228	
 19638	105_up	Up	SIAMESEWRITTEN	SIAMESE_WRITTEN	˦˨ k’āṅ ˦ pon	k’āṅ˦˨pon˦	kʰ ʌː ŋ ⁴² + p o n̪ ⁴	thai1261		14.192	100.671	
@@ -35637,7 +35637,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 28049	16_we	We	JUANG	JUANG	neiñje	neiñje	n̪ ei ɲ dʒ e	juan1238		21.2606	85.5845	
 28050	16_we	We	SAVARA	SAVARA	ellen	ellen	e l l e n̪	sora1254		19.1213	84.19	
 28051	16_we	We	GADABA	GADABA	nēiṅg	nēiṅg	n̪ eː i ŋ g	bodo1267		18.3857	82.771	
-28052	16_we	We	MANDARIN	MANDARIN	˨˧ wå ˨ man	wå˨˧man˨	w ɔ ²³ + m ʌ n̪ ²	mand1415		40.0209	116.228	
+28052	16_we	We	MANDARIN	MANDARIN	˨˧ wå ˨ man	wå˨˧man˨	w ɔ ²³ + m a n̪ ²	mand1415		40.0209	116.228	
 28053	16_we	We	CANTONESE	CANTONESE	˩˨ ṅå ˨˩ tä	ṅå˩˨tä˨˩	ŋ ɔ ¹² + t̪ ɛ ²¹	cant1236				
 28054	16_we	We	GYAOMI	GYAOMI	ṅau-mai	ṅau-mai	ŋ au + m ai	mand1415		40.0209	116.228	
 28055	16_we	We	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧ rau	rau˧	r au ³	thai1261		14.192	100.671	
@@ -36147,7 +36147,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 22454	112_what	What?	SAKAI	SAKAI	mā	mā	m ʌː	seno1278				
 22455	112_what	What?	SEMANG	SEMANG	luwē’	luwē’	l u w eː	nort2682				
 22456	112_what	What?	SEMANG	SEMANG	ailöō	ailöō	ai l ø oː	nort2682				
-22457	112_what	What?	SEMANG	SEMANG	jělök	jělök	dʒ ə l ø k	nort2682				
+22457	112_what	What?	SEMANG	SEMANG	jělök	jělök	dʒ e l ø k	nort2682				
 22458	112_what	What?	PALAUNG	PALAUNG	s’ē	s’ē	sʰ eː	ruma1248		23.6404	97.3172	
 22459	112_what	What?	PALAUNG	PALAUNG	šē	šē	ʃ eː	ruma1248		23.6404	97.3172	
 22460	112_what	What?	PALAUNG	PALAUNG	s’ī	s’ī	sʰ iː	ruma1248		23.6404	97.3172	
@@ -36176,8 +36176,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 22483	112_what	What?	SAVARA	SAVARA	ēte	ēte	eː t̪ e	sora1254		19.1213	84.19	
 22484	112_what	What?	GADABA	GADABA	lāī	lāī	l ʌː iː	bodo1267		18.3857	82.771	
 22485	112_what	What?	GADABA	GADABA	nayiṭa	nayiṭa	n̪ ʌ j i ʈ ʌ	bodo1267		18.3857	82.771	
-22486	112_what	What?	MANDARIN	MANDARIN	˨˦ san	san˨˦	s ʌ n̪ ²⁴	mand1415		40.0209	116.228	
-22487	112_what	What?	MANDARIN	MANDARIN	˨˦ śan	śan˨˦	ʃ ʌ n̪ ²⁴	mand1415		40.0209	116.228	
+22486	112_what	What?	MANDARIN	MANDARIN	˨˦ san	san˨˦	s a n̪ ²⁴	mand1415		40.0209	116.228	
+22487	112_what	What?	MANDARIN	MANDARIN	˨˦ śan	śan˨˦	ʐ a n̪ ²⁴	mand1415		40.0209	116.228	
 22488	112_what	What?	CANTONESE	CANTONESE	˨ šui ˨ hå	šui˨hå˨	ʃ u i ² + h ɔ ²	cant1236				
 22489	112_what	What?	CANTONESE	CANTONESE	˦ pīn	pīn˦	p iː n̪ ⁴	cant1236				
 22490	112_what	What?	GYAOMI	GYAOMI	šå-chà	šå-chà	ʃ ɔ + tʃ a	mand1415		40.0209	116.228	
@@ -36556,7 +36556,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 22051	111_who	Who?	BASQUE	BASQUE	zeñ	zeñ	z e ɲ	basq1248		43.2787	-1.31622	
 22052	111_who	Who?	BURUSHASKI	BURUSHASKI	āmin	āmin	ʌː m i n̪	buru1296		36.2161	74.8236	
 22053	111_who	Who?	MALAY	MALAY	siàpà	siàpà	s i a p a	baba1267		1.75414	103.076	
-22054	111_who	Who?	CHAM	CHAM	sěi	sěi	s ə i	cham1328				
+22054	111_who	Who?	CHAM	CHAM	sěi	sěi	s e i	cham1328				
 22055	111_who	Who?	SALON	SALON	àsào*	àsào*	a s a o	moke1242		10.1474	98.6765	
 22056	111_who	Who?	KHMER	KHMER	nonà	nonà	n̪ o n̪ a	cent1989		12.0515	105.015	
 22057	111_who	Who?	TALAINGWRITTEN	TALAING_WRITTEN	mū mnih	mū mnih	m uː + m n̪ i h	monn1252		15.49394	98.122465	
@@ -36583,7 +36583,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 22078	111_who	Who?	GADABA	GADABA	lāī	lāī	l ʌː iː	bodo1267		18.3857	82.771	
 22079	111_who	Who?	GADABA	GADABA	mōyi	mōyi	m oː j i	bodo1267		18.3857	82.771	
 22080	111_who	Who?	MANDARIN	MANDARIN	˨ sui	sui˨	s u i ²	mand1415		40.0209	116.228	
-22081	111_who	Who?	MANDARIN	MANDARIN	˧ šui	šui˧	ʃ u i ³	mand1415		40.0209	116.228	
+22081	111_who	Who?	MANDARIN	MANDARIN	˧ šui	šui˧	ʐ u i ³	mand1415		40.0209	116.228	
 22082	111_who	Who?	CANTONESE	CANTONESE	˨ šui	šui˨	ʃ u i ²	cant1236				
 22083	111_who	Who?	CANTONESE	CANTONESE	˦ pīn	pīn˦	p iː n̪ ⁴	cant1236				
 22084	111_who	Who?	GYAOMI	GYAOMI	šå	šå	ʃ ɔ	mand1415		40.0209	116.228	
@@ -36968,7 +36968,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 22876	113_why	Why?	WAR	WAR	ai ni	ai ni	ai + n̪ i	warj1242		25.1154	91.6266	
 22877	113_why	Why?	NICOBARESE	NICOBARESE	chāwe	chāwe	tʃ ʌː w e	cent1990		7.94812	93.3921	
 22878	113_why	Why?	NICOBARESE	NICOBARESE	chūa	chūa	tʃ uː ʌ	cent1990		7.94812	93.3921	
-22879	113_why	Why?	KHERWARISANTHALI	KHERWARI_SANTHALI	chēᵗ-iạ̄-tä	chēᵗ-iạ̄-tä	tʃ eː t̪̚ + i ʌː + t̪ ɛ	sant1410		25.0317	87.8185	
+22879	113_why	Why?	KHERWARISANTHALI	KHERWARI_SANTHALI	chēᵗ-iạ̄-tä	chēᵗ-iạ̄-tä	tʃ eː t̪̚ + i aː + t̪ ɛ	sant1410		25.0317	87.8185	
 22880	113_why	Why?	MUNDARI	MUNDARI	chikạ̄n mäntē	chikạ̄n mäntē	tʃ i k ʌː n̪ + m ɛ n̪ t̪ eː	mund1320		23.03	85.85	
 22881	113_why	Why?	KURKU	KURKU	chōᶜʰ-ten	chōᶜʰ-ten	tʃ oː c̚ h + t̪ e n̪	kork1243		21.8358	77.5541	
 22882	113_why	Why?	KURKU	KURKU	chōen	chōen	tʃ oː e n̪	kork1243		21.8358	77.5541	
@@ -36978,7 +36978,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 22886	113_why	Why?	SAVARA	SAVARA	ētāsan	ētāsan	eː t̪ ʌː s ʌ n̪	sora1254		19.1213	84.19	
 22887	113_why	Why?	GADABA	GADABA	maṅ-pulaī	maṅ-pulaī	m ʌ ŋ + p u l ʌ iː	bodo1267		18.3857	82.771	
 22888	113_why	Why?	GADABA	GADABA	nāyi-duvāru	nāyi-duvāru	n̪ ʌː j i + d̪ u v ʌː r u	bodo1267		18.3857	82.771	
-22889	113_why	Why?	MANDARIN	MANDARIN	˦˨ wä ˨˦ san ˨˦ må	wä˦˨san˨˦må˨˦	w ɛ ⁴² + s ʌ n̪ ²⁴ + m ɔ ²⁴	mand1415		40.0209	116.228	
+22889	113_why	Why?	MANDARIN	MANDARIN	˦˨ wä ˨˦ san ˨˦ må	wä˦˨san˨˦må˨˦	w ɛ ⁴² + s a n̪ ²⁴ + m ɔ ²⁴	mand1415		40.0209	116.228	
 22890	113_why	Why?	CANTONESE	CANTONESE	˦ yan ˨ hå	yan˦hå˨	j ʌ n̪ ⁴ + h ɔ ²	cant1236				
 22891	113_why	Why?	GYAOMI	GYAOMI	šå-chū	šå-chū	ʃ ɔ + tʃ uː	mand1415		40.0209	116.228	
 22892	113_why	Why?	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧ dāṁ ˧ mai	dāṁ˧mai˧	d̪ ʌ̃ː ³ + m ai ³	thai1261		14.192	100.671	
@@ -37325,14 +37325,14 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23233	113_why	Why?	KIUTHALI	KIUTHALI	kōē	kōē	k oː eː	kiun1241				
 23234	113_why	Why?	SHODOCHI	SHODOCHI	kīlē	kīlē	k iː l eː	maha1287		31.0088	77.5317	
 23235	113_why	Why?	SHODOCHI	SHODOCHI	kīlai	kīlai	k iː l ai	maha1287		31.0088	77.5317	
-23236	113_why	Why?	KULUI	KULUI	kībě	kībě	k iː b ə	kllu1238				
+23236	113_why	Why?	KULUI	KULUI	kībě	kībě	k iː b e	kllu1238				
 23237	113_why	Why?	MANDEALI	MANDEALI	kī	kī	k iː	mand1409		31.5425	77.0419	
 23238	113_why	Why?	CHAMEALI	CHAMEALI	kiñjō	kiñjō	k i ɲ dʒ oː	cham1307		32.5476	76.1796	
 23239	113_why	Why?	GADI	GADI	kajō	kajō	k ʌ dʒ oː	gadi1238				
 23240	113_why	Why?	PANGWALI	PANGWALI	kis	kis	k i s	pang1282		32.9753	76.5569	
 23241	113_why	Why?	BHADRAWAHI	BHADRAWAHI	kujō	kujō	k u dʒ oː	bhad1241		33.2851	75.8707	
 23242	113_why	Why?	BHADRAWAHI	BHADRAWAHI	kī	kī	k iː	bhad1241		33.2851	75.8707	
-23243	113_why	Why?	PADARI	PADARI	kyěs	kyěs	kʲ ə s	pada1256				
+23243	113_why	Why?	PADARI	PADARI	kyěs	kyěs	kʲ e s	pada1256				
 #
 9524	75_wife	Wife	JAPANESE	JAPANESE	tsuma	tsuma	ts u m ʌ	nucl1643		35.0	135.0	
 9525	75_wife	Wife	JAPANESE	JAPANESE	saikun	saikun	s ai k u n̪	nucl1643		35.0	135.0	
@@ -37347,7 +37347,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9534	75_wife	Wife	BASQUE	BASQUE	emazte	emazte	e m ʌ z t̪ e	basq1248		43.2787	-1.31622	
 9535	75_wife	Wife	BURUSHASKI	BURUSHASKI	yūs	yūs	j uː s	buru1296		36.2161	74.8236	
 9536	75_wife	Wife	MALAY	MALAY	bini	bini	b i n̪ i	baba1267		1.75414	103.076	
-9537	75_wife	Wife	CHAM	CHAM	kàměi	kàměi	k a m ə i	cham1328				
+9537	75_wife	Wife	CHAM	CHAM	kàměi	kàměi	k a m e i	cham1328				
 9538	75_wife	Wife	SALON	SALON	plào*	plào*	p l a o	moke1242		10.1474	98.6765	
 9539	75_wife	Wife	SALON	SALON	bī-nūṅ*	bī-nūṅ*	b iː + n̪ uː ŋ	moke1242		10.1474	98.6765	
 9540	75_wife	Wife	KHMER	KHMER	pràpon	pràpon	p r a p o n̪	cent1989		12.0515	105.015	
@@ -37384,7 +37384,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9571	75_wife	Wife	SAVARA	SAVARA	ḍukri	ḍukri	ɖ u k r i	sora1254		19.1213	84.19	
 9572	75_wife	Wife	GADABA	GADABA	kumbaī	kumbaī	k u m b ʌ iː	bodo1267		18.3857	82.771	
 9573	75_wife	Wife	GADABA	GADABA	kāḍamānī	kāḍamānī	k ʌː ɖ ʌ m ʌː n̪ iː	bodo1267		18.3857	82.771	
-9574	75_wife	Wife	MANDARIN	MANDARIN	˦ ch’ī	ch’ī˦	tʃʰ iː ⁴	mand1415		40.0209	116.228	
+9574	75_wife	Wife	MANDARIN	MANDARIN	˦ ch’ī	ch’ī˦	tɕʰ i ⁴	mand1415		40.0209	116.228	
 9575	75_wife	Wife	CANTONESE	CANTONESE	˩˨ lō ˨ p’å	lō˩˨p’å˨	l oː ¹² + pʰ ɔ ²	cant1236				
 9576	75_wife	Wife	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧ mīà	mīà˧	m iː a ³	thai1261		14.192	100.671	
 9577	75_wife	Wife	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧ bhorryā	bhorryā˧	b h o r r j ʌː ³	thai1261		14.192	100.671	
@@ -37751,9 +37751,9 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9938	75_wife	Wife	GARHWALI	GARHWALI	janānī	janānī	dʒ ʌ n̪ ʌː n̪ iː	garh1243		30.5061	78.7201	
 9939	75_wife	Wife	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	jōrū	jōrū	dʒ oː r uː	jaun1243		30.5587	77.9084	
 9940	75_wife	Wife	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	ch’ēuṛī	ch’ēuṛī	tʃʰ eː u ɽ iː	jaun1243		30.5587	77.9084	
-9941	75_wife	Wife	SIRMAURI	SIRMAURI	ch’ěwṛī	ch’ěwṛī	tʃʰ ə w ɽ iː	sirm1239		31.1	77.17	
-9942	75_wife	Wife	SIRMAURI	SIRMAURI	ch’ěwṛē	ch’ěwṛē	tʃʰ ə w ɽ eː	sirm1239		31.1	77.17	
-9943	75_wife	Wife	BAGHATI	BAGHATI	ch’ěōṛī	ch’ěōṛī	tʃʰ ə oː ɽ iː	bagh1249				
+9941	75_wife	Wife	SIRMAURI	SIRMAURI	ch’ěwṛī	ch’ěwṛī	tʃʰ e w ɽ iː	sirm1239		31.1	77.17	
+9942	75_wife	Wife	SIRMAURI	SIRMAURI	ch’ěwṛē	ch’ěwṛē	tʃʰ e w ɽ eː	sirm1239		31.1	77.17	
+9943	75_wife	Wife	BAGHATI	BAGHATI	ch’ěōṛī	ch’ěōṛī	tʃʰ e oː ɽ iː	bagh1249				
 9944	75_wife	Wife	KIUTHALI	KIUTHALI	ch’ēwṛī	ch’ēwṛī	tʃʰ eː w ɽ iː	kiun1241				
 9945	75_wife	Wife	SHODOCHI	SHODOCHI	nā̃ṇī	nā̃ṇī	n̪ ãː ɳ iː	maha1287		31.0088	77.5317	
 9946	75_wife	Wife	KULUI	KULUI	jō	jō	dʒ oː	kllu1238				
@@ -37787,7 +37787,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9095	74_woman	Woman	BURUSHASKI	BURUSHASKI	gus	gus	g u s	buru1296		36.2161	74.8236	
 9096	74_woman	Woman	MALAY	MALAY	parampuàn	parampuàn	p ʌ r ʌ m p u a n̪	baba1267		1.75414	103.076	
 9097	74_woman	Woman	CHAM	CHAM	binai	binai	b i n̪ ai	cham1328				
-9098	74_woman	Woman	CHAM	CHAM	kàměi	kàměi	k a m ə i	cham1328				
+9098	74_woman	Woman	CHAM	CHAM	kàměi	kàměi	k a m e i	cham1328				
 9099	74_woman	Woman	SALON	SALON	binai	binai	b i n̪ ai	moke1242		10.1474	98.6765	
 9100	74_woman	Woman	KHMER	KHMER	srey	srey	s r e j	cent1989		12.0515	105.015	
 9101	74_woman	Woman	TALAINGWRITTEN	TALAING_WRITTEN	brau	brau	b r au	monn1252		15.49394	98.122465	
@@ -37819,7 +37819,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9127	74_woman	Woman	NICOBARESE	NICOBARESE	(mulier) yūaṅ-enkāna	yūaṅ-enkāna	j uː ʌ ŋ + e n̪ k ʌː n̪ ʌ	cent1990		7.94812	93.3921	
 9128	74_woman	Woman	NICOBARESE	NICOBARESE	paiyūh-enkāna	paiyūh-enkāna	p ai j uː h + e n̪ k ʌː n̪ ʌ	cent1990		7.94812	93.3921	
 9129	74_woman	Woman	KHERWARISANTHALI	KHERWARI_SANTHALI	māejīu	māejīu	m ʌː e dʒ iː u	sant1410		25.0317	87.8185	
-9130	74_woman	Woman	KHERWARISANTHALI	KHERWARI_SANTHALI	ạ̄imạ̄i	ạ̄imạ̄i	ʌː i m ʌː i	sant1410		25.0317	87.8185	
+9130	74_woman	Woman	KHERWARISANTHALI	KHERWARI_SANTHALI	ạ̄imạ̄i	ạ̄imạ̄i	aː i m aː i	sant1410		25.0317	87.8185	
 9131	74_woman	Woman	KHERWARISANTHALI	KHERWARI_SANTHALI	kūṛī	kūṛī	k uː ɽ iː	sant1410		25.0317	87.8185	
 9132	74_woman	Woman	MUNDARI	MUNDARI	kūṛī	kūṛī	k uː ɽ iː	mund1320		23.03	85.85	
 9133	74_woman	Woman	KURKU	KURKU	jāpai	jāpai	dʒ ʌː p ai	kork1243		21.8358	77.5541	
@@ -37829,7 +37829,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9137	74_woman	Woman	SAVARA	SAVARA	selo	selo	s e l o	sora1254		19.1213	84.19	
 9138	74_woman	Woman	GADABA	GADABA	kumbaī	kumbaī	k u m b ʌ iː	bodo1267		18.3857	82.771	
 9139	74_woman	Woman	GADABA	GADABA	gunni	gunni	g u n̪ n̪ i	bodo1267		18.3857	82.771	
-9140	74_woman	Woman	MANDARIN	MANDARIN	˨˦ nü	nü˨˦	n̪ y ²⁴	mand1415		40.0209	116.228	
+9140	74_woman	Woman	MANDARIN	MANDARIN	˨˦ nü	nü˨˦	n y ²⁴	mand1415		40.0209	116.228	
 9141	74_woman	Woman	CANTONESE	CANTONESE	˩˨ nui ˨ yan	nui˩˨yan˨	n̪ u i ¹² + j ʌ n̪ ²	cant1236				
 9142	74_woman	Woman	SIAMESEWRITTEN	SIAMESE_WRITTEN	˦˨ p’ū ˨˦ hñiṅ	p’ū˦˨hñiṅ˨˦	pʰ uː ⁴² + h ɲ i ŋ ²⁴	thai1261		14.192	100.671	
 9143	74_woman	Woman	SIAMESESPOKEN	SIAMESE_SPOKEN	˦˨ p’ū ˨˦ yiṅ	p’ū˦˨yiṅ˨˦	pʰ uː ⁴² + j i ŋ ²⁴					
@@ -38195,9 +38195,9 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9503	74_woman	Woman	CENTRALPAHARIKUMAUNI	CENTRAL_PAHARI_KUMAUNI	syaini	syaini	s j ai n̪ i	kuma1273		29.5622	80.0171	
 9504	74_woman	Woman	GARHWALI	GARHWALI	janānī	janānī	dʒ ʌ n̪ ʌː n̪ iː	garh1243		30.5061	78.7201	
 9505	74_woman	Woman	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	bēṭī-māṇukh	bēṭī-māṇukh	b eː ʈ iː + m ʌː ɳ u k h	jaun1243		30.5587	77.9084	
-9506	74_woman	Woman	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	běṭkūṛī	běṭkūṛī	b ə ʈ k uː ɽ iː	jaun1243		30.5587	77.9084	
-9507	74_woman	Woman	SIRMAURI	SIRMAURI	ch’ěwṛī	ch’ěwṛī	tʃʰ ə w ɽ iː	sirm1239		31.1	77.17	
-9508	74_woman	Woman	SIRMAURI	SIRMAURI	ch’ěwṛē	ch’ěwṛē	tʃʰ ə w ɽ eː	sirm1239		31.1	77.17	
+9506	74_woman	Woman	WESTERNPAHARIJAUNSARI	WESTERN_PAHARI_JAUNSARI	běṭkūṛī	běṭkūṛī	b e ʈ k uː ɽ iː	jaun1243		30.5587	77.9084	
+9507	74_woman	Woman	SIRMAURI	SIRMAURI	ch’ěwṛī	ch’ěwṛī	tʃʰ e w ɽ iː	sirm1239		31.1	77.17	
+9508	74_woman	Woman	SIRMAURI	SIRMAURI	ch’ěwṛē	ch’ěwṛē	tʃʰ e w ɽ eː	sirm1239		31.1	77.17	
 9509	74_woman	Woman	BAGHATI	BAGHATI	juāṇas	juāṇas	dʒ u ʌː ɳ ʌ s	bagh1249				
 9510	74_woman	Woman	BAGHATI	BAGHATI	juāṇsā	juāṇsā	dʒ u ʌː ɳ s ʌː	bagh1249				
 9511	74_woman	Woman	KIUTHALI	KIUTHALI	jwānas	jwānas	dʒ w ʌː n̪ ʌ s	kiun1241				
@@ -38209,7 +38209,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9517	74_woman	Woman	CHAMEALI	CHAMEALI	trīmat	trīmat	t̪ r iː m ʌ t̪	cham1307		32.5476	76.1796	
 9518	74_woman	Woman	GADI	GADI	trīmat	trīmat	t̪ r iː m ʌ t̪	gadi1238				
 9519	74_woman	Woman	PANGWALI	PANGWALI	j’alāṇū	j’alāṇū	dʒʰ ʌ l ʌː ɳ uː	pang1282		32.9753	76.5569	
-9520	74_woman	Woman	PANGWALI	PANGWALI	jěl’āṇū	jěl’āṇū	dʒ ə l ʌː ɳ uː	pang1282		32.9753	76.5569	
+9520	74_woman	Woman	PANGWALI	PANGWALI	jěl’āṇū	jěl’āṇū	dʒ e l ʌː ɳ uː	pang1282		32.9753	76.5569	
 9521	74_woman	Woman	BHADRAWAHI	BHADRAWAHI	ṭᵃḷī	ṭᵃḷī	ʈ ă ɭ iː	bhad1241		33.2851	75.8707	
 9522	74_woman	Woman	PADARI	PADARI	k’ihōn	k’ihōn	kʰ i h oː n̪	pada1256				
 9523	74_woman	Woman	PADARI	PADARI	g’iōṇᵘ	g’iōṇᵘ	gʰ i oː ɳ ŭ	pada1256				
@@ -38257,8 +38257,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23961	116_yes	Yes	SAVARA	SAVARA	oḍe	oḍe	o ɖ e	sora1254		19.1213	84.19	
 23962	116_yes	Yes	GADABA	GADABA	uṅgten	uṅgten	u ŋ g t̪ e n̪	bodo1267		18.3857	82.771	
 23963	116_yes	Yes	GADABA	GADABA	ōō	ōō	oː oː	bodo1267		18.3857	82.771	
-23964	116_yes	Yes	MANDARIN	MANDARIN	˦˨ szᵃ	szᵃ˦˨	s z ă ⁴²	mand1415		40.0209	116.228	
-23965	116_yes	Yes	MANDARIN	MANDARIN	˦˨ ših	ših˦˨	ʃ i h ⁴²	mand1415		40.0209	116.228	
+23964	116_yes	Yes	MANDARIN	MANDARIN	˦˨ szᵃ	szᵃ˦˨	s ɿ ⁴²	mand1415		40.0209	116.228	
+23965	116_yes	Yes	MANDARIN	MANDARIN	˦˨ ših	ših˦˨	ʂ ɿ ⁴²	mand1415		40.0209	116.228	
 23966	116_yes	Yes	CANTONESE	CANTONESE	˨˩ šī	šī˨˩	ʃ iː ²¹	cant1236				
 23967	116_yes	Yes	CANTONESE	CANTONESE	˨˩ hai	hai˨˩	h ai ²¹	cant1236				
 23968	116_yes	Yes	GYAOMI	GYAOMI	šau	šau	ʃ au	mand1415		40.0209	116.228	
@@ -38685,7 +38685,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 30005	20_you	You	GADABA	GADABA	nōm	nōm	n̪ oː m	bodo1267		18.3857	82.771	
 30006	20_you	You	GADABA	GADABA	māṅgu	māṅgu	m ʌː ŋ g u	bodo1267		18.3857	82.771	
 30007	20_you	You	GADABA	GADABA	pēnchā	pēnchā	p eː n̪ tʃ ʌː	bodo1267		18.3857	82.771	
-30008	20_you	You	MANDARIN	MANDARIN	˨˧ nī ˨ man	nī˨˧man˨	n̪ iː ²³ + m ʌ n̪ ²	mand1415		40.0209	116.228	
+30008	20_you	You	MANDARIN	MANDARIN	˨˧ nī ˨ man	nī˨˧man˨	n i ²³ + m a n̪ ²	mand1415		40.0209	116.228	
 30009	20_you	You	CANTONESE	CANTONESE	˩˨ nä ˨˩ tä	nä˩˨tä˨˩	n̪ ɛ ¹² + t̪ ɛ ²¹	cant1236				
 30010	20_you	You	GYAOMI	GYAOMI	ni-mai	ni-mai	n̪ i + m ai	mand1415		40.0209	116.228	
 30011	20_you	You	SIAMESEWRITTEN	SIAMESE_WRITTEN	˧˨ dān	dān˧˨	d̪ ʌː n̪ ³²	thai1261		14.192	100.671	
@@ -39151,7 +39151,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 45040	21_your	Your	JUANG	JUANG	har-ā (P.)	har-ā	h ʌ r + ʌː	juan1238		21.2606	85.5845	
 45041	21_your	Your	SAVARA	SAVARA	ambē-na (P.)	ambē-na	ʌ m b eː + n̪ ʌ	sora1254		19.1213	84.19	
 45042	21_your	Your	GADABA	GADABA	nōm-nō (P.)	nōm-nō	n̪ oː m + n̪ oː	bodo1267		18.3857	82.771	
-45043	21_your	Your	MANDARIN	MANDARIN	˨˧ nī ˨ man ˨ ti° (P.)	nī˨˧man˨ti°˨	n̪ iː ²³ + m ʌ n̪ ² + t̪ i ²	mand1415		40.0209	116.228	
+45043	21_your	Your	MANDARIN	MANDARIN	˨˧ nī ˨ man ˨ ti° (P.)	nī˨˧man˨ti°˨	n i ²³ + m a n̪ ² + t i ²	mand1415		40.0209	116.228	
 45044	21_your	Your	CANTONESE	CANTONESE	˩˨ nä ˨˩ tä ˥˦ kē (P.)	nä˩˨tä˨˩kē˥˦	n̪ ɛ ¹² + t̪ ɛ ²¹ + k eː ⁵⁴	cant1236				
 45045	21_your	Your	GYAOMI	GYAOMI	ni-mai-ti	ni-mai-ti	n̪ i + m ai + t̪ i	mand1415		40.0209	116.228	
 45046	21_your	Your	SIAMESEWRITTEN	SIAMESE_WRITTEN	˨˧ k’åṅ ˧˨ dān (F.)	k’åṅ˨˧dān˧˨	kʰ ɔ ŋ ²³ + d̪ ʌː n̪ ³²	thai1261		14.192	100.671	
