@@ -21,16 +21,16 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 56198	53_ass	Ass	TAMIL	TAMIL	kar̤udei	kar̤udei	k ʌ ɻ u d̪ ei	tami1289		10.520219	78.825989	
 56199	53_ass	Ass	KORAVA	KORAVA	kadi	kadi	k ʌ d̪ i	yeru1240		17.3702	81.9748	
-56200	53_ass	Ass	KAIKADI	KAIKADI	k’edi	k’edi	kʱ e d̪ i	kaik1244		18.3859	76.0003	
+56200	53_ass	Ass	KAIKADI	KAIKADI	k’edi	k’edi	kʰ e d̪ i	kaik1244		18.3859	76.0003	
 56201	53_ass	Ass	MALAYALAM	MALAYALAM	kaṛudᵃ	kaṛudᵃ	k ʌ ɽ u d̪ ă	mala1464		9.59208	76.7651	
 56202	53_ass	Ass	KANARESE	KANARESE	kattᵉ	kattᵉ	k ʌ t̪ t̪ ĕ	nucl1305		13.5878	76.1198	
 56203	53_ass	Ass	BADAGA	BADAGA	klatte	klatte	k l ʌ t̪ t̪ e	bada1257		11.3094	76.5974	
 56204	53_ass	Ass	TULU	TULU	katte	katte	k ʌ t̪ t̪ e	tulu1258		12.8114	75.2651	
 56205	53_ass	Ass	TODA	TODA	klatte	klatte	k l ʌ t̪ t̪ e	toda1252		11.4184	77.0168	
-56206	53_ass	Ass	KURUXORORAO	KURUX_OR_ORAO	gad’ā (Aryan)	gad’ā	g ʌ d̪ʱ ʌː	kuru1302		24.4644	86.4657	
+56206	53_ass	Ass	KURUXORORAO	KURUX_OR_ORAO	gad’ā (Aryan)	gad’ā	g ʌ d̪ʰ ʌː	kuru1302		24.4644	86.4657	
 56207	53_ass	Ass	MALTOORMALER	MALTO_OR_MALER	gada-goṛoθ	gada-goṛoθ	g ʌ d̪ ʌ + g o ɽ o θ	kuma1274		24.1217	87.2699	
 56208	53_ass	Ass	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	goḍo	goḍo	g o ɖ o	kuii1252		19.2043	83.5859	
-56209	53_ass	Ass	GONDI	GONDI	gad’āl	gad’āl	g ʌ d̪ʱ ʌː l	sout2711		20.10446	80.27811	
+56209	53_ass	Ass	GONDI	GONDI	gad’āl	gad’āl	g ʌ d̪ʰ ʌː l	sout2711		20.10446	80.27811	
 56210	53_ass	Ass	TELUGU	TELUGU	gāḍidᵉ	gāḍidᵉ	g ʌː ɖ i d̪ ĕ	telu1262		16.4529	78.7024	
 56211	53_ass	Ass	BRAHUI	BRAHUI	bīš	bīš	b iː ʃ	brah1256		29.04	66.56	
 #
@@ -45,10 +45,10 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 52018	37_back	Back	KURUXORORAO	KURUX_OR_ORAO	mēd	mēd	m eː d̪	kuru1302		24.4644	86.4657	
 52019	37_back	Back	MALTOORMALER	MALTO_OR_MALER	qoqeθ	qoqeθ	q o q e θ	kuma1274		24.1217	87.2699	
 52020	37_back	Back	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	bēta	bēta	b eː t̪ ʌ	kuii1252		19.2043	83.5859	
-52021	37_back	Back	KOLAMI	KOLAMI	vēn	vēn	ʋ eː n̪	nort2699		20.1022	78.4934	
+52021	37_back	Back	KOLAMI	KOLAMI	vēn	vēn	v eː n̪	nort2699		20.1022	78.4934	
 52022	37_back	Back	GONDI	GONDI	muṛchul	muṛchul	m u ɽ tʃ u l	sout2711		20.10446	80.27811	
 52023	37_back	Back	TELUGU	TELUGU	bennᵘ	bennᵘ	b e n̪ n̪ ŭ	telu1262		16.4529	78.7024	
-52024	37_back	Back	BRAHUI	BRAHUI	b’aj	b’aj	bʱ ʌ dʑ	brah1256		29.04	66.56	
+52024	37_back	Back	BRAHUI	BRAHUI	b’aj	b’aj	bʰ ʌ dʒ	brah1256		29.04	66.56	
 #
 36069	138_beat	Beat	TAMIL	TAMIL	aḍi	aḍi	ʌ ɖ i	tami1289		10.520219	78.825989	
 36070	138_beat	Beat	KORAVA	KORAVA	aḍi	aḍi	ʌ ɖ i	yeru1240		17.3702	81.9748	
@@ -62,10 +62,10 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 36078	138_beat	Beat	TODA	TODA	pui	pui	p u i	toda1252		11.4184	77.0168	
 36079	138_beat	Beat	KOTA	KOTA	pui	pui	p u i	kota1263		11.4978	76.9387	
 36080	138_beat	Beat	KURUXORORAO	KURUX_OR_ORAO	lau	lau	l au	kuru1302		24.4644	86.4657	
-36081	138_beat	Beat	MALTOORMALER	MALTO_OR_MALER	baj	baj	b ʌ dʑ	kuma1274		24.1217	87.2699	
+36081	138_beat	Beat	MALTOORMALER	MALTO_OR_MALER	baj	baj	b ʌ dʒ	kuma1274		24.1217	87.2699	
 36082	138_beat	Beat	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	sāh	sāh	s ʌː h	kuii1252		19.2043	83.5859	
 36083	138_beat	Beat	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	uh	uh	u h	kuii1252		19.2043	83.5859	
-36084	138_beat	Beat	GONDI	GONDI	jī	jī	dʑ iː	sout2711		20.10446	80.27811	
+36084	138_beat	Beat	GONDI	GONDI	jī	jī	dʒ iː	sout2711		20.10446	80.27811	
 36085	138_beat	Beat	TELUGU	TELUGU	koṭṭ	koṭṭ	k o ʈ ʈ	telu1262		16.4529	78.7024	
 36086	138_beat	Beat	BRAHUI	BRAHUI	ꭓal	ꭓal	x ʌ l	brah1256		29.04	66.56	
 #
@@ -90,27 +90,27 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 21862	110_behind	Behind	TAMIL	TAMIL	piṉpᵘ	piṉpᵘ	p i n p ŭ	tami1289		10.520219	78.825989	
 21863	110_behind	Behind	KORAVA	KORAVA	parka	parka	p ʌ r k ʌ	yeru1240		17.3702	81.9748	
-21864	110_behind	Behind	KAIKADI	KAIKADI	p’ārgi	p’ārgi	pʱ ʌː r g i	kaik1244		18.3859	76.0003	
+21864	110_behind	Behind	KAIKADI	KAIKADI	p’ārgi	p’ārgi	pʰ ʌː r g i	kaik1244		18.3859	76.0003	
 21865	110_behind	Behind	MALAYALAM	MALAYALAM	pinnālē	pinnālē	p i n̪ n̪ ʌː l eː	mala1464		9.59208	76.7651	
 21866	110_behind	Behind	KANARESE	KANARESE	hindᵉ	hindᵉ	h i n̪ d̪ ĕ	nucl1305		13.5878	76.1198	
 21867	110_behind	Behind	BADAGA	BADAGA	hinde	hinde	h i n̪ d̪ e	bada1257		11.3094	76.5974	
-21868	110_behind	Behind	TULU	TULU	piravu	piravu	p i r ʌ ʋ u	tulu1258		12.8114	75.2651	
+21868	110_behind	Behind	TULU	TULU	piravu	piravu	p i r ʌ v u	tulu1258		12.8114	75.2651	
 21869	110_behind	Behind	TODA	TODA	pindalk	pindalk	p i n̪ d̪ ʌ l k	toda1252		11.4184	77.0168	
 21870	110_behind	Behind	KURUXORORAO	KURUX_OR_ORAO	ꭓōꭓā	ꭓōꭓā	x oː x ʌː	kuru1302		24.4644	86.4657	
 21871	110_behind	Behind	MALTOORMALER	MALTO_OR_MALER	qōq	qōq	q oː q	kuma1274		24.1217	87.2699	
 21872	110_behind	Behind	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	bētoṭi	bētoṭi	b eː t̪ o ʈ i	kuii1252		19.2043	83.5859	
-21873	110_behind	Behind	GONDI	GONDI	pijjā	pijjā	p i dʑ dʑ ʌː	sout2711		20.10446	80.27811	
-21874	110_behind	Behind	TELUGU	TELUGU	venukᵃ	venukᵃ	ʋ e n̪ u k ă	telu1262		16.4529	78.7024	
+21873	110_behind	Behind	GONDI	GONDI	pijjā	pijjā	p i dʒ dʒ ʌː	sout2711		20.10446	80.27811	
+21874	110_behind	Behind	TELUGU	TELUGU	venukᵃ	venukᵃ	v e n̪ u k ă	telu1262		16.4529	78.7024	
 21875	110_behind	Behind	BRAHUI	BRAHUI	pade-ṭi	pade-ṭi	p ʌ d̪ e + ʈ i	brah1256		29.04	66.56	
 21876	110_behind	Behind	BRAHUI	BRAHUI	pad-ān	pad-ān	p ʌ d̪ + ʌː n̪	brah1256		29.04	66.56	
 #
-51664	36_belly	Belly	TAMIL	TAMIL	vayarᵘ	vayarᵘ	ʋ ʌ j ʌ r ŭ	tami1289		10.520219	78.825989	
-51665	36_belly	Belly	KORAVA	KORAVA	varag	varag	ʋ ʌ r ʌ g	yeru1240		17.3702	81.9748	
-51666	36_belly	Belly	KAIKADI	KAIKADI	vārga	vārga	ʋ ʌː r g ʌ	kaik1244		18.3859	76.0003	
-51667	36_belly	Belly	MALAYALAM	MALAYALAM	vayar̤ᵃ	vayar̤ᵃ	ʋ ʌ j ʌ ɻ ă	mala1464		9.59208	76.7651	
+51664	36_belly	Belly	TAMIL	TAMIL	vayarᵘ	vayarᵘ	v ʌ j ʌ r ŭ	tami1289		10.520219	78.825989	
+51665	36_belly	Belly	KORAVA	KORAVA	varag	varag	v ʌ r ʌ g	yeru1240		17.3702	81.9748	
+51666	36_belly	Belly	KAIKADI	KAIKADI	vārga	vārga	v ʌː r g ʌ	kaik1244		18.3859	76.0003	
+51667	36_belly	Belly	MALAYALAM	MALAYALAM	vayar̤ᵃ	vayar̤ᵃ	v ʌ j ʌ ɻ ă	mala1464		9.59208	76.7651	
 51668	36_belly	Belly	KANARESE	KANARESE	hoṭṭᵉ	hoṭṭᵉ	h o ʈ ʈ ĕ	nucl1305		13.5878	76.1198	
 51669	36_belly	Belly	BADAGA	BADAGA	hoṭṭᵉ	hoṭṭᵉ	h o ʈ ʈ ĕ	bada1257		11.3094	76.5974	
-51670	36_belly	Belly	TULU	TULU	bañji	bañji	b ʌ ɲ dʑ i	tulu1258		12.8114	75.2651	
+51670	36_belly	Belly	TULU	TULU	bañji	bañji	b ʌ ɲ dʒ i	tulu1258		12.8114	75.2651	
 51671	36_belly	Belly	TODA	TODA	bir	bir	b i r	toda1252		11.4184	77.0168	
 51672	36_belly	Belly	KURUXORORAO	KURUX_OR_ORAO	kūl	kūl	k uː l	kuru1302		24.4644	86.4657	
 51673	36_belly	Belly	MALTOORMALER	MALTO_OR_MALER	puṛaθ	puṛaθ	p u ɽ ʌ θ	kuma1274		24.1217	87.2699	
@@ -119,9 +119,9 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 51676	36_belly	Belly	GONDI	GONDI	pīr	pīr	p iː r	sout2711		20.10446	80.27811	
 51677	36_belly	Belly	TELUGU	TELUGU	kaḍupᵘ	kaḍupᵘ	k ʌ ɖ u p ŭ	telu1262		16.4529	78.7024	
 51678	36_belly	Belly	BRAHUI	BRAHUI	pīḍ	pīḍ	p iː ɖ	brah1256		29.04	66.56	
-51679	36_belly	Belly	BRAHUI	BRAHUI	p’īḍ	p’īḍ	pʱ iː ɖ	brah1256		29.04	66.56	
+51679	36_belly	Belly	BRAHUI	BRAHUI	p’īḍ	p’īḍ	pʰ iː ɖ	brah1256		29.04	66.56	
 #
-58040	58_bird	Bird	TAMIL	TAMIL	par̤avei	par̤avei	p ʌ ɻ ʌ ʋ ei	tami1289		10.520219	78.825989	
+58040	58_bird	Bird	TAMIL	TAMIL	par̤avei	par̤avei	p ʌ ɻ ʌ v ei	tami1289		10.520219	78.825989	
 58041	58_bird	Bird	KORAVA	KORAVA	hakki	hakki	h ʌ k k i	yeru1240		17.3702	81.9748	
 58042	58_bird	Bird	IRULA	IRULA	pāki	pāki	p ʌː k i	irul1243		12.70645	79.95209	
 58043	58_bird	Bird	MALAYALAM	MALAYALAM	paksⁱ (Aryan)	paksⁱ	p ʌ k s ĭ	mala1464		9.59208	76.7651	
@@ -133,7 +133,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 58049	58_bird	Bird	TODA	TODA	belṭ	belṭ	b e l ʈ	toda1252		11.4184	77.0168	
 58050	58_bird	Bird	KOTA	KOTA	pēkē	pēkē	p eː k eː	kota1263		11.4978	76.9387	
 58051	58_bird	Bird	KURUXORORAO	KURUX_OR_ORAO	oṛā	oṛā	o ɽ ʌː	kuru1302		24.4644	86.4657	
-58052	58_bird	Bird	MALTOORMALER	MALTO_OR_MALER	pujuθ	pujuθ	p u dʑ u θ	kuma1274		24.1217	87.2699	
+58052	58_bird	Bird	MALTOORMALER	MALTO_OR_MALER	pujuθ	pujuθ	p u dʒ u θ	kuma1274		24.1217	87.2699	
 58053	58_bird	Bird	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	poṭā	poṭā	p o ʈ ʌː	kuii1252		19.2043	83.5859	
 58054	58_bird	Bird	KOLAMI	KOLAMI	sidemugi (?)	sidemugi	s i d̪ e m u g i	nort2699		20.1022	78.4934	
 58055	58_bird	Bird	GONDI	GONDI	piṭṭē	piṭṭē	p i ʈ ʈ eː	sout2711		20.10446	80.27811	
@@ -141,7 +141,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 58057	58_bird	Bird	BRAHUI	BRAHUI	chuk	chuk	tʃ u k	brah1256		29.04	66.56	
 #
 14705	89_bitch	Bitch	TAMIL	TAMIL	peṇ nāy	peṇ nāy	p e ɳ + n̪ ʌː j	tami1289		10.520219	78.825989	
-14706	89_bitch	Bitch	KORAVA	KORAVA	paṭ k’avāl	paṭ k’avāl	p ʌ ʈ + kʱ ʌ ʋ ʌː l	yeru1240		17.3702	81.9748	
+14706	89_bitch	Bitch	KORAVA	KORAVA	paṭ k’avāl	paṭ k’avāl	p ʌ ʈ + kʰ ʌ v ʌː l	yeru1240		17.3702	81.9748	
 14707	89_bitch	Bitch	KAIKADI	KAIKADI	nāy	nāy	n̪ ʌː j	kaik1244		18.3859	76.0003	
 14708	89_bitch	Bitch	MALAYALAM	MALAYALAM	paṭṭⁱ	paṭṭⁱ	p ʌ ʈ ʈ ĭ	mala1464		9.59208	76.7651	
 14709	89_bitch	Bitch	KANARESE	KANARESE	heṇṇᵘ nāyⁱ	heṇṇᵘ nāyⁱ	h e ɳ ɳ ŭ + n̪ ʌː j ĭ	nucl1305		13.5878	76.1198	
@@ -173,7 +173,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 7740	71_brother	Brother	TODA	TODA	(Y.) ennon kinnud	ennon kinnud	e n̪ n̪ o n̪ + k i n̪ n̪ u d̪	toda1252		11.4184	77.0168	
 7741	71_brother	Brother	KOTA	KOTA	(E.) aṇṇan	aṇṇan	ʌ ɳ ɳ ʌ n̪	kota1263		11.4978	76.9387	
 7742	71_brother	Brother	KOTA	KOTA	(Y.) kirāl	kirāl	k i r ʌː l	kota1263		11.4978	76.9387	
-7743	71_brother	Brother	KURUXORORAO	KURUX_OR_ORAO	b’āi (Aryan)	b’āi	bʱ aːi	kuru1302		24.4644	86.4657	
+7743	71_brother	Brother	KURUXORORAO	KURUX_OR_ORAO	b’āi (Aryan)	b’āi	bʰ aːi	kuru1302		24.4644	86.4657	
 7744	71_brother	Brother	MALTOORMALER	MALTO_OR_MALER	baya (Aryan)	baya	b ʌ j ʌ	kuma1274		24.1217	87.2699	
 7745	71_brother	Brother	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	(E.) dādā	dādā	d̪ ʌː d̪ ʌː	kuii1252		19.2043	83.5859	
 7746	71_brother	Brother	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	(Y.) tāmēsā	tāmēsā	t̪ ʌː m eː s ʌː	kuii1252		19.2043	83.5859	
@@ -194,7 +194,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 13007	84_bull	Bull	BADAGA	BADAGA	hōri	hōri	h oː r i	bada1257		11.3094	76.5974	
 13008	84_bull	Bull	TULU	TULU	bōri	bōri	b oː r i	tulu1258		12.8114	75.2651	
 13009	84_bull	Bull	TODA	TODA	hōri	hōri	h oː r i	toda1252		11.4184	77.0168	
-13010	84_bull	Bull	KURUXORORAO	KURUX_OR_ORAO	sāṇḍ’ (Aryan)	sāṇḍ’	s ʌː ɳ ɖʱ	kuru1302		24.4644	86.4657	
+13010	84_bull	Bull	KURUXORORAO	KURUX_OR_ORAO	sāṇḍ’ (Aryan)	sāṇḍ’	s ʌː ɳ ɖʰ	kuru1302		24.4644	86.4657	
 13011	84_bull	Bull	MALTOORMALER	MALTO_OR_MALER	saṇḍeθ (Aryan)	saṇḍeθ	s ʌ ɳ ɖ e θ	kuma1274		24.1217	87.2699	
 13012	84_bull	Bull	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	soṇḍo koḍi	soṇḍo koḍi	s o ɳ ɖ o + k o ɖ i	kuii1252		19.2043	83.5859	
 13013	84_bull	Bull	KOLAMI	KOLAMI	kōḍē	kōḍē	k oː ɖ eː	nort2699		20.1022	78.4934	
@@ -211,20 +211,20 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23784	115_but	But	TULU	TULU	āṇḍalā	āṇḍalā	ʌː ɳ ɖ ʌ l ʌː	tulu1258		12.8114	75.2651	
 23785	115_but	But	TODA	TODA	āle	āle	ʌː l e	toda1252		11.4184	77.0168	
 23786	115_but	But	KURUXORORAO	KURUX_OR_ORAO	mudā	mudā	m u d̪ ʌː	kuru1302		24.4644	86.4657	
-23787	115_but	But	MALTOORMALER	MALTO_OR_MALER	je (Aryan)	je	dʑ e	kuma1274		24.1217	87.2699	
+23787	115_but	But	MALTOORMALER	MALTO_OR_MALER	je (Aryan)	je	dʒ e	kuma1274		24.1217	87.2699	
 23788	115_but	But	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	gē	gē	g eː	kuii1252		19.2043	83.5859	
 23789	115_but	But	GONDI	GONDI	pē	pē	p eː	sout2711		20.10446	80.27811	
 23790	115_but	But	TELUGU	TELUGU	gānⁱ	gānⁱ	g ʌː n̪ ĭ	telu1262		16.4529	78.7024	
 23791	115_but	But	BRAHUI	BRAHUI	magar (Aryan)	magar	m ʌ g ʌ r	brah1256		29.04	66.56	
 #
 56446	54_camel	Camel	TAMIL	TAMIL	oṭṭei	oṭṭei	o ʈ ʈ ei	tami1289		10.520219	78.825989	
-56447	54_camel	Camel	KORAVA	KORAVA	vaṇṭi	vaṇṭi	ʋ ʌ ɳ ʈ i	yeru1240		17.3702	81.9748	
-56448	54_camel	Camel	KAIKADI	KAIKADI	vāṇṭi	vāṇṭi	ʋ ʌː ɳ ʈ i	kaik1244		18.3859	76.0003	
+56447	54_camel	Camel	KORAVA	KORAVA	vaṇṭi	vaṇṭi	v ʌ ɳ ʈ i	yeru1240		17.3702	81.9748	
+56448	54_camel	Camel	KAIKADI	KAIKADI	vāṇṭi	vāṇṭi	v ʌː ɳ ʈ i	kaik1244		18.3859	76.0003	
 56449	54_camel	Camel	MALAYALAM	MALAYALAM	oṭṭagam	oṭṭagam	o ʈ ʈ ʌ g ʌ m	mala1464		9.59208	76.7651	
 56450	54_camel	Camel	KANARESE	KANARESE	oṇṭᵉ	oṇṭᵉ	o ɳ ʈ ĕ	nucl1305		13.5878	76.1198	
-56451	54_camel	Camel	BADAGA	BADAGA	voṭṭe	voṭṭe	ʋ o ʈ ʈ e	bada1257		11.3094	76.5974	
-56452	54_camel	Camel	TULU	TULU	voṇṭe	voṇṭe	ʋ o ɳ ʈ e	tulu1258		12.8114	75.2651	
-56453	54_camel	Camel	TODA	TODA	voṭṭe	voṭṭe	ʋ o ʈ ʈ e	toda1252		11.4184	77.0168	
+56451	54_camel	Camel	BADAGA	BADAGA	voṭṭe	voṭṭe	v o ʈ ʈ e	bada1257		11.3094	76.5974	
+56452	54_camel	Camel	TULU	TULU	voṇṭe	voṇṭe	v o ɳ ʈ e	tulu1258		12.8114	75.2651	
+56453	54_camel	Camel	TODA	TODA	voṭṭe	voṭṭe	v o ʈ ʈ e	toda1252		11.4184	77.0168	
 56454	54_camel	Camel	KURUXORORAO	KURUX_OR_ORAO	uṇṭ	uṇṭ	u ɳ ʈ	kuru1302		24.4644	86.4657	
 56455	54_camel	Camel	MALTOORMALER	MALTO_OR_MALER	uṭeθ	uṭeθ	u ʈ e θ	kuma1274		24.1217	87.2699	
 56456	54_camel	Camel	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	ōṭo	ōṭo	oː ʈ o	kuii1252		19.2043	83.5859	
@@ -235,7 +235,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 57645	57_cat	Cat	TAMIL	TAMIL	pūṉei	pūṉei	p uː n ei	tami1289		10.520219	78.825989	
 57646	57_cat	Cat	KORAVA	KORAVA	pūni	pūni	p uː n̪ i	yeru1240		17.3702	81.9748	
-57647	57_cat	Cat	KAIKADI	KAIKADI	p’ūni	p’ūni	pʱ uː n̪ i	kaik1244		18.3859	76.0003	
+57647	57_cat	Cat	KAIKADI	KAIKADI	p’ūni	p’ūni	pʰ uː n̪ i	kaik1244		18.3859	76.0003	
 57648	57_cat	Cat	IRULA	IRULA	pūnē	pūnē	p uː n̪ eː	irul1243		12.70645	79.95209	
 57649	57_cat	Cat	MALAYALAM	MALAYALAM	pūchchᵃ	pūchchᵃ	p uː tʃ tʃ ă	mala1464		9.59208	76.7651	
 57650	57_cat	Cat	KANARESE	KANARESE	bekkᵘ	bekkᵘ	b e k k ŭ	nucl1305		13.5878	76.1198	
@@ -257,7 +257,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 10213	76_child	Child	IRULA	IRULA	pūllē	pūllē	p uː l l eː	irul1243		12.70645	79.95209	
 10214	76_child	Child	MALAYALAM	MALAYALAM	kuṭṭⁱ	kuṭṭⁱ	k u ʈ ʈ ĭ	mala1464		9.59208	76.7651	
 10215	76_child	Child	KANARESE	KANARESE	kūsᵘ	kūsᵘ	k uː s ŭ	nucl1305		13.5878	76.1198	
-10216	76_child	Child	BADAGA	BADAGA	kūju	kūju	k uː dʑ u	bada1257		11.3094	76.5974	
+10216	76_child	Child	BADAGA	BADAGA	kūju	kūju	k uː dʒ u	bada1257		11.3094	76.5974	
 10217	76_child	Child	BADAGA	BADAGA	kusu	kusu	k u s u	bada1257		11.3094	76.5974	
 10218	76_child	Child	TULU	TULU	bāle	bāle	b ʌː l e	tulu1258		12.8114	75.2651	
 10219	76_child	Child	TODA	TODA	pōpan	pōpan	p oː p ʌ n̪	toda1252		11.4184	77.0168	
@@ -267,40 +267,40 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 10223	76_child	Child	MALTOORMALER	MALTO_OR_MALER	maqeh	maqeh	m ʌ q e h	kuma1274		24.1217	87.2699	
 10224	76_child	Child	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	miḍā	miḍā	m i ɖ ʌː	kuii1252		19.2043	83.5859	
 10225	76_child	Child	KOLAMI	KOLAMI	hālā (Aryan)	hālā	h ʌː l ʌː	nort2699		20.1022	78.4934	
-10226	76_child	Child	GONDI	GONDI	ch’avvā (Aryan)	ch’avvā	tʃʱ ʌ ʋ ʋ ʌː	sout2711		20.10446	80.27811	
+10226	76_child	Child	GONDI	GONDI	ch’avvā (Aryan)	ch’avvā	tʃʰ ʌ v v ʌː	sout2711		20.10446	80.27811	
 10227	76_child	Child	TELUGU	TELUGU	pillᵃ	pillᵃ	p i l l ă	telu1262		16.4529	78.7024	
 10228	76_child	Child	BRAHUI	BRAHUI	chūcha	chūcha	tʃ uː tʃ ʌ	brah1256		29.04	66.56	
 #
-58445	59_cock	Cock	TAMIL	TAMIL	šēval	šēval	ʃ eː ʋ ʌ l	tami1289		10.520219	78.825989	
-58446	59_cock	Cock	KORAVA	KORAVA	savk	savk	s ʌ ʋ k	yeru1240		17.3702	81.9748	
+58445	59_cock	Cock	TAMIL	TAMIL	šēval	šēval	ʃ eː v ʌ l	tami1289		10.520219	78.825989	
+58446	59_cock	Cock	KORAVA	KORAVA	savk	savk	s ʌ v k	yeru1240		17.3702	81.9748	
 58447	59_cock	Cock	KAIKADI	KAIKADI	kōgi	kōgi	k oː g i	kaik1244		18.3859	76.0003	
-58448	59_cock	Cock	IRULA	IRULA	javalu	javalu	dʑ ʌ ʋ ʌ l u	irul1243		12.70645	79.95209	
-58449	59_cock	Cock	MALAYALAM	MALAYALAM	pūvaṅgōṛⁱ	pūvaṅgōṛⁱ	p uː ʋ ʌ ŋ g oː ɽ ĭ	mala1464		9.59208	76.7651	
-58450	59_cock	Cock	KANARESE	KANARESE	huñjᵃ	huñjᵃ	h u ɲ dʑ ă	nucl1305		13.5878	76.1198	
-58451	59_cock	Cock	BADAGA	BADAGA	hūva	hūva	h uː ʋ ʌ	bada1257		11.3094	76.5974	
-58452	59_cock	Cock	BADAGA	BADAGA	hunja	hunja	h u n̪ dʑ ʌ	bada1257		11.3094	76.5974	
-58453	59_cock	Cock	TULU	TULU	pūñje	pūñje	p uː ɲ dʑ e	tulu1258		12.8114	75.2651	
-58454	59_cock	Cock	TODA	TODA	huja	huja	h u dʑ ʌ	toda1252		11.4184	77.0168	
+58448	59_cock	Cock	IRULA	IRULA	javalu	javalu	dʒ ʌ v ʌ l u	irul1243		12.70645	79.95209	
+58449	59_cock	Cock	MALAYALAM	MALAYALAM	pūvaṅgōṛⁱ	pūvaṅgōṛⁱ	p uː v ʌ ŋ g oː ɽ ĭ	mala1464		9.59208	76.7651	
+58450	59_cock	Cock	KANARESE	KANARESE	huñjᵃ	huñjᵃ	h u ɲ dʒ ă	nucl1305		13.5878	76.1198	
+58451	59_cock	Cock	BADAGA	BADAGA	hūva	hūva	h uː v ʌ	bada1257		11.3094	76.5974	
+58452	59_cock	Cock	BADAGA	BADAGA	hunja	hunja	h u n̪ dʒ ʌ	bada1257		11.3094	76.5974	
+58453	59_cock	Cock	TULU	TULU	pūñje	pūñje	p uː ɲ dʒ e	tulu1258		12.8114	75.2651	
+58454	59_cock	Cock	TODA	TODA	huja	huja	h u dʒ ʌ	toda1252		11.4184	77.0168	
 58455	59_cock	Cock	KOTA	KOTA	pūse kōli	pūse kōli	p uː s e + k oː l i	kota1263		11.4978	76.9387	
 58456	59_cock	Cock	KURUXORORAO	KURUX_OR_ORAO	kokrō (Aryan)	kokrō	k o k r oː	kuru1302		24.4644	86.4657	
 58457	59_cock	Cock	MALTOORMALER	MALTO_OR_MALER	qēr-laṅgaθ	qēr-laṅgaθ	q eː r + l ʌ ŋ g ʌ θ	kuma1274		24.1217	87.2699	
-58458	59_cock	Cock	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	ṭādrā koju	ṭādrā koju	ʈ ʌː d̪ r ʌː + k o dʑ u	kuii1252		19.2043	83.5859	
+58458	59_cock	Cock	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	ṭādrā koju	ṭādrā koju	ʈ ʌː d̪ r ʌː + k o dʒ u	kuii1252		19.2043	83.5859	
 58459	59_cock	Cock	KOLAMI	KOLAMI	pōt	pōt	p oː t̪	nort2699		20.1022	78.4934	
 58460	59_cock	Cock	GONDI	GONDI	gōgūṭal	gōgūṭal	g oː g uː ʈ ʌ l	sout2711		20.10446	80.27811	
 58461	59_cock	Cock	TELUGU	TELUGU	punḏẕᵘ	punḏẕᵘ	p u n̪ dz ŭ	telu1262		16.4529	78.7024	
 58462	59_cock	Cock	BRAHUI	BRAHUI	bāṅgō (Aryan0	bāṅgō	b ʌː ŋ g oː	brah1256		29.04	66.56	
 #
-30681	121_come	Come	TAMIL	TAMIL	vā	vā	ʋ ʌː	tami1289		10.520219	78.825989	
-30682	121_come	Come	KORAVA	KORAVA	vā	vā	ʋ ʌː	yeru1240		17.3702	81.9748	
-30683	121_come	Come	KAIKADI	KAIKADI	vā	vā	ʋ ʌː	kaik1244		18.3859	76.0003	
+30681	121_come	Come	TAMIL	TAMIL	vā	vā	v ʌː	tami1289		10.520219	78.825989	
+30682	121_come	Come	KORAVA	KORAVA	vā	vā	v ʌː	yeru1240		17.3702	81.9748	
+30683	121_come	Come	KAIKADI	KAIKADI	vā	vā	v ʌː	kaik1244		18.3859	76.0003	
 30684	121_come	Come	IRULA	IRULA	ba	ba	b ʌ	irul1243		12.70645	79.95209	
-30685	121_come	Come	MALAYALAM	MALAYALAM	vā	vā	ʋ ʌː	mala1464		9.59208	76.7651	
+30685	121_come	Come	MALAYALAM	MALAYALAM	vā	vā	v ʌː	mala1464		9.59208	76.7651	
 30686	121_come	Come	KANARESE	KANARESE	bā	bā	b ʌː	nucl1305		13.5878	76.1198	
 30687	121_come	Come	BADAGA	BADAGA	bā	bā	b ʌː	bada1257		11.3094	76.5974	
 30688	121_come	Come	KODAGU	KODAGU	bā	bā	b ʌː	koda1255		12.2443	75.9161	
 30689	121_come	Come	TULU	TULU	bar	bar	b ʌ r	tulu1258		12.8114	75.2651	
-30690	121_come	Come	TODA	TODA	vā	vā	ʋ ʌː	toda1252		11.4184	77.0168	
-30691	121_come	Come	KOTA	KOTA	vā	vā	ʋ ʌː	kota1263		11.4978	76.9387	
+30690	121_come	Come	TODA	TODA	vā	vā	v ʌː	toda1252		11.4184	77.0168	
+30691	121_come	Come	KOTA	KOTA	vā	vā	v ʌː	kota1263		11.4978	76.9387	
 30692	121_come	Come	KURUXORORAO	KURUX_OR_ORAO	bar	bar	b ʌ r	kuru1302		24.4644	86.4657	
 30693	121_come	Come	MALTOORMALER	MALTO_OR_MALER	bar	bar	b ʌ r	kuma1274		24.1217	87.2699	
 30694	121_come	Come	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	bā	bā	b ʌː	kuii1252		19.2043	83.5859	
@@ -319,13 +319,13 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 13398	85_cow	Cow	KODAGU	KODAGU	payyu	payyu	p ʌ j j u	koda1255		12.2443	75.9161	
 13399	85_cow	Cow	TULU	TULU	petta	petta	p e t̪ t̪ ʌ	tulu1258		12.8114	75.2651	
 13400	85_cow	Cow	TODA	TODA	dānām	dānām	d̪ ʌː n̪ ʌː m	toda1252		11.4184	77.0168	
-13401	85_cow	Cow	KOTA	KOTA	āve	āve	ʌː ʋ e	kota1263		11.4978	76.9387	
+13401	85_cow	Cow	KOTA	KOTA	āve	āve	ʌː v e	kota1263		11.4978	76.9387	
 13402	85_cow	Cow	KURUXORORAO	KURUX_OR_ORAO	gāy (Aryan)	gāy	g ʌː j	kuru1302		24.4644	86.4657	
 13403	85_cow	Cow	MALTOORMALER	MALTO_OR_MALER	ōyuθ	ōyuθ	oː j u θ	kuma1274		24.1217	87.2699	
 13404	85_cow	Cow	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	tāli koḍi	tāli koḍi	t̪ ʌː l i + k o ɖ i	kuii1252		19.2043	83.5859	
 13405	85_cow	Cow	KOLAMI	KOLAMI	kūṭē	kūṭē	k uː ʈ eː	nort2699		20.1022	78.4934	
 13406	85_cow	Cow	GONDI	GONDI	ṭālī	ṭālī	ʈ ʌː l iː	sout2711		20.10446	80.27811	
-13407	85_cow	Cow	TELUGU	TELUGU	āvᵘ	āvᵘ	ʌː ʋ ŭ	telu1262		16.4529	78.7024	
+13407	85_cow	Cow	TELUGU	TELUGU	āvᵘ	āvᵘ	ʌː v ŭ	telu1262		16.4529	78.7024	
 13408	85_cow	Cow	BRAHUI	BRAHUI	ḍagī	ḍagī	ɖ ʌ g iː	brah1256		29.04	66.56	
 56835	55_cow	Cow	TAMIL	TAMIL	pašᵘ (Aryan)	pašᵘ	p ʌ ʃ ŭ	tami1289		10.520219	78.825989	
 56836	55_cow	Cow	KORAVA	KORAVA	ākḷ	ākḷ	ʌː k ɭ	yeru1240		17.3702	81.9748	
@@ -339,25 +339,25 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 56844	55_cow	Cow	KODAGU	KODAGU	payyu	payyu	p ʌ j j u	koda1255		12.2443	75.9161	
 56845	55_cow	Cow	TULU	TULU	petta	petta	p e t̪ t̪ ʌ	tulu1258		12.8114	75.2651	
 56846	55_cow	Cow	TODA	TODA	dānām	dānām	d̪ ʌː n̪ ʌː m	toda1252		11.4184	77.0168	
-56847	55_cow	Cow	KOTA	KOTA	āve	āve	ʌː ʋ e	kota1263		11.4978	76.9387	
+56847	55_cow	Cow	KOTA	KOTA	āve	āve	ʌː v e	kota1263		11.4978	76.9387	
 56848	55_cow	Cow	KURUXORORAO	KURUX_OR_ORAO	gāy (Aryan)	gāy	g ʌː j	kuru1302		24.4644	86.4657	
 56849	55_cow	Cow	MALTOORMALER	MALTO_OR_MALER	ōyuθ	ōyuθ	oː j u θ	kuma1274		24.1217	87.2699	
 56850	55_cow	Cow	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	koḍi	koḍi	k o ɖ i	kuii1252		19.2043	83.5859	
 56851	55_cow	Cow	KOLAMI	KOLAMI	kūṭē	kūṭē	k uː ʈ eː	nort2699		20.1022	78.4934	
 56852	55_cow	Cow	GONDI	GONDI	ṭālī	ṭālī	ʈ ʌː l iː	sout2711		20.10446	80.27811	
-56853	55_cow	Cow	TELUGU	TELUGU	āvᵘ	āvᵘ	ʌː ʋ ŭ	telu1262		16.4529	78.7024	
+56853	55_cow	Cow	TELUGU	TELUGU	āvᵘ	āvᵘ	ʌː v ŭ	telu1262		16.4529	78.7024	
 56854	55_cow	Cow	BRAHUI	BRAHUI	ḍagī	ḍagī	ɖ ʌ g iː	brah1256		29.04	66.56	
 #
-53730	42_cultivator	Cultivator	TAMIL	TAMIL	payiriḍugir̤avaṉ	payiriḍugir̤avaṉ	p ʌ j i r i ɖ u g i ɻ ʌ ʋ ʌ n	tami1289		10.520219	78.825989	
-53731	42_cultivator	Cultivator	KORAVA	KORAVA	vaḷḷāgu	vaḷḷāgu	ʋ ʌ ɭ ɭ ʌː g u	yeru1240		17.3702	81.9748	
-53732	42_cultivator	Cultivator	KAIKADI	KAIKADI	kvāllayā	kvāllayā	k ʋ ʌː l l ʌ j ʌː	kaik1244		18.3859	76.0003	
-53733	42_cultivator	Cultivator	MALAYALAM	MALAYALAM	kṛṣīvalan (Aryan)	kṛṣīvalan	k ɽ ʂ iː ʋ ʌ l ʌ n̪	mala1464		9.59208	76.7651	
-53734	42_cultivator	Cultivator	KANARESE	KANARESE	sāguvaḷigārᵃ	sāguvaḷigārᵃ	s ʌː g u ʋ ʌ ɭ i g ʌː r ă	nucl1305		13.5878	76.1198	
-53735	42_cultivator	Cultivator	BADAGA	BADAGA	vokaliga	vokaliga	ʋ o k ʌ l i g ʌ	bada1257		11.3094	76.5974	
+53730	42_cultivator	Cultivator	TAMIL	TAMIL	payiriḍugir̤avaṉ	payiriḍugir̤avaṉ	p ʌ j i r i ɖ u g i ɻ ʌ v ʌ n	tami1289		10.520219	78.825989	
+53731	42_cultivator	Cultivator	KORAVA	KORAVA	vaḷḷāgu	vaḷḷāgu	v ʌ ɭ ɭ ʌː g u	yeru1240		17.3702	81.9748	
+53732	42_cultivator	Cultivator	KAIKADI	KAIKADI	kvāllayā	kvāllayā	k v ʌː l l ʌ j ʌː	kaik1244		18.3859	76.0003	
+53733	42_cultivator	Cultivator	MALAYALAM	MALAYALAM	kṛṣīvalan (Aryan)	kṛṣīvalan	k ɽ ʂ iː v ʌ l ʌ n̪	mala1464		9.59208	76.7651	
+53734	42_cultivator	Cultivator	KANARESE	KANARESE	sāguvaḷigārᵃ	sāguvaḷigārᵃ	s ʌː g u v ʌ ɭ i g ʌː r ă	nucl1305		13.5878	76.1198	
+53735	42_cultivator	Cultivator	BADAGA	BADAGA	vokaliga	vokaliga	v o k ʌ l i g ʌ	bada1257		11.3094	76.5974	
 53736	42_cultivator	Cultivator	TULU	TULU	reite	reite	r ei t̪ e	tulu1258		12.8114	75.2651	
-53737	42_cultivator	Cultivator	TODA	TODA	vokali ꭓan	vokali ꭓan	ʋ o k ʌ l i + x ʌ n̪	toda1252		11.4184	77.0168	
+53737	42_cultivator	Cultivator	TODA	TODA	vokali ꭓan	vokali ꭓan	v o k ʌ l i + x ʌ n̪	toda1252		11.4184	77.0168	
 53738	42_cultivator	Cultivator	KURUXORORAO	KURUX_OR_ORAO	chāsā (Aryan)	chāsā	tʃ ʌː s ʌː	kuru1302		24.4644	86.4657	
-53739	42_cultivator	Cultivator	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	chāsāgāṭāñju	chāsāgāṭāñju	tʃ ʌː s ʌː g ʌː ʈ ʌː ɲ dʑ u	kuii1252		19.2043	83.5859	
+53739	42_cultivator	Cultivator	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	chāsāgāṭāñju	chāsāgāṭāñju	tʃ ʌː s ʌː g ʌː ʈ ʌː ɲ dʒ u	kuii1252		19.2043	83.5859	
 53740	42_cultivator	Cultivator	GONDI	GONDI	kisān (Aryan)	kisān	k i s ʌː n̪	sout2711		20.10446	80.27811	
 53741	42_cultivator	Cultivator	TELUGU	TELUGU	kāpᵘ	kāpᵘ	k ʌː p ŭ	telu1262		16.4529	78.7024	
 53742	42_cultivator	Cultivator	BRAHUI	BRAHUI	zamīndār (Aryan)	zamīndār	z ʌ m iː n̪ d̪ ʌː r	brah1256		29.04	66.56	
@@ -369,10 +369,10 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 11068	78_daughter	Daughter	MALAYALAM	MALAYALAM	magaḷ	magaḷ	m ʌ g ʌ ɭ	mala1464		9.59208	76.7651	
 11069	78_daughter	Daughter	KANARESE	KANARESE	magaḷᵘ	magaḷᵘ	m ʌ g ʌ ɭ ŭ	nucl1305		13.5878	76.1198	
 11070	78_daughter	Daughter	BADAGA	BADAGA	hennu magalu	hennu magalu	h e n̪ n̪ u + m ʌ g ʌ l u	bada1257		11.3094	76.5974	
-11071	78_daughter	Daughter	KODAGU	KODAGU	mōva	mōva	m oː ʋ ʌ	koda1255		12.2443	75.9161	
+11071	78_daughter	Daughter	KODAGU	KODAGU	mōva	mōva	m oː v ʌ	koda1255		12.2443	75.9161	
 11072	78_daughter	Daughter	TULU	TULU	magaḷ^ü	magaḷ^ü	m ʌ g ʌ ɭ y	tulu1258		12.8114	75.2651	
 11073	78_daughter	Daughter	TODA	TODA	kuꭓ	kuꭓ	k u x	toda1252		11.4184	77.0168	
-11074	78_daughter	Daughter	TODA	TODA	tüj maꭓ	tüj maꭓ	t̪ y dʑ + m ʌ x	toda1252		11.4184	77.0168	
+11074	78_daughter	Daughter	TODA	TODA	tüj maꭓ	tüj maꭓ	t̪ y dʒ + m ʌ x	toda1252		11.4184	77.0168	
 11075	78_daughter	Daughter	KOTA	KOTA	peṇṇe mage	peṇṇe mage	p e ɳ ɳ e + m ʌ g e	kota1263		11.4978	76.9387	
 11076	78_daughter	Daughter	KURUXORORAO	KURUX_OR_ORAO	eṅdā	eṅdā	e ŋ d̪ ʌː	kuru1302		24.4644	86.4657	
 11077	78_daughter	Daughter	MALTOORMALER	MALTO_OR_MALER	maqoθ	maqoθ	m ʌ q o θ	kuma1274		24.1217	87.2699	
@@ -387,24 +387,24 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 17190	97_deer	Deer	KAIKADI	KAIKADI	marrī	marrī	m ʌ r r iː	kaik1244		18.3859	76.0003	
 17191	97_deer	Deer	MALAYALAM	MALAYALAM	mān-gaḷ	mān-gaḷ	m ʌː n̪ + g ʌ ɭ	mala1464		9.59208	76.7651	
 17192	97_deer	Deer	KANARESE	KANARESE	chigarⁱ-gaḷᵘ	chigarⁱ-gaḷᵘ	tʃ i g ʌ r ĭ + g ʌ ɭ ŭ	nucl1305		13.5878	76.1198	
-17193	97_deer	Deer	KURUXORORAO	KURUX_OR_ORAO	māk guṭ’ī	māk guṭ’ī	m ʌː k + g u ʈʱ iː	kuru1302		24.4644	86.4657	
-17194	97_deer	Deer	MALTOORMALER	MALTO_OR_MALER	chañjuθ	chañjuθ	tʃ ʌ ɲ dʑ u θ	kuma1274		24.1217	87.2699	
+17193	97_deer	Deer	KURUXORORAO	KURUX_OR_ORAO	māk guṭ’ī	māk guṭ’ī	m ʌː k + g u ʈʰ iː	kuru1302		24.4644	86.4657	
+17194	97_deer	Deer	MALTOORMALER	MALTO_OR_MALER	chañjuθ	chañjuθ	tʃ ʌ ɲ dʒ u θ	kuma1274		24.1217	87.2699	
 17195	97_deer	Deer	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	sitāli	sitāli	s i t̪ ʌː l i	kuii1252		19.2043	83.5859	
 17196	97_deer	Deer	GONDI	GONDI	harank	harank	h ʌ r ʌ n̪ k	sout2711		20.10446	80.27811	
-17197	97_deer	Deer	TELUGU	TELUGU	jiṅkᵃ-lᵘ	jiṅkᵃ-lᵘ	dʑ i ŋ k ă + l ŭ	telu1262		16.4529	78.7024	
+17197	97_deer	Deer	TELUGU	TELUGU	jiṅkᵃ-lᵘ	jiṅkᵃ-lᵘ	dʒ i ŋ k ă + l ŭ	telu1262		16.4529	78.7024	
 17198	97_deer	Deer	BRAHUI	BRAHUI	ꭓazm	ꭓazm	x ʌ z m	brah1256		29.04	66.56	
 #
 54706	45_devil	Devil	TAMIL	TAMIL	pišāšᵘ (Aryan)	pišāšᵘ	p i ʃ ʌː ʃ ŭ	tami1289		10.520219	78.825989	
-54707	45_devil	Devil	KORAVA	KORAVA	dãvū	dãvū	d̪ ã ʋ uː	yeru1240		17.3702	81.9748	
+54707	45_devil	Devil	KORAVA	KORAVA	dãvū	dãvū	d̪ ã v uː	yeru1240		17.3702	81.9748	
 54708	45_devil	Devil	KAIKADI	KAIKADI	pei	pei	p ei	kaik1244		18.3859	76.0003	
 54709	45_devil	Devil	MALAYALAM	MALAYALAM	pišāchᵃ (Aryan)	pišāchᵃ	p i ʃ ʌː tʃ ă	mala1464		9.59208	76.7651	
-54710	45_devil	Devil	KANARESE	KANARESE	devva (Aryan)	devva	d̪ e ʋ ʋ ʌ	nucl1305		13.5878	76.1198	
+54710	45_devil	Devil	KANARESE	KANARESE	devva (Aryan)	devva	d̪ e v v ʌ	nucl1305		13.5878	76.1198	
 54711	45_devil	Devil	BADAGA	BADAGA	pišāchi (Aryan)	pišāchi	p i ʃ ʌː tʃ i	bada1257		11.3094	76.5974	
 54712	45_devil	Devil	TULU	TULU	pišāchi (Aryan)	pišāchi	p i ʃ ʌː tʃ i	tulu1258		12.8114	75.2651	
 54713	45_devil	Devil	TODA	TODA	etud put (great Devil)	etud put	e t̪ u d̪ + p u t̪	toda1252		11.4184	77.0168	
 54714	45_devil	Devil	KURUXORORAO	KURUX_OR_ORAO	nāḍ	nāḍ	n̪ ʌː ɖ	kuru1302		24.4644	86.4657	
 54715	45_devil	Devil	MALTOORMALER	MALTO_OR_MALER	buteθ (Aryan)	buteθ	b u t̪ e θ	kuma1274		24.1217	87.2699	
-54716	45_devil	Devil	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	osurēñju (Aryan)	osurēñju	o s u r eː ɲ dʑ u	kuii1252		19.2043	83.5859	
+54716	45_devil	Devil	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	osurēñju (Aryan)	osurēñju	o s u r eː ɲ dʒ u	kuii1252		19.2043	83.5859	
 54717	45_devil	Devil	GONDI	GONDI	šaitān (Arabic)	šaitān	ʃ ai t̪ ʌː n̪	sout2711		20.10446	80.27811	
 54718	45_devil	Devil	TELUGU	TELUGU	dayyamᵘ	dayyamᵘ	d̪ ʌ j j ʌ m ŭ	telu1262		16.4529	78.7024	
 54719	45_devil	Devil	BRAHUI	BRAHUI	šaitān (Arabic)	šaitān	ʃ ai t̪ ʌː n̪	brah1256		29.04	66.56	
@@ -418,7 +418,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 31423	123_die	Die	KODAGU	KODAGU	chā	chā	tʃ ʌː	koda1255		12.2443	75.9161	
 31424	123_die	Die	TULU	TULU	sai	sai	s ai	tulu1258		12.8114	75.2651	
 31425	123_die	Die	TODA	TODA	keṭṭ fo	keṭṭ fo	k e ʈ ʈ + f o	toda1252		11.4184	77.0168	
-31426	123_die	Die	KURUXORORAO	KURUX_OR_ORAO	k’ē	k’ē	kʱ eː	kuru1302		24.4644	86.4657	
+31426	123_die	Die	KURUXORORAO	KURUX_OR_ORAO	k’ē	k’ē	kʰ eː	kuru1302		24.4644	86.4657	
 31427	123_die	Die	MALTOORMALER	MALTO_OR_MALER	ke	ke	k e	kuma1274		24.1217	87.2699	
 31428	123_die	Die	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	sā	sā	s ʌː	kuii1252		19.2043	83.5859	
 31429	123_die	Die	GONDI	GONDI	sā	sā	s ʌː	sout2711		20.10446	80.27811	
@@ -426,7 +426,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 31431	123_die	Die	BRAHUI	BRAHUI	kah	kah	k ʌ h	brah1256		29.04	66.56	
 #
 57248	56_dog	Dog	TAMIL	TAMIL	nāy	nāy	n̪ ʌː j	tami1289		10.520219	78.825989	
-57249	56_dog	Dog	KORAVA	KORAVA	k’avāl	k’avāl	kʱ ʌ ʋ ʌː l	yeru1240		17.3702	81.9748	
+57249	56_dog	Dog	KORAVA	KORAVA	k’avāl	k’avāl	kʰ ʌ v ʌː l	yeru1240		17.3702	81.9748	
 57250	56_dog	Dog	KAIKADI	KAIKADI	nāy	nāy	n̪ ʌː j	kaik1244		18.3859	76.0003	
 57251	56_dog	Dog	IRULA	IRULA	nai	nai	n̪ ai	irul1243		12.70645	79.95209	
 57252	56_dog	Dog	MALAYALAM	MALAYALAM	nāy	nāy	n̪ ʌː j	mala1464		9.59208	76.7651	
@@ -446,7 +446,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 20233	106_down	Down	TAMIL	TAMIL	kīṛē	kīṛē	k iː ɽ eː	tami1289		10.520219	78.825989	
 20234	106_down	Down	KORAVA	KORAVA	dīka	dīka	d̪ iː k ʌ	yeru1240		17.3702	81.9748	
-20235	106_down	Down	KAIKADI	KAIKADI	d’īk	d’īk	d̪ʱ iː k	kaik1244		18.3859	76.0003	
+20235	106_down	Down	KAIKADI	KAIKADI	d’īk	d’īk	d̪ʰ iː k	kaik1244		18.3859	76.0003	
 20236	106_down	Down	IRULA	IRULA	kālake (below)	kālake	k ʌː l ʌ k e	irul1243		12.70645	79.95209	
 20237	106_down	Down	MALAYALAM	MALAYALAM	kīṛ	kīṛ	k iː ɽ	mala1464		9.59208	76.7651	
 20238	106_down	Down	KANARESE	KANARESE	keḷagᵉ	keḷagᵉ	k e ɭ ʌ g ĕ	nucl1305		13.5878	76.1198	
@@ -476,25 +476,25 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 58792	60_duck	Duck	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	honso (Aryan)	honso	h o n̪ s o	kuii1252		19.2043	83.5859	
 58793	60_duck	Duck	GONDI	GONDI	yētā kōrr	yētā kōrr	j eː t̪ ʌː + k oː r r	sout2711		20.10446	80.27811	
 58794	60_duck	Duck	TELUGU	TELUGU	badakᵘ	badakᵘ	b ʌ d̪ ʌ k ŭ	telu1262		16.4529	78.7024	
-58795	60_duck	Duck	BRAHUI	BRAHUI	hañj	hañj	h ʌ ɲ dʑ	brah1256		29.04	66.56	
+58795	60_duck	Duck	BRAHUI	BRAHUI	hañj	hañj	h ʌ ɲ dʒ	brah1256		29.04	66.56	
 #
 50080	32_ear	Ear	TAMIL	TAMIL	kād^u	kād^u	k ʌː d̪ u	tami1289		10.520219	78.825989	
-50081	32_ear	Ear	KORAVA	KORAVA	šavi	šavi	ʃ ʌ ʋ i	yeru1240		17.3702	81.9748	
-50082	32_ear	Ear	KAIKADI	KAIKADI	svai	svai	s ʋ ai	kaik1244		18.3859	76.0003	
+50081	32_ear	Ear	KORAVA	KORAVA	šavi	šavi	ʃ ʌ v i	yeru1240		17.3702	81.9748	
+50082	32_ear	Ear	KAIKADI	KAIKADI	svai	svai	s v ai	kaik1244		18.3859	76.0003	
 50083	32_ear	Ear	IRULA	IRULA	kādu	kādu	k ʌː d̪ u	irul1243		12.70645	79.95209	
-50084	32_ear	Ear	MALAYALAM	MALAYALAM	chev^i	chev^i	tʃ e ʋ i	mala1464		9.59208	76.7651	
-50085	32_ear	Ear	KANARESE	KANARESE	kiv^i	kiv^i	k i ʋ i	nucl1305		13.5878	76.1198	
-50086	32_ear	Ear	BADAGA	BADAGA	kivi	kivi	k i ʋ i	bada1257		11.3094	76.5974	
+50084	32_ear	Ear	MALAYALAM	MALAYALAM	chev^i	chev^i	tʃ e v i	mala1464		9.59208	76.7651	
+50085	32_ear	Ear	KANARESE	KANARESE	kiv^i	kiv^i	k i v i	nucl1305		13.5878	76.1198	
+50086	32_ear	Ear	BADAGA	BADAGA	kivi	kivi	k i v i	bada1257		11.3094	76.5974	
 50087	32_ear	Ear	KODAGU	KODAGU	kemi	kemi	k e m i	koda1255		12.2443	75.9161	
 50088	32_ear	Ear	TULU	TULU	kebi	kebi	k e b i	tulu1258		12.8114	75.2651	
-50089	32_ear	Ear	TODA	TODA	kev	kev	k e ʋ	toda1252		11.4184	77.0168	
-50090	32_ear	Ear	KOTA	KOTA	kivē	kivē	k i ʋ eː	kota1263		11.4978	76.9387	
+50089	32_ear	Ear	TODA	TODA	kev	kev	k e v	toda1252		11.4184	77.0168	
+50090	32_ear	Ear	KOTA	KOTA	kivē	kivē	k i v eː	kota1263		11.4978	76.9387	
 50091	32_ear	Ear	KURUXORORAO	KURUX_OR_ORAO	ꭓebdā	ꭓebdā	x e b d̪ ʌː	kuru1302		24.4644	86.4657	
 50092	32_ear	Ear	MALTOORMALER	MALTO_OR_MALER	qeθwuθ	qeθwuθ	q e θ w u θ	kuma1274		24.1217	87.2699	
 50093	32_ear	Ear	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	kriu	kriu	k r i u	kuii1252		19.2043	83.5859	
-50094	32_ear	Ear	KOLAMI	KOLAMI	kēv	kēv	k eː ʋ	nort2699		20.1022	78.4934	
+50094	32_ear	Ear	KOLAMI	KOLAMI	kēv	kēv	k eː v	nort2699		20.1022	78.4934	
 50095	32_ear	Ear	GONDI	GONDI	kawī	kawī	k ʌ w iː	sout2711		20.10446	80.27811	
-50096	32_ear	Ear	TELUGU	TELUGU	chev^i	chev^i	tʃ e ʋ i	telu1262		16.4529	78.7024	
+50096	32_ear	Ear	TELUGU	TELUGU	chev^i	chev^i	tʃ e v i	telu1262		16.4529	78.7024	
 50097	32_ear	Ear	BRAHUI	BRAHUI	ꭓaf	ꭓaf	x ʌ f	brah1256		29.04	66.56	
 #
 25442	119_eat	Eat	TAMIL	TAMIL	tin	tin	t̪ i n̪	tami1289		10.520219	78.825989	
@@ -537,7 +537,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1380	8_eight	Eight	BRAHUI	BRAHUI	hašt (Aryan)	hašt	h ʌ ʃ t̪	brah1256		29.04	66.56	
 #
 48878	29_eye	Eye	TAMIL	TAMIL	kaṇa	kaṇa	k ʌ ɳ ʌ	tami1289		10.520219	78.825989	
-48879	29_eye	Eye	KORAVA	KORAVA	k’aṇṇa	k’aṇṇa	kʱ ʌ ɳ ɳ ʌ	yeru1240		17.3702	81.9748	
+48879	29_eye	Eye	KORAVA	KORAVA	k’aṇṇa	k’aṇṇa	kʰ ʌ ɳ ɳ ʌ	yeru1240		17.3702	81.9748	
 48880	29_eye	Eye	KAIKADI	KAIKADI	kanna	kanna	k ʌ n̪ n̪ ʌ	kaik1244		18.3859	76.0003	
 48881	29_eye	Eye	IRULA	IRULA	kaṇṇu	kaṇṇu	k ʌ ɳ ɳ u	irul1243		12.70645	79.95209	
 48882	29_eye	Eye	MALAYALAM	MALAYALAM	kaṇṇu	kaṇṇu	k ʌ ɳ ɳ u	mala1464		9.59208	76.7651	
@@ -557,7 +557,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 21093	108_far	Far	TAMIL	TAMIL	tūram (Aryan)	tūram	t̪ uː r ʌ m	tami1289		10.520219	78.825989	
 21094	108_far	Far	KORAVA	KORAVA	dūr (Aryan)	dūr	d̪ uː r	yeru1240		17.3702	81.9748	
-21095	108_far	Far	KAIKADI	KAIKADI	t’ūr (Aryan)	t’ūr	t̪ʱ uː r	kaik1244		18.3859	76.0003	
+21095	108_far	Far	KAIKADI	KAIKADI	t’ūr (Aryan)	t’ūr	t̪ʰ uː r	kaik1244		18.3859	76.0003	
 21096	108_far	Far	IRULA	IRULA	dūra (Aryan)	dūra	d̪ uː r ʌ	irul1243		12.70645	79.95209	
 21097	108_far	Far	MALAYALAM	MALAYALAM	dūrᵃ (Aryan)	dūrᵃ	d̪ uː r ă	mala1464		9.59208	76.7651	
 21098	108_far	Far	KANARESE	KANARESE	dūrᵃ (Aryan)	dūrᵃ	d̪ uː r ă	nucl1305		13.5878	76.1198	
@@ -566,19 +566,19 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 21101	108_far	Far	TODA	TODA	podθchi	podθchi	p o d̪ θ tʃ i	toda1252		11.4184	77.0168	
 21102	108_far	Far	TODA	TODA	batꭓi	batꭓi	b ʌ t̪ x i	toda1252		11.4184	77.0168	
 21103	108_far	Far	KOTA	KOTA	dūrame (Aryan)	dūrame	d̪ uː r ʌ m e	kota1263		11.4978	76.9387	
-21104	108_far	Far	KURUXORORAO	KURUX_OR_ORAO	gech’ā	gech’ā	g e tʃʱ ʌː	kuru1302		24.4644	86.4657	
+21104	108_far	Far	KURUXORORAO	KURUX_OR_ORAO	gech’ā	gech’ā	g e tʃʰ ʌː	kuru1302		24.4644	86.4657	
 21105	108_far	Far	MALTOORMALER	MALTO_OR_MALER	geche	geche	g e tʃ e	kuma1274		24.1217	87.2699	
 21106	108_far	Far	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	durā (Aryan)	durā	d̪ u r ʌː	kuii1252		19.2043	83.5859	
-21107	108_far	Far	KOLAMI	KOLAMI	pērdāv	pērdāv	p eː r d̪ ʌː ʋ	nort2699		20.1022	78.4934	
+21107	108_far	Far	KOLAMI	KOLAMI	pērdāv	pērdāv	p eː r d̪ ʌː v	nort2699		20.1022	78.4934	
 21108	108_far	Far	GONDI	GONDI	lak	lak	l ʌ k	sout2711		20.10446	80.27811	
 21109	108_far	Far	TELUGU	TELUGU	dūramᵘ (Aryan)	dūramᵘ	d̪ uː r ʌ m ŭ	telu1262		16.4529	78.7024	
 21110	108_far	Far	BRAHUI	BRAHUI	murr	murr	m u r r	brah1256		29.04	66.56	
 #
 4198	61_father	Father	TAMIL	TAMIL	tagappaṉār	tagappaṉār	t̪ ʌ g ʌ p p ʌ n ʌː r	tami1289		10.520219	78.825989	
-4199	61_father	Father	KORAVA	KORAVA	āvu	āvu	ʌː ʋ u	yeru1240		17.3702	81.9748	
-4200	61_father	Father	KAIKADI	KAIKADI	gāv	gāv	g ʌː ʋ	kaik1244		18.3859	76.0003	
+4199	61_father	Father	KORAVA	KORAVA	āvu	āvu	ʌː v u	yeru1240		17.3702	81.9748	
+4200	61_father	Father	KAIKADI	KAIKADI	gāv	gāv	g ʌː v	kaik1244		18.3859	76.0003	
 4201	61_father	Father	IRULA	IRULA	āmme	āmme	ʌː m m e	irul1243		12.70645	79.95209	
-4202	61_father	Father	MALAYALAM	MALAYALAM	āchch’an	āchch’an	ʌː tʃ tʃʱ ʌ n̪	mala1464		9.59208	76.7651	
+4202	61_father	Father	MALAYALAM	MALAYALAM	āchch’an	āchch’an	ʌː tʃ tʃʰ ʌ n̪	mala1464		9.59208	76.7651	
 4203	61_father	Father	KANARESE	KANARESE	tandᵉ	tandᵉ	t̪ ʌ n̪ d̪ ĕ	nucl1305		13.5878	76.1198	
 4204	61_father	Father	BADAGA	BADAGA	appa	appa	ʌ p p ʌ	bada1257		11.3094	76.5974	
 4205	61_father	Father	BADAGA	BADAGA	tande	tande	t̪ ʌ n̪ d̪ e	bada1257		11.3094	76.5974	
@@ -589,31 +589,31 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 4210	61_father	Father	KURUXORORAO	KURUX_OR_ORAO	bābā	bābā	b ʌː b ʌː	kuru1302		24.4644	86.4657	
 4211	61_father	Father	MALTOORMALER	MALTO_OR_MALER	abba	abba	ʌ b b ʌ	kuma1274		24.1217	87.2699	
 4212	61_father	Father	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	ābā	ābā	ʌː b ʌː	kuii1252		19.2043	83.5859	
-4213	61_father	Father	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	tāñji	tāñji	t̪ ʌː ɲ dʑ i	kuii1252		19.2043	83.5859	
+4213	61_father	Father	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	tāñji	tāñji	t̪ ʌː ɲ dʒ i	kuii1252		19.2043	83.5859	
 4214	61_father	Father	KOLAMI	KOLAMI	bā	bā	b ʌː	nort2699		20.1022	78.4934	
-4215	61_father	Father	KOLAMI	KOLAMI	kivhā	kivhā	k i ʋ h ʌː	nort2699		20.1022	78.4934	
+4215	61_father	Father	KOLAMI	KOLAMI	kivhā	kivhā	k i v h ʌː	nort2699		20.1022	78.4934	
 4216	61_father	Father	GONDI	GONDI	dao	dao	d̪ ʌ o	sout2711		20.10446	80.27811	
 4217	61_father	Father	GONDI	GONDI	āpōṛāl	āpōṛāl	ʌː p oː ɽ ʌː l	sout2711		20.10446	80.27811	
 4218	61_father	Father	TELUGU	TELUGU	taṇḍrⁱ	taṇḍrⁱ	t̪ ʌ ɳ ɖ r ĭ	telu1262		16.4529	78.7024	
-4219	61_father	Father	BRAHUI	BRAHUI	bāva	bāva	b ʌː ʋ ʌ	brah1256		29.04	66.56	
+4219	61_father	Father	BRAHUI	BRAHUI	bāva	bāva	b ʌː v ʌ	brah1256		29.04	66.56	
 #
 26519	12_fifty	Fifty	TAMIL	TAMIL	eimbadu	eimbadu	ei m b ʌ d̪ u	tami1289		10.520219	78.825989	
-26520	12_fifty	Fifty	KORAVA	KORAVA	añjarkappatt	añjarkappatt	ʌ ɲ dʑ ʌ r k ʌ p p ʌ t̪ t̪	yeru1240		17.3702	81.9748	
+26520	12_fifty	Fifty	KORAVA	KORAVA	añjarkappatt	añjarkappatt	ʌ ɲ dʒ ʌ r k ʌ p p ʌ t̪ t̪	yeru1240		17.3702	81.9748	
 26521	12_fifty	Fifty	KAIKADI	KAIKADI	pannās (Aryan)	pannās	p ʌ n̪ n̪ ʌː s	kaik1244		18.3859	76.0003	
 26522	12_fifty	Fifty	IRULA	IRULA	ambadu	ambadu	ʌ m b ʌ d̪ u	irul1243		12.70645	79.95209	
 26523	12_fifty	Fifty	MALAYALAM	MALAYALAM	ambadu	ambadu	ʌ m b ʌ d̪ u	mala1464		9.59208	76.7651	
-26524	12_fifty	Fifty	KANARESE	KANARESE	aivattu	aivattu	ai ʋ ʌ t̪ t̪ u	nucl1305		13.5878	76.1198	
-26525	12_fifty	Fifty	BADAGA	BADAGA	eivattu	eivattu	ei ʋ ʌ t̪ t̪ u	bada1257		11.3094	76.5974	
+26524	12_fifty	Fifty	KANARESE	KANARESE	aivattu	aivattu	ai v ʌ t̪ t̪ u	nucl1305		13.5878	76.1198	
+26525	12_fifty	Fifty	BADAGA	BADAGA	eivattu	eivattu	ei v ʌ t̪ t̪ u	bada1257		11.3094	76.5974	
 26526	12_fifty	Fifty	KODAGU	KODAGU	eimbadü	eimbadü	ei m b ʌ d̪ y	koda1255		12.2443	75.9161	
-26527	12_fifty	Fifty	TULU	TULU	eiva	eiva	ei ʋ ʌ	tulu1258		12.8114	75.2651	
+26527	12_fifty	Fifty	TULU	TULU	eiva	eiva	ei v ʌ	tulu1258		12.8114	75.2651	
 26528	12_fifty	Fifty	TODA	TODA	ēboθ	ēboθ	eː b o θ	toda1252		11.4184	77.0168	
-26529	12_fifty	Fifty	KOTA	KOTA	eivatte	eivatte	ei ʋ ʌ t̪ t̪ e	kota1263		11.4978	76.9387	
+26529	12_fifty	Fifty	KOTA	KOTA	eivatte	eivatte	ei v ʌ t̪ t̪ e	kota1263		11.4978	76.9387	
 26530	12_fifty	Fifty	KURUXORORAO	KURUX_OR_ORAO	pachās (Aryan)	pachās	p ʌ tʃ ʌː s	kuru1302		24.4644	86.4657	
 26531	12_fifty	Fifty	MALTOORMALER	MALTO_OR_MALER	aṛai kōṙi (Aryan)	aṛai kōṙi	ʌ ɽ ai + k oː ɽ i	kuma1274		24.1217	87.2699	
 26532	12_fifty	Fifty	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	ri kaḍi dašu	ri kaḍi dašu	r i + k ʌ ɖ i + d̪ ʌ ʃ u	kuii1252		19.2043	83.5859	
 26533	12_fifty	Fifty	GONDI	GONDI	pachās (Aryan)	pachās	p ʌ tʃ ʌː s	sout2711		20.10446	80.27811	
-26534	12_fifty	Fifty	TELUGU	TELUGU	yāb’ai	yāb’ai	j ʌː bʱ ai	telu1262		16.4529	78.7024	
-26535	12_fifty	Fifty	BRAHUI	BRAHUI	panjā (Aryan)	panjā	p ʌ n̪ dʑ ʌː	brah1256		29.04	66.56	
+26534	12_fifty	Fifty	TELUGU	TELUGU	yāb’ai	yāb’ai	j ʌː bʰ ai	telu1262		16.4529	78.7024	
+26535	12_fifty	Fifty	BRAHUI	BRAHUI	panjā (Aryan)	panjā	p ʌ n̪ dʒ ʌː	brah1256		29.04	66.56	
 #
 60368	49_fire	Fire	TAMIL	TAMIL	neruppᵘ	neruppᵘ	n̪ e r u p p ŭ	tami1289		10.520219	78.825989	
 60369	49_fire	Fire	KORAVA	KORAVA	nerpa	nerpa	n̪ e r p ʌ	yeru1240		17.3702	81.9748	
@@ -629,7 +629,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 60379	49_fire	Fire	TODA	TODA	nebb	nebb	n̪ e b b	toda1252		11.4184	77.0168	
 60380	49_fire	Fire	TODA	TODA	dilθ	dilθ	d̪ i l θ	toda1252		11.4184	77.0168	
 60381	49_fire	Fire	TODA	TODA	diḍd	diḍd	d̪ i ɖ d̪	toda1252		11.4184	77.0168	
-60382	49_fire	Fire	KOTA	KOTA	dijē	dijē	d̪ i dʑ eː	kota1263		11.4978	76.9387	
+60382	49_fire	Fire	KOTA	KOTA	dijē	dijē	d̪ i dʒ eː	kota1263		11.4978	76.9387	
 60383	49_fire	Fire	KURUXORORAO	KURUX_OR_ORAO	chich	chich	tʃ i tʃ	kuru1302		24.4644	86.4657	
 60384	49_fire	Fire	MALTOORMALER	MALTO_OR_MALER	chichuθ	chichuθ	tʃ i tʃ u θ	kuma1274		24.1217	87.2699	
 60385	49_fire	Fire	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	nāni	nāni	n̪ ʌː n̪ i	kuii1252		19.2043	83.5859	
@@ -640,17 +640,17 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 232	5_five	Five	TAMIL	TAMIL	eindu	eindu	ei n̪ d̪ u	tami1289		10.520219	78.825989	
 233	5_five	Five	TAMIL	TAMIL	eim	eim	ei m	tami1289		10.520219	78.825989	
-234	5_five	Five	KORAVA	KORAVA	añja	añja	ʌ ɲ dʑ ʌ	yeru1240		17.3702	81.9748	
-235	5_five	Five	KAIKADI	KAIKADI	āñj	āñj	ʌː ɲ dʑ	kaik1244		18.3859	76.0003	
+234	5_five	Five	KORAVA	KORAVA	añja	añja	ʌ ɲ dʒ ʌ	yeru1240		17.3702	81.9748	
+235	5_five	Five	KAIKADI	KAIKADI	āñj	āñj	ʌː ɲ dʒ	kaik1244		18.3859	76.0003	
 236	5_five	Five	IRULA	IRULA	eindu	eindu	ei n̪ d̪ u	irul1243		12.70645	79.95209	
-237	5_five	Five	MALAYALAM	MALAYALAM	añju	añju	ʌ ɲ dʑ u	mala1464		9.59208	76.7651	
+237	5_five	Five	MALAYALAM	MALAYALAM	añju	añju	ʌ ɲ dʒ u	mala1464		9.59208	76.7651	
 238	5_five	Five	KANARESE	KANARESE	eidu	eidu	ei d̪ u	nucl1305		13.5878	76.1198	
-239	5_five	Five	KANARESE	KANARESE	eivaru	eivaru	ei ʋ ʌ r u	nucl1305		13.5878	76.1198	
+239	5_five	Five	KANARESE	KANARESE	eivaru	eivaru	ei v ʌ r u	nucl1305		13.5878	76.1198	
 240	5_five	Five	BADAGA	BADAGA	eidu	eidu	ei d̪ u	bada1257		11.3094	76.5974	
-241	5_five	Five	KODAGU	KODAGU	anji	anji	ʌ n̪ dʑ i	koda1255		12.2443	75.9161	
+241	5_five	Five	KODAGU	KODAGU	anji	anji	ʌ n̪ dʒ i	koda1255		12.2443	75.9161	
 242	5_five	Five	TULU	TULU	einü	einü	ei n̪ y	tulu1258		12.8114	75.2651	
 243	5_five	Five	TODA	TODA	üch	üch	y tʃ	toda1252		11.4184	77.0168	
-244	5_five	Five	KOTA	KOTA	annje	annje	ʌ n̪ n̪ dʑ e	kota1263		11.4978	76.9387	
+244	5_five	Five	KOTA	KOTA	annje	annje	ʌ n̪ n̪ dʒ e	kota1263		11.4978	76.9387	
 245	5_five	Five	KURUXORORAO	KURUX_OR_ORAO	pañchē (Aryan)	pañchē	p ʌ ɲ tʃ eː	kuru1302		24.4644	86.4657	
 246	5_five	Five	MALTOORMALER	MALTO_OR_MALER	pach (Aryan)	pach	p ʌ tʃ	kuma1274		24.1217	87.2699	
 247	5_five	Five	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	siṅgi	siṅgi	s i ŋ g i	kuii1252		19.2043	83.5859	
@@ -687,7 +687,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 3778	4_four	Four	IRULA	IRULA	nāku	nāku	n̪ ʌː k u	irul1243		12.70645	79.95209	
 3779	4_four	Four	MALAYALAM	MALAYALAM	nālu	nālu	n̪ ʌː l u	mala1464		9.59208	76.7651	
 3780	4_four	Four	KANARESE	KANARESE	nālku	nālku	n̪ ʌː l k u	nucl1305		13.5878	76.1198	
-3781	4_four	Four	KANARESE	KANARESE	nālvaru	nālvaru	n̪ ʌː l ʋ ʌ r u	nucl1305		13.5878	76.1198	
+3781	4_four	Four	KANARESE	KANARESE	nālvaru	nālvaru	n̪ ʌː l v ʌ r u	nucl1305		13.5878	76.1198	
 3782	4_four	Four	BADAGA	BADAGA	nalku	nalku	n̪ ʌ l k u	bada1257		11.3094	76.5974	
 3783	4_four	Four	KODAGU	KODAGU	nālü	nālü	n̪ ʌː l y	koda1255		12.2443	75.9161	
 3784	4_four	Four	TULU	TULU	nālü	nālü	n̪ ʌː l y	tulu1258		12.8114	75.2651	
@@ -727,7 +727,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 25036	118_go	Go	TAMIL	TAMIL	pō	pō	p oː	tami1289		10.520219	78.825989	
 25037	118_go	Go	KORAVA	KORAVA	hō	hō	h oː	yeru1240		17.3702	81.9748	
 25038	118_go	Go	KAIKADI	KAIKADI	hō	hō	h oː	kaik1244		18.3859	76.0003	
-25039	118_go	Go	IRULA	IRULA	b’ō	b’ō	bʱ oː	irul1243		12.70645	79.95209	
+25039	118_go	Go	IRULA	IRULA	b’ō	b’ō	bʰ oː	irul1243		12.70645	79.95209	
 25040	118_go	Go	MALAYALAM	MALAYALAM	pō	pō	p oː	mala1464		9.59208	76.7651	
 25041	118_go	Go	KANARESE	KANARESE	hō	hō	h oː	nucl1305		13.5878	76.1198	
 25042	118_go	Go	BADAGA	BADAGA	hōgu (impve.)	hōgu	h oː g u	bada1257		11.3094	76.5974	
@@ -743,28 +743,28 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 25052	118_go	Go	TELUGU	TELUGU	pō	pō	p oː	telu1262		16.4529	78.7024	
 25053	118_go	Go	BRAHUI	BRAHUI	hin	hin	h i n̪	brah1256		29.04	66.56	
 #
-54346	44_god	God	TAMIL	TAMIL	Kaḍavuḷ	Kaḍavuḷ	k ʌ ɖ ʌ ʋ u ɭ	tami1289		10.520219	78.825989	
-54347	44_god	God	KORAVA	KORAVA	Dē̃var (Aryan)	Dē̃var	d ẽː ʋ ʌ r	yeru1240		17.3702	81.9748	
-54348	44_god	God	KAIKADI	KAIKADI	Dēvri (Aryan)	Dēvri	d eː ʋ r i	kaik1244		18.3859	76.0003	
-54349	44_god	God	MALAYALAM	MALAYALAM	Deivam (Aryan)	Deivam	d ei ʋ ʌ m	mala1464		9.59208	76.7651	
-54350	44_god	God	KANARESE	KANARESE	Dēvarᵘ (Aryan)	Dēvarᵘ	d eː ʋ ʌ r ŭ	nucl1305		13.5878	76.1198	
-54351	44_god	God	BADAGA	BADAGA	Dēvaru (Aryan)	Dēvaru	d eː ʋ ʌ r u	bada1257		11.3094	76.5974	
-54352	44_god	God	TULU	TULU	Dēver^ü (Aryan)	Dēver^ü	d eː ʋ e r y	tulu1258		12.8114	75.2651	
+54346	44_god	God	TAMIL	TAMIL	Kaḍavuḷ	Kaḍavuḷ	k ʌ ɖ ʌ v u ɭ	tami1289		10.520219	78.825989	
+54347	44_god	God	KORAVA	KORAVA	Dē̃var (Aryan)	Dē̃var	d ẽː v ʌ r	yeru1240		17.3702	81.9748	
+54348	44_god	God	KAIKADI	KAIKADI	Dēvri (Aryan)	Dēvri	d eː v r i	kaik1244		18.3859	76.0003	
+54349	44_god	God	MALAYALAM	MALAYALAM	Deivam (Aryan)	Deivam	d ei v ʌ m	mala1464		9.59208	76.7651	
+54350	44_god	God	KANARESE	KANARESE	Dēvarᵘ (Aryan)	Dēvarᵘ	d eː v ʌ r ŭ	nucl1305		13.5878	76.1198	
+54351	44_god	God	BADAGA	BADAGA	Dēvaru (Aryan)	Dēvaru	d eː v ʌ r u	bada1257		11.3094	76.5974	
+54352	44_god	God	TULU	TULU	Dēver^ü (Aryan)	Dēver^ü	d eː v e r y	tulu1258		12.8114	75.2651	
 54353	44_god	God	TODA	TODA	Dēr	Dēr	d eː r	toda1252		11.4184	77.0168	
 54354	44_god	God	KURUXORORAO	KURUX_OR_ORAO	D’armē (Aryan)	D’armē	d ʌ r m eː	kuru1302		24.4644	86.4657	
 54355	44_god	God	MALTOORMALER	MALTO_OR_MALER	Gosayiθ (Aryan)	Gosayiθ	g o s ʌ j i θ	kuma1274		24.1217	87.2699	
 54356	44_god	God	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	Roṭāpēṅu	Roṭāpēṅu	r o ʈ ʌː p eː ŋ u	kuii1252		19.2043	83.5859	
 54357	44_god	God	GONDI	GONDI	Pēn	Pēn	p eː n̪	sout2711		20.10446	80.27811	
-54358	44_god	God	TELUGU	TELUGU	Dēvuḍᵘ (Aryan)	Dēvuḍᵘ	d eː ʋ u ɖ ŭ	telu1262		16.4529	78.7024	
+54358	44_god	God	TELUGU	TELUGU	Dēvuḍᵘ (Aryan)	Dēvuḍᵘ	d eː v u ɖ ŭ	telu1262		16.4529	78.7024	
 54359	44_god	God	BRAHUI	BRAHUI	Xudā (Aryan)	Xudā	x u d̪ ʌː	brah1256		29.04	66.56	
 #
 52757	39_gold	Gold	TAMIL	TAMIL	poṉ	poṉ	p o n	tami1289		10.520219	78.825989	
 52758	39_gold	Gold	KORAVA	KORAVA	baṅgār	baṅgār	b ʌ ŋ g ʌː r	yeru1240		17.3702	81.9748	
 52759	39_gold	Gold	KAIKADI	KAIKADI	baṅgāra	baṅgāra	b ʌ ŋ g ʌː r ʌ	kaik1244		18.3859	76.0003	
 52760	39_gold	Gold	MALAYALAM	MALAYALAM	pon	pon	p o n̪	mala1464		9.59208	76.7651	
-52761	39_gold	Gold	KANARESE	KANARESE	b’aṅgārᵃ	b’aṅgārᵃ	bʱ ʌ ŋ g ʌː r ă	nucl1305		13.5878	76.1198	
+52761	39_gold	Gold	KANARESE	KANARESE	b’aṅgārᵃ	b’aṅgārᵃ	bʰ ʌ ŋ g ʌː r ă	nucl1305		13.5878	76.1198	
 52762	39_gold	Gold	BADAGA	BADAGA	chinna	chinna	tʃ i n̪ n̪ ʌ	bada1257		11.3094	76.5974	
-52763	39_gold	Gold	TULU	TULU	b’aṅgār^ü	b’aṅgār^ü	bʱ ʌ ŋ g ʌː r y	tulu1258		12.8114	75.2651	
+52763	39_gold	Gold	TULU	TULU	b’aṅgār^ü	b’aṅgār^ü	bʰ ʌ ŋ g ʌː r y	tulu1258		12.8114	75.2651	
 52764	39_gold	Gold	TODA	TODA	chinna	chinna	tʃ i n̪ n̪ ʌ	toda1252		11.4184	77.0168	
 52765	39_gold	Gold	KURUXORORAO	KURUX_OR_ORAO	sonā (Aryan)	sonā	s o n̪ ʌː	kuru1302		24.4644	86.4657	
 52766	39_gold	Gold	MALTOORMALER	MALTO_OR_MALER	sonaθ (Aryan)	sonaθ	s o n̪ ʌ θ	kuma1274		24.1217	87.2699	
@@ -783,15 +783,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 50518	33_hair	Hair	BADAGA	BADAGA	meiru	meiru	m ei r u	bada1257		11.3094	76.5974	
 50519	33_hair	Hair	BADAGA	BADAGA	kūdalu	kūdalu	k uː d̪ ʌ l u	bada1257		11.3094	76.5974	
 50520	33_hair	Hair	KODAGU	KODAGU	orama	orama	o r ʌ m ʌ	koda1255		12.2443	75.9161	
-50521	33_hair	Hair	TULU	TULU	kujal^ü	kujal^ü	k u dʑ ʌ l y	tulu1258		12.8114	75.2651	
+50521	33_hair	Hair	TULU	TULU	kujal^ü	kujal^ü	k u dʒ ʌ l y	tulu1258		12.8114	75.2651	
 50522	33_hair	Hair	TODA	TODA	mīr	mīr	m iː r	toda1252		11.4184	77.0168	
 50523	33_hair	Hair	KOTA	KOTA	mīre	mīre	m iː r e	kota1263		11.4978	76.9387	
 50524	33_hair	Hair	KURUXORORAO	KURUX_OR_ORAO	chuṭṭī	chuṭṭī	tʃ u ʈ ʈ iː	kuru1302		24.4644	86.4657	
 50525	33_hair	Hair	MALTOORMALER	MALTO_OR_MALER	taliθ	taliθ	t̪ ʌ l i θ	kuma1274		24.1217	87.2699	
-50526	33_hair	Hair	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	lēñjā	lēñjā	l eː ɲ dʑ ʌː	kuii1252		19.2043	83.5859	
+50526	33_hair	Hair	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	lēñjā	lēñjā	l eː ɲ dʒ ʌː	kuii1252		19.2043	83.5859	
 50527	33_hair	Hair	KOLAMI	KOLAMI	tīr	tīr	t̪ iː r	nort2699		20.1022	78.4934	
 50528	33_hair	Hair	GONDI	GONDI	chuṭṭī	chuṭṭī	tʃ u ʈ ʈ iː	sout2711		20.10446	80.27811	
-50529	33_hair	Hair	TELUGU	TELUGU	veṇṭruk^a	veṇṭruk^a	ʋ e ɳ ʈ r u k ʌ	telu1262		16.4529	78.7024	
+50529	33_hair	Hair	TELUGU	TELUGU	veṇṭruk^a	veṇṭruk^a	v e ɳ ʈ r u k ʌ	telu1262		16.4529	78.7024	
 50530	33_hair	Hair	BRAHUI	BRAHUI	pužah	pužah	p u ʒ ʌ h	brah1256		29.04	66.56	
 #
 47700	26_hand	Hand	TAMIL	TAMIL	kei	kei	k ei	tami1289		10.520219	78.825989	
@@ -807,30 +807,30 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 47710	26_hand	Hand	KURUXORORAO	KURUX_OR_ORAO	ꭓekkhā	ꭓekkhā	x e k k h ʌː	kuru1302		24.4644	86.4657	
 47711	26_hand	Hand	MALTOORMALER	MALTO_OR_MALER	tetuθ	tetuθ	t̪ e t̪ u θ	kuma1274		24.1217	87.2699	
 47712	26_hand	Hand	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	kāgu	kāgu	k ʌː g u	kuii1252		19.2043	83.5859	
-47713	26_hand	Hand	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	kāju	kāju	k ʌː dʑ u	kuii1252		19.2043	83.5859	
+47713	26_hand	Hand	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	kāju	kāju	k ʌː dʒ u	kuii1252		19.2043	83.5859	
 47714	26_hand	Hand	KOLAMI	KOLAMI	kīy	kīy	k iː j	nort2699		20.1022	78.4934	
 47715	26_hand	Hand	GONDI	GONDI	kai	kai	k ai	sout2711		20.10446	80.27811	
 47716	26_hand	Hand	TELUGU	TELUGU	eheyyi	eheyyi	e h e j j i	telu1262		16.4529	78.7024	
 47717	26_hand	Hand	BRAHUI	BRAHUI	dū	dū	d̪ uː	brah1256		29.04	66.56	
 #
-45782	22_he	He	TAMIL	TAMIL	avaṉ	avaṉ	ʌ ʋ ʌ n	tami1289		10.520219	78.825989	
-45783	22_he	He	KORAVA	KORAVA	āva	āva	ʌː ʋ ʌ	yeru1240		17.3702	81.9748	
+45782	22_he	He	TAMIL	TAMIL	avaṉ	avaṉ	ʌ v ʌ n	tami1289		10.520219	78.825989	
+45783	22_he	He	KORAVA	KORAVA	āva	āva	ʌː v ʌ	yeru1240		17.3702	81.9748	
 45784	22_he	He	KAIKADI	KAIKADI	āu	āu	ʌː u	kaik1244		18.3859	76.0003	
-45785	22_he	He	IRULA	IRULA	ava	ava	ʌ ʋ ʌ	irul1243		12.70645	79.95209	
-45786	22_he	He	MALAYALAM	MALAYALAM	avan	avan	ʌ ʋ ʌ n̪	mala1464		9.59208	76.7651	
-45787	22_he	He	KANARESE	KANARESE	ava(nu)	ava	ʌ ʋ ʌ	nucl1305		13.5878	76.1198	
-45788	22_he	He	BADAGA	BADAGA	ava	ava	ʌ ʋ ʌ	bada1257		11.3094	76.5974	
-45789	22_he	He	KODAGU	KODAGU	avaṅg	avaṅg	ʌ ʋ ʌ ŋ g	koda1255		12.2443	75.9161	
+45785	22_he	He	IRULA	IRULA	ava	ava	ʌ v ʌ	irul1243		12.70645	79.95209	
+45786	22_he	He	MALAYALAM	MALAYALAM	avan	avan	ʌ v ʌ n̪	mala1464		9.59208	76.7651	
+45787	22_he	He	KANARESE	KANARESE	ava(nu)	ava	ʌ v ʌ	nucl1305		13.5878	76.1198	
+45788	22_he	He	BADAGA	BADAGA	ava	ava	ʌ v ʌ	bada1257		11.3094	76.5974	
+45789	22_he	He	KODAGU	KODAGU	avaṅg	avaṅg	ʌ v ʌ ŋ g	koda1255		12.2443	75.9161	
 45790	22_he	He	TULU	TULU	āye	āye	ʌː j e	tulu1258		12.8114	75.2651	
 45791	22_he	He	TODA	TODA	adum	adum	ʌ d̪ u m	toda1252		11.4184	77.0168	
-45792	22_he	He	TODA	TODA	avan	avan	ʌ ʋ ʌ n̪	toda1252		11.4184	77.0168	
-45793	22_he	He	KOTA	KOTA	avane	avane	ʌ ʋ ʌ n̪ e	kota1263		11.4978	76.9387	
+45792	22_he	He	TODA	TODA	avan	avan	ʌ v ʌ n̪	toda1252		11.4184	77.0168	
+45793	22_he	He	KOTA	KOTA	avane	avane	ʌ v ʌ n̪ e	kota1263		11.4978	76.9387	
 45794	22_he	He	KURUXORORAO	KURUX_OR_ORAO	ās	ās	ʌː s	kuru1302		24.4644	86.4657	
 45795	22_he	He	MALTOORMALER	MALTO_OR_MALER	āh	āh	ʌː h	kuma1274		24.1217	87.2699	
-45796	22_he	He	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	ēañju	ēañju	eː ʌ ɲ dʑ u	kuii1252		19.2043	83.5859	
+45796	22_he	He	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	ēañju	ēañju	eː ʌ ɲ dʒ u	kuii1252		19.2043	83.5859	
 45797	22_he	He	KOLAMI	KOLAMI	ad (?)	ad	ʌ d̪	nort2699		20.1022	78.4934	
 45798	22_he	He	GONDI	GONDI	ōl	ōl	oː l	sout2711		20.10446	80.27811	
-45799	22_he	He	TELUGU	TELUGU	vāḍu	vāḍu	ʋ ʌː ɖ u	telu1262		16.4529	78.7024	
+45799	22_he	He	TELUGU	TELUGU	vāḍu	vāḍu	v ʌː ɖ u	telu1262		16.4529	78.7024	
 45800	22_he	He	BRAHUI	BRAHUI	ē	ē	eː	brah1256		29.04	66.56	
 45801	22_he	He	BRAHUI	BRAHUI	ō	ō	oː	brah1256		29.04	66.56	
 45802	22_he	He	BRAHUI	BRAHUI	ēd	ēd	eː d̪	brah1256		29.04	66.56	
@@ -838,7 +838,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 50920	34_head	Head	TAMIL	TAMIL	talei	talei	t̪ ʌ l ei	tami1289		10.520219	78.825989	
 50921	34_head	Head	KORAVA	KORAVA	teli	teli	t̪ e l i	yeru1240		17.3702	81.9748	
-50922	34_head	Head	KAIKADI	KAIKADI	t’ālī	t’ālī	t̪ʱ ʌː l iː	kaik1244		18.3859	76.0003	
+50922	34_head	Head	KAIKADI	KAIKADI	t’ālī	t’ālī	t̪ʰ ʌː l iː	kaik1244		18.3859	76.0003	
 50923	34_head	Head	KAIKADI	KAIKADI	talkāi	talkāi	t̪ ʌ l k aːi	kaik1244		18.3859	76.0003	
 50924	34_head	Head	IRULA	IRULA	tēlē	tēlē	t̪ eː l eː	irul1243		12.70645	79.95209	
 50925	34_head	Head	MALAYALAM	MALAYALAM	tal^a	tal^a	t̪ ʌ l ʌ	mala1464		9.59208	76.7651	
@@ -859,14 +859,14 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 19430	104_high	High	TAMIL	TAMIL	uyarndᵃ	uyarndᵃ	u j ʌ r n̪ d̪ ă	tami1289		10.520219	78.825989	
 19431	104_high	High	KORAVA	KORAVA	etr	etr	e t̪ r	yeru1240		17.3702	81.9748	
-19432	104_high	High	KAIKADI	KAIKADI	vask	vask	ʋ ʌ s k	kaik1244		18.3859	76.0003	
+19432	104_high	High	KAIKADI	KAIKADI	vask	vask	v ʌ s k	kaik1244		18.3859	76.0003	
 19433	104_high	High	MALAYALAM	MALAYALAM	uyarᵃ	uyarᵃ	u j ʌ r ă	mala1464		9.59208	76.7651	
 19434	104_high	High	KANARESE	KANARESE	ettarᵃ	ettarᵃ	e t̪ t̪ ʌ r ă	nucl1305		13.5878	76.1198	
 19435	104_high	High	BADAGA	BADAGA	udda	udda	u d̪ d̪ ʌ	bada1257		11.3094	76.5974	
 19436	104_high	High	TULU	TULU	ettara	ettara	e t̪ t̪ ʌ r ʌ	tulu1258		12.8114	75.2651	
 19437	104_high	High	TULU	TULU	nīlya	nīlya	n̪ iː l j ʌ	tulu1258		12.8114	75.2651	
 19438	104_high	High	TODA	TODA	nila	nila	n̪ i l ʌ	toda1252		11.4184	77.0168	
-19439	104_high	High	KURUXORORAO	KURUX_OR_ORAO	mech’ā	mech’ā	m e tʃʱ ʌː	kuru1302		24.4644	86.4657	
+19439	104_high	High	KURUXORORAO	KURUX_OR_ORAO	mech’ā	mech’ā	m e tʃʰ ʌː	kuru1302		24.4644	86.4657	
 19440	104_high	High	MALTOORMALER	MALTO_OR_MALER	mechge	mechge	m e tʃ g e	kuma1274		24.1217	87.2699	
 19441	104_high	High	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	ḍēṅgā	ḍēṅgā	ɖ eː ŋ g ʌː	kuii1252		19.2043	83.5859	
 19442	104_high	High	KOLAMI	KOLAMI	peratpodam (?)	peratpodam	p e r ʌ t̪ p o d̪ ʌ m	nort2699		20.1022	78.4934	
@@ -874,30 +874,30 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 19444	104_high	High	TELUGU	TELUGU	yettᵘ	yettᵘ	j e t̪ t̪ ŭ	telu1262		16.4529	78.7024	
 19445	104_high	High	BRAHUI	BRAHUI	burz (Aryan)	burz	b u r z	brah1256		29.04	66.56	
 #
-46277	23_his	His	TAMIL	TAMIL	avaṉ	avaṉ	ʌ ʋ ʌ n	tami1289		10.520219	78.825989	
-46278	23_his	His	KORAVA	KORAVA	avan	avan	ʌ ʋ ʌ n̪	yeru1240		17.3702	81.9748	
+46277	23_his	His	TAMIL	TAMIL	avaṉ	avaṉ	ʌ v ʌ n	tami1289		10.520219	78.825989	
+46278	23_his	His	KORAVA	KORAVA	avan	avan	ʌ v ʌ n̪	yeru1240		17.3702	81.9748	
 46279	23_his	His	KAIKADI	KAIKADI	āun	āun	ʌː u n̪	kaik1244		18.3859	76.0003	
-46280	23_his	His	IRULA	IRULA	avanuḍ	avanuḍ	ʌ ʋ ʌ n̪ u ɖ	irul1243		12.70645	79.95209	
-46281	23_his	His	MALAYALAM	MALAYALAM	avanr̤e	avanr̤e	ʌ ʋ ʌ n̪ ɻ e	mala1464		9.59208	76.7651	
-46282	23_his	His	KANARESE	KANARESE	avana	avana	ʌ ʋ ʌ n̪ ʌ	nucl1305		13.5878	76.1198	
-46283	23_his	His	BADAGA	BADAGA	avana	avana	ʌ ʋ ʌ n̪ ʌ	bada1257		11.3094	76.5974	
-46284	23_his	His	KODAGU	KODAGU	avanḍa	avanḍa	ʌ ʋ ʌ n̪ ɖ ʌ	koda1255		12.2443	75.9161	
+46280	23_his	His	IRULA	IRULA	avanuḍ	avanuḍ	ʌ v ʌ n̪ u ɖ	irul1243		12.70645	79.95209	
+46281	23_his	His	MALAYALAM	MALAYALAM	avanr̤e	avanr̤e	ʌ v ʌ n̪ ɻ e	mala1464		9.59208	76.7651	
+46282	23_his	His	KANARESE	KANARESE	avana	avana	ʌ v ʌ n̪ ʌ	nucl1305		13.5878	76.1198	
+46283	23_his	His	BADAGA	BADAGA	avana	avana	ʌ v ʌ n̪ ʌ	bada1257		11.3094	76.5974	
+46284	23_his	His	KODAGU	KODAGU	avanḍa	avanḍa	ʌ v ʌ n̪ ɖ ʌ	koda1255		12.2443	75.9161	
 46285	23_his	His	TULU	TULU	āya	āya	ʌː j ʌ	tulu1258		12.8114	75.2651	
-46286	23_his	His	TODA	TODA	avan	avan	ʌ ʋ ʌ n̪	toda1252		11.4184	77.0168	
-46287	23_his	His	KOTA	KOTA	avana	avana	ʌ ʋ ʌ n̪ ʌ	kota1263		11.4978	76.9387	
+46286	23_his	His	TODA	TODA	avan	avan	ʌ v ʌ n̪	toda1252		11.4184	77.0168	
+46287	23_his	His	KOTA	KOTA	avana	avana	ʌ v ʌ n̪ ʌ	kota1263		11.4978	76.9387	
 46288	23_his	His	KURUXORORAO	KURUX_OR_ORAO	ās-ghai	ās-ghai	ʌː s + g h ai	kuru1302		24.4644	86.4657	
 46289	23_his	His	MALTOORMALER	MALTO_OR_MALER	ahi(-ki)	ahi	ʌ h i	kuma1274		24.1217	87.2699	
 46290	23_his	His	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	ēāni	ēāni	eː ʌː n̪ i	kuii1252		19.2043	83.5859	
 46291	23_his	His	KOLAMI	KOLAMI	awanel (?)	awanel	ʌ w ʌ n̪ e l	nort2699		20.1022	78.4934	
 46292	23_his	His	GONDI	GONDI	ōnōr	ōnōr	oː n̪ oː r	sout2711		20.10446	80.27811	
-46293	23_his	His	TELUGU	TELUGU	vāni	vāni	ʋ ʌː n̪ i	telu1262		16.4529	78.7024	
+46293	23_his	His	TELUGU	TELUGU	vāni	vāni	v ʌː n̪ i	telu1262		16.4529	78.7024	
 46294	23_his	His	BRAHUI	BRAHUI	-ta (F.)	-ta	+ t̪ ʌ	brah1256		29.04	66.56	
 46295	23_his	His	BRAHUI	BRAHUI	ēnā	ēnā	eː n̪ ʌː	brah1256		29.04	66.56	
 46296	23_his	His	BRAHUI	BRAHUI	ōnā	ōnā	oː n̪ ʌː	brah1256		29.04	66.56	
 #
 55936	52_horse	Horse	TAMIL	TAMIL	kudirei	kudirei	k u d̪ i r ei	tami1289		10.520219	78.825989	
 55937	52_horse	Horse	KORAVA	KORAVA	kudri	kudri	k u d̪ r i	yeru1240		17.3702	81.9748	
-55938	52_horse	Horse	KAIKADI	KAIKADI	k’udrī	k’udrī	kʱ u d̪ r iː	kaik1244		18.3859	76.0003	
+55938	52_horse	Horse	KAIKADI	KAIKADI	k’udrī	k’udrī	kʰ u d̪ r iː	kaik1244		18.3859	76.0003	
 55939	52_horse	Horse	IRULA	IRULA	kudure	kudure	k u d̪ u r e	irul1243		12.70645	79.95209	
 55940	52_horse	Horse	MALAYALAM	MALAYALAM	kudirᵃ	kudirᵃ	k u d̪ i r ă	mala1464		9.59208	76.7651	
 55941	52_horse	Horse	KANARESE	KANARESE	kudurᵉ	kudurᵉ	k u d̪ u r ĕ	nucl1305		13.5878	76.1198	
@@ -906,7 +906,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 55944	52_horse	Horse	TULU	TULU	kudure	kudure	k u d̪ u r e	tulu1258		12.8114	75.2651	
 55945	52_horse	Horse	TODA	TODA	kadare	kadare	k ʌ d̪ ʌ r e	toda1252		11.4184	77.0168	
 55946	52_horse	Horse	KOTA	KOTA	kudare	kudare	k u d̪ ʌ r e	kota1263		11.4978	76.9387	
-55947	52_horse	Horse	KURUXORORAO	KURUX_OR_ORAO	g’ōṛō (Aryan)	g’ōṛō	gʱ oː ɽ oː	kuru1302		24.4644	86.4657	
+55947	52_horse	Horse	KURUXORORAO	KURUX_OR_ORAO	g’ōṛō (Aryan)	g’ōṛō	gʰ oː ɽ oː	kuru1302		24.4644	86.4657	
 55948	52_horse	Horse	MALTOORMALER	MALTO_OR_MALER	goroθ (Aryan)	goroθ	g o r o θ	kuma1274		24.1217	87.2699	
 55949	52_horse	Horse	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	gōḍā (Aryan)	gōḍā	g oː ɖ ʌː	kuii1252		19.2043	83.5859	
 55950	52_horse	Horse	KOLAMI	KOLAMI	gurrām	gurrām	g u r r ʌː m	nort2699		20.1022	78.4934	
@@ -914,7 +914,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 55952	52_horse	Horse	TELUGU	TELUGU	gurramᵘ	gurramᵘ	g u r r ʌ m ŭ	telu1262		16.4529	78.7024	
 55953	52_horse	Horse	BRAHUI	BRAHUI	hullī	hullī	h u l l iː	brah1256		29.04	66.56	
 #
-55524	51_house	House	TAMIL	TAMIL	vīḍᵘ	vīḍᵘ	ʋ iː ɖ ŭ	tami1289		10.520219	78.825989	
+55524	51_house	House	TAMIL	TAMIL	vīḍᵘ	vīḍᵘ	v iː ɖ ŭ	tami1289		10.520219	78.825989	
 55525	51_house	House	KORAVA	KORAVA	ūḍa	ūḍa	uː ɖ ʌ	yeru1240		17.3702	81.9748	
 55526	51_house	House	KAIKADI	KAIKADI	ūṭ	ūṭ	uː ʈ	kaik1244		18.3859	76.0003	
 55527	51_house	House	IRULA	IRULA	kūre	kūre	k uː r e	irul1243		12.70645	79.95209	
@@ -942,7 +942,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 26879	13_hundred	Hundred	BADAGA	BADAGA	nuru	nuru	n̪ u r u	bada1257		11.3094	76.5974	
 26880	13_hundred	Hundred	KODAGU	KODAGU	nūrü	nūrü	n̪ uː r y	koda1255		12.2443	75.9161	
 26881	13_hundred	Hundred	TULU	TULU	nūdu	nūdu	n̪ uː d̪ u	tulu1258		12.8114	75.2651	
-26882	13_hundred	Hundred	TODA	TODA	vaddnūr	vaddnūr	ʋ ʌ d̪ d̪ n̪ uː r	toda1252		11.4184	77.0168	
+26882	13_hundred	Hundred	TODA	TODA	vaddnūr	vaddnūr	v ʌ d̪ d̪ n̪ uː r	toda1252		11.4184	77.0168	
 26883	13_hundred	Hundred	KOTA	KOTA	nūr	nūr	n̪ uː r	kota1263		11.4978	76.9387	
 26884	13_hundred	Hundred	KURUXORORAO	KURUX_OR_ORAO	oṇḍ sai	oṇḍ sai	o ɳ ɖ + s ai	kuru1302		24.4644	86.4657	
 26885	13_hundred	Hundred	MALTOORMALER	MALTO_OR_MALER	pach kōṛi	pach kōṛi	p ʌ tʃ + k oː ɽ i	kuma1274		24.1217	87.2699	
@@ -979,7 +979,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 27351	14_i	I	BRAHUI	BRAHUI	ī	ī	iː	brah1256		29.04	66.56	
 #
 52413	38_iron	Iron	TAMIL	TAMIL	irumbᵘ	irumbᵘ	i r u m b ŭ	tami1289		10.520219	78.825989	
-52414	38_iron	Iron	KORAVA	KORAVA	k’abbiṇ	k’abbiṇ	kʱ ʌ b b i ɳ	yeru1240		17.3702	81.9748	
+52414	38_iron	Iron	KORAVA	KORAVA	k’abbiṇ	k’abbiṇ	kʰ ʌ b b i ɳ	yeru1240		17.3702	81.9748	
 52415	38_iron	Iron	KAIKADI	KAIKADI	lōkaṇḍa	lōkaṇḍa	l oː k ʌ ɳ ɖ ʌ	kaik1244		18.3859	76.0003	
 52416	38_iron	Iron	IRULA	IRULA	irumbu	irumbu	i r u m b u	irul1243		12.70645	79.95209	
 52417	38_iron	Iron	MALAYALAM	MALAYALAM	irimbᵃ	irimbᵃ	i r i m b ă	mala1464		9.59208	76.7651	
@@ -1008,10 +1008,10 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 8863	73_man	Man	TULU	TULU	naramāni	naramāni	n̪ ʌ r ʌ m ʌː n̪ i	tulu1258		12.8114	75.2651	
 8864	73_man	Man	TODA	TODA	āl	āl	ʌː l	toda1252		11.4184	77.0168	
 8865	73_man	Man	KOTA	KOTA	āle	āle	ʌː l e	kota1263		11.4978	76.9387	
-8866	73_man	Man	KOTA	KOTA	manijon (Aryan)	manijon	m ʌ n̪ i dʑ o n̪	kota1263		11.4978	76.9387	
+8866	73_man	Man	KOTA	KOTA	manijon (Aryan)	manijon	m ʌ n̪ i dʒ o n̪	kota1263		11.4978	76.9387	
 8867	73_man	Man	KURUXORORAO	KURUX_OR_ORAO	āl	āl	ʌː l	kuru1302		24.4644	86.4657	
 8868	73_man	Man	MALTOORMALER	MALTO_OR_MALER	muṛse	muṛse	m u ɽ s e	kuma1274		24.1217	87.2699	
-8869	73_man	Man	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	mnēhēñju	mnēhēñju	m n̪ eː h eː ɲ dʑ u	kuii1252		19.2043	83.5859	
+8869	73_man	Man	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	mnēhēñju	mnēhēñju	m n̪ eː h eː ɲ dʒ u	kuii1252		19.2043	83.5859	
 8870	73_man	Man	KOLAMI	KOLAMI	peddā	peddā	p e d̪ d̪ ʌː	nort2699		20.1022	78.4934	
 8871	73_man	Man	GONDI	GONDI	mansāl	mansāl	m ʌ n̪ s ʌː l	sout2711		20.10446	80.27811	
 8872	73_man	Man	TELUGU	TELUGU	manišⁱ (Aryan)	manišⁱ	m ʌ n̪ i ʃ ĭ	telu1262		16.4529	78.7024	
@@ -1019,22 +1019,22 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 12071	81_mare	Mare	TAMIL	TAMIL	peṇ kudirei	peṇ kudirei	p e ɳ + k u d̪ i r ei	tami1289		10.520219	78.825989	
 12072	81_mare	Mare	KORAVA	KORAVA	paṭ kudri	paṭ kudri	p ʌ ʈ + k u d̪ r i	yeru1240		17.3702	81.9748	
-12073	81_mare	Mare	KAIKADI	KAIKADI	p’aṭṭad k’udrī	p’aṭṭad k’udrī	pʱ ʌ ʈ ʈ ʌ d̪ + kʱ u d̪ r iː	kaik1244		18.3859	76.0003	
+12073	81_mare	Mare	KAIKADI	KAIKADI	p’aṭṭad k’udrī	p’aṭṭad k’udrī	pʰ ʌ ʈ ʈ ʌ d̪ + kʰ u d̪ r iː	kaik1244		18.3859	76.0003	
 12074	81_mare	Mare	MALAYALAM	MALAYALAM	peṇ kudriᵃ	peṇ kudriᵃ	p e ɳ + k u d̪ r i ă	mala1464		9.59208	76.7651	
 12075	81_mare	Mare	KANARESE	KANARESE	heṇṇᵘ kudurᵉ	heṇṇᵘ kudurᵉ	h e ɳ ɳ ŭ + k u d̪ u r ĕ	nucl1305		13.5878	76.1198	
 12076	81_mare	Mare	BADAGA	BADAGA	heṇṇu kudure	heṇṇu kudure	h e ɳ ɳ u + k u d̪ u r e	bada1257		11.3094	76.5974	
 12077	81_mare	Mare	TULU	TULU	poṇṇu kudure	poṇṇu kudure	p o ɳ ɳ u + k u d̪ u r e	tulu1258		12.8114	75.2651	
-12078	81_mare	Mare	KURUXORORAO	KURUX_OR_ORAO	g’uṛī	g’uṛī	gʱ u ɽ iː	kuru1302		24.4644	86.4657	
+12078	81_mare	Mare	KURUXORORAO	KURUX_OR_ORAO	g’uṛī	g’uṛī	gʰ u ɽ iː	kuru1302		24.4644	86.4657	
 12079	81_mare	Mare	MALTOORMALER	MALTO_OR_MALER	ḍaḍi goṛoθ	ḍaḍi goṛoθ	ɖ ʌ ɖ i + g o ɽ o θ	kuma1274		24.1217	87.2699	
 12080	81_mare	Mare	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	tāli gōṛā	tāli gōṛā	t̪ ʌː l i + g oː ɽ ʌː	kuii1252		19.2043	83.5859	
-12081	81_mare	Mare	GONDI	GONDI	g’uriyā	g’uriyā	gʱ u r i j ʌː	sout2711		20.10446	80.27811	
+12081	81_mare	Mare	GONDI	GONDI	g’uriyā	g’uriyā	gʰ u r i j ʌː	sout2711		20.10446	80.27811	
 12082	81_mare	Mare	TELUGU	TELUGU	āḍᵃ gurramᵘ	āḍᵃ gurramᵘ	ʌː ɖ ă + g u r r ʌ m ŭ	telu1262		16.4529	78.7024	
 12083	81_mare	Mare	BRAHUI	BRAHUI	mādiān (Aryan)	mādiān	m ʌː d̪ i ʌː n̪	brah1256		29.04	66.56	
 #
 59574	47_moon	Moon	TAMIL	TAMIL	chandiraṉ (Aryan)	chandiraṉ	tʃ ʌ n̪ d̪ i r ʌ n	tami1289		10.520219	78.825989	
 59575	47_moon	Moon	KORAVA	KORAVA	chandrām (Aryan)	chandrām	tʃ ʌ n̪ d̪ r ʌː m	yeru1240		17.3702	81.9748	
-59576	47_moon	Moon	KAIKADI	KAIKADI	ñalāv	ñalāv	ɲ ʌ l ʌː ʋ	kaik1244		18.3859	76.0003	
-59577	47_moon	Moon	IRULA	IRULA	nālavu	nālavu	n̪ ʌː l ʌ ʋ u	irul1243		12.70645	79.95209	
+59576	47_moon	Moon	KAIKADI	KAIKADI	ñalāv	ñalāv	ɲ ʌ l ʌː v	kaik1244		18.3859	76.0003	
+59577	47_moon	Moon	IRULA	IRULA	nālavu	nālavu	n̪ ʌː l ʌ v u	irul1243		12.70645	79.95209	
 59578	47_moon	Moon	MALAYALAM	MALAYALAM	chandran (Aryan)	chandran	tʃ ʌ n̪ d̪ r ʌ n̪	mala1464		9.59208	76.7651	
 59579	47_moon	Moon	KANARESE	KANARESE	chandrᵃ (Aryan)	chandrᵃ	tʃ ʌ n̪ d̪ r ă	nucl1305		13.5878	76.1198	
 59580	47_moon	Moon	BADAGA	BADAGA	tiggalu	tiggalu	t̪ i g g ʌ l u	bada1257		11.3094	76.5974	
@@ -1044,24 +1044,24 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 59584	47_moon	Moon	KOTA	KOTA	tiggulē	tiggulē	t̪ i g g u l eː	kota1263		11.4978	76.9387	
 59585	47_moon	Moon	KURUXORORAO	KURUX_OR_ORAO	chandō (Aryan)	chandō	tʃ ʌ n̪ d̪ oː	kuru1302		24.4644	86.4657	
 59586	47_moon	Moon	MALTOORMALER	MALTO_OR_MALER	bilpuθ	bilpuθ	b i l p u θ	kuma1274		24.1217	87.2699	
-59587	47_moon	Moon	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	ḍañjupēnu	ḍañjupēnu	ɖ ʌ ɲ dʑ u p eː n̪ u	kuii1252		19.2043	83.5859	
+59587	47_moon	Moon	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	ḍañjupēnu	ḍañjupēnu	ɖ ʌ ɲ dʒ u p eː n̪ u	kuii1252		19.2043	83.5859	
 59588	47_moon	Moon	KOLAMI	KOLAMI	nela (?)	nela	n̪ e l ʌ	nort2699		20.1022	78.4934	
-59589	47_moon	Moon	GONDI	GONDI	nalēnj	nalēnj	n̪ ʌ l eː n̪ dʑ	sout2711		20.10446	80.27811	
+59589	47_moon	Moon	GONDI	GONDI	nalēnj	nalēnj	n̪ ʌ l eː n̪ dʒ	sout2711		20.10446	80.27811	
 59590	47_moon	Moon	TELUGU	TELUGU	chandruḍᵘ	chandruḍᵘ	tʃ ʌ n̪ d̪ r u ɖ ŭ	telu1262		16.4529	78.7024	
 59591	47_moon	Moon	BRAHUI	BRAHUI	tūbē	tūbē	t̪ uː b eː	brah1256		29.04	66.56	
 #
 7155	70_mother	Mother	TAMIL	TAMIL	tāyār	tāyār	t̪ ʌː j ʌː r	tami1289		10.520219	78.825989	
 7156	70_mother	Mother	KORAVA	KORAVA	ãmma	ãmma	ã m m ʌ	yeru1240		17.3702	81.9748	
 7157	70_mother	Mother	KAIKADI	KAIKADI	gāmma	gāmma	g ʌː m m ʌ	kaik1244		18.3859	76.0003	
-7158	70_mother	Mother	IRULA	IRULA	āvve	āvve	ʌː ʋ ʋ e	irul1243		12.70645	79.95209	
+7158	70_mother	Mother	IRULA	IRULA	āvve	āvve	ʌː v v e	irul1243		12.70645	79.95209	
 7159	70_mother	Mother	MALAYALAM	MALAYALAM	ammᵃ	ammᵃ	ʌ m m ă	mala1464		9.59208	76.7651	
 7160	70_mother	Mother	KANARESE	KANARESE	tāyⁱ	tāyⁱ	t̪ ʌː j ĭ	nucl1305		13.5878	76.1198	
-7161	70_mother	Mother	BADAGA	BADAGA	avve	avve	ʌ ʋ ʋ e	bada1257		11.3094	76.5974	
+7161	70_mother	Mother	BADAGA	BADAGA	avve	avve	ʌ v v e	bada1257		11.3094	76.5974	
 7162	70_mother	Mother	BADAGA	BADAGA	tai	tai	t̪ ai	bada1257		11.3094	76.5974	
-7163	70_mother	Mother	KODAGU	KODAGU	avva	avva	ʌ ʋ ʋ ʌ	koda1255		12.2443	75.9161	
+7163	70_mother	Mother	KODAGU	KODAGU	avva	avva	ʌ v v ʌ	koda1255		12.2443	75.9161	
 7164	70_mother	Mother	TULU	TULU	appe	appe	ʌ p p e	tulu1258		12.8114	75.2651	
-7165	70_mother	Mother	TODA	TODA	av	av	ʌ ʋ	toda1252		11.4184	77.0168	
-7166	70_mother	Mother	KOTA	KOTA	avve	avve	ʌ ʋ ʋ e	kota1263		11.4978	76.9387	
+7165	70_mother	Mother	TODA	TODA	av	av	ʌ v	toda1252		11.4184	77.0168	
+7166	70_mother	Mother	KOTA	KOTA	avve	avve	ʌ v v e	kota1263		11.4978	76.9387	
 7167	70_mother	Mother	KURUXORORAO	KURUX_OR_ORAO	ayō	ayō	ʌ j oː	kuru1302		24.4644	86.4657	
 7168	70_mother	Mother	MALTOORMALER	MALTO_OR_MALER	ayya	ayya	ʌ j j ʌ	kuma1274		24.1217	87.2699	
 7169	70_mother	Mother	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	iyā	iyā	i j ʌː	kuii1252		19.2043	83.5859	
@@ -1072,17 +1072,17 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 7174	70_mother	Mother	TELUGU	TELUGU	tallⁱ	tallⁱ	t̪ ʌ l l ĭ	telu1262		16.4529	78.7024	
 7175	70_mother	Mother	BRAHUI	BRAHUI	lumma	lumma	l u m m ʌ	brah1256		29.04	66.56	
 #
-49294	30_mouth	Mouth	TAMIL	TAMIL	vāyi	vāyi	ʋ ʌː j i	tami1289		10.520219	78.825989	
-49295	30_mouth	Mouth	KORAVA	KORAVA	vāyi	vāyi	ʋ ʌː j i	yeru1240		17.3702	81.9748	
-49296	30_mouth	Mouth	KAIKADI	KAIKADI	vāi	vāi	ʋ aːi	kaik1244		18.3859	76.0003	
-49297	30_mouth	Mouth	IRULA	IRULA	vai	vai	ʋ ai	irul1243		12.70645	79.95209	
-49298	30_mouth	Mouth	MALAYALAM	MALAYALAM	vāyi	vāyi	ʋ ʌː j i	mala1464		9.59208	76.7651	
+49294	30_mouth	Mouth	TAMIL	TAMIL	vāyi	vāyi	v ʌː j i	tami1289		10.520219	78.825989	
+49295	30_mouth	Mouth	KORAVA	KORAVA	vāyi	vāyi	v ʌː j i	yeru1240		17.3702	81.9748	
+49296	30_mouth	Mouth	KAIKADI	KAIKADI	vāi	vāi	v aːi	kaik1244		18.3859	76.0003	
+49297	30_mouth	Mouth	IRULA	IRULA	vai	vai	v ai	irul1243		12.70645	79.95209	
+49298	30_mouth	Mouth	MALAYALAM	MALAYALAM	vāyi	vāyi	v ʌː j i	mala1464		9.59208	76.7651	
 49299	30_mouth	Mouth	KANARESE	KANARESE	bāyi	bāyi	b ʌː j i	nucl1305		13.5878	76.1198	
 49300	30_mouth	Mouth	BADAGA	BADAGA	bāi	bāi	b aːi	bada1257		11.3094	76.5974	
 49301	30_mouth	Mouth	KODAGU	KODAGU	bayi	bayi	b ʌ j i	koda1255		12.2443	75.9161	
 49302	30_mouth	Mouth	TULU	TULU	bāyi	bāyi	b ʌː j i	tulu1258		12.8114	75.2651	
 49303	30_mouth	Mouth	TODA	TODA	bāi	bāi	b aːi	toda1252		11.4184	77.0168	
-49304	30_mouth	Mouth	KOTA	KOTA	vai	vai	ʋ ai	kota1263		11.4978	76.9387	
+49304	30_mouth	Mouth	KOTA	KOTA	vai	vai	v ai	kota1263		11.4978	76.9387	
 49305	30_mouth	Mouth	KURUXORORAO	KURUX_OR_ORAO	bai	bai	b ai	kuru1302		24.4644	86.4657	
 49306	30_mouth	Mouth	MALTOORMALER	MALTO_OR_MALER	toroθ	toroθ	t̪ o r o θ	kuma1274		24.1217	87.2699	
 49307	30_mouth	Mouth	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	suaā	suaā	s u ʌ ʌː	kuii1252		19.2043	83.5859	
@@ -1117,17 +1117,17 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 20661	107_near	Near	TAMIL	TAMIL	arugē	arugē	ʌ r u g eː	tami1289		10.520219	78.825989	
 20662	107_near	Near	KORAVA	KORAVA	sane	sane	s ʌ n̪ e	yeru1240		17.3702	81.9748	
-20663	107_near	Near	KORAVA	KORAVA	jyāṭi	jyāṭi	dʑ j ʌː ʈ i	yeru1240		17.3702	81.9748	
+20663	107_near	Near	KORAVA	KORAVA	jyāṭi	jyāṭi	dʒ j ʌː ʈ i	yeru1240		17.3702	81.9748	
 20664	107_near	Near	KAIKADI	KAIKADI	kiṭṭa	kiṭṭa	k i ʈ ʈ ʌ	kaik1244		18.3859	76.0003	
 20665	107_near	Near	IRULA	IRULA	kiṭṭa	kiṭṭa	k i ʈ ʈ ʌ	irul1243		12.70645	79.95209	
 20666	107_near	Near	MALAYALAM	MALAYALAM	aḍukkᵉ	aḍukkᵉ	ʌ ɖ u k k ĕ	mala1464		9.59208	76.7651	
 20667	107_near	Near	KANARESE	KANARESE	hattarᵃ	hattarᵃ	h ʌ t̪ t̪ ʌ r ă	nucl1305		13.5878	76.1198	
-20668	107_near	Near	BADAGA	BADAGA	vottura	vottura	ʋ o t̪ t̪ u r ʌ	bada1257		11.3094	76.5974	
+20668	107_near	Near	BADAGA	BADAGA	vottura	vottura	v o t̪ t̪ u r ʌ	bada1257		11.3094	76.5974	
 20669	107_near	Near	BADAGA	BADAGA	sāre	sāre	s ʌː r e	bada1257		11.3094	76.5974	
 20670	107_near	Near	TULU	TULU	keitaḷ^ü	keitaḷ^ü	k ei t̪ ʌ ɭ y	tulu1258		12.8114	75.2651	
 20671	107_near	Near	TODA	TODA	kīhuri	kīhuri	k iː h u r i	toda1252		11.4184	77.0168	
 20672	107_near	Near	TODA	TODA	keꭓuri	keꭓuri	k e x u r i	toda1252		11.4184	77.0168	
-20673	107_near	Near	KOTA	KOTA	vottle	vottle	ʋ o t̪ t̪ l e	kota1263		11.4978	76.9387	
+20673	107_near	Near	KOTA	KOTA	vottle	vottle	v o t̪ t̪ l e	kota1263		11.4978	76.9387	
 20674	107_near	Near	KURUXORORAO	KURUX_OR_ORAO	heddē	heddē	h e d̪ d̪ eː	kuru1302		24.4644	86.4657	
 20675	107_near	Near	MALTOORMALER	MALTO_OR_MALER	aṭge	aṭge	ʌ ʈ g e	kuma1274		24.1217	87.2699	
 20676	107_near	Near	MALTOORMALER	MALTO_OR_MALER	bahano	bahano	b ʌ h ʌ n̪ o	kuma1274		24.1217	87.2699	
@@ -1139,15 +1139,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 1724	9_nine	Nine	TAMIL	TAMIL	onbadu	onbadu	o n̪ b ʌ d̪ u	tami1289		10.520219	78.825989	
 1725	9_nine	Nine	KORAVA	KORAVA	õmbidi	õmbidi	õ m b i d̪ i	yeru1240		17.3702	81.9748	
-1726	9_nine	Nine	KAIKADI	KAIKADI	vamdi	vamdi	ʋ ʌ m d̪ i	kaik1244		18.3859	76.0003	
-1727	9_nine	Nine	IRULA	IRULA	vombadu	vombadu	ʋ o m b ʌ d̪ u	irul1243		12.70645	79.95209	
+1726	9_nine	Nine	KAIKADI	KAIKADI	vamdi	vamdi	v ʌ m d̪ i	kaik1244		18.3859	76.0003	
+1727	9_nine	Nine	IRULA	IRULA	vombadu	vombadu	v o m b ʌ d̪ u	irul1243		12.70645	79.95209	
 1728	9_nine	Nine	MALAYALAM	MALAYALAM	onbadu	onbadu	o n̪ b ʌ d̪ u	mala1464		9.59208	76.7651	
-1729	9_nine	Nine	KANARESE	KANARESE	omb’attu	omb’attu	o m bʱ ʌ t̪ t̪ u	nucl1305		13.5878	76.1198	
-1730	9_nine	Nine	BADAGA	BADAGA	vombattu	vombattu	ʋ o m b ʌ t̪ t̪ u	bada1257		11.3094	76.5974	
+1729	9_nine	Nine	KANARESE	KANARESE	omb’attu	omb’attu	o m bʰ ʌ t̪ t̪ u	nucl1305		13.5878	76.1198	
+1730	9_nine	Nine	BADAGA	BADAGA	vombattu	vombattu	v o m b ʌ t̪ t̪ u	bada1257		11.3094	76.5974	
 1731	9_nine	Nine	KODAGU	KODAGU	oyimbadü	oyimbadü	o j i m b ʌ d̪ y	koda1255		12.2443	75.9161	
 1732	9_nine	Nine	TULU	TULU	wormba	wormba	w o r m b ʌ	tulu1258		12.8114	75.2651	
 1733	9_nine	Nine	TODA	TODA	anpaθ	anpaθ	ʌ n̪ p ʌ θ	toda1252		11.4184	77.0168	
-1734	9_nine	Nine	KOTA	KOTA	vorupāde	vorupāde	ʋ o r u p ʌː d̪ e	kota1263		11.4978	76.9387	
+1734	9_nine	Nine	KOTA	KOTA	vorupāde	vorupāde	v o r u p ʌː d̪ e	kota1263		11.4978	76.9387	
 1735	9_nine	Nine	KURUXORORAO	KURUX_OR_ORAO	nau (Aryan)	nau	n̪ au	kuru1302		24.4644	86.4657	
 1736	9_nine	Nine	MALTOORMALER	MALTO_OR_MALER	nō (Aryan)	nō	n̪ oː	kuma1274		24.1217	87.2699	
 1737	9_nine	Nine	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	na (Aryan)	na	n̪ ʌ	kuii1252		19.2043	83.5859	
@@ -1165,7 +1165,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 24572	117_no	No	BADAGA	BADAGA	illei	illei	i l l ei	bada1257		11.3094	76.5974	
 24573	117_no	No	BADAGA	BADAGA	illa	illa	i l l ʌ	bada1257		11.3094	76.5974	
 24574	117_no	No	KODAGU	KODAGU	alla	alla	ʌ l l ʌ	koda1255		12.2443	75.9161	
-24575	117_no	No	TULU	TULU	ijji	ijji	i dʑ dʑ i	tulu1258		12.8114	75.2651	
+24575	117_no	No	TULU	TULU	ijji	ijji	i dʒ dʒ i	tulu1258		12.8114	75.2651	
 24576	117_no	No	TODA	TODA	ā	ā	ʌː	toda1252		11.4184	77.0168	
 24577	117_no	No	KOTA	KOTA	illa	illa	i l l ʌ	kota1263		11.4978	76.9387	
 24578	117_no	No	KURUXORORAO	KURUX_OR_ORAO	mal-ā	mal-ā	m ʌ l + ʌː	kuru1302		24.4644	86.4657	
@@ -1197,16 +1197,16 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2154	1_one	One	TAMIL	TAMIL	oru	oru	o r u	tami1289		10.520219	78.825989	
 2155	1_one	One	TAMIL	TAMIL	ōr	ōr	oː r	tami1289		10.520219	78.825989	
 2156	1_one	One	KORAVA	KORAVA	oṇḍ	oṇḍ	o ɳ ɖ	yeru1240		17.3702	81.9748	
-2157	1_one	One	KAIKADI	KAIKADI	vaṇḍa	vaṇḍa	ʋ ʌ ɳ ɖ ʌ	kaik1244		18.3859	76.0003	
-2158	1_one	One	IRULA	IRULA	vondu	vondu	ʋ o n̪ d̪ u	irul1243		12.70645	79.95209	
+2157	1_one	One	KAIKADI	KAIKADI	vaṇḍa	vaṇḍa	v ʌ ɳ ɖ ʌ	kaik1244		18.3859	76.0003	
+2158	1_one	One	IRULA	IRULA	vondu	vondu	v o n̪ d̪ u	irul1243		12.70645	79.95209	
 2159	1_one	One	MALAYALAM	MALAYALAM	oru	oru	o r u	mala1464		9.59208	76.7651	
 2160	1_one	One	KANARESE	KANARESE	ondu	ondu	o n̪ d̪ u	nucl1305		13.5878	76.1198	
 2161	1_one	One	KANARESE	KANARESE	obba	obba	o b b ʌ	nucl1305		13.5878	76.1198	
-2162	1_one	One	BADAGA	BADAGA	vondu	vondu	ʋ o n̪ d̪ u	bada1257		11.3094	76.5974	
+2162	1_one	One	BADAGA	BADAGA	vondu	vondu	v o n̪ d̪ u	bada1257		11.3094	76.5974	
 2163	1_one	One	KODAGU	KODAGU	ondü	ondü	o n̪ d̪ y	koda1255		12.2443	75.9161	
-2164	1_one	One	TULU	TULU	wonji	wonji	w o n̪ dʑ i	tulu1258		12.8114	75.2651	
-2165	1_one	One	TODA	TODA	vadd	vadd	ʋ ʌ d̪ d̪	toda1252		11.4184	77.0168	
-2166	1_one	One	KOTA	KOTA	vodde	vodde	ʋ o d̪ d̪ e	kota1263		11.4978	76.9387	
+2164	1_one	One	TULU	TULU	wonji	wonji	w o n̪ dʒ i	tulu1258		12.8114	75.2651	
+2165	1_one	One	TODA	TODA	vadd	vadd	v ʌ d̪ d̪	toda1252		11.4184	77.0168	
+2166	1_one	One	KOTA	KOTA	vodde	vodde	v o d̪ d̪ e	kota1263		11.4978	76.9387	
 2167	1_one	One	KURUXORORAO	KURUX_OR_ORAO	oṇṭā	oṇṭā	o ɳ ʈ ʌː	kuru1302		24.4644	86.4657	
 2168	1_one	One	KURUXORORAO	KURUX_OR_ORAO	ort	ort	o r t̪	kuru1302		24.4644	86.4657	
 2169	1_one	One	KURUXORORAO	KURUX_OR_ORAO	oṇṭā	oṇṭā	o ɳ ʈ ʌː	kuru1302		24.4644	86.4657	
@@ -1256,18 +1256,18 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 32181	125_run	Run	TAMIL	TAMIL	ōḍ	ōḍ	oː ɖ	tami1289		10.520219	78.825989	
 32182	125_run	Run	KORAVA	KORAVA	ōḍ	ōḍ	oː ɖ	yeru1240		17.3702	81.9748	
 32183	125_run	Run	KAIKADI	KAIKADI	ōḍ	ōḍ	oː ɖ	kaik1244		18.3859	76.0003	
-32184	125_run	Run	IRULA	IRULA	vōḍ	vōḍ	ʋ oː ɖ	irul1243		12.70645	79.95209	
+32184	125_run	Run	IRULA	IRULA	vōḍ	vōḍ	v oː ɖ	irul1243		12.70645	79.95209	
 32185	125_run	Run	MALAYALAM	MALAYALAM	ōḍ	ōḍ	oː ɖ	mala1464		9.59208	76.7651	
 32186	125_run	Run	KANARESE	KANARESE	ōḍ	ōḍ	oː ɖ	nucl1305		13.5878	76.1198	
-32187	125_run	Run	BADAGA	BADAGA	vōḍ	vōḍ	ʋ oː ɖ	bada1257		11.3094	76.5974	
+32187	125_run	Run	BADAGA	BADAGA	vōḍ	vōḍ	v oː ɖ	bada1257		11.3094	76.5974	
 32188	125_run	Run	KODAGU	KODAGU	pār	pār	p ʌː r	koda1255		12.2443	75.9161	
-32189	125_run	Run	TULU	TULU	voḍ	voḍ	ʋ o ɖ	tulu1258		12.8114	75.2651	
+32189	125_run	Run	TULU	TULU	voḍ	voḍ	v o ɖ	tulu1258		12.8114	75.2651	
 32190	125_run	Run	TULU	TULU	pār	pār	p ʌː r	tulu1258		12.8114	75.2651	
-32191	125_run	Run	TODA	TODA	vōr	vōr	ʋ oː r	toda1252		11.4184	77.0168	
-32192	125_run	Run	KOTA	KOTA	vōḍ	vōḍ	ʋ oː ɖ	kota1263		11.4978	76.9387	
+32191	125_run	Run	TODA	TODA	vōr	vōr	v oː r	toda1252		11.4184	77.0168	
+32192	125_run	Run	KOTA	KOTA	vōḍ	vōḍ	v oː ɖ	kota1263		11.4978	76.9387	
 32193	125_run	Run	KURUXORORAO	KURUX_OR_ORAO	boṅg	boṅg	b o ŋ g	kuru1302		24.4644	86.4657	
 32194	125_run	Run	MALTOORMALER	MALTO_OR_MALER	boṅg	boṅg	b o ŋ g	kuma1274		24.1217	87.2699	
-32195	125_run	Run	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	pinjā	pinjā	p i n̪ dʑ ʌː	kuii1252		19.2043	83.5859	
+32195	125_run	Run	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	pinjā	pinjā	p i n̪ dʒ ʌː	kuii1252		19.2043	83.5859	
 32196	125_run	Run	GONDI	GONDI	wit	wit	w i t̪	sout2711		20.10446	80.27811	
 32197	125_run	Run	TELUGU	TELUGU	uruk	uruk	u r u k	telu1262		16.4529	78.7024	
 32198	125_run	Run	BRAHUI	BRAHUI	dūdēṅ	dūdēṅ	d̪ uː d̪ eː ŋ	brah1256		29.04	66.56	
@@ -1294,22 +1294,22 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 54002	43_shepherd	Shepherd	TAMIL	TAMIL	iḍeiyaṉ	iḍeiyaṉ	i ɖ ei j ʌ n	tami1289		10.520219	78.825989	
 54003	43_shepherd	Shepherd	TAMIL	TAMIL	mēyppaṉ	mēyppaṉ	m eː j p p ʌ n	tami1289		10.520219	78.825989	
 54004	43_shepherd	Shepherd	KORAVA	KORAVA	kurbād	kurbād	k u r b ʌː d̪	yeru1240		17.3702	81.9748	
-54005	43_shepherd	Shepherd	KAIKADI	KAIKADI	d’angarād	d’angarād	d̪ʱ ʌ ŋ ʌ r ʌː d̪	kaik1244		18.3859	76.0003	
+54005	43_shepherd	Shepherd	KAIKADI	KAIKADI	d’angarād	d’angarād	d̪ʰ ʌ ŋ ʌ r ʌː d̪	kaik1244		18.3859	76.0003	
 54006	43_shepherd	Shepherd	MALAYALAM	MALAYALAM	ātṭugāran	ātṭugāran	ʌː t̪ ʈ u g ʌː r ʌ n̪	mala1464		9.59208	76.7651	
 54007	43_shepherd	Shepherd	KANARESE	KANARESE	kurubᵃ	kurubᵃ	k u r u b ă	nucl1305		13.5878	76.1198	
 54008	43_shepherd	Shepherd	BADAGA	BADAGA	āḍukāra	āḍukāra	ʌː ɖ u k ʌː r ʌ	bada1257		11.3094	76.5974	
 54009	43_shepherd	Shepherd	TULU	TULU	kurube	kurube	k u r u b e	tulu1258		12.8114	75.2651	
 54010	43_shepherd	Shepherd	TODA	TODA	āḍu kāran	āḍu kāran	ʌː ɖ u + k ʌː r ʌ n̪	toda1252		11.4184	77.0168	
 54011	43_shepherd	Shepherd	KURUXORORAO	KURUX_OR_ORAO	gaḍrā (Aryan)	gaḍrā	g ʌ ɖ r ʌː	kuru1302		24.4644	86.4657	
-54012	43_shepherd	Shepherd	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	gāuḍēñju	gāuḍēñju	g ʌː u ɖ eː ɲ dʑ u	kuii1252		19.2043	83.5859	
+54012	43_shepherd	Shepherd	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	gāuḍēñju	gāuḍēñju	g ʌː u ɖ eː ɲ dʒ u	kuii1252		19.2043	83.5859	
 54013	43_shepherd	Shepherd	GONDI	GONDI	gaṛriyāl (Aryan)	gaṛriyāl	g ʌ ɽ r i j ʌː l	sout2711		20.10446	80.27811	
-54014	43_shepherd	Shepherd	TELUGU	TELUGU	gollavāḍᵘ	gollavāḍᵘ	g o l l ʌ ʋ ʌː ɖ ŭ	telu1262		16.4529	78.7024	
+54014	43_shepherd	Shepherd	TELUGU	TELUGU	gollavāḍᵘ	gollavāḍᵘ	g o l l ʌ v ʌː ɖ ŭ	telu1262		16.4529	78.7024	
 54015	43_shepherd	Shepherd	BRAHUI	BRAHUI	šomān	šomān	ʃ o m ʌː n̪	brah1256		29.04	66.56	
 #
-53097	40_silver	Silver	TAMIL	TAMIL	veḷḷⁱ	veḷḷⁱ	ʋ e ɭ ɭ ĭ	tami1289		10.520219	78.825989	
-53098	40_silver	Silver	KORAVA	KORAVA	vaḷḷi	vaḷḷi	ʋ ʌ ɭ ɭ i	yeru1240		17.3702	81.9748	
+53097	40_silver	Silver	TAMIL	TAMIL	veḷḷⁱ	veḷḷⁱ	v e ɭ ɭ ĭ	tami1289		10.520219	78.825989	
+53098	40_silver	Silver	KORAVA	KORAVA	vaḷḷi	vaḷḷi	v ʌ ɭ ɭ i	yeru1240		17.3702	81.9748	
 53099	40_silver	Silver	KAIKADI	KAIKADI	ṯs̱āndī (Aryan)	ṯs̱āndī	ts ʌː n̪ d̪ iː	kaik1244		18.3859	76.0003	
-53100	40_silver	Silver	MALAYALAM	MALAYALAM	veḷḷⁱ	veḷḷⁱ	ʋ e ɭ ɭ ĭ	mala1464		9.59208	76.7651	
+53100	40_silver	Silver	MALAYALAM	MALAYALAM	veḷḷⁱ	veḷḷⁱ	v e ɭ ɭ ĭ	mala1464		9.59208	76.7651	
 53101	40_silver	Silver	KANARESE	KANARESE	beḷḷⁱ	beḷḷⁱ	b e ɭ ɭ ĭ	nucl1305		13.5878	76.1198	
 53102	40_silver	Silver	BADAGA	BADAGA	belli	belli	b e l l i	bada1257		11.3094	76.5974	
 53103	40_silver	Silver	TULU	TULU	boḷḷi	boḷḷi	b o ɭ ɭ i	tulu1258		12.8114	75.2651	
@@ -1319,7 +1319,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 53107	40_silver	Silver	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	dārbā (? Aryan)	dārbā	d̪ ʌː r b ʌː	kuii1252		19.2043	83.5859	
 53108	40_silver	Silver	KOLAMI	KOLAMI	kurā (?)	kurā	k u r ʌː	nort2699		20.1022	78.4934	
 53109	40_silver	Silver	GONDI	GONDI	chāndi (Aryan)	chāndi	tʃ ʌː n̪ d̪ i	sout2711		20.10446	80.27811	
-53110	40_silver	Silver	TELUGU	TELUGU	veṇḍⁱ	veṇḍⁱ	ʋ e ɳ ɖ ĭ	telu1262		16.4529	78.7024	
+53110	40_silver	Silver	TELUGU	TELUGU	veṇḍⁱ	veṇḍⁱ	v e ɳ ɖ ĭ	telu1262		16.4529	78.7024	
 53111	40_silver	Silver	BRAHUI	BRAHUI	zar (Aryan)	zar	z ʌ r	brah1256		29.04	66.56	
 #
 8270	72_sister	Sister	TAMIL	TAMIL	(E.) akkāḷ	akkāḷ	ʌ k k ʌː ɭ	tami1289		10.520219	78.825989	
@@ -1338,7 +1338,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 8283	72_sister	Sister	TULU	TULU	(E.) akka	akka	ʌ k k ʌ	tulu1258		12.8114	75.2651	
 8284	72_sister	Sister	TULU	TULU	(Y.) taṅgaḍi	taṅgaḍi	t̪ ʌ ŋ g ʌ ɖ i	tulu1258		12.8114	75.2651	
 8285	72_sister	Sister	TODA	TODA	(E.) akka	akka	ʌ k k ʌ	toda1252		11.4184	77.0168	
-8286	72_sister	Sister	TODA	TODA	(Y.) enor vöt kuꭓ	enor vöt kuꭓ	e n̪ o r + ʋ ø t̪ + k u x	toda1252		11.4184	77.0168	
+8286	72_sister	Sister	TODA	TODA	(Y.) enor vöt kuꭓ	enor vöt kuꭓ	e n̪ o r + v ø t̪ + k u x	toda1252		11.4184	77.0168	
 8287	72_sister	Sister	KOTA	KOTA	keḍāse	keḍāse	k e ɖ ʌː s e	kota1263		11.4978	76.9387	
 8288	72_sister	Sister	KURUXORORAO	KURUX_OR_ORAO	(E.) dīdī	dīdī	d̪ iː d̪ iː	kuru1302		24.4644	86.4657	
 8289	72_sister	Sister	KURUXORORAO	KURUX_OR_ORAO	(Y.) dī	dī	d̪ iː	kuru1302		24.4644	86.4657	
@@ -1355,8 +1355,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 25821	120_sit	Sit	TAMIL	TAMIL	uṭkār	uṭkār	u ʈ k ʌː r	tami1289		10.520219	78.825989	
 25822	120_sit	Sit	KORAVA	KORAVA	ukkā	ukkā	u k k ʌː	yeru1240		17.3702	81.9748	
-25823	120_sit	Sit	KAIKADI	KAIKADI	kvāni	kvāni	k ʋ ʌː n̪ i	kaik1244		18.3859	76.0003	
-25824	120_sit	Sit	IRULA	IRULA	ukandu kove (impve.)	ukandu kove	u k ʌ n̪ d̪ u + k o ʋ e	irul1243		12.70645	79.95209	
+25823	120_sit	Sit	KAIKADI	KAIKADI	kvāni	kvāni	k v ʌː n̪ i	kaik1244		18.3859	76.0003	
+25824	120_sit	Sit	IRULA	IRULA	ukandu kove (impve.)	ukandu kove	u k ʌ n̪ d̪ u + k o v e	irul1243		12.70645	79.95209	
 25825	120_sit	Sit	MALAYALAM	MALAYALAM	irⁱ	irⁱ	i r ĭ	mala1464		9.59208	76.7651	
 25826	120_sit	Sit	KANARESE	KANARESE	kūdṛᵘ	kūdṛᵘ	k uː d̪ ɽ ŭ	nucl1305		13.5878	76.1198	
 25827	120_sit	Sit	BADAGA	BADAGA	kuli (impve.)	kuli	k u l i	bada1257		11.3094	76.5974	
@@ -1380,12 +1380,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 623	6_six	Six	KANARESE	KANARESE	āru	āru	ʌː r u	nucl1305		13.5878	76.1198	
 624	6_six	Six	BADAGA	BADAGA	āru	āru	ʌː r u	bada1257		11.3094	76.5974	
 625	6_six	Six	KODAGU	KODAGU	ārü	ārü	ʌː r y	koda1255		12.2443	75.9161	
-626	6_six	Six	TULU	TULU	āji	āji	ʌː dʑ i	tulu1258		12.8114	75.2651	
+626	6_six	Six	TULU	TULU	āji	āji	ʌː dʒ i	tulu1258		12.8114	75.2651	
 627	6_six	Six	TODA	TODA	ār	ār	ʌː r	toda1252		11.4184	77.0168	
 628	6_six	Six	KOTA	KOTA	āre	āre	ʌː r e	kota1263		11.4978	76.9387	
-629	6_six	Six	KURUXORORAO	KURUX_OR_ORAO	ch’au (Aryan)	ch’au	tʃʱ au	kuru1302		24.4644	86.4657	
+629	6_six	Six	KURUXORORAO	KURUX_OR_ORAO	ch’au (Aryan)	ch’au	tʃʰ au	kuru1302		24.4644	86.4657	
 630	6_six	Six	MALTOORMALER	MALTO_OR_MALER	chō (Aryan)	chō	tʃ oː	kuma1274		24.1217	87.2699	
-631	6_six	Six	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	sajgi	sajgi	s ʌ dʑ g i	kuii1252		19.2043	83.5859	
+631	6_six	Six	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	sajgi	sajgi	s ʌ dʒ g i	kuii1252		19.2043	83.5859	
 632	6_six	Six	KOLAMI	KOLAMI	ār	ār	ʌː r	nort2699		20.1022	78.4934	
 633	6_six	Six	GONDI	GONDI	sāruṅg	sāruṅg	s ʌː r u ŋ g	sout2711		20.10446	80.27811	
 634	6_six	Six	TELUGU	TELUGU	āru	āru	ʌː r u	telu1262		16.4529	78.7024	
@@ -1396,8 +1396,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 53428	41_slave	Slave	MALAYALAM	MALAYALAM	cher̤uman	cher̤uman	tʃ e ɻ u m ʌ n̪	mala1464		9.59208	76.7651	
 53429	41_slave	Slave	KANARESE	KANARESE	dāsᵃ (Aryan)	dāsᵃ	d̪ ʌː s ă	nucl1305		13.5878	76.1198	
 53430	41_slave	Slave	TULU	TULU	gulāme (Arabic)	gulāme	g u l ʌː m e	tulu1258		12.8114	75.2651	
-53431	41_slave	Slave	KURUXORORAO	KURUX_OR_ORAO	savkī	savkī	s ʌ ʋ k iː	kuru1302		24.4644	86.4657	
-53432	41_slave	Slave	KURUXORORAO	KURUX_OR_ORAO	jō̃ꭓ	jō̃ꭓ	dʑ õː x	kuru1302		24.4644	86.4657	
+53431	41_slave	Slave	KURUXORORAO	KURUX_OR_ORAO	savkī	savkī	s ʌ v k iː	kuru1302		24.4644	86.4657	
+53432	41_slave	Slave	KURUXORORAO	KURUX_OR_ORAO	jō̃ꭓ	jō̃ꭓ	dʒ õː x	kuru1302		24.4644	86.4657	
 53433	41_slave	Slave	MALTOORMALER	MALTO_OR_MALER	golām (Arabic)	golām	g o l ʌː m	kuma1274		24.1217	87.2699	
 53434	41_slave	Slave	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	āliā	āliā	ʌː l i ʌː	kuii1252		19.2043	83.5859	
 53435	41_slave	Slave	GONDI	GONDI	gulām (Arabic)	gulām	g u l ʌː m	sout2711		20.10446	80.27811	
@@ -1405,8 +1405,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 53437	41_slave	Slave	BRAHUI	BRAHUI	mē	mē	m eː	brah1256		29.04	66.56	
 #
 10635	77_son	Son	TAMIL	TAMIL	kumāraṉ (Aryan)	kumāraṉ	k u m ʌː r ʌ n	tami1289		10.520219	78.825989	
-10636	77_son	Son	KORAVA	KORAVA	mavu	mavu	m ʌ ʋ u	yeru1240		17.3702	81.9748	
-10637	77_son	Son	KAIKADI	KAIKADI	gōva	gōva	g oː ʋ ʌ	kaik1244		18.3859	76.0003	
+10636	77_son	Son	KORAVA	KORAVA	mavu	mavu	m ʌ v u	yeru1240		17.3702	81.9748	
+10637	77_son	Son	KAIKADI	KAIKADI	gōva	gōva	g oː v ʌ	kaik1244		18.3859	76.0003	
 10638	77_son	Son	IRULA	IRULA	ampūlle	ampūlle	ʌ m p uː l l e	irul1243		12.70645	79.95209	
 10639	77_son	Son	MALAYALAM	MALAYALAM	magan	magan	m ʌ g ʌ n̪	mala1464		9.59208	76.7651	
 10640	77_son	Son	KANARESE	KANARESE	magᵃ	magᵃ	m ʌ g ă	nucl1305		13.5878	76.1198	
@@ -1417,7 +1417,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 10645	77_son	Son	KOTA	KOTA	ganḍu mage	ganḍu mage	g ʌ n̪ ɖ u + m ʌ g e	kota1263		11.4978	76.9387	
 10646	77_son	Son	KURUXORORAO	KURUX_OR_ORAO	das	das	d̪ ʌ s	kuru1302		24.4644	86.4657	
 10647	77_son	Son	MALTOORMALER	MALTO_OR_MALER	(eṅga-)deh ((my) son)	deh	d̪ e h	kuma1274		24.1217	87.2699	
-10648	77_son	Son	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	mriē ñju	mriē ñju	m r i eː + ɲ dʑ u	kuii1252		19.2043	83.5859	
+10648	77_son	Son	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	mriē ñju	mriē ñju	m r i eː + ɲ dʒ u	kuii1252		19.2043	83.5859	
 10649	77_son	Son	KOLAMI	KOLAMI	bālā	bālā	b ʌː l ʌː	nort2699		20.1022	78.4934	
 10650	77_son	Son	GONDI	GONDI	marrī	marrī	m ʌ r r iː	sout2711		20.10446	80.27811	
 10651	77_son	Son	TELUGU	TELUGU	koḍukᵘ	koḍukᵘ	k o ɖ u k ŭ	telu1262		16.4529	78.7024	
@@ -1426,7 +1426,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 31057	122_stand	Stand	TAMIL	TAMIL	nil	nil	n̪ i l	tami1289		10.520219	78.825989	
 31058	122_stand	Stand	KORAVA	KORAVA	yedd nil	yedd nil	j e d̪ d̪ + n̪ i l	yeru1240		17.3702	81.9748	
 31059	122_stand	Stand	KAIKADI	KAIKADI	nil	nil	n̪ i l	kaik1244		18.3859	76.0003	
-31060	122_stand	Stand	IRULA	IRULA	yēndu kove (impve.)	yēndu kove	j eː n̪ d̪ u + k o ʋ e	irul1243		12.70645	79.95209	
+31060	122_stand	Stand	IRULA	IRULA	yēndu kove (impve.)	yēndu kove	j eː n̪ d̪ u + k o v e	irul1243		12.70645	79.95209	
 31061	122_stand	Stand	MALAYALAM	MALAYALAM	nil	nil	n̪ i l	mala1464		9.59208	76.7651	
 31062	122_stand	Stand	KANARESE	KANARESE	nil	nil	n̪ i l	nucl1305		13.5878	76.1198	
 31063	122_stand	Stand	BADAGA	BADAGA	nil	nil	n̪ i l	bada1257		11.3094	76.5974	
@@ -1434,7 +1434,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 31065	122_stand	Stand	TULU	TULU	nill	nill	n̪ i l l	tulu1258		12.8114	75.2651	
 31066	122_stand	Stand	TODA	TODA	nel	nel	n̪ e l	toda1252		11.4184	77.0168	
 31067	122_stand	Stand	KOTA	KOTA	mēke (impve.)	mēke	m eː k e	kota1263		11.4978	76.9387	
-31068	122_stand	Stand	KURUXORORAO	KURUX_OR_ORAO	ijj	ijj	i dʑ dʑ	kuru1302		24.4644	86.4657	
+31068	122_stand	Stand	KURUXORORAO	KURUX_OR_ORAO	ijj	ijj	i dʒ dʒ	kuru1302		24.4644	86.4657	
 31069	122_stand	Stand	MALTOORMALER	MALTO_OR_MALER	il	il	i l	kuma1274		24.1217	87.2699	
 31070	122_stand	Stand	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	nil	nil	n̪ i l	kuii1252		19.2043	83.5859	
 31071	122_stand	Stand	GONDI	GONDI	nill	nill	n̪ i l l	sout2711		20.10446	80.27811	
@@ -1442,10 +1442,10 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 31073	122_stand	Stand	TELUGU	TELUGU	nilts	nilts	n̪ i l ts	telu1262		16.4529	78.7024	
 31074	122_stand	Stand	BRAHUI	BRAHUI	sal	sal	s ʌ l	brah1256		29.04	66.56	
 #
-59978	48_star	Star	TAMIL	TAMIL	nachch’attiram (Aryan)	nachch’attiram	n̪ ʌ tʃ tʃʱ ʌ t̪ t̪ i r ʌ m	tami1289		10.520219	78.825989	
+59978	48_star	Star	TAMIL	TAMIL	nachch’attiram (Aryan)	nachch’attiram	n̪ ʌ tʃ tʃʰ ʌ t̪ t̪ i r ʌ m	tami1289		10.520219	78.825989	
 59979	48_star	Star	KORAVA	KORAVA	chukyānṅg	chukyānṅg	tʃ u kʲ ʌː n̪ ŋ g	yeru1240		17.3702	81.9748	
 59980	48_star	Star	KAIKADI	KAIKADI	chukkyā	chukkyā	tʃ u k kʲ ʌː	kaik1244		18.3859	76.0003	
-59981	48_star	Star	IRULA	IRULA	vānu minu	vānu minu	ʋ ʌː n̪ u + m i n̪ u	irul1243		12.70645	79.95209	
+59981	48_star	Star	IRULA	IRULA	vānu minu	vānu minu	v ʌː n̪ u + m i n̪ u	irul1243		12.70645	79.95209	
 59982	48_star	Star	MALAYALAM	MALAYALAM	nakṣatram (Aryan)	nakṣatram	n̪ ʌ k ʂ ʌ t̪ r ʌ m	mala1464		9.59208	76.7651	
 59983	48_star	Star	KANARESE	KANARESE	chikkᵃ	chikkᵃ	tʃ i k k ă	nucl1305		13.5878	76.1198	
 59984	48_star	Star	BADAGA	BADAGA	mīnu	mīnu	m iː n̪ u	bada1257		11.3094	76.5974	
@@ -1462,7 +1462,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 #
 59157	46_sun	Sun	TAMIL	TAMIL	šūriyaṉ (Aryan)	šūriyaṉ	ʃ uː r i j ʌ n	tami1289		10.520219	78.825989	
 59158	46_sun	Sun	KORAVA	KORAVA	pōda	pōda	p oː d̪ ʌ	yeru1240		17.3702	81.9748	
-59159	46_sun	Sun	KAIKADI	KAIKADI	p’ōd	p’ōd	pʱ oː d̪	kaik1244		18.3859	76.0003	
+59159	46_sun	Sun	KAIKADI	KAIKADI	p’ōd	p’ōd	pʰ oː d̪	kaik1244		18.3859	76.0003	
 59160	46_sun	Sun	IRULA	IRULA	pōdu	pōdu	p oː d̪ u	irul1243		12.70645	79.95209	
 59161	46_sun	Sun	MALAYALAM	MALAYALAM	sūryan (Aryan)	sūryan	s uː r j ʌ n̪	mala1464		9.59208	76.7651	
 59162	46_sun	Sun	KANARESE	KANARESE	hottᵘ	hottᵘ	h o t̪ t̪ ŭ	nucl1305		13.5878	76.1198	
@@ -1497,52 +1497,52 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2576	10_ten	Ten	TELUGU	TELUGU	padi	padi	p ʌ d̪ i	telu1262		16.4529	78.7024	
 2577	10_ten	Ten	BRAHUI	BRAHUI	dah (Aryan)	dah	d̪ ʌ h	brah1256		29.04	66.56	
 #
-47257	25_their	Their	TAMIL	TAMIL	avar (gaḷ)	avar	ʌ ʋ ʌ r	tami1289		10.520219	78.825989	
-47258	25_their	Their	KORAVA	KORAVA	avyaḷa	avyaḷa	ʌ ʋ j ʌ ɭ ʌ	yeru1240		17.3702	81.9748	
+47257	25_their	Their	TAMIL	TAMIL	avar (gaḷ)	avar	ʌ v ʌ r	tami1289		10.520219	78.825989	
+47258	25_their	Their	KORAVA	KORAVA	avyaḷa	avyaḷa	ʌ v j ʌ ɭ ʌ	yeru1240		17.3702	81.9748	
 47259	25_their	Their	KORAVA	KORAVA	āgaḷu	āgaḷu	ʌː g ʌ ɭ u	yeru1240		17.3702	81.9748	
 47260	25_their	Their	KAIKADI	KAIKADI	āuṅgḷād	āuṅgḷād	ʌː u ŋ g ɭ ʌː d̪	kaik1244		18.3859	76.0003	
-47261	25_their	Their	IRULA	IRULA	avaruḍ	avaruḍ	ʌ ʋ ʌ r u ɖ	irul1243		12.70645	79.95209	
-47262	25_their	Their	MALAYALAM	MALAYALAM	avaruḍe	avaruḍe	ʌ ʋ ʌ r u ɖ e	mala1464		9.59208	76.7651	
-47263	25_their	Their	KANARESE	KANARESE	avara	avara	ʌ ʋ ʌ r ʌ	nucl1305		13.5878	76.1198	
-47264	25_their	Their	BADAGA	BADAGA	avara	avara	ʌ ʋ ʌ r ʌ	bada1257		11.3094	76.5974	
-47265	25_their	Their	BADAGA	BADAGA	avakaro	avakaro	ʌ ʋ ʌ k ʌ r o	bada1257		11.3094	76.5974	
+47261	25_their	Their	IRULA	IRULA	avaruḍ	avaruḍ	ʌ v ʌ r u ɖ	irul1243		12.70645	79.95209	
+47262	25_their	Their	MALAYALAM	MALAYALAM	avaruḍe	avaruḍe	ʌ v ʌ r u ɖ e	mala1464		9.59208	76.7651	
+47263	25_their	Their	KANARESE	KANARESE	avara	avara	ʌ v ʌ r ʌ	nucl1305		13.5878	76.1198	
+47264	25_their	Their	BADAGA	BADAGA	avara	avara	ʌ v ʌ r ʌ	bada1257		11.3094	76.5974	
+47265	25_their	Their	BADAGA	BADAGA	avakaro	avakaro	ʌ v ʌ k ʌ r o	bada1257		11.3094	76.5974	
 47266	25_their	Their	KODAGU	KODAGU	ayanḍa	ayanḍa	ʌ j ʌ n̪ ɖ ʌ	koda1255		12.2443	75.9161	
 47267	25_their	Their	TULU	TULU	ākuḷe	ākuḷe	ʌː k u ɭ e	tulu1258		12.8114	75.2651	
-47268	25_their	Their	TODA	TODA	avar	avar	ʌ ʋ ʌ r	toda1252		11.4184	77.0168	
-47269	25_their	Their	TODA	TODA	avardu	avardu	ʌ ʋ ʌ r d̪ u	toda1252		11.4184	77.0168	
-47270	25_their	Their	KOTA	KOTA	avare	avare	ʌ ʋ ʌ r e	kota1263		11.4978	76.9387	
+47268	25_their	Their	TODA	TODA	avar	avar	ʌ v ʌ r	toda1252		11.4184	77.0168	
+47269	25_their	Their	TODA	TODA	avardu	avardu	ʌ v ʌ r d̪ u	toda1252		11.4184	77.0168	
+47270	25_their	Their	KOTA	KOTA	avare	avare	ʌ v ʌ r e	kota1263		11.4978	76.9387	
 47271	25_their	Their	KURUXORORAO	KURUX_OR_ORAO	ār-gahi	ār-gahi	ʌː r + g ʌ h i	kuru1302		24.4644	86.4657	
 47272	25_their	Their	MALTOORMALER	MALTO_OR_MALER	āri(-ki)	āri	ʌː r i	kuma1274		24.1217	87.2699	
 47273	25_their	Their	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	ēāri	ēāri	eː ʌː r i	kuii1252		19.2043	83.5859	
 47274	25_their	Their	KOLAMI	KOLAMI	awareten (?)	awareten	ʌ w ʌ r e t̪ e n̪	nort2699		20.1022	78.4934	
 47275	25_their	Their	GONDI	GONDI	ōṛōr	ōṛōr	oː ɽ oː r	sout2711		20.10446	80.27811	
 47276	25_their	Their	GONDI	GONDI	ōṛknōr	ōṛknōr	oː ɽ k n̪ oː r	sout2711		20.10446	80.27811	
-47277	25_their	Their	TELUGU	TELUGU	vāri	vāri	ʋ ʌː r i	telu1262		16.4529	78.7024	
+47277	25_their	Their	TELUGU	TELUGU	vāri	vāri	v ʌː r i	telu1262		16.4529	78.7024	
 47278	25_their	Their	BRAHUI	BRAHUI	-tā (F.)	-tā	+ t̪ ʌː	brah1256		29.04	66.56	
 47279	25_their	Their	BRAHUI	BRAHUI	ēftā	ēftā	eː f t̪ ʌː	brah1256		29.04	66.56	
 47280	25_their	Their	BRAHUI	BRAHUI	ōftā	ōftā	oː f t̪ ʌː	brah1256		29.04	66.56	
 #
-46797	24_they	They	TAMIL	TAMIL	avar (gaḷ)	avar	ʌ ʋ ʌ r	tami1289		10.520219	78.825989	
-46798	24_they	They	KORAVA	KORAVA	avya	avya	ʌ ʋ j ʌ	yeru1240		17.3702	81.9748	
+46797	24_they	They	TAMIL	TAMIL	avar (gaḷ)	avar	ʌ v ʌ r	tami1289		10.520219	78.825989	
+46798	24_they	They	KORAVA	KORAVA	avya	avya	ʌ v j ʌ	yeru1240		17.3702	81.9748	
 46799	24_they	They	KORAVA	KORAVA	āga	āga	ʌː g ʌ	yeru1240		17.3702	81.9748	
 46800	24_they	They	KAIKADI	KAIKADI	āuṅg	āuṅg	ʌː u ŋ g	kaik1244		18.3859	76.0003	
 46801	24_they	They	IRULA	IRULA	aduru	aduru	ʌ d̪ u r u	irul1243		12.70645	79.95209	
-46802	24_they	They	MALAYALAM	MALAYALAM	avar	avar	ʌ ʋ ʌ r	mala1464		9.59208	76.7651	
-46803	24_they	They	KANARESE	KANARESE	avaru	avaru	ʌ ʋ ʌ r u	nucl1305		13.5878	76.1198	
-46804	24_they	They	BADAGA	BADAGA	avaka	avaka	ʌ ʋ ʌ k ʌ	bada1257		11.3094	76.5974	
-46805	24_they	They	KODAGU	KODAGU	avaru	avaru	ʌ ʋ ʌ r u	koda1255		12.2443	75.9161	
-46806	24_they	They	KODAGU	KODAGU	avu	avu	ʌ ʋ u	koda1255		12.2443	75.9161	
+46802	24_they	They	MALAYALAM	MALAYALAM	avar	avar	ʌ v ʌ r	mala1464		9.59208	76.7651	
+46803	24_they	They	KANARESE	KANARESE	avaru	avaru	ʌ v ʌ r u	nucl1305		13.5878	76.1198	
+46804	24_they	They	BADAGA	BADAGA	avaka	avaka	ʌ v ʌ k ʌ	bada1257		11.3094	76.5974	
+46805	24_they	They	KODAGU	KODAGU	avaru	avaru	ʌ v ʌ r u	koda1255		12.2443	75.9161	
+46806	24_they	They	KODAGU	KODAGU	avu	avu	ʌ v u	koda1255		12.2443	75.9161	
 46807	24_they	They	TULU	TULU	ākuḷu	ākuḷu	ʌː k u ɭ u	tulu1258		12.8114	75.2651	
 46808	24_they	They	TODA	TODA	adum	adum	ʌ d̪ u m	toda1252		11.4184	77.0168	
-46809	24_they	They	TODA	TODA	avar	avar	ʌ ʋ ʌ r	toda1252		11.4184	77.0168	
-46810	24_they	They	KOTA	KOTA	avare	avare	ʌ ʋ ʌ r e	kota1263		11.4978	76.9387	
+46809	24_they	They	TODA	TODA	avar	avar	ʌ v ʌ r	toda1252		11.4184	77.0168	
+46810	24_they	They	KOTA	KOTA	avare	avare	ʌ v ʌ r e	kota1263		11.4978	76.9387	
 46811	24_they	They	KURUXORORAO	KURUX_OR_ORAO	ār	ār	ʌː r	kuru1302		24.4644	86.4657	
 46812	24_they	They	MALTOORMALER	MALTO_OR_MALER	ār	ār	ʌː r	kuma1274		24.1217	87.2699	
 46813	24_they	They	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	ēāru	ēāru	eː ʌː r u	kuii1252		19.2043	83.5859	
 46814	24_they	They	KOLAMI	KOLAMI	awar (?)	awar	ʌ w ʌ r	nort2699		20.1022	78.4934	
 46815	24_they	They	GONDI	GONDI	ōṛ	ōṛ	oː ɽ	sout2711		20.10446	80.27811	
 46816	24_they	They	GONDI	GONDI	ōṛk	ōṛk	oː ɽ k	sout2711		20.10446	80.27811	
-46817	24_they	They	TELUGU	TELUGU	vāru	vāru	ʋ ʌː r u	telu1262		16.4529	78.7024	
+46817	24_they	They	TELUGU	TELUGU	vāru	vāru	v ʌː r u	telu1262		16.4529	78.7024	
 46818	24_they	They	BRAHUI	BRAHUI	ēfk	ēfk	eː f k	brah1256		29.04	66.56	
 46819	24_they	They	BRAHUI	BRAHUI	ōfk	ōfk	oː f k	brah1256		29.04	66.56	
 #
@@ -1566,7 +1566,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 29311	18_thou	Thou	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	īnu	īnu	iː n̪ u	kuii1252		19.2043	83.5859	
 29312	18_thou	Thou	KOLAMI	KOLAMI	niwa (?)	niwa	n̪ i w ʌ	nort2699		20.1022	78.4934	
 29313	18_thou	Thou	GONDI	GONDI	īmmā	īmmā	iː m m ʌː	sout2711		20.10446	80.27811	
-29314	18_thou	Thou	TELUGU	TELUGU	nīvu	nīvu	n̪ iː ʋ u	telu1262		16.4529	78.7024	
+29314	18_thou	Thou	TELUGU	TELUGU	nīvu	nīvu	n̪ iː v u	telu1262		16.4529	78.7024	
 29315	18_thou	Thou	BRAHUI	BRAHUI	nī	nī	n̪ iː	brah1256		29.04	66.56	
 #
 3374	3_three	Three	TAMIL	TAMIL	mūndru	mūndru	m uː n̪ d̪ r u	tami1289		10.520219	78.825989	
@@ -1577,16 +1577,16 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 3379	3_three	Three	IRULA	IRULA	muru	muru	m u r u	irul1243		12.70645	79.95209	
 3380	3_three	Three	MALAYALAM	MALAYALAM	mūnnu	mūnnu	m uː n̪ n̪ u	mala1464		9.59208	76.7651	
 3381	3_three	Three	KANARESE	KANARESE	mūru	mūru	m uː r u	nucl1305		13.5878	76.1198	
-3382	3_three	Three	KANARESE	KANARESE	mūvaru	mūvaru	m uː ʋ ʌ r u	nucl1305		13.5878	76.1198	
+3382	3_three	Three	KANARESE	KANARESE	mūvaru	mūvaru	m uː v ʌ r u	nucl1305		13.5878	76.1198	
 3383	3_three	Three	BADAGA	BADAGA	mūru	mūru	m uː r u	bada1257		11.3094	76.5974	
 3384	3_three	Three	KODAGU	KODAGU	mūndü	mūndü	m uː n̪ d̪ y	koda1255		12.2443	75.9161	
-3385	3_three	Three	TULU	TULU	mūji	mūji	m uː dʑ i	tulu1258		12.8114	75.2651	
+3385	3_three	Three	TULU	TULU	mūji	mūji	m uː dʒ i	tulu1258		12.8114	75.2651	
 3386	3_three	Three	TODA	TODA	mūḍu	mūḍu	m uː ɖ u	toda1252		11.4184	77.0168	
 3387	3_three	Three	KOTA	KOTA	mūṇḍe	mūṇḍe	m uː ɳ ɖ e	kota1263		11.4978	76.9387	
 3388	3_three	Three	KURUXORORAO	KURUX_OR_ORAO	mūṇḍ	mūṇḍ	m uː ɳ ɖ	kuru1302		24.4644	86.4657	
 3389	3_three	Three	KURUXORORAO	KURUX_OR_ORAO	nub	nub	n̪ u b	kuru1302		24.4644	86.4657	
 3390	3_three	Three	MALTOORMALER	MALTO_OR_MALER	tīn (Aryan)	tīn	t̪ iː n̪	kuma1274		24.1217	87.2699	
-3391	3_three	Three	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	muñji	muñji	m u ɲ dʑ i	kuii1252		19.2043	83.5859	
+3391	3_three	Three	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	muñji	muñji	m u ɲ dʒ i	kuii1252		19.2043	83.5859	
 3392	3_three	Three	KOLAMI	KOLAMI	mūṅdīṅ	mūṅdīṅ	m uː ŋ d̪ iː ŋ	nort2699		20.1022	78.4934	
 3393	3_three	Three	GONDI	GONDI	muṇḍ	muṇḍ	m u ɳ ɖ	sout2711		20.10446	80.27811	
 3394	3_three	Three	TELUGU	TELUGU	mūḍu	mūḍu	m uː ɖ u	telu1262		16.4529	78.7024	
@@ -1621,15 +1621,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 51289	35_tongue	Tongue	TAMIL	TAMIL	nākkᵘ	nākkᵘ	n̪ ʌː k k ŭ	tami1289		10.520219	78.825989	
 51290	35_tongue	Tongue	KORAVA	KORAVA	nālgi	nālgi	n̪ ʌː l g i	yeru1240		17.3702	81.9748	
 51291	35_tongue	Tongue	KAIKADI	KAIKADI	nāk	nāk	n̪ ʌː k	kaik1244		18.3859	76.0003	
-51292	35_tongue	Tongue	MALAYALAM	MALAYALAM	nāvᵃ	nāvᵃ	n̪ ʌː ʋ ă	mala1464		9.59208	76.7651	
+51292	35_tongue	Tongue	MALAYALAM	MALAYALAM	nāvᵃ	nāvᵃ	n̪ ʌː v ă	mala1464		9.59208	76.7651	
 51293	35_tongue	Tongue	KANARESE	KANARESE	nāligᵉ	nāligᵉ	n̪ ʌː l i g ĕ	nucl1305		13.5878	76.1198	
 51294	35_tongue	Tongue	BADAGA	BADAGA	nalaṅe	nalaṅe	n̪ ʌ l ʌ ŋ e	bada1257		11.3094	76.5974	
 51295	35_tongue	Tongue	TULU	TULU	nālāyi	nālāyi	n̪ ʌː l ʌː j i	tulu1258		12.8114	75.2651	
-51296	35_tongue	Tongue	TODA	TODA	nāv	nāv	n̪ ʌː ʋ	toda1252		11.4184	77.0168	
+51296	35_tongue	Tongue	TODA	TODA	nāv	nāv	n̪ ʌː v	toda1252		11.4184	77.0168	
 51297	35_tongue	Tongue	KURUXORORAO	KURUX_OR_ORAO	tatꭓā	tatꭓā	t̪ ʌ t̪ x ʌː	kuru1302		24.4644	86.4657	
 51298	35_tongue	Tongue	MALTOORMALER	MALTO_OR_MALER	taṛteθ	taṛteθ	t̪ ʌ ɽ t̪ e θ	kuma1274		24.1217	87.2699	
 51299	35_tongue	Tongue	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	bāṅgōsi	bāṅgōsi	b ʌː ŋ g oː s i	kuii1252		19.2043	83.5859	
-51300	35_tongue	Tongue	GONDI	GONDI	wanjēr	wanjēr	w ʌ n̪ dʑ eː r	sout2711		20.10446	80.27811	
+51300	35_tongue	Tongue	GONDI	GONDI	wanjēr	wanjēr	w ʌ n̪ dʒ eː r	sout2711		20.10446	80.27811	
 51301	35_tongue	Tongue	TELUGU	TELUGU	nālukᵉ	nālukᵉ	n̪ ʌː l u k ĕ	telu1262		16.4529	78.7024	
 51302	35_tongue	Tongue	BRAHUI	BRAHUI	doi	doi	d̪ ɔɪ	brah1256		29.04	66.56	
 #
@@ -1656,19 +1656,19 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 26183	11_twenty	Twenty	TAMIL	TAMIL	irubadu	irubadu	i r u b ʌ d̪ u	tami1289		10.520219	78.825989	
 26184	11_twenty	Twenty	KORAVA	KORAVA	raṇḍr kappatt	raṇḍr kappatt	r ʌ ɳ ɖ r + k ʌ p p ʌ t̪ t̪	yeru1240		17.3702	81.9748	
 26185	11_twenty	Twenty	KAIKADI	KAIKADI	merda	merda	m e r d̪ ʌ	kaik1244		18.3859	76.0003	
-26186	11_twenty	Twenty	IRULA	IRULA	irvadu	irvadu	i r ʋ ʌ d̪ u	irul1243		12.70645	79.95209	
+26186	11_twenty	Twenty	IRULA	IRULA	irvadu	irvadu	i r v ʌ d̪ u	irul1243		12.70645	79.95209	
 26187	11_twenty	Twenty	MALAYALAM	MALAYALAM	irupadu	irupadu	i r u p ʌ d̪ u	mala1464		9.59208	76.7651	
 26188	11_twenty	Twenty	KANARESE	KANARESE	ippattu	ippattu	i p p ʌ t̪ t̪ u	nucl1305		13.5878	76.1198	
 26189	11_twenty	Twenty	BADAGA	BADAGA	ibbatta	ibbatta	i b b ʌ t̪ t̪ ʌ	bada1257		11.3094	76.5974	
-26190	11_twenty	Twenty	KODAGU	KODAGU	iruvadü	iruvadü	i r u ʋ ʌ d̪ y	koda1255		12.2443	75.9161	
-26191	11_twenty	Twenty	TULU	TULU	irva	irva	i r ʋ ʌ	tulu1258		12.8114	75.2651	
-26192	11_twenty	Twenty	TODA	TODA	evoθ	evoθ	e ʋ o θ	toda1252		11.4184	77.0168	
-26193	11_twenty	Twenty	KOTA	KOTA	irvāde	irvāde	i r ʋ ʌː d̪ e	kota1263		11.4978	76.9387	
+26190	11_twenty	Twenty	KODAGU	KODAGU	iruvadü	iruvadü	i r u v ʌ d̪ y	koda1255		12.2443	75.9161	
+26191	11_twenty	Twenty	TULU	TULU	irva	irva	i r v ʌ	tulu1258		12.8114	75.2651	
+26192	11_twenty	Twenty	TODA	TODA	evoθ	evoθ	e v o θ	toda1252		11.4184	77.0168	
+26193	11_twenty	Twenty	KOTA	KOTA	irvāde	irvāde	i r v ʌː d̪ e	kota1263		11.4978	76.9387	
 26194	11_twenty	Twenty	KURUXORORAO	KURUX_OR_ORAO	kūrī	kūrī	k uː r iː	kuru1302		24.4644	86.4657	
 26195	11_twenty	Twenty	MALTOORMALER	MALTO_OR_MALER	kōṛy-ond	kōṛy-ond	k oː ɽ j + o n̪ d̪	kuma1274		24.1217	87.2699	
 26196	11_twenty	Twenty	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	kaḍē	kaḍē	k ʌ ɖ eː	kuii1252		19.2043	83.5859	
 26197	11_twenty	Twenty	GONDI	GONDI	bīs (Aryan)	bīs	b iː s	sout2711		20.10446	80.27811	
-26198	11_twenty	Twenty	TELUGU	TELUGU	iruvai	iruvai	i r u ʋ ai	telu1262		16.4529	78.7024	
+26198	11_twenty	Twenty	TELUGU	TELUGU	iruvai	iruvai	i r u v ai	telu1262		16.4529	78.7024	
 26199	11_twenty	Twenty	BRAHUI	BRAHUI	bīst (Aryan)	bīst	b iː s t̪	brah1256		29.04	66.56	
 #
 2965	2_two	Two	TAMIL	TAMIL	iraṇḍu	iraṇḍu	i r ʌ ɳ ɖ u	tami1289		10.520219	78.825989	
@@ -1719,7 +1719,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 55118	50_water	Water	KORAVA	KORAVA	tenni	tenni	t̪ e n̪ n̪ i	yeru1240		17.3702	81.9748	
 55119	50_water	Water	KAIKADI	KAIKADI	tenni	tenni	t̪ e n̪ n̪ i	kaik1244		18.3859	76.0003	
 55120	50_water	Water	IRULA	IRULA	dani	dani	d̪ ʌ n̪ i	irul1243		12.70645	79.95209	
-55121	50_water	Water	MALAYALAM	MALAYALAM	veḷḷam	veḷḷam	ʋ e ɭ ɭ ʌ m	mala1464		9.59208	76.7651	
+55121	50_water	Water	MALAYALAM	MALAYALAM	veḷḷam	veḷḷam	v e ɭ ɭ ʌ m	mala1464		9.59208	76.7651	
 55122	50_water	Water	KANARESE	KANARESE	nīrᵘ	nīrᵘ	n̪ iː r ŭ	nucl1305		13.5878	76.1198	
 55123	50_water	Water	BADAGA	BADAGA	niru	niru	n̪ i r u	bada1257		11.3094	76.5974	
 55124	50_water	Water	KODAGU	KODAGU	nīr	nīr	n̪ iː r	koda1255		12.2443	75.9161	
@@ -1740,10 +1740,10 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 28351	16_we	We	KORAVA	KORAVA	nāga	nāga	n̪ ʌː g ʌ	yeru1240		17.3702	81.9748	
 28352	16_we	We	KAIKADI	KAIKADI	nāmb (In.)	nāmb	n̪ ʌː m b	kaik1244		18.3859	76.0003	
 28353	16_we	We	KAIKADI	KAIKADI	nāṅg (Ex.)	nāṅg	n̪ ʌː ŋ g	kaik1244		18.3859	76.0003	
-28354	16_we	We	IRULA	IRULA	navu	navu	n̪ ʌ ʋ u	irul1243		12.70645	79.95209	
+28354	16_we	We	IRULA	IRULA	navu	navu	n̪ ʌ v u	irul1243		12.70645	79.95209	
 28355	16_we	We	MALAYALAM	MALAYALAM	nām (In.)	nām	n̪ ʌː m	mala1464		9.59208	76.7651	
 28356	16_we	We	MALAYALAM	MALAYALAM	ñaṅṅaḷ (Ex.)	ñaṅṅaḷ	ɲ ʌ ŋ ŋ ʌ ɭ	mala1464		9.59208	76.7651	
-28357	16_we	We	KANARESE	KANARESE	nāvu	nāvu	n̪ ʌː ʋ u	nucl1305		13.5878	76.1198	
+28357	16_we	We	KANARESE	KANARESE	nāvu	nāvu	n̪ ʌː v u	nucl1305		13.5878	76.1198	
 28358	16_we	We	BADAGA	BADAGA	aṅla (In.)	aṅla	ʌ ŋ l ʌ	bada1257		11.3094	76.5974	
 28359	16_we	We	BADAGA	BADAGA	yeṅla (Ex.)	yeṅla	j e ŋ l ʌ	bada1257		11.3094	76.5974	
 28360	16_we	We	KODAGU	KODAGU	eṅga	eṅga	e ŋ g ʌ	koda1255		12.2443	75.9161	
@@ -1757,7 +1757,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 28368	16_we	We	KURUXORORAO	KURUX_OR_ORAO	ēm (Ex.)	ēm	eː m	kuru1302		24.4644	86.4657	
 28369	16_we	We	MALTOORMALER	MALTO_OR_MALER	nām (In.)	nām	n̪ ʌː m	kuma1274		24.1217	87.2699	
 28370	16_we	We	MALTOORMALER	MALTO_OR_MALER	ēm (Ex.)	ēm	eː m	kuma1274		24.1217	87.2699	
-28371	16_we	We	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	āju (In.)	āju	ʌː dʑ u	kuii1252		19.2043	83.5859	
+28371	16_we	We	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	āju (In.)	āju	ʌː dʒ u	kuii1252		19.2043	83.5859	
 28372	16_we	We	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	āmu (Ex.)	āmu	ʌː m u	kuii1252		19.2043	83.5859	
 28373	16_we	We	KOLAMI	KOLAMI	anandun (?)	anandun	ʌ n̪ ʌ n̪ d̪ u n̪	nort2699		20.1022	78.4934	
 28374	16_we	We	GONDI	GONDI	aplō (In.)	aplō	ʌ p l oː	sout2711		20.10446	80.27811	
@@ -1802,9 +1802,9 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 22288	111_who	Who?	MALTOORMALER	MALTO_OR_MALER	nēreh	nēreh	n̪ eː r e h	kuma1274		24.1217	87.2699	
 22289	111_who	Who?	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	imbāi	imbāi	i m b aːi	kuii1252		19.2043	83.5859	
 22290	111_who	Who?	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	umbāi	umbāi	u m b aːi	kuii1252		19.2043	83.5859	
-22291	111_who	Who?	KOLAMI	KOLAMI	niveniv (?)	niveniv	n̪ i ʋ e n̪ i ʋ	nort2699		20.1022	78.4934	
+22291	111_who	Who?	KOLAMI	KOLAMI	niveniv (?)	niveniv	n̪ i v e n̪ i v	nort2699		20.1022	78.4934	
 22292	111_who	Who?	GONDI	GONDI	bōl	bōl	b oː l	sout2711		20.10446	80.27811	
-22293	111_who	Who?	TELUGU	TELUGU	yevaḍᵘ	yevaḍᵘ	j e ʋ ʌ ɖ ŭ	telu1262		16.4529	78.7024	
+22293	111_who	Who?	TELUGU	TELUGU	yevaḍᵘ	yevaḍᵘ	j e v ʌ ɖ ŭ	telu1262		16.4529	78.7024	
 22294	111_who	Who?	BRAHUI	BRAHUI	dēr	dēr	d̪ eː r	brah1256		29.04	66.56	
 #
 23074	113_why	Why?	TAMIL	TAMIL	ēṉ	ēṉ	eː n	tami1289		10.520219	78.825989	
@@ -1826,15 +1826,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 23090	113_why	Why?	BRAHUI	BRAHUI	antae	antae	ʌ n̪ t̪ ʌ e	brah1256		29.04	66.56	
 #
 9754	75_wife	Wife	TAMIL	TAMIL	peṇḍadⁱ	peṇḍadⁱ	p e ɳ ɖ ʌ d̪ ĭ	tami1289		10.520219	78.825989	
-9755	75_wife	Wife	KORAVA	KORAVA	k’uḷiši	k’uḷiši	kʱ u ɭ i ʃ i	yeru1240		17.3702	81.9748	
+9755	75_wife	Wife	KORAVA	KORAVA	k’uḷiši	k’uḷiši	kʰ u ɭ i ʃ i	yeru1240		17.3702	81.9748	
 9756	75_wife	Wife	KAIKADI	KAIKADI	kuḷiši	kuḷiši	k u ɭ i ʃ i	kaik1244		18.3859	76.0003	
 9757	75_wife	Wife	IRULA	IRULA	pondu	pondu	p o n̪ d̪ u	irul1243		12.70645	79.95209	
-9758	75_wife	Wife	MALAYALAM	MALAYALAM	b’āryyā (Aryan)	b’āryyā	bʱ ʌː r j j ʌː	mala1464		9.59208	76.7651	
+9758	75_wife	Wife	MALAYALAM	MALAYALAM	b’āryyā (Aryan)	b’āryyā	bʰ ʌː r j j ʌː	mala1464		9.59208	76.7651	
 9759	75_wife	Wife	KANARESE	KANARESE	heṇḍatⁱ	heṇḍatⁱ	h e ɳ ɖ ʌ t̪ ĭ	nucl1305		13.5878	76.1198	
 9760	75_wife	Wife	BADAGA	BADAGA	henḍaru	henḍaru	h e n̪ ɖ ʌ r u	bada1257		11.3094	76.5974	
 9761	75_wife	Wife	TULU	TULU	boḍedi	boḍedi	b o ɖ e d̪ i	tulu1258		12.8114	75.2651	
 9762	75_wife	Wife	TODA	TODA	kuigyō	kuigyō	k u i gʲ oː	toda1252		11.4184	77.0168	
-9763	75_wife	Wife	TODA	TODA	kaṭṭvodi kuꭓ	kaṭṭvodi kuꭓ	k ʌ ʈ ʈ ʋ o d̪ i + k u x	toda1252		11.4184	77.0168	
+9763	75_wife	Wife	TODA	TODA	kaṭṭvodi kuꭓ	kaṭṭvodi kuꭓ	k ʌ ʈ ʈ v o d̪ i + k u x	toda1252		11.4184	77.0168	
 9764	75_wife	Wife	KOTA	KOTA	peḍe	peḍe	p e ɖ e	kota1263		11.4978	76.9387	
 9765	75_wife	Wife	KURUXORORAO	KURUX_OR_ORAO	muhkā	muhkā	m u h k ʌː	kuru1302		24.4644	86.4657	
 9766	75_wife	Wife	MALTOORMALER	MALTO_OR_MALER	ḍāniθ	ḍāniθ	ɖ ʌː n̪ i θ	kuma1274		24.1217	87.2699	
@@ -1842,17 +1842,17 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 9768	75_wife	Wife	KOLAMI	KOLAMI	kōlāmā	kōlāmā	k oː l ʌː m ʌː	nort2699		20.1022	78.4934	
 9769	75_wife	Wife	GONDI	GONDI	mai	mai	m ai	sout2711		20.10446	80.27811	
 9770	75_wife	Wife	TELUGU	TELUGU	peṇḍlāmᵘ	peṇḍlāmᵘ	p e ɳ ɖ l ʌː m ŭ	telu1262		16.4529	78.7024	
-9771	75_wife	Wife	BRAHUI	BRAHUI	arvat	arvat	ʌ r ʋ ʌ t̪	brah1256		29.04	66.56	
+9771	75_wife	Wife	BRAHUI	BRAHUI	arvat	arvat	ʌ r v ʌ t̪	brah1256		29.04	66.56	
 #
 9339	74_woman	Woman	TAMIL	TAMIL	stirī (Aryan)	stirī	s t̪ i r iː	tami1289		10.520219	78.825989	
-9340	74_woman	Woman	KORAVA	KORAVA	vārāti	vārāti	ʋ ʌː r ʌː t̪ i	yeru1240		17.3702	81.9748	
+9340	74_woman	Woman	KORAVA	KORAVA	vārāti	vārāti	v ʌː r ʌː t̪ i	yeru1240		17.3702	81.9748	
 9341	74_woman	Woman	KAIKADI	KAIKADI	urtī	urtī	u r t̪ iː	kaik1244		18.3859	76.0003	
 9342	74_woman	Woman	IRULA	IRULA	poṇṇu	poṇṇu	p o ɳ ɳ u	irul1243		12.70645	79.95209	
 9343	74_woman	Woman	MALAYALAM	MALAYALAM	strī (Aryan)	strī	s t̪ r iː	mala1464		9.59208	76.7651	
 9344	74_woman	Woman	KANARESE	KANARESE	heṇgasᵘ	heṇgasᵘ	h e ɳ g ʌ s ŭ	nucl1305		13.5878	76.1198	
 9345	74_woman	Woman	BADAGA	BADAGA	heṇṇu	heṇṇu	h e ɳ ɳ u	bada1257		11.3094	76.5974	
 9346	74_woman	Woman	TULU	TULU	strī (Aryan)	strī	s t̪ r iː	tulu1258		12.8114	75.2651	
-9347	74_woman	Woman	TULU	TULU	poṇjavu	poṇjavu	p o ɳ dʑ ʌ ʋ u	tulu1258		12.8114	75.2651	
+9347	74_woman	Woman	TULU	TULU	poṇjavu	poṇjavu	p o ɳ dʒ ʌ v u	tulu1258		12.8114	75.2651	
 9348	74_woman	Woman	TODA	TODA	kuꭓ	kuꭓ	k u x	toda1252		11.4184	77.0168	
 9349	74_woman	Woman	KOTA	KOTA	pemmage	pemmage	p e m m ʌ g e	kota1263		11.4978	76.9387	
 9350	74_woman	Woman	KURUXORORAO	KURUX_OR_ORAO	ālī	ālī	ʌː l iː	kuru1302		24.4644	86.4657	
@@ -1883,19 +1883,19 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 24179	116_yes	Yes	KUIKANDHIORKHOND	KUI_KANDHI_OR_KHOND	a	a	ʌ	kuii1252		19.2043	83.5859	
 24180	116_yes	Yes	GONDI	GONDI	iṅgē	iṅgē	i ŋ g eː	sout2711		20.10446	80.27811	
 24181	116_yes	Yes	GONDI	GONDI	iṅgō	iṅgō	i ŋ g oː	sout2711		20.10446	80.27811	
-24182	116_yes	Yes	TELUGU	TELUGU	avunᵘ	avunᵘ	ʌ ʋ u n̪ ŭ	telu1262		16.4529	78.7024	
+24182	116_yes	Yes	TELUGU	TELUGU	avunᵘ	avunᵘ	ʌ v u n̪ ŭ	telu1262		16.4529	78.7024	
 24183	116_yes	Yes	BRAHUI	BRAHUI	hō	hō	h oː	brah1256		29.04	66.56	
 #
 30246	20_you	You	TAMIL	TAMIL	nīṅgaḷ	nīṅgaḷ	n̪ iː ŋ g ʌ ɭ	tami1289		10.520219	78.825989	
 30247	20_you	You	KORAVA	KORAVA	nīga	nīga	n̪ iː g ʌ	yeru1240		17.3702	81.9748	
 30248	20_you	You	KAIKADI	KAIKADI	nīṅg	nīṅg	n̪ iː ŋ g	kaik1244		18.3859	76.0003	
-30249	20_you	You	IRULA	IRULA	nīv	nīv	n̪ iː ʋ	irul1243		12.70645	79.95209	
+30249	20_you	You	IRULA	IRULA	nīv	nīv	n̪ iː v	irul1243		12.70645	79.95209	
 30250	20_you	You	MALAYALAM	MALAYALAM	niṅṅaḷ	niṅṅaḷ	n̪ i ŋ ŋ ʌ ɭ	mala1464		9.59208	76.7651	
-30251	20_you	You	KANARESE	KANARESE	nīvu	nīvu	n̪ iː ʋ u	nucl1305		13.5878	76.1198	
+30251	20_you	You	KANARESE	KANARESE	nīvu	nīvu	n̪ iː v u	nucl1305		13.5878	76.1198	
 30252	20_you	You	BADAGA	BADAGA	nīṅla	nīṅla	n̪ iː ŋ l ʌ	bada1257		11.3094	76.5974	
 30253	20_you	You	KODAGU	KODAGU	niṅga	niṅga	n̪ i ŋ g ʌ	koda1255		12.2443	75.9161	
 30254	20_you	You	TULU	TULU	nikuḷu	nikuḷu	n̪ i k u ɭ u	tulu1258		12.8114	75.2651	
-30255	20_you	You	TODA	TODA	nīv	nīv	n̪ iː ʋ	toda1252		11.4184	77.0168	
+30255	20_you	You	TODA	TODA	nīv	nīv	n̪ iː v	toda1252		11.4184	77.0168	
 30256	20_you	You	KOTA	KOTA	nīṅe	nīṅe	n̪ iː ŋ e	kota1263		11.4978	76.9387	
 30257	20_you	You	KURUXORORAO	KURUX_OR_ORAO	nīm	nīm	n̪ iː m	kuru1302		24.4644	86.4657	
 30258	20_you	You	MALTOORMALER	MALTO_OR_MALER	nīm	nīm	n̪ iː m	kuma1274		24.1217	87.2699	
