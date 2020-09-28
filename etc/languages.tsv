@@ -1,387 +1,385 @@
-NameInSource	Name	ISO_639-3	Glottocode	Comments
-Maingθa/Ngachang	MAINGTHA_OR_NGACHANG	acn	acha1249	
-Āhom	AHOM	aho	ahom1240	
-Aimol	AIMOL	aim	aimo1244	
-A-ka (Kå)	A_KA_KA	ahk	akha1245	
-A-kö	A_KO	ahk	akoo1247	
-Anāl	ANAL	anm	anal1239	
-Angāmi	ANGAMI	njm	anga1288	
-Āo	AO	njo	aona1235	
-Šö/K’yang	SHO_OR_KHYANG	csh	asho1236	
-Assamese	ASSAMESE	asm	assa1263	
-Rai/Jimdār	RAI_OR_JIMDAR	aph	athp1241	
-Avesta	AVESTAN	ave	aves1237	
-Eastern Hindī, Awad’ī	EASTERN_HINDI_AWADHI	awa	awad1243	
-Lolo, ˨˦Ñ^i	LOLO_NI	yix	axiy1235	
-Lolo, ˨˦Ñⁱ	LOLO_NI	yix	axiy1235	
-Lolo, ˨˦Ñi	LOLO_NI	yix	axiy1235	
-Malay	MALAY	mbf	baba1267	
-Baḍaga	BADAGA	bfq	bada1257	
-Bag’āṭī	BAGHATI	bfz	bagh1249	
-Bag’ēlī	BAGHELI	bfy	bagh1251	
-Bāhing	BAHING	bhj	bahi1252	
-Baltī	BALTI	bft	balt1258	
-Banāp’arī	BANAPHARI	bns	bana1281	
-Rūngch’ēnbūng	RUNGCHHENBUNG	bap	bant1281	
-Basque	BASQUE	eus	basq1248	
-Bengali, written	BENGALI_WRITTEN	ben	beng1280	
-South-western	SOUTH_WESTERN_BENGALI	ben	beng1280	
-B’adrawāhī	BHADRAWAHI	bhd	bhad1241	
-B’īlī	BHILI	bhb	bhil1251	
-Man	MAN	bmt	biao1256	
-Mopwa, Bilichi	MOPWA_BILICHI	kpp	bili1249	
-Gadabā	GADABA	gbj	bodo1267	
-Båṛå	BODO_OR_BARA	brx	bodo1269	Variants of Bodo/Båṛå
-Bodo	BODO_OR_BARA	brx	bodo1269	
-Bodo/Båṛå	BODO_OR_BARA	brx	bodo1269	
-Abor	ABOR	adi	bori1243	
-Brāhūī	BRAHUI	brh	brah1256	
-Braj B’āk’ā	BRAJ_BHAKHA	bra	braj1242	
-of Ḍāh-Hanū	CHILASI_OF_DAH_HANU	bkk	brok1247	
-Bundēlī	BUNDELI	bns	bund1253	
-Burušaskī	BURUSHASKI	bsk	buru1296	
-Bwè	BWE	bwe	bwek1238	
-Chāmling	RODONG_OR_CHAMLING	rab	caml1239	
-Rōdōng	RODONG_OR_CHAMLING	rab	caml1239	
-Rōdōng/Chāmling	RODONG_OR_CHAMLING	rab	caml1239	
-Cantonese	CANTONESE		cant1236	
-Wazīrī	WAZIRI	pst	cent1973	
-K’mēr	KHMER	khm	cent1989	
-Nicobarese	NICOBARESE	ncb	cent1990	
-Chairel	CHAIREL		chai1254	Not a dialect of Kadu.
-Chākmā	CHAKMA	ccp	chak1266	
-Chaměaḷī	CHAMEALI	cdh	cham1307	
-Chamba Lāhulī	CHAMBA_LAHULI	lae	cham1308	
-Cham	CHAM		cham1328	Assigned the glottocode for the Cham language
-Chāng	CHANG	nbc	chan1313	
-Ch’attīsgaṛ’ī	CHHATTISGARHI	hne	chha1249	
-Ch’ingtāng	CHHINGTANG	ctn	chhi1245	
-Chib’āli	CHIBHALI	phr	chib1247	
-Chinbōn	CHINBON	cnb	chin1478	
-Chiru	CHIRU	cdf	chir1283	
-of Chittagong	EASTERN_BENGALI_OF_CHITTAGONG	ctg	chit1275	
-Danå	DANAO	dnu	dana1252	
-Danu	DANU	dnv	danu1251	
-Dak’inī	DAKHINI	dcc	decc1239	
-Deurī-Chutiyā	DEURI_CHUTIYA	der	deor1238	
-Mopwa, Dermuha	MOPWA_DERMUHA	kpp	derm1238	
-D’īmāl	DHIMAL	dhi	dhim1246	
-Jaipuri	JAIPURI	dhd	dhun1238	
-Mišmi, Digārū	MISHMI_DIGARU	mhu	diga1241	
-Dīmā-sā	DIMA_SA	dis	dima1251	
-Ḍōgrī	DOGRI	dgo	dogr1250	
-of Drās	CHILASI_OF_DRAS	scl	dras1242	
-T’ūlung	THULUNG	duu	drun1238	
-Dūmī	DUMI	dus	dumi1241	
-Dūngmāli	DUNGMALI	raa	dung1252	
-Eastern	EASTERN_BALOCHI	bgp	east2304	
-Karenni	KARENNI	eky	east2342	
-Gurng	GURUNG	ggn	east2345	
-Gurung	GURUNG	ggn	east2345	
-Hē-Miao	HE_MIAO		east2369	
-Eastern	EASTERN_BENGALI	ben	east2744	
-En	EN	wbm	ennn1242	related to wbm
-Hallām	HALLAM	cfm	fala1243	
-Gādī	GADI	cdh	gadi1238	
-Gaṛ’wālī	GARHWALI	gbm	garh1243	
-Gārō, Āchik	GARO_ACHIK	grt	garo1247	
-Gawar-bati	GAWAR_BATI	gwt	gawa1247	
-Bräo	BRAEO	kvq	geba1237	Brè according to Glottolog
-Karenbyu	KARENBYU	kvq	geba1237	
-Gheko	GHEKO	ghk	geko1235	
-Šiṇā, Gilgitī	SHINA_GILGITI	scl	gilg1242	
-Charōtarī	CHAROTARI	guj	guja1252	
-G’isāḍī	GHISADI	guj	guja1252	
-Gujarātī, Standard	GUJARATI_STANDARD	guj	guja1252	
-Gujurī of Hazara	GUJURI_OF_HAZARA	gju	guja1253	
-Lai	LAI	cnh	haka1240	
-Bāngarū	BANGARU	bgc	hary1238	
-Vernacular Hindōstānī	VERNACULAR_HINDOSTANI	hin	hind1269	
-Western Hindī, Hindōstānī	WESTERN_HINDI_HINDOSTANI	hin	hind1269	
-P’un, Samong	PHUN_SAMONG	hpo	hpon1238	
-Hrāngk’ol	HRANGKHOL	hra	hran1239	
-Aka	AKA	hru	hrus1242	
-Āng-kū	ANG_KU	huo	huuu1240	
-Kōhistānī, Gārwī	KOHISTANI_GARWI	mvy	indu1241	
-Maiyā̃	MAIYA	mvy	indu1241	
-Inθa	INTHA	int	inth1239	
-Irula	IRULA	iru	irul1243	
-Iškāšmī, Zēbakī	ISHKASHMI_ZEBAKI	isk	ishk1246	
-Western Pahāṛī, Jaunsārī	WESTERN_PAHARI_JAUNSARI	jns	jaun1243	
-Gyårūng	GYAORUNG	jya	jiar1240	
-Juāṅg	JUANG	jun	juan1238	
-Kachch’ī	KACHCHHI	kfr	kach1277	
-Chingpå/Kachin	CHINGPA_OR_KACHIN	kac	kach1280	
-Andro	ANDRO	zkd	kadu1254	
-Kadu	KADU	zkd	kadu1254	
-Sengmai	SENGMAI	zkd	kadu1254	
-Kāgate	KAGATE	syw	kaga1252	
-Kaikāḍī	KAIKADI	kep	kaik1244	
-Kalāšā	KALASHA	kls	kala1372	
-Kanaujī	KANAUJI	bjj	kana1281	
-Kanāšī	KANASHI	xns	kana1283	
-Kāṅgrā	KANGRA	xnr	kang1280	
-Manchāṭī 	MANCHATI_OR_PATNI	mjw	karb1241	
-Manchāṭī/Paṭnī	MANCHATI_OR_PATNI	mjw	karb1241	
-Mikir	MIKIR	mjw	karb1241	
-Paṭnī	MANCHATI_OR_PATNI	mjw	karb1241	
-Kašmīrī	KASHMIRI	kas	kash1277	
-Kāṭ’iyāwāḍī	KATHIYAWADI	guj	kath1249	
-Bašgali	BASHGALI	bsh	kati1270	
-Padaung	PADAUNG	pdu	kaya1315	
-K’āling	KHALING	klr	khal1275	
-K’ami	KHAMI	cnk	kham1284	
-K’ambū	KHAMBU	kle	kham1288	
-K’āmtī	KHAMTI	kht	kham1290	
-K’āndēšī	KHANDESI	khn	khan1272	
-K’angoi	KHANGOI	nmf	khan1277	
-K’ār^awā	KHARAWA	guj	khar1282	
-K’ārawā	KHARAWA	guj	khar1282	
-K’ārᵃwā	KHARAWA	guj	khar1282	
-K’aṛiā	KHARIA	khr	khar1287	
-K’āsī, Standard	KHASI_STANDARD	kha	khas1269	
-K’ētrānī	KHETRANI	xhe	khet1238	
-Kēžāmā	KEZAMA	nkh	khez1235	
-K’a Muk	KHA_MUK	kjg	khmu1255	
-K’ōwār/Chitrālī	KHOWAR_OR_CHITRALI	khw	khow1242	
-K’ün	KHUN	kkh	khun1259	
-Lanten-Yao	LANTEN_YAO	mji	kimm1245	
-Man-lan-tiēn	MAN_LAN_TIEN	mji	kimm1245	
-Man-ta-pan	MAN_TA_PAN	mji	kimm1245	
-Kanaurī	KANAURI	kfk	kinn1249	
-Kašṭawāṛī	KASHTAWARI	kas	kish1245	
-Kiū̃ṭ’alī	KIUTHALI	bfz	kiun1241	
-Kuḷuī	KULUI	kfx	kllu1238	
-Kōch	KOCH	kdq	koch1250	
-Koḍagu	KODAGU	kfa	koda1255	
-Tipurā	TIPURA	trp	kokb1239	
-Kolhreng	KOLHRENG	kmm	kolh1240	
-Kōm	KOM	kmm	komi1270	
-Kōṅkaṇī	KONKANI	knn	konk1267	
-Tableng	TABLENG	nbe	kony1248	
-Korean	KOREAN	kor	kore1280	
-Kūrkū	KURKU	kfq	kork1243	
-Kōta	KOTA	kfe	kota1263	
-Kui/Kand’ī/Khond	KUI_KANDHI_OR_KHOND	kxu	kuii1252	
-Kūlung	KULUNG	kle	kulu1253	
-Central Pahāṛī, Kumaunī	CENTRAL_PAHARI_KUMAUNI	kfy	kuma1273	
-Malto/Maler	MALTO_OR_MALER	kmj	kuma1274	
-Kurunꭓ	KURUX_OR_ORAO	kru	kuru1302	
-Kurunꭓ/Orāō̃	KURUX_OR_ORAO	kru	kuru1302	
-Orāō̃	KURUX_OR_ORAO	kru	kuru1302	
-Ladak’ī	LADAKHI	lbj	lada1244	
-Lo-lo p’o	LOLO_PHO	lgh	lagh1245	
-Lahu	LAHU	lhu	lahu1253	
-Mo-s’o	MO_SHO	lhu	lahu1253	
-Lab’ānī of Berar	LABHANI_OF_BERAR	lmn	lamb1269	
-Hirōi-Lamgāng	HIROI_LAMGANG	lmk	lamk1238	
-Langrong	LANGRONG	aim	lang1312	
-Lao	LAO	lao	laoo1244	
-Lāṛī	LARI	snd	lari1254	
-Laši/Lechi	LASHI_OR_LECHI	lsi	lash1243	
-Róng/Lepcha	RONG_OR_LEPCHA	lep	lepc1244	
-Kwoireng	KWOIRENG	njn	lian1251	
-Limbū	LIMBU	lif	limb1266	
-Lis’å 	LISHAO_YAOYIN	lis	lisu1250	One entry with 2-3 One.txt:275b
-Lis’å/Yåyin	LISHAO_YAOYIN	lis	lisu1250	
-Lisu	LISU	lis	lisu1250	
-Yåyin	LISHAO_YAOYIN	lis	lisu1250	
-Hlōtā	HLOTA	njh	loth1237	
-Hloke	HLOKE	loy	lowa1242	
-Lušēi	LUSHEI	lus	lush1249	
-LušēI	LUSHEI	lus	lush1249	
-Lü	LU	khb	luuu1242	
-Magahī	MAGAHI	mag	maga1260	
-Šǒdōchī	SHODOCHI	bfz	maha1287	
-Bihārī, Mait’ilī	BIHARI_MAITHILI	mai	mait1250	
-Malayāḷam	MALAYALAM	mal	mala1464	
-Mālvī	MALVI	mup	malv1243	
-Mālvī 	MALVI	mup	malv1243	
-Manchu	MANCHU	mnc	manc1252	
-Maṇḍěāḷī	MANDEALI	mjl	mand1409	
-Gyåmi	GYAOMI	cmn	mand1415	https://en.wikipedia.org/wiki/Gyami
-Mandarin	MANDARIN	cmn	mand1415	
-Meit’ei	MEITHEI	mni	mani1292	
-Sin-hmå Mäpauk	SIN_HMAO_MAEPAUK	kxf	manu1255	Red Karen
-Sopvomā	SOPVOMA	nbi	maon1238	
-Marāṭ’ī, Dēšī	MARATHI_DESHI	mar	mara1378	
-Marām	MARAM	nma	mara1379	
-Maring	MARING	nng	mari1416	
-Arakanese	ARAKANESE	rmz	marm1234	
-Maru	MARU	mhx	maru1249	
-Rājast’ānī, Mārwāṛi	RAJASTHANI_MARWARI	rwr	marw1260	
-Mēwātī	MEWATI	mtr	mewa1249	
-Mījū	MIJU	mxj	miju1243	
-Miri	MIRI	mrg	misi1242	
-Salôn	SALON	mwt	moke1242	
-A Mǒk	A_MOK	mqt	mokk1243	
-Mongolian	MONGOLIAN	mon	mong1331	
-Talaing, written	TALAING_WRITTEN	mnw	monn1252	
-Mōšāng	MOSHANG	nst	mosa1240	
-Mrū	MRU	mro	mruu1242	
-Mūltānī	MULTANI	skr	mult1243	
-Chinbōk	CHINBOK	mwq	munc1235	
-Yådwin	YAWDWIN	mwq	munc1235	
-Muṇḍārī	MUNDARI	unr	mund1320	
-Munjānī/Mungī	MUNJANI_OR_MUNGI	mnj	munj1244	
-Mànyàk	MANYAK	mvm	muya1239	
-Nāch’erēng	NACHHERENG	ncd	nach1240	
-Eastern Pahāṛī/K’as-kurā	EASTERN_PAHARI_OR_KHAS_KURA	npi	nepa1254	
-Nēwārī	NEWARI	new	newa1246	
-Paḍ’ī /Pahrī/Pahī	PADI_PAHRI_OR_PAHI	new	newa1246	
-Nīmāḍī	NIMADI	noe	nima1243	
-Nīmāḍī 	NIMADI	noe	nima1243	
-Namsangiā	NAMSANGIA	njb	noct1238	
-Paṣ̌tō, of Peshawar	PASHTO_OF_PESHAWAR	pbu	nort2646	
-B’ojpurī, Northern	BHOJPURI_NORTHERN	bho	nort2656	
-Sěmang	SEMANG		nort2682	Group of languages
-Kōlāmī	KOLAMI	kfb	nort2699	
-Rengmā	RENGMA	nnl	nort2725	
-Bālālī	BALALI	lbr	nort2727	
-Lōhōrông	LOHORONG	lbr	nort2727	
-Lōhōrōng	LOHORONG	lbr	nort2727	
-Wa	WA	wbm	nucl1290	
-Turkī	TURKI	tur	nucl1301	
-Kanarese	KANARESE	kan	nucl1305	
-Burmese, written	BURMESE_WRITTEN	mya	nucl1310	
-Japanese	JAPANESE	jpn	nucl1643	
-Nung	NUNG	nun	nung1282	
-Daflā	DAFLA	njz	nyis1236	Pretty confusing names here
-Old Persian	OLD_PERSIAN	peo	oldp1254	
-Oṛiyā	ORIYA	ory	oriy1255	
-Ōrmuṛī	ORMURI	oru	ormu1247	
-Pāḍarī	PADARI	bhd	pada1256	
-Pahlavī	PAHLAVI	pal	pahl1241	
-Miao-tsü (Hmōng)	MIAO_TSU_(HMONG)	pha	pahn1237	
-Paṅgwāḷī	PANGWALI	pgg	pang1282	
-Pañjābī, written	PANJABI_WRITTEN	pan	panj1256	
-Pānk’ū	PANKHU	pkh	pank1249	
-Taungθa	TAUNGTHA	blk	paok1235	Not available in Glottolog
-Taungθu	TAUNGTHU	blk	paok1235	
-P’adāng	PHADANG	nmf	phad1238	
-Tamlu	TAMLU	nph	phom1236	
-Pwo, literary	PWO_LITERARY	kjt	phra1235	
-Pǒgulī	POGULI	kas	pogu1238	
-Pōṭ’wārī	POTHWARI	phr	poth1238	
-Pōwād’ī	POWADHI	pwr	powa1246	
-Wasĩ-veri/Veron	WASI_VERI_OR_VERON	prn	pras1239	
-Wasĩ-veru/Veron	WASI_VERI_OR_VERON	prn	pras1239	
-Punch’ī	PUNCHHI	phr	punc1239	
-of Purik	BHOTIA_OF_PURIK	prx	puri1258	
-Pūrūm	PURUM	pub	puru1266	
-Pwo Maulmein	PWO_MAULMEIN	kjp	pwoe1235	
-Pwo Bassein	PWO_BASSEIN	pwo	pwow1235	
-Pyen /Pyin	PYEN_OR_PYIN	pyy	pyen1239	
-Pyen/Pyin	PYEN_OR_PYIN	pyy	pyen1239	
-Rāmbanī	RAMBANI		ramb1240	Sirajic according to Glottolog
-Rangkas	RANGKAS	rgk	rang1266	
-Yin/Riang	YIN_RIANG	ril	rian1261	
-Kabui	KABUI	nbu	rong1266	
-Darāng	DARANG	pce	ruch1235	
-Palaung	PALAUNG	rbb	ruma1248	
-Nagpuriā	NAGPURIA	sck	sadr1248	
-Ainu	AINU		sakh1245	
-Sāngpāng	SANGPANG	rav	samp1249	
-T’ukumi	THUKUMI	nsa	sang1321	
-Sanskrit	SANSKRIT	san	sans1269	
-K’erwārī, Santālī	KHERWARI_SANTHALI	sat	sant1410	
-Sarīkolī	SARIKOLI	srh	sari1246	
-Prakrit	PRAKRIT	psu	saur1252	
-Sakai	SAKAI		seno1278	Group of languages
-Sgå, literary	SGA_LITERARY	ksw	sgaw1245	
-Šàn	SHAN	shn	shan1277	
-Šarpa	SHARPA	xsr	sher1255	
-Chilāsi	CHILASI	scl	shin1264	
-Šiɣnī	SHIYNI	sgh	shug1248	
-B’ōṭiā, Tibetan, written	BHOTIA_TIBETAN_WRITTEN	sip	sikk1242	
-Dänjongkä	DANJONGKA	sip	sikk1242	
-Sind’ī, Vichōlī	SINDHI_VICHOLI	snd	sind1272	
-Singp’o	SINGPHO	sgp	sing1264	
-Singhalese	SINGHALESE	sin	sinh1246	
-Ḍōḍā Sirājī	DODA_SIRAJI		sira1264	Sirajic according to Glottolog
-Siripuriā	SIRIPURIA	ben	siri1268	
-Sirmaurī	SIRMAURI	srx	sirm1239	
-Siyin	SIYIN	csy	siyi1240	
-Sǒn	SON	wbm	sonn1238	
-Savara	SAVARA	srb	sora1254	
-Balōchī, Makrānī	BALOCHI_MAKRANI	bcc	sout2642	
-of Kandahar	PASHTO_OF_KANDAHAR	pbt	sout2649	
-B’ojpurī, Southern	BHOJPURI_SOUTHERN	bho	sout2661	
-Hindkī	HINDKI	hnd	sout2668	
-Pašai, Western	PASHAI_WESTERN	psh	sout2671	
-Pašai, Eastern	PASHAI_EASTERN	psi	sout2672	
-Gōṇḍi	GONDI	ggo	sout2711	Many dialects in Gondi
-of Spiti	LADAKHI_OF_SPITI	spt	spit1240	
-Arabic	ARABIC	arb	stan1318	
-Semā	SEMA	nsm	sumi1235	
-Sunwār	SUNWAR	suz	sunw1242	
-of Cachar	EASTERN_BENGALI_OF_CACHAR	syl	sylh1242	
-Tai-loi	TAI_LOI	tlq	tail1246	
-Tamil̤	TAMIL	tam	tami1289	
-Si-hia	SI_HIA	txg	tang1334	Hsi-hsia alternate name
-Tengsa	TENGSA	nst	tase1235	
-Taungyo	TAUNGYO	tco	taun1248	
-Tavoyan	TAVOYAN	tvn	tavo1242	
-Tàkpà	TAKPA	twm	tawa1289	
-Telugu	TELUGU	tel	telu1262	
-T’ādo	THADO	tcz	thad1238	
-Siamese, written	SIAMESE_WRITTEN	tha	thai1261	
-T’aḷī	THALI	skr	thal1241	
-K’oirāo	KHOIRAO	nki	than1255	
-T’āmī	THAMI	thf	than1259	
-Thayetmyo Chin	THAYETMYO_CHIN	csh	thay1247	
-Lālung	LALUNG	lax	tiwa1253	
-Toda	TODA	tcx	toda1252	
-Tōrwālī	TORWALI	trw	torw1241	
-Ṭōṭō	TOTO	txo	toto1302	
-Tuḷu	TULU	tcy	tulu1258	
-Tāngk’ul	TANGKHUL	nmf	ukhr1238	
-Nāgpurī	NAGPURI	vah	varh1239	
-Annamese	VIETNAMESE	vie	viet1252	
-Wai-alā	WAI_ALA	wbk	waig1243	
-Waꭓī	WAXI	wbl	wakh1245	
-Wāling	WALING	wly	wali1261	
-Chaurāsya	CHAURASYA	wme	wamb1257	
-Banparā	BANPARA	nnp	wanc1238	
-Wār	WAR	aml	warj1242	
-Vāyu/Hāyu	VAYU_OR_HAYU	vay	wayu1241	
-Persian	PERSIAN	pes	west2369	
-Lahndā, of Shahpur	LAHNDA_OF_SHAHPUR	pnb	west2386	
-Murmi	MURMI	tdg	west2415	
-Mãgarī	MAGARI	mrd	west2418	
-Wewaw	WEWAW	wea	wewa1238	
-Lāmbich’ōng	LAMBICHHONG	ybh	yakk1236	Retired ISO code. Same as Yakkha
-Yāk’ā	YAKHA	ybh	yakk1236	
-Korava	KORAVA	yeu	yeru1240	
-Yüdɣa	YUDYA	ydg	yidg1240	
-Yachumi	YACHUMI	yim	yimc1240	
-Yeinbå	YEINBA	kvu	yinb1236	
-Yintalä	YINTALAE	kvy	yint1235	
-Szi/Atsi	SZI_OR_ATSI	atb	zaiw1241	
-Zayein	ZAVEIN	kxk	zaye1235	
-Ēmpēo	EMPEO	nzm	zeme1240	
-Banjōgi	BANJOGI	czt	zotu1235	
-D’annī	DHANNI	hno		Dialect of Northern Hindko. http://uu.diva-portal.org/smash/get/diva2:1248101/FULLTEXT01.pdf
-of Salt Range	TINAULI_OF_SALT_RANGE	hno		Could not find in Glottolog
-Tināulī	TINAULI	hno		
-Old Meit’ei	OLD_MEITHEI	omp		
-A-hi	A_HI			
-B’ōṭiā, Tibetan, spoken	BHOTIA_TIBETAN_SPOKEN			Written version exists
-Bengali, spoken	BENGALI_SPOKEN			Written version exists
-Burmese, spoken	BURMESE_SPOKEN			Written version exists
-Gypsy, European	GYPSY_EUROPEAN			Many Roma versions exist
-Gypsy, Syrian	GYPSY_SYRIAN			
-Haurpà	HAURPA			
-Katuṟṟ	KATURR			
-Manö	MANOE			
-Maran	MARAN			
-Me-gyå	ME_GYAO			
-Möng Lwe	MOENG_LWE			
-Pañjābī, spoken	PANJABI_SPOKEN			Written version exists
-Pē-Miao	PE_MIAO			
-Sakupà	SAKUPA			
-Saukpà	SAUKPA			
-Sgå, spoken	SGA_SPOKEN			
-Siamese, spoken	SIAMESE_SPOKEN			Written version exists
-T’auchū	THAUCHU			
-Talaing, spoken	TALAING_SPOKEN			Written version exists
+NameInSource	Name	Order	FamilyInSource	SubGroup	NumberInSource	ISO639P3code	Glottocode
+Japanese	JAPANESE	1				jpn	nucl1643
+Ainu	AINU	2					sakh1245
+Korean	KOREAN	3				kor	kore1280
+Turkī	TURKI	4				tur	nucl1301
+Manchu	MANCHU	5				mnc	manc1252
+Mongolian	MONGOLIAN	6				mon	mong1331
+Sakupà	SAKUPA	7					
+Saukpà	SAKUPA	8					
+Basque	BASQUE	9				eus	basq1248
+Burušaskī	BURUSHASKI	10			850.	bsk	buru1296
+Malay	MALAY	11	Austronesian		2.	mbf	baba1267
+Cham	CHAM	12	Austronesian				cham1328
+Salôn	SALON	13	Austronesian		1.	mwt	moke1242
+K’mēr	KHMER	14	Austro-Asiatic	Mon-Khmer		khm	cent1989
+Talaing, written	TALAING_WRITTEN	15	Austro-Asiatic	Mon-Khmer	3.	mnw	monn1252
+Talaing, spoken	TALAING_SPOKEN	16	Austro-Asiatic	Mon-Khmer			
+Sakai	SAKAI	17	Austro-Asiatic	Sakai-Semang			seno1278
+Sěmang	SEMANG	18	Austro-Asiatic	Sakai-Semang			nort2682
+Palaung	PALAUNG	19	Austro-Asiatic	Palaung-Wa	4.	rbb	ruma1248
+Katuṟṟ	KATURR	20	Austro-Asiatic	Palaung-Wa			
+Darāng	DARANG	21	Austro-Asiatic	Palaung-Wa		pce	ruch1235
+Wa	WA	22	Austro-Asiatic	Palaung-Wa	5.	wbm	nucl1290
+Sǒn	SON	23	Austro-Asiatic	Palaung-Wa		wbm	sonn1238
+En	EN	24	Austro-Asiatic	Palaung-Wa		wbm	ennn1242
+Tai-loi	TAI_LOI	25	Austro-Asiatic	Palaung-Wa		tlq	tail1246
+A Mǒk	A_MOK	26	Austro-Asiatic	Palaung-Wa		mqt	mokk1243
+Āng-kū	ANG_KU	27	Austro-Asiatic	Palaung-Wa		huo	huuu1240
+Möng Lwe	MOENG_LWE	28	Austro-Asiatic	Palaung-Wa			
+Danå	DANAO	29	Austro-Asiatic	Palaung-Wa		dnu	dana1252
+Yin/Riang	YIN_RIANG	30	Austro-Asiatic	Palaung-Wa		ril	rian1261
+K’a Muk	KHA_MUK	31	Austro-Asiatic	Palaung-Wa		kjg	khmu1255
+K’āsī, Standard	KHASI_STANDARD	32	Austro-Asiatic	Khaasii	8.	kha	khas1269
+Wār	WAR	33	Austro-Asiatic	Khaasii	12.	aml	warj1242
+Nicobarese	NICOBARESE	34	Austro-Asiatic	Nicobarese	13.	ncb	cent1990
+K’erwārī, Santālī	KHERWARI_SANTHALI	35	Austro-Asiatic	Munda	15.	sat	sant1410
+Muṇḍārī	MUNDARI	36	Austro-Asiatic	Munda	16.	unr	mund1320
+Kūrkū	KURKU	37	Austro-Asiatic	Munda	26.	kfq	kork1243
+K’aṛiā	KHARIA	38	Austro-Asiatic	Munda	27.	khr	khar1287
+Juāṅg	JUANG	39	Austro-Asiatic	Munda	28.	jun	juan1238
+Savara	SAVARA	40	Austro-Asiatic	Munda	29.	srb	sora1254
+Gadabā	GADABA	41	Austro-Asiatic	Munda	30.	gbj	bodo1267
+Mandarin	MANDARIN	42	Sinitic	Tai-Chinese		cmn	mand1415
+Cantonese	CANTONESE	43	Sinitic	Tai-Chinese			cant1236
+Gyåmi	GYAOMI	44	Sinitic	Tai-Chinese		cmn	mand1415
+Siamese, written	SIAMESE_WRITTEN	45	Sinitic	Tai-Chinese	45.	tha	thai1261
+Siamese, spoken	SIAMESE_SPOKEN	46	Sinitic	Tai-Chinese			
+Lao	LAO	47	Sinitic	Tai-Chinese		lao	laoo1244
+Lü	LU	48	Sinitic	Tai-Chinese	46.	khb	luuu1242
+K’ün	KHUN	49	Sinitic	Tai-Chinese	47.	kkh	khun1259
+Šàn	SHAN	50	Sinitic	Tai-Chinese	49.	shn	shan1277
+Āhom	AHOM	51	Sinitic	Tai-Chinese	51.	aho	ahom1240
+K’āmtī	KHAMTI	52	Sinitic	Tai-Chinese	52.	kht	kham1290
+Annamese	VIETNAMESE	53	Sinitic	Tai-Chinese		vie	viet1252
+Pwo, literary	PWO_LITERARY	54	Karen		35.	kjt	phra1235
+Pwo Bassein	PWO_BASSEIN	55	Karen			pwo	pwow1235
+Pwo Maulmein	PWO_MAULMEIN	56	Karen			kjp	pwoe1235
+Taungθu	TAUNGTHU	57	Karen		36.	blk	paok1235
+Sgå, literary	SGA_LITERARY	58	Karen		34.	ksw	sgaw1245
+Sgå, spoken	SGA_SPOKEN	59	Karen				
+Bwè	BWE	60	Karen		32.	bwe	bwek1238
+Wewaw	WEWAW	61	Karen		41a.	wea	wewa1238
+Karenbyu	KARENBYU	62	Karen		33.	kvq	geba1237
+Bräo	BRAEO	63	Karen			kvq	geba1237
+Karenni	KARENNI	64	Karen		40.	eky	east2342
+Yintalä	YINTALAE	65	Karen			kvy	yint1235
+Sin-hmå Mäpauk	SIN_HMAO_MAEPAUK	66	Karen			kxf	manu1255
+Gheko	GHEKO	67	Karen		39.	ghk	geko1235
+Padaung	PADAUNG	68	Karen		37.	pdu	kaya1315
+Yeinbå	YEINBA	69	Karen		38.	kvu	yinb1236
+Manö	MANOE	70	Karen				
+Zayein	ZAVEIN	71	Karen		41.	kxk	zaye1235
+Mopwa, Bilichi	MOPWA_BILICHI	72	Karen			kpp	bili1249
+Mopwa, Dermuha	MOPWA_DERMUHA	73	Karen			kpp	derm1238
+Miao-tsü (Hmōng)	MIAO_TSU_(HMONG)	74	Man		43.	pha	pahn1237
+Hē-Miao	HE_MIAO	75	Man				east2369
+Pē-Miao	PE_MIAO	76	Man				
+Man	MAN	77	Man			bmt	biao1256
+Lanten-Yao	LANTEN_YAO	78	Man		42.	mji	kimm1245
+Man-lan-tiēn	MAN_LAN_TIEN	79	Man			mji	kimm1245
+Man-ta-pan	MAN_TA_PAN	80	Man			mji	kimm1245
+Manchāṭī 	MANCHATI_OR_PATNI	81	Tibeto-Burman	Himalayan	72.	mjw	karb1241
+Manchāṭī/Paṭnī	MANCHATI_OR_PATNI	82	Tibeto-Burman	Himalayan	72.	mjw	karb1241
+Paṭnī	MANCHATI_OR_PATNI	83	Tibeto-Burman	Himalayan	72.	mjw	karb1241
+Chamba Lāhulī	CHAMBA_LAHULI	84	Tibeto-Burman	Himalayan	73.	lae	cham1308
+Kanāšī	KANASHI	85	Tibeto-Burman	Himalayan	76.	xns	kana1283
+Kanaurī	KANAURI	86	Tibeto-Burman	Himalayan	77.	kfk	kinn1249
+Rangkas	RANGKAS	87	Tibeto-Burman	Himalayan	78.	rgk	rang1266
+D’īmāl	DHIMAL	88	Tibeto-Burman	Himalayan	83.	dhi	dhim1246
+T’āmī	THAMI	89	Tibeto-Burman	Himalayan	84.	thf	than1259
+Limbū	LIMBU	90	Tibeto-Burman	Himalayan	85.	lif	limb1266
+Yāk’ā	YAKHA	91	Tibeto-Burman	Himalayan	86.	ybh	yakk1236
+K’ambū	KHAMBU	92	Tibeto-Burman	Himalayan	87.	kle	kham1288
+Bāhing	BAHING	93	Tibeto-Burman	Himalayan	90.	bhj	bahi1252
+Bālālī	BALALI	94	Tibeto-Burman	Himalayan	91.	lbr	nort2727
+Sāngpāng	SANGPANG	95	Tibeto-Burman	Himalayan	92.	rav	samp1249
+Lōhōrông	LOHORONG	96	Tibeto-Burman	Himalayan	93.	lbr	nort2727
+Lōhōrōng	LOHORONG	97	Tibeto-Burman	Himalayan	93.	lbr	nort2727
+Lāmbich’ōng	LAMBICHHONG	98	Tibeto-Burman	Himalayan	94.	ybh	yakk1236
+Wāling	WALING	99	Tibeto-Burman	Himalayan	95.	wly	wali1261
+Ch’ingtāng	CHHINGTANG	100	Tibeto-Burman	Himalayan	96.	ctn	chhi1245
+Rūngch’ēnbūng	RUNGCHHENBUNG	101	Tibeto-Burman	Himalayan	97.	bap	bant1281
+Dūngmāli	DUNGMALI	102	Tibeto-Burman	Himalayan	98.	raa	dung1252
+Rōdōng	RODONG_OR_CHAMLING	103	Tibeto-Burman	Himalayan	99.	rab	caml1239
+Chāmling	RODONG_OR_CHAMLING	104	Tibeto-Burman	Himalayan	99.	rab	caml1239
+Rōdōng/Chāmling	RODONG_OR_CHAMLING	105	Tibeto-Burman	Himalayan	99.	rab	caml1239
+Nāch’erēng	NACHHERENG	106	Tibeto-Burman	Himalayan	100.	ncd	nach1240
+Kūlung	KULUNG	107	Tibeto-Burman	Himalayan	101.	kle	kulu1253
+T’ūlung	THULUNG	108	Tibeto-Burman	Himalayan	102.	duu	drun1238
+Chaurāsya	CHAURASYA	109	Tibeto-Burman	Himalayan	103.	wme	wamb1257
+K’āling	KHALING	110	Tibeto-Burman	Himalayan	104.	klr	khal1275
+Dūmī	DUMI	111	Tibeto-Burman	Himalayan	105.	dus	dumi1241
+Rai/Jimdār	RAI_OR_JIMDAR	112	Tibeto-Burman	Himalayan	88.	aph	athp1241
+Vāyu/Hāyu	VAYU_OR_HAYU	113	Tibeto-Burman	Himalayan	106.	vay	wayu1241
+Gurng	GURUNG	114	Tibeto-Burman	Himalayan	111.	ggn	east2345
+Gurung	GURUNG	115	Tibeto-Burman	Himalayan	111.	ggn	east2345
+Murmi	MURMI	116	Tibeto-Burman	Himalayan	112.	tdg	west2415
+Sunwār	SUNWAR	117	Tibeto-Burman	Himalayan	113.	suz	sunw1242
+Mãgarī	MAGARI	118	Tibeto-Burman	Himalayan	114.	mrd	west2418
+Nēwārī	NEWARI	119	Tibeto-Burman	Himalayan	116.	new	newa1246
+Paḍ’ī /Pahrī/Pahī	PADI_PAHRI_OR_PAHI	120	Tibeto-Burman	Himalayan	117.	new	newa1246
+Róng/Lepcha	RONG_OR_LEPCHA	121	Tibeto-Burman	Himalayan	118.	lep	lepc1244
+Ṭōṭō	TOTO	122	Tibeto-Burman	Himalayan	121.	txo	toto1302
+Aka	AKA	123	Tibeto-Burman	Himalayan	122.	hru	hrus1242
+Abor	ABOR	124	Tibeto-Burman	Himalayan	123.	adi	bori1243
+Miri	MIRI	125	Tibeto-Burman	Himalayan	124.	mrg	misi1242
+Daflā	DAFLA	126	Tibeto-Burman	Himalayan	125.	njz	nyis1236
+Mišmi, Digārū	MISHMI_DIGARU	127	Tibeto-Burman	Himalayan	126.	mhu	diga1241
+Mījū	MIJU	128	Tibeto-Burman	Himalayan		mxj	miju1243
+Si-hia	SI_HIA	129	Tibeto-Burman	Lolo-Mosho		txg	tang1334
+Lolo, ˨˦Ñi	LOLO_NI	130	Tibeto-Burman	Lolo-Mosho	273.	yix	axiy1235
+Lolo, ˨˦Ñⁱ	LOLO_NI	131	Tibeto-Burman	Lolo-Mosho	273.	yix	axiy1235
+Lolo, ˨˦Ñ^i	LOLO_NI	132	Tibeto-Burman	Lolo-Mosho	273.	yix	axiy1235
+A-hi	A_HI	133	Tibeto-Burman	Lolo-Mosho			
+Lo-lo p’o	LOLO_PHO	134	Tibeto-Burman	Lolo-Mosho		lgh	lagh1245
+A-ka (Kå)	A_KA_KA	135	Tibeto-Burman	Lolo-Mosho	276.	ahk	akha1245
+A-kö	A_KO	136	Tibeto-Burman	Lolo-Mosho	277a.	ahk	akoo1247
+Lisu	LISU	137	Tibeto-Burman	Lolo-Mosho	275.	lis	lisu1250
+Lis’å 	LISHAO_YAOYIN	138	Tibeto-Burman	Lolo-Mosho		lis	lisu1250
+Yåyin	LISHAO_YAOYIN	139	Tibeto-Burman	Lolo-Mosho		lis	lisu1250
+Lis’å/Yåyin	LISHAO_YAOYIN	140	Tibeto-Burman	Lolo-Mosho		lis	lisu1250
+Mo-s’o	MO_SHO	141	Tibeto-Burman	Lolo-Mosho	274a.	lhu	lahu1253
+Lahu	LAHU	142	Tibeto-Burman	Lolo-Mosho	274b.	lhu	lahu1253
+Pyen /Pyin	PYEN_OR_PYIN	143	Tibeto-Burman	Lolo-Mosho	277a.	pyy	pyen1239
+Pyen/Pyin	PYEN_OR_PYIN	144	Tibeto-Burman	Lolo-Mosho	277a.	pyy	pyen1239
+Nung	NUNG	145	Tibeto-Burman	Lolo-Mosho	277a.	nun	nung1282
+Gyårūng	GYAORUNG	146	Tibeto-Burman	Tibetan		jya	jiar1240
+Mànyàk	MANYAK	147	Tibeto-Burman	Tibetan		mvm	muya1239
+T’auchū	THAUCHU	148	Tibeto-Burman	Tibetan			
+Tàkpà	TAKPA	149	Tibeto-Burman	Tibetan		twm	tawa1289
+Haurpà	HAURPA	150	Tibeto-Burman	Tibetan			
+B’ōṭiā, Tibetan, written	BHOTIA_TIBETAN_WRITTEN	151	Tibeto-Burman	Tibetan	58.	sip	sikk1242
+B’ōṭiā, Tibetan, spoken	BHOTIA_TIBETAN_SPOKEN	152	Tibeto-Burman	Tibetan			
+Baltī	BALTI	153	Tibeto-Burman	Tibetan	59.	bft	balt1258
+of Purik	BHOTIA_OF_PURIK	154	Tibeto-Burman	Tibetan	60.	prx	puri1258
+Ladak’ī	LADAKHI	155	Tibeto-Burman	Tibetan	61.	lbj	lada1244
+of Spiti	LADAKHI_OF_SPITI	156	Tibeto-Burman	Tibetan	63.	spt	spit1240
+Kāgate	KAGATE	157	Tibeto-Burman	Tibetan	70.	syw	kaga1252
+Šarpa	SHARPA	158	Tibeto-Burman	Tibetan	67.	xsr	sher1255
+Dänjongkä	DANJONGKA	159	Tibeto-Burman	Tibetan	68.	sip	sikk1242
+Hloke	HLOKE	160	Tibeto-Burman	Tibetan	69.	loy	lowa1242
+Bodo	BODO_OR_BARA	161	Tibeto-Burman	Bodo	128.	brx	bodo1269
+Båṛå	BODO_OR_BARA	162	Tibeto-Burman	Bodo	128.	brx	bodo1269
+Bodo/Båṛå	BODO_OR_BARA	163	Tibeto-Burman	Bodo	128.	brx	bodo1269
+Lālung	LALUNG	164	Tibeto-Burman	Bodo	130.	lax	tiwa1253
+Dīmā-sā	DIMA_SA	165	Tibeto-Burman	Bodo	131.	dis	dima1251
+Gārō, Āchik	GARO_ACHIK	166	Tibeto-Burman	Bodo	135.	grt	garo1247
+Kōch	KOCH	167	Tibeto-Burman	Bodo	142.	kdq	koch1250
+Tipurā	TIPURA	168	Tibeto-Burman	Bodo	151.	trp	kokb1239
+Deurī-Chutiyā	DEURI_CHUTIYA	169	Tibeto-Burman	Bodo	152.	der	deor1238
+Angāmi	ANGAMI	170	Tibeto-Burman	Naga	154.	njm	anga1288
+Semā	SEMA	171	Tibeto-Burman	Naga	159.	nsm	sumi1235
+Rengmā	RENGMA	172	Tibeto-Burman	Naga	162.	nnl	nort2725
+Kēžāmā	KEZAMA	173	Tibeto-Burman	Naga	165.	nkh	khez1235
+Sopvomā	SOPVOMA	174	Tibeto-Burman	Naga	194.	nbi	maon1238
+Āo	AO	175	Tibeto-Burman	Naga	166.	njo	aona1235
+Hlōtā	HLOTA	176	Tibeto-Burman	Naga	169.	njh	loth1237
+Tengsa	TENGSA	177	Tibeto-Burman	Naga	170.	nst	tase1235
+T’ukumi	THUKUMI	178	Tibeto-Burman	Naga	171.	nsa	sang1321
+Yachumi	YACHUMI	179	Tibeto-Burman	Naga	172.	yim	yimc1240
+Tableng	TABLENG	180	Tibeto-Burman	Naga	173.	nbe	kony1248
+Tamlu	TAMLU	181	Tibeto-Burman	Naga	174.	nph	phom1236
+Banparā	BANPARA	182	Tibeto-Burman	Naga	175.	nnp	wanc1238
+Namsangiā	NAMSANGIA	183	Tibeto-Burman	Naga	178.	njb	noct1238
+Chāng	CHANG	184	Tibeto-Burman	Naga	179.	nbc	chan1313
+Mōšāng	MOSHANG	185	Tibeto-Burman	Naga	181.	nst	mosa1240
+Ēmpēo	EMPEO	186	Tibeto-Burman	Naga	183.	nzm	zeme1240
+Kabui	KABUI	187	Tibeto-Burman	Naga	187.	nbu	rong1266
+K’oirāo	KHOIRAO	188	Tibeto-Burman	Naga	188.	nki	than1255
+Mikir	MIKIR	189	Tibeto-Burman	Naga	189.	mjw	karb1241
+Marām	MARAM	190	Tibeto-Burman	Naga	195.	nma	mara1379
+Kwoireng	KWOIRENG	191	Tibeto-Burman	Naga	197.	njn	lian1251
+Tāngk’ul	TANGKHUL	192	Tibeto-Burman	Naga	199.	nmf	ukhr1238
+P’adāng	PHADANG	193	Tibeto-Burman	Naga	200.	nmf	phad1238
+K’angoi	KHANGOI	194	Tibeto-Burman	Naga	201.	nmf	khan1277
+Maring	MARING	195	Tibeto-Burman	Naga	202.	nng	mari1416
+Chingpå/Kachin	CHINGPA_OR_KACHIN	196	Tibeto-Burman	Kachin	204.	kac	kach1280
+Maran	MARAN	197	Tibeto-Burman	Kachin			
+Singp’o	SINGPHO	198	Tibeto-Burman	Kachin	205.	sgp	sing1264
+Old Meit’ei	OLD_MEITHEI	199	Tibeto-Burman	Kuki-Chin		omp	
+Meit’ei	MEITHEI	200	Tibeto-Burman	Kuki-Chin	206.	mni	mani1292
+T’ādo	THADO	201	Tibeto-Burman	Kuki-Chin	207.	tcz	thad1238
+Siyin	SIYIN	202	Tibeto-Burman	Kuki-Chin	213.	csy	siyi1240
+Lai	LAI	203	Tibeto-Burman	Kuki-Chin	219.	cnh	haka1240
+LušēI	LUSHEI	204	Tibeto-Burman	Kuki-Chin	224.	lus	lush1249
+Lušēi	LUSHEI	205	Tibeto-Burman	Kuki-Chin	224.	lus	lush1249
+Banjōgi	BANJOGI	206	Tibeto-Burman	Kuki-Chin	227.	czt	zotu1235
+Pānk’ū	PANKHU	207	Tibeto-Burman	Kuki-Chin	228.	pkh	pank1249
+Hrāngk’ol	HRANGKHOL	208	Tibeto-Burman	Kuki-Chin	229.	hra	hran1239
+Hallām	HALLAM	209	Tibeto-Burman	Kuki-Chin	232.	cfm	fala1243
+Langrong	LANGRONG	210	Tibeto-Burman	Kuki-Chin	236.	aim	lang1312
+Aimol	AIMOL	211	Tibeto-Burman	Kuki-Chin	237.	aim	aimo1244
+Chiru	CHIRU	212	Tibeto-Burman	Kuki-Chin	238.	cdf	chir1283
+Kolhreng	KOLHRENG	213	Tibeto-Burman	Kuki-Chin	239.	kmm	kolh1240
+Kōm	KOM	214	Tibeto-Burman	Kuki-Chin	240.	kmm	komi1270
+Pūrūm	PURUM	215	Tibeto-Burman	Kuki-Chin	246.	pub	puru1266
+Anāl	ANAL	216	Tibeto-Burman	Kuki-Chin	247.	anm	anal1239
+Hirōi-Lamgāng	HIROI_LAMGANG	217	Tibeto-Burman	Kuki-Chin	248.	lmk	lamk1238
+Taungθa	TAUNGTHA	218	Tibeto-Burman	Kuki-Chin	255.	blk	paok1235
+Chinbōk	CHINBOK	219	Tibeto-Burman	Kuki-Chin	252.	mwq	munc1235
+Yådwin	YAWDWIN	220	Tibeto-Burman	Kuki-Chin		mwq	munc1235
+Chinbōn	CHINBON	221	Tibeto-Burman	Kuki-Chin	254.	cnb	chin1478
+Thayetmyo Chin	THAYETMYO_CHIN	222	Tibeto-Burman	Kuki-Chin		csh	thay1247
+Šö/K’yang	SHO_OR_KHYANG	223	Tibeto-Burman	Kuki-Chin	256.	csh	asho1236
+K’ami	KHAMI	224	Tibeto-Burman	Kuki-Chin	257.	cnk	kham1284
+Andro	ANDRO	225	Tibeto-Burman	Lui	279.	zkd	kadu1254
+Sengmai	SENGMAI	226	Tibeto-Burman	Lui	279.	zkd	kadu1254
+Chairel	CHAIREL	227	Tibeto-Burman	Lui	280.		chai1254
+Kadu	KADU	228	Tibeto-Burman	Lui	281.	zkd	kadu1254
+Szi/Atsi	SZI_OR_ATSI	229	Tibeto-Burman	Burma	261.	atb	zaiw1241
+Laši/Lechi	LASHI_OR_LECHI	230	Tibeto-Burman	Burma	262.	lsi	lash1243
+Maru	MARU	231	Tibeto-Burman	Burma	263.	mhx	maru1249
+Maingθa/Ngachang	MAINGTHA_OR_NGACHANG	232	Tibeto-Burman	Burma	260.	acn	acha1249
+P’un, Samong	PHUN_SAMONG	233	Tibeto-Burman	Burma	272a.	hpo	hpon1238
+Me-gyå	ME_GYAO	234	Tibeto-Burman	Burma			
+Mrū	MRU	235	Tibeto-Burman	Burma	264.	mro	mruu1242
+Burmese, written	BURMESE_WRITTEN	236	Tibeto-Burman	Burma	265.	mya	nucl1310
+Burmese, spoken	BURMESE_SPOKEN	237	Tibeto-Burman	Burma			
+Arakanese	ARAKANESE	238	Tibeto-Burman	Burma	266.	rmz	marm1234
+Taungyo	TAUNGYO	239	Tibeto-Burman	Burma	267.	tco	taun1248
+Danu	DANU	240	Tibeto-Burman	Burma	269.	dnv	danu1251
+Inθa	INTHA	241	Tibeto-Burman	Burma	268.	int	inth1239
+Tavoyan	TAVOYAN	242	Tibeto-Burman	Burma	270.	tvn	tavo1242
+Tamil̤	TAMIL	243	Dravidian		285.	tam	tami1289
+Korava	KORAVA	244	Dravidian		287.	yeu	yeru1240
+Kaikāḍī	KAIKADI	245	Dravidian		291.	kep	kaik1244
+Irula	IRULA	246	Dravidian		289.	iru	irul1243
+Malayāḷam	MALAYALAM	247	Dravidian		294.	mal	mala1464
+Kanarese	KANARESE	248	Dravidian		297.	kan	nucl1305
+Baḍaga	BADAGA	249	Dravidian		298.	bfq	bada1257
+Koḍagu	KODAGU	250	Dravidian		301.	kfa	koda1255
+Tuḷu	TULU	251	Dravidian		302.	tcy	tulu1258
+Toda	TODA	252	Dravidian		303.	tcx	toda1252
+Kōta	KOTA	253	Dravidian		304.	kfe	kota1263
+Kurunꭓ	KURUX_OR_ORAO	254	Dravidian		305.	kru	kuru1302
+Orāō̃	KURUX_OR_ORAO	255	Dravidian		305.	kru	kuru1302
+Kurunꭓ/Orāō̃	KURUX_OR_ORAO	256	Dravidian		305.	kru	kuru1302
+Malto/Maler	MALTO_OR_MALER	257	Dravidian		307.	kmj	kuma1274
+Kui/Kand’ī/Khond	KUI_KANDHI_OR_KHOND	258	Dravidian		308.	kxu	kuii1252
+Kōlāmī	KOLAMI	259	Dravidian		310.	kfb	nort2699
+Gōṇḍi	GONDI	260	Dravidian		314.	ggo	sout2711
+Telugu	TELUGU	261	Dravidian		320.	tel	telu1262
+Brāhūī	BRAHUI	262	Dravidian		328.	brh	brah1256
+Arabic	ARABIC	263	Semitic			arb	stan1318
+Old Persian	OLD_PERSIAN	264	Indo-European Family, Aryan sub-family	Eranian		peo	oldp1254
+Avesta	AVESTAN	265	Indo-European Family, Aryan sub-family	Eranian		ave	aves1237
+Pahlavī	PAHLAVI	266	Indo-European Family, Aryan sub-family	Eranian		pal	pahl1241
+Persian	PERSIAN	267	Indo-European Family, Aryan sub-family	Eranian	331.	pes	west2369
+Paṣ̌tō, of Peshawar	PASHTO_OF_PESHAWAR	268	Indo-European Family, Aryan sub-family	Eranian	339.	pbu	nort2646
+Wazīrī	WAZIRI	269	Indo-European Family, Aryan sub-family	Eranian	353.	pst	cent1973
+of Kandahar	PASHTO_OF_KANDAHAR	270	Indo-European Family, Aryan sub-family	Eranian	354.	pbt	sout2649
+Ōrmuṛī	ORMURI	271	Indo-European Family, Aryan sub-family	Eranian	360.	oru	ormu1247
+Balōchī, Makrānī	BALOCHI_MAKRANI	272	Indo-European Family, Aryan sub-family	Eranian	363.	bcc	sout2642
+Eastern	EASTERN_BALOCHI	273	Indo-European Family, Aryan sub-family	Eranian	366.	bgp	east2304
+Waꭓī	WAXI	274	Indo-European Family, Aryan sub-family	Eranian	370.	wbl	wakh1245
+Šiɣnī	SHIYNI	275	Indo-European Family, Aryan sub-family	Eranian	371.	sgh	shug1248
+Sarīkolī	SARIKOLI	276	Indo-European Family, Aryan sub-family	Eranian	372.	srh	sari1246
+Iškāšmī, Zēbakī	ISHKASHMI_ZEBAKI	277	Indo-European Family, Aryan sub-family	Eranian	376.	isk	ishk1246
+Munjānī/Mungī	MUNJANI_OR_MUNGI	278	Indo-European Family, Aryan sub-family	Eranian	377.	mnj	munj1244
+Yüdɣa	YUDYA	279	Indo-European Family, Aryan sub-family	Eranian	378.	ydg	yidg1240
+Bašgali	BASHGALI	280	Indo-European Family, Aryan sub-family	Dardic or Pisacha	379.	bsh	kati1270
+Wai-alā	WAI_ALA	281	Indo-European Family, Aryan sub-family	Dardic or Pisacha	380.	wbk	waig1243
+Wasĩ-veru/Veron	WASI_VERI_OR_VERON	282	Indo-European Family, Aryan sub-family	Dardic or Pisacha	381.	prn	pras1239
+Wasĩ-veri/Veron	WASI_VERI_OR_VERON	283	Indo-European Family, Aryan sub-family	Dardic or Pisacha	381.	prn	pras1239
+Kalāšā	KALASHA	284	Indo-European Family, Aryan sub-family	Dardic or Pisacha	383.	kls	kala1372
+Gawar-bati	GAWAR_BATI	285	Indo-European Family, Aryan sub-family	Dardic or Pisacha	384.	gwt	gawa1247
+Pašai, Eastern	PASHAI_EASTERN	286	Indo-European Family, Aryan sub-family	Dardic or Pisacha	386.	psi	sout2672
+Pašai, Western	PASHAI_WESTERN	287	Indo-European Family, Aryan sub-family	Dardic or Pisacha	387.	psh	sout2671
+K’ōwār/Chitrālī	KHOWAR_OR_CHITRALI	288	Indo-European Family, Aryan sub-family	Dardic or Pisacha	390.	khw	khow1242
+Šiṇā, Gilgitī	SHINA_GILGITI	289	Indo-European Family, Aryan sub-family	Dardic or Pisacha	392.	scl	gilg1242
+Chilāsi	CHILASI	290	Indo-European Family, Aryan sub-family	Dardic or Pisacha	394.	scl	shin1264
+of Drās	CHILASI_OF_DRAS	291	Indo-European Family, Aryan sub-family	Dardic or Pisacha	396.	scl	dras1242
+of Ḍāh-Hanū	CHILASI_OF_DAH_HANU	292	Indo-European Family, Aryan sub-family	Dardic or Pisacha	397.	bkk	brok1247
+Kašmīrī	KASHMIRI	293	Indo-European Family, Aryan sub-family	Dardic or Pisacha	400.	kas	kash1277
+Kašṭawāṛī	KASHTAWARI	294	Indo-European Family, Aryan sub-family	Dardic or Pisacha	401.	kas	kish1245
+Pǒgulī	POGULI	295	Indo-European Family, Aryan sub-family	Dardic or Pisacha	403.	kas	pogu1238
+Ḍōḍā Sirājī	DODA_SIRAJI	296	Indo-European Family, Aryan sub-family	Dardic or Pisacha	404.		sira1264
+Rāmbanī	RAMBANI	297	Indo-European Family, Aryan sub-family	Dardic or Pisacha	405.		ramb1240
+Kōhistānī, Gārwī	KOHISTANI_GARWI	298	Indo-European Family, Aryan sub-family	Dardic or Pisacha	408.	mvy	indu1241
+Tōrwālī	TORWALI	299	Indo-European Family, Aryan sub-family	Dardic or Pisacha	409.	trw	torw1241
+Maiyā̃	MAIYA	300	Indo-European Family, Aryan sub-family	Dardic or Pisacha	411.	mvy	indu1241
+Gypsy, European	GYPSY_EUROPEAN	301	Indo-European Family, Aryan sub-family	Dardic or Pisacha			
+Gypsy, Syrian	GYPSY_SYRIAN	302	Indo-European Family, Aryan sub-family	Dardic or Pisacha			
+Sanskrit	SANSKRIT	303	Indo-European Family, Aryan sub-family	Indo-Aryan		san	sans1269
+Prakrit	PRAKRIT	304	Indo-European Family, Aryan sub-family	Indo-Aryan		psu	saur1252
+K’ētrānī	KHETRANI	305	Indo-European Family, Aryan sub-family	Indo-Aryan	430.	xhe	khet1238
+Lahndā, of Shahpur	LAHNDA_OF_SHAHPUR	306	Indo-European Family, Aryan sub-family	Indo-Aryan	417.	pnb	west2386
+Mūltānī	MULTANI	307	Indo-European Family, Aryan sub-family	Indo-Aryan	426.	skr	mult1243
+Hindkī	HINDKI	308	Indo-European Family, Aryan sub-family	Indo-Aryan	428.	hnd	sout2668
+T’aḷī	THALI	309	Indo-European Family, Aryan sub-family	Indo-Aryan	432.	skr	thal1241
+D’annī	DHANNI	310	Indo-European Family, Aryan sub-family	Indo-Aryan	433.	hno	
+Tināulī	TINAULI	311	Indo-European Family, Aryan sub-family	Indo-Aryan	435.	hno	
+of Salt Range	TINAULI_OF_SALT_RANGE	312	Indo-European Family, Aryan sub-family	Indo-Aryan	442.	hno	
+Pōṭ’wārī	POTHWARI	313	Indo-European Family, Aryan sub-family	Indo-Aryan	437.	phr	poth1238
+Chib’āli	CHIBHALI	314	Indo-European Family, Aryan sub-family	Indo-Aryan	440.	phr	chib1247
+Punch’ī	PUNCHHI	315	Indo-European Family, Aryan sub-family	Indo-Aryan	441.	phr	punc1239
+Sind’ī, Vichōlī	SINDHI_VICHOLI	316	Indo-European Family, Aryan sub-family	Indo-Aryan	446.	snd	sind1272
+Lāṛī	LARI	317	Indo-European Family, Aryan sub-family	Indo-Aryan	450.	snd	lari1254
+Kachch’ī	KACHCHHI	318	Indo-European Family, Aryan sub-family	Indo-Aryan	452.	kfr	kach1277
+Marāṭ’ī, Dēšī	MARATHI_DESHI	319	Indo-European Family, Aryan sub-family	Indo-Aryan	456.	mar	mara1378
+Nāgpurī	NAGPURI	320	Indo-European Family, Aryan sub-family	Indo-Aryan	478.	vah	varh1239
+Kōṅkaṇī	KONKANI	321	Indo-European Family, Aryan sub-family	Indo-Aryan	494.	knn	konk1267
+Singhalese	SINGHALESE	322	Indo-European Family, Aryan sub-family	Indo-Aryan	499.	sin	sinh1246
+Oṛiyā	ORIYA	323	Indo-European Family, Aryan sub-family	Indo-Aryan	502.	ory	oriy1255
+Bihārī, Mait’ilī	BIHARI_MAITHILI	324	Indo-European Family, Aryan sub-family	Indo-Aryan	507.	mai	mait1250
+Magahī	MAGAHI	325	Indo-European Family, Aryan sub-family	Indo-Aryan	516.	mag	maga1260
+B’ojpurī, Northern	BHOJPURI_NORTHERN	326	Indo-European Family, Aryan sub-family	Indo-Aryan	521.	bho	nort2656
+B’ojpurī, Southern	BHOJPURI_SOUTHERN	327	Indo-European Family, Aryan sub-family	Indo-Aryan	520.	bho	sout2661
+Nagpuriā	NAGPURIA	328	Indo-European Family, Aryan sub-family	Indo-Aryan	526.	sck	sadr1248
+Bengali, written	BENGALI_WRITTEN	329	Indo-European Family, Aryan sub-family	Indo-Aryan	530.	ben	beng1280
+Bengali, spoken	BENGALI_SPOKEN	330	Indo-European Family, Aryan sub-family	Indo-Aryan			
+South-western	SOUTH_WESTERN_BENGALI	331	Indo-European Family, Aryan sub-family	Indo-Aryan	537.	ben	beng1280
+Siripuriā	SIRIPURIA	332	Indo-European Family, Aryan sub-family	Indo-Aryan	541.	ben	siri1268
+Eastern	EASTERN_BALOCHI	333	Indo-European Family, Aryan sub-family	Indo-Aryan	546.	bgp	east2304
+of Cachar	EASTERN_BENGALI_OF_CACHAR	334	Indo-European Family, Aryan sub-family	Indo-Aryan	548.	syl	sylh1242
+of Chittagong	EASTERN_BENGALI_OF_CHITTAGONG	335	Indo-European Family, Aryan sub-family	Indo-Aryan	550.	ctg	chit1275
+Chākmā	CHAKMA	336	Indo-European Family, Aryan sub-family	Indo-Aryan	551.	ccp	chak1266
+Assamese	ASSAMESE	337	Indo-European Family, Aryan sub-family	Indo-Aryan	553.	asm	assa1263
+Eastern Hindī, Awad’ī	EASTERN_HINDI_AWADHI	338	Indo-European Family, Aryan sub-family	Indo-Aryan	558.	awa	awad1243
+Bag’ēlī	BAGHELI	339	Indo-European Family, Aryan sub-family	Indo-Aryan	560.	bfy	bagh1251
+Ch’attīsgaṛ’ī	CHHATTISGARHI	340	Indo-European Family, Aryan sub-family	Indo-Aryan	573.	hne	chha1249
+Western Hindī, Hindōstānī	WESTERN_HINDI_HINDOSTANI	341	Indo-European Family, Aryan sub-family	Indo-Aryan	582.	hin	hind1269
+Vernacular Hindōstānī	VERNACULAR_HINDOSTANI	342	Indo-European Family, Aryan sub-family	Indo-Aryan	583.	hin	hind1269
+Dak’inī	DAKHINI	343	Indo-European Family, Aryan sub-family	Indo-Aryan	587.	dcc	decc1239
+Bāngarū	BANGARU	344	Indo-European Family, Aryan sub-family	Indo-Aryan	589.	bgc	hary1238
+Braj B’āk’ā	BRAJ_BHAKHA	345	Indo-European Family, Aryan sub-family	Indo-Aryan	593.	bra	braj1242
+Kanaujī	KANAUJI	346	Indo-European Family, Aryan sub-family	Indo-Aryan	605.	bjj	kana1281
+Bundēlī	BUNDELI	347	Indo-European Family, Aryan sub-family	Indo-Aryan	611.	bns	bund1253
+Banāp’arī	BANAPHARI	348	Indo-European Family, Aryan sub-family	Indo-Aryan	616.	bns	bana1281
+Pañjābī, written	PANJABI_WRITTEN	349	Indo-European Family, Aryan sub-family	Indo-Aryan	633.	pan	panj1256
+Pañjābī, spoken	PANJABI_SPOKEN	350	Indo-European Family, Aryan sub-family	Indo-Aryan			
+Pōwād’ī	POWADHI	351	Indo-European Family, Aryan sub-family	Indo-Aryan	639.	pwr	powa1246
+Ḍōgrī	DOGRI	352	Indo-European Family, Aryan sub-family	Indo-Aryan	648.	dgo	dogr1250
+Kāṅgrā	KANGRA	353	Indo-European Family, Aryan sub-family	Indo-Aryan	650.	xnr	kang1280
+Gujarātī, Standard	GUJARATI_STANDARD	354	Indo-European Family, Aryan sub-family	Indo-Aryan	653.	guj	guja1252
+Charōtarī	CHAROTARI	355	Indo-European Family, Aryan sub-family	Indo-Aryan	661.	guj	guja1252
+Kāṭ’iyāwāḍī	KATHIYAWADI	356	Indo-European Family, Aryan sub-family	Indo-Aryan	666.	guj	kath1249
+K’ārawā	KHARAWA	357	Indo-European Family, Aryan sub-family	Indo-Aryan	673.	guj	khar1282
+K’ār^awā	KHARAWA	358	Indo-European Family, Aryan sub-family	Indo-Aryan	673.	guj	khar1282
+K’ārᵃwā	KHARAWA	359	Indo-European Family, Aryan sub-family	Indo-Aryan	673.	guj	khar1282
+G’isāḍī	GHISADI	360	Indo-European Family, Aryan sub-family	Indo-Aryan	676.	guj	guja1252
+Rājast’ānī, Mārwāṛi	RAJASTHANI_MARWARI	361	Indo-European Family, Aryan sub-family	Indo-Aryan	713.	rwr	marw1260
+Jaipuri	JAIPURI	362	Indo-European Family, Aryan sub-family	Indo-Aryan	742.	dhd	dhun1238
+Mēwātī	MEWATI	363	Indo-European Family, Aryan sub-family	Indo-Aryan	755.	mtr	mewa1249
+Gujurī of Hazara	GUJURI_OF_HAZARA	364	Indo-European Family, Aryan sub-family	Indo-Aryan	777.	gju	guja1253
+Mālvī	MALVI	365	Indo-European Family, Aryan sub-family	Indo-Aryan	761.	mup	malv1243
+Nīmāḍī	NIMADI	366	Indo-European Family, Aryan sub-family	Indo-Aryan	770.	noe	nima1243
+Lab’ānī of Berar	LABHANI_OF_BERAR	367	Indo-European Family, Aryan sub-family	Indo-Aryan	771.	lmn	lamb1269
+K’āndēšī	KHANDESI	368	Indo-European Family, Aryan sub-family	Indo-Aryan	708.	khn	khan1272
+B’īlī	BHILI	369	Indo-European Family, Aryan sub-family	Indo-Aryan	678.	bhb	bhil1251
+Eastern Pahāṛī/K’as-kurā	EASTERN_PAHARI_OR_KHAS_KURA	370	Indo-European Family, Aryan sub-family	Indo-Aryan	782.	npi	nepa1254
+Central Pahāṛī, Kumaunī	CENTRAL_PAHARI_KUMAUNI	371	Indo-European Family, Aryan sub-family	Indo-Aryan	785.	kfy	kuma1273
+Gaṛ’wālī	GARHWALI	372	Indo-European Family, Aryan sub-family	Indo-Aryan	805.	gbm	garh1243
+Western Pahāṛī, Jaunsārī	WESTERN_PAHARI_JAUNSARI	373	Indo-European Family, Aryan sub-family	Indo-Aryan	815.	jns	jaun1243
+Sirmaurī	SIRMAURI	374	Indo-European Family, Aryan sub-family	Indo-Aryan	816.	srx	sirm1239
+Bag’āṭī	BAGHATI	375	Indo-European Family, Aryan sub-family	Indo-Aryan	820.	bfz	bagh1249
+Kiū̃ṭ’alī	KIUTHALI	376	Indo-European Family, Aryan sub-family	Indo-Aryan	822.	bfz	kiun1241
+Šǒdōchī	SHODOCHI	377	Indo-European Family, Aryan sub-family	Indo-Aryan	830.	bfz	maha1287
+Kuḷuī	KULUI	378	Indo-European Family, Aryan sub-family	Indo-Aryan	833.	kfx	kllu1238
+Maṇḍěāḷī	MANDEALI	379	Indo-European Family, Aryan sub-family	Indo-Aryan	837.	mjl	mand1409
+Chaměaḷī	CHAMEALI	380	Indo-European Family, Aryan sub-family	Indo-Aryan	842.	cdh	cham1307
+Gādī	GADI	381	Indo-European Family, Aryan sub-family	Indo-Aryan	843.	cdh	gadi1238
+Paṅgwāḷī	PANGWALI	382	Indo-European Family, Aryan sub-family	Indo-Aryan	845.	pgg	pang1282
+B’adrawāhī	BHADRAWAHI	383	Indo-European Family, Aryan sub-family	Indo-Aryan	847.	bhd	bhad1241
+Pāḍarī	PADARI	384	Indo-European Family, Aryan sub-family	Indo-Aryan	849.	bhd	pada1256

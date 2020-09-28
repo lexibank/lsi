@@ -61,9 +61,10 @@ def run(args):
             stats = collections.Counter()
             for grapheme in inv:
                 try:
-                    stats.update([clts_phoible.resolve_grapheme(grapheme).__class__.__name__])
+                    sound = clts_phoible.resolve_grapheme(grapheme)
                 except KeyError as e:
-                    print(e)  # FIXME: We shouldn't have to discard so many segments here!
+                    sound = clts.bipa[grapheme]
+                stats.update([sound.__class__.__name__])
             phoible_inventories_per_glottocode[gc] = (lid, stats)
             break
 
@@ -118,5 +119,3 @@ def run(args):
                         phoible_v)
                     print(colored(text, 'red' if v < asjp_v or v > phoible_v else 'green'))
             print('')
-
-

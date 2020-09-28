@@ -17,31 +17,31 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/lsi",
-            "dc:created": "1509400"
+            "dc:created": "534b6eb"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "eWAVE-3.0-5-gfee56bdef1"
+            "dc:created": "v4.2.1"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-110-g9a9f279"
+            "dc:created": "v2.4.0-rc.1"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.6.9"
+            "dc:description": "3.5.2"
         },
         {
             "dc:title": "python-packages",
@@ -159,7 +159,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 363,
+            "dc:extent": 362,
             "tableSchema": {
                 "columns": [
                     {
@@ -219,6 +219,22 @@
                     {
                         "datatype": "string",
                         "name": "NameInSource"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "NumberInSource"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Order"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "FamilyInSource"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SubGroup"
                     }
                 ],
                 "primaryKey": [

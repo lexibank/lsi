@@ -17,21 +17,21 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-![Glottolog: 94%](https://img.shields.io/badge/Glottolog-94%25-green.svg "Glottolog: 94%")
+![Glottolog: 95%](https://img.shields.io/badge/Glottolog-95%25-green.svg "Glottolog: 95%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![BIPA: 98%](https://img.shields.io/badge/BIPA-98%25-green.svg "BIPA: 98%")
+![CLTS SoundClass: 98%](https://img.shields.io/badge/CLTS%20SoundClass-98%25-green.svg "CLTS SoundClass: 98%")
 
-- **Varieties:** 363
+- **Varieties:** 362
 - **Concepts:** 168
 - **Lexemes:** 60,533
 - **Sources:** 0
 - **Synonymy:** 1.14
 - **Invalid lexemes:** 0
-- **Tokens:** 364,236
-- **Segments:** 170 (0 BIPA errors, 0 CTLS sound class errors, 170 CLTS modified)
-- **Inventory size (avg):** 42.30
+- **Tokens:** 364,240
+- **Segments:** 174 (4 BIPA errors, 4 CTLS sound class errors, 170 CLTS modified)
+- **Inventory size (avg):** 42.35
 
 ## Possible Improvements:
 
