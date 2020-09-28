@@ -1,65 +1,65 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,PageNumber
-1_one,One,,,2-3
-2_two,Two,,,4-5
-3_three,Three,,,6-7
-4_four,Four,,,8-9
-5_five,Five,,,10-11
-6_six,Six,,,12-13
-7_seven,Seven,,,14-15
-8_eight,Eight,,,16-17
-9_nine,Nine,,,18-19
-10_ten,Ten,,,20-21
-11_twenty,Twenty,,,22-23
-12_fifty,Fifty,,,24-25
-13_hundred,Hundred,,,26-27
-14_i,I,,,28-29
-15_my,My,,,30-31
-16_we,We,,,32-33
-17_our,Our,,,34-35
-18_thou,Thou,,,36-37
-19_thy,Thy,,,38-39
-20_you,You,,,40-41
-21_your,Your,,,42-43
-22_he,He,,,44-45
-23_his,His,,,46-47
-24_they,They,,,48-49
-25_their,Their,,,50-51
-26_hand,Hand,,,52-53
-27_foot,Foot,,,54-55
-28_nose,Nose,,,56-57
-29_eye,Eye,,,58-59
-30_mouth,Mouth,,,60-61
-31_tooth,Tooth,,,62-63
-32_ear,Ear,,,64-65
-33_hair,Hair,,,66-67
-34_head,Head,,,68-69
-35_tongue,Tongue,,,70-71
-36_belly,Belly,,,72-73
-37_back,Back,,,74-75
-38_iron,Iron,,,76-77
-39_gold,Gold,,,78-79
-40_silver,Silver,,,80-81
-41_slave,Slave,,,82-83
-42_cultivator,Cultivator,,,84-85
-43_shepherd,Shepherd,,,86-87
-44_god,God,,,88-89
-45_devil,Devil,,,90-91
-46_sun,Sun,,,92-93
-47_moon,Moon,,,94-95
-48_star,Star,,,96-97
-49_fire,Fire,,,98-99
-50_water,Water,,,100-101
-51_house,House,,,102-103
-52_horse,Horse,,,104-105
-53_ass,Ass,,,106-107
-54_camel,Camel,,,108-109
-55_cow,Cow,,,110-111
-56_dog,Dog,,,112-113
-57_cat,Cat,,,114-115
-58_bird,Bird,,,116-117
-59_cock,Cock,,,118-119
-60_duck,Duck,,,120-121
-61_father,Father,,,122-123
+1_one,One,1493,ONE,2-3
+2_two,Two,1498,TWO,4-5
+3_three,Three,492,THREE,6-7
+4_four,Four,1500,FOUR,8-9
+5_five,Five,493,FIVE,10-11
+6_six,Six,1703,SIX,12-13
+7_seven,Seven,1704,SEVEN,14-15
+8_eight,Eight,1705,EIGHT,16-17
+9_nine,Nine,1483,NINE,18-19
+10_ten,Ten,1515,TEN,20-21
+11_twenty,Twenty,1710,TWENTY,22-23
+12_fifty,Fifty,1717,FIFTY,24-25
+13_hundred,Hundred,1634,HUNDRED,26-27
+14_i,I,1209,I,28-29
+15_my,My,2090,MY,30-31
+16_we,We,1212,WE,32-33
+17_our,Our,780,OUR,34-35
+18_thou,Thou,1215,THOU,36-37
+19_thy,Thy,732,YOUR (SINGULAR),38-39
+20_you,You,1213,YOU,40-41
+21_your,Your,2274,YOUR (PLURAL),42-43
+22_he,He,2642,HE OR SHE,44-45
+23_his,His,2092,HIS OR HER,46-47
+24_they,They,817,THEY,48-49
+25_their,Their,2400,THEIR,50-51
+26_hand,Hand,1277,HAND,52-53
+27_foot,Foot,1301,FOOT,54-55
+28_nose,Nose,1221,NOSE,56-57
+29_eye,Eye,1248,EYE,58-59
+30_mouth,Mouth,674,MOUTH,60-61
+31_tooth,Tooth,1380,TOOTH,62-63
+32_ear,Ear,1247,EAR,64-65
+33_hair,Hair,1040,HAIR,66-67
+34_head,Head,1256,HEAD,68-69
+35_tongue,Tongue,1205,TONGUE,70-71
+36_belly,Belly,1251,BELLY,72-73
+37_back,Back,1291,BACK,74-75
+38_iron,Iron,621,IRON,76-77
+39_gold,Gold,1369,GOLD,78-79
+40_silver,Silver,759,SILVER,80-81
+41_slave,Slave,812,SLAVE,82-83
+42_cultivator,Cultivator,979,FARMER,84-85
+43_shepherd,Shepherd,2544,SHEPHERD,86-87
+44_god,God,3231,DEITY,88-89
+45_devil,Devil,1973,DEMON,90-91
+46_sun,Sun,1343,SUN,92-93
+47_moon,Moon,1313,MOON,94-95
+48_star,Star,1430,STAR,96-97
+49_fire,Fire,221,FIRE,98-99
+50_water,Water,948,WATER,100-101
+51_house,House,1252,HOUSE,102-103
+52_horse,Horse,615,HORSE,104-105
+53_ass,Ass,1862,DONKEY,106-107
+54_camel,Camel,1871,CAMEL,108-109
+55_cow,Cow,3044,BOVINE,110-111
+56_dog,Dog,2009,DOG,112-113
+57_cat,Cat,1208,CAT,114-115
+58_bird,Bird,937,BIRD,116-117
+59_cock,Cock,1511,ROOSTER,118-119
+60_duck,Duck,1360,DUCK,120-121
+61_father,Father,1217,FATHER,122-123
 62_ofafather,Of a Father,,,124-125
 63_toafather,To a Father,,,126-127
 64_fromafather,From a Father,,,128-129
@@ -68,62 +68,62 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,PageNumber
 67_offathers,Of Fathers,,,134-135
 68_tofathers,To Fathers,,,136-137
 69_fromfathers,From Fathers,,,138-139
-70_mother,Mother,,,140-141
-71_brother,Brother,,,142-143
-72_sister,Sister,,,144-145
-73_man,Man,,,146-147
-74_woman,Woman,,,148-149
-75_wife,Wife,,,150-151
-76_child,Child,,,152-153
-77_son,Son,,,154-155
-78_daughter,Daughter,,,156-157
+70_mother,Mother,1216,MOTHER,140-141
+71_brother,Brother,1262,BROTHER,142-143
+72_sister,Sister,1263,SISTER,144-145
+73_man,Man,683,PERSON,146-147
+74_woman,Woman,962,WOMAN,148-149
+75_wife,Wife,1199,WIFE,150-151
+76_child,Child,1304,CHILD (YOUNG HUMAN),152-153
+77_son,Son,1620,SON,154-155
+78_daughter,Daughter,1357,DAUGHTER,156-157
 79_daughters,Daughters,,,158-159
-80_horsemale,Horse (male),,,160-161
-81_mare,Mare,,,162-163
+80_horsemale,Horse (male),936,STALLION,160-161
+81_mare,Mare,938,MARE,162-163
 82_horses,Horses,,,164-165
 83_mares,Mares,,,166-167
-84_bull,Bull,,,168-169
-85_cow,Cow,,,170-171
+84_bull,Bull,1008,BULL,168-169
+85_cow,Cow,1007,COW,170-171
 86_bulls,Bulls,,,172-173
 87_cows,Cows,,,174-175
-88_dogmale,Dog (male),,,176-177
-89_bitch,Bitch,,,178-179
+88_dogmale,Dog (male),2480,MALE DOG,176-177
+89_bitch,Bitch,2481,FEMALE DOG,178-179
 90_dogs,Dogs,,,180-181
 91_bitches,Bitches,,,182-183
-92_hegoat,He goat,,,184-185
-93_femalegoat,Female goat,,,186-187
+92_hegoat,He goat,2475,MALE GOAT,184-185
+93_femalegoat,Female goat,2476,FEMALE GOAT,186-187
 94_goats,Goats,,,188-189
 95_maledeer,Male deer,,,190-191
 96_femaledeer,Female deer,,,192-193
-97_deer,Deer,,,194-195
+97_deer,Deer,1936,DEER,194-195
 98_goodman,Good man,,,196-197
 99_goodmen,Good men,,,198-199
 100_goodwoman,Good woman,,,200-201
 101_goodwomen,Good women,,,202-203
 102_badboy,Bad boy,,,204-205
 103_badgirl,Bad girl,,,206-207
-104_high,High,,,208-209
-105_up,Up,,,210-211
-106_down,Down,,,212-213
-107_near,Near,,,214-215
-108_far,Far,,,216-217
-109_before,Before,,,218-219
-110_behind,Behind,,,220-221
-111_who,Who?,,,222-223
-112_what,What?,,,224-225
-113_why,Why?,,,226-227
-114_and,And,,,228-229
+104_high,High,1265,HIGH,208-209
+105_up,Up,1591,UP,210-211
+106_down,Down,1326,DOWN,212-213
+107_near,Near,1942,NEAR,214-215
+108_far,Far,1406,FAR,216-217
+109_before,Before,1882,BEFORE,218-219
+110_behind,Behind,1686,BEHIND,220-221
+111_who,Who?,1235,WHO,222-223
+112_what,What?,1236,WHAT,224-225
+113_why,Why?,1270,WHY,226-227
+114_and,And,1577,AND,228-229
 115_but,But,,,230-231
-116_yes,Yes,,,232-233
-117_no,No,,,234-235
-118_go,Go,,,236-237
-119_eat,Eat,,,238-239
-120_sit,Sit,,,240-241
-121_come,Come,,,242-243
-122_stand,Stand,,,244-245
-123_die,Die,,,246-247
-124_give,Give,,,248-249
-125_run,Run,,,250-251
+116_yes,Yes,1268,YES,232-233
+117_no,No,1269,NO,234-235
+118_go,Go,695,GO,236-237
+119_eat,Eat,1336,EAT,238-239
+120_sit,Sit,1416,SIT,240-241
+121_come,Come,1446,COME,242-243
+122_stand,Stand,1442,STAND,244-245
+123_die,Die,1494,DIE,246-247
+124_give,Give,1447,GIVE,248-249
+125_run,Run,1519,RUN,250-251
 126_iam,I am,,,252-253
 127_thouart,Thou art,,,254-255
 128_heis,He is,,,256-257
@@ -136,7 +136,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,PageNumber
 135_wewere,We were,,,270-271
 136_youwere,You were,,,272-273
 137_theywere,They were,,,274-275
-138_beat,Beat,,,276-277
+138_beat,Beat,1665,BEAT,276-277
 139_ibeat,I beat,,,278-279
 140_thoubeatest,Thou beatest,,,280-281
 141_hebeats,He beats,,,282-283

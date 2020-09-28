@@ -52,7 +52,10 @@ class Dataset(BaseDataset):
             args.writer.add_concept(
                 ID=cid,
                 PageNumber=concept.attributes['pagenumber'],
-                Name=concept.english)
+                Name=concept.english,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
+            )
             concepts[concept.attributes['pagenumber']+' '+concept.english] = cid
 
         languages = args.writer.add_languages(
