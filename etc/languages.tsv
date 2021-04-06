@@ -14,7 +14,7 @@ Cham	CHAM	12	Austronesian				cham1328
 Salôn	SALON	13	Austronesian		1.	mwt	moke1242
 K’mēr	KHMER	14	Austro-Asiatic	Mon-Khmer		khm	cent1989
 Talaing, written	TALAING_WRITTEN	15	Austro-Asiatic	Mon-Khmer	3.	mnw	monn1252
-Talaing, spoken	TALAING_SPOKEN	16	Austro-Asiatic	Mon-Khmer			
+Talaing, spoken	TALAING_SPOKEN	16	Austro-Asiatic	Mon-Khmer			monn1252
 Sakai	SAKAI	17	Austro-Asiatic	Sakai-Semang			seno1278
 Sěmang	SEMANG	18	Austro-Asiatic	Sakai-Semang			nort2682
 Palaung	PALAUNG	19	Austro-Asiatic	Palaung-Wa	4.	rbb	ruma1248
@@ -44,7 +44,7 @@ Mandarin	MANDARIN	42	Sinitic	Tai-Chinese		cmn	mand1415
 Cantonese	CANTONESE	43	Sinitic	Tai-Chinese			cant1236
 Gyåmi	GYAOMI	44	Sinitic	Tai-Chinese		cmn	mand1415
 Siamese, written	SIAMESE_WRITTEN	45	Sinitic	Tai-Chinese	45.	tha	thai1261
-Siamese, spoken	SIAMESE_SPOKEN	46	Sinitic	Tai-Chinese			
+Siamese, spoken	SIAMESE_SPOKEN	46	Sinitic	Tai-Chinese			thai1261
 Lao	LAO	47	Sinitic	Tai-Chinese		lao	laoo1244
 Lü	LU	48	Sinitic	Tai-Chinese	46.	khb	luuu1242
 K’ün	KHUN	49	Sinitic	Tai-Chinese	47.	kkh	khun1259
@@ -57,7 +57,7 @@ Pwo Bassein	PWO_BASSEIN	55	Karen			pwo	pwow1235
 Pwo Maulmein	PWO_MAULMEIN	56	Karen			kjp	pwoe1235
 Taungθu	TAUNGTHU	57	Karen		36.	blk	paok1235
 Sgå, literary	SGA_LITERARY	58	Karen		34.	ksw	sgaw1245
-Sgå, spoken	SGA_SPOKEN	59	Karen				
+Sgå, spoken	SGA_SPOKEN	59	Karen				sgaw1245
 Bwè	BWE	60	Karen		32.	bwe	bwek1238
 Wewaw	WEWAW	61	Karen		41a.	wea	wewa1238
 Karenbyu	KARENBYU	62	Karen		33.	kvq	geba1237
@@ -68,7 +68,7 @@ Sin-hmå Mäpauk	SIN_HMAO_MAEPAUK	66	Karen			kxf	manu1255
 Gheko	GHEKO	67	Karen		39.	ghk	geko1235
 Padaung	PADAUNG	68	Karen		37.	pdu	kaya1315
 Yeinbå	YEINBA	69	Karen		38.	kvu	yinb1236
-Manö	MANOE	70	Karen				
+Manö	MANOE	70	Karen				manu1255
 Zayein	ZAVEIN	71	Karen		41.	kxk	zaye1235
 Mopwa, Bilichi	MOPWA_BILICHI	72	Karen			kpp	bili1249
 Mopwa, Dermuha	MOPWA_DERMUHA	73	Karen			kpp	derm1238
@@ -150,7 +150,7 @@ T’auchū	THAUCHU	148	Tibeto-Burman	Tibetan
 Tàkpà	TAKPA	149	Tibeto-Burman	Tibetan		twm	tawa1289
 Haurpà	HAURPA	150	Tibeto-Burman	Tibetan			
 B’ōṭiā, Tibetan, written	BHOTIA_TIBETAN_WRITTEN	151	Tibeto-Burman	Tibetan	58.	sip	sikk1242
-B’ōṭiā, Tibetan, spoken	BHOTIA_TIBETAN_SPOKEN	152	Tibeto-Burman	Tibetan			
+B’ōṭiā, Tibetan, spoken	BHOTIA_TIBETAN_SPOKEN	152	Tibeto-Burman	Tibetan			sikk1242
 Baltī	BALTI	153	Tibeto-Burman	Tibetan	59.	bft	balt1258
 of Purik	BHOTIA_OF_PURIK	154	Tibeto-Burman	Tibetan	60.	prx	puri1258
 Ladak’ī	LADAKHI	155	Tibeto-Burman	Tibetan	61.	lbj	lada1244
@@ -235,7 +235,7 @@ P’un, Samong	PHUN_SAMONG	233	Tibeto-Burman	Burma	272a.	hpo	hpon1238
 Me-gyå	ME_GYAO	234	Tibeto-Burman	Burma			
 Mrū	MRU	235	Tibeto-Burman	Burma	264.	mro	mruu1242
 Burmese, written	BURMESE_WRITTEN	236	Tibeto-Burman	Burma	265.	mya	nucl1310
-Burmese, spoken	BURMESE_SPOKEN	237	Tibeto-Burman	Burma			
+Burmese, spoken	BURMESE_SPOKEN	237	Tibeto-Burman	Burma			nucl1310
 Arakanese	ARAKANESE	238	Tibeto-Burman	Burma	266.	rmz	marm1234
 Taungyo	TAUNGYO	239	Tibeto-Burman	Burma	267.	tco	taun1248
 Danu	DANU	240	Tibeto-Burman	Burma	269.	dnv	danu1251
@@ -299,8 +299,8 @@ Rāmbanī	RAMBANI	297	Indo-European Family, Aryan sub-family	Dardic or Pisacha
 Kōhistānī, Gārwī	KOHISTANI_GARWI	298	Indo-European Family, Aryan sub-family	Dardic or Pisacha	408.	mvy	indu1241
 Tōrwālī	TORWALI	299	Indo-European Family, Aryan sub-family	Dardic or Pisacha	409.	trw	torw1241
 Maiyā̃	MAIYA	300	Indo-European Family, Aryan sub-family	Dardic or Pisacha	411.	mvy	indu1241
-Gypsy, European	GYPSY_EUROPEAN	301	Indo-European Family, Aryan sub-family	Dardic or Pisacha			
-Gypsy, Syrian	GYPSY_SYRIAN	302	Indo-European Family, Aryan sub-family	Dardic or Pisacha			
+Gypsy, European	GYPSY_EUROPEAN	301	Indo-European Family, Aryan sub-family	Dardic or Pisacha			roma1329
+Gypsy, Syrian	GYPSY_SYRIAN	302	Indo-European Family, Aryan sub-family	Dardic or Pisacha			doma1258
 Sanskrit	SANSKRIT	303	Indo-European Family, Aryan sub-family	Indo-Aryan		san	sans1269
 Prakrit	PRAKRIT	304	Indo-European Family, Aryan sub-family	Indo-Aryan		psu	saur1252
 K’ētrānī	KHETRANI	305	Indo-European Family, Aryan sub-family	Indo-Aryan	430.	xhe	khet1238
@@ -328,10 +328,10 @@ B’ojpurī, Northern	BHOJPURI_NORTHERN	326	Indo-European Family, Aryan sub-fam
 B’ojpurī, Southern	BHOJPURI_SOUTHERN	327	Indo-European Family, Aryan sub-family	Indo-Aryan	520.	bho	sout2661
 Nagpuriā	NAGPURIA	328	Indo-European Family, Aryan sub-family	Indo-Aryan	526.	sck	sadr1248
 Bengali, written	BENGALI_WRITTEN	329	Indo-European Family, Aryan sub-family	Indo-Aryan	530.	ben	beng1280
-Bengali, spoken	BENGALI_SPOKEN	330	Indo-European Family, Aryan sub-family	Indo-Aryan			
+Bengali, spoken	BENGALI_SPOKEN	330	Indo-European Family, Aryan sub-family	Indo-Aryan			beng1280
 South-western	SOUTH_WESTERN_BENGALI	331	Indo-European Family, Aryan sub-family	Indo-Aryan	537.	ben	beng1280
 Siripuriā	SIRIPURIA	332	Indo-European Family, Aryan sub-family	Indo-Aryan	541.	ben	siri1268
-Eastern	EASTERN_BALOCHI	333	Indo-European Family, Aryan sub-family	Indo-Aryan	546.	bgp	east2304
+Eastern	EASTERN_BENGALI	333	Indo-European Family, Aryan sub-family	Indo-Aryan	546.	bgp	east2744
 of Cachar	EASTERN_BENGALI_OF_CACHAR	334	Indo-European Family, Aryan sub-family	Indo-Aryan	548.	syl	sylh1242
 of Chittagong	EASTERN_BENGALI_OF_CHITTAGONG	335	Indo-European Family, Aryan sub-family	Indo-Aryan	550.	ctg	chit1275
 Chākmā	CHAKMA	336	Indo-European Family, Aryan sub-family	Indo-Aryan	551.	ccp	chak1266
@@ -348,7 +348,7 @@ Kanaujī	KANAUJI	346	Indo-European Family, Aryan sub-family	Indo-Aryan	605.	bjj
 Bundēlī	BUNDELI	347	Indo-European Family, Aryan sub-family	Indo-Aryan	611.	bns	bund1253
 Banāp’arī	BANAPHARI	348	Indo-European Family, Aryan sub-family	Indo-Aryan	616.	bns	bana1281
 Pañjābī, written	PANJABI_WRITTEN	349	Indo-European Family, Aryan sub-family	Indo-Aryan	633.	pan	panj1256
-Pañjābī, spoken	PANJABI_SPOKEN	350	Indo-European Family, Aryan sub-family	Indo-Aryan			
+Pañjābī, spoken	PANJABI_SPOKEN	350	Indo-European Family, Aryan sub-family	Indo-Aryan			panj1256
 Pōwād’ī	POWADHI	351	Indo-European Family, Aryan sub-family	Indo-Aryan	639.	pwr	powa1246
 Ḍōgrī	DOGRI	352	Indo-European Family, Aryan sub-family	Indo-Aryan	648.	dgo	dogr1250
 Kāṅgrā	KANGRA	353	Indo-European Family, Aryan sub-family	Indo-Aryan	650.	xnr	kang1280
