@@ -337,7 +337,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 336	Bengali, spoken	10-11 Five	530b.	pā̃ch
 337	South-western	10-11 Five	537. (530c.)	pā̃ch
 338	Siripuriā	10-11 Five	541. (530d.)	pā̃ch
-339	Eastern	10-11 Five	546. (530e.)	pāṯs̱
+339	Bengali, Eastern	10-11 Five	546. (530e.)	pāṯs̱
 340	of Cachar	10-11 Five	548. (530f.)	pās
 341	of Chittagong	10-11 Five	550. (530g.)	pā̃ch
 342	of Chittagong	10-11 Five		pā̃chchwā
@@ -739,7 +739,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 62832	South-western	100-101 Water	537. (530c.)	jal
 62833	South-western	100-101 Water		pāni
 62834	Siripuriā	100-101 Water	541. (530d.)	pānī
-62835	Eastern	100-101 Water	546. (530e.)	zal
+62835	Bengali, Eastern	100-101 Water	546. (530e.)	zal
 62836	Eastern	100-101 Water		pāni
 62837	of Cachar	100-101 Water	548. (530f.)	pāni
 62838	of Chittagong	100-101 Water	550. (530g.)	jal
@@ -1159,7 +1159,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 63252	Bengali, spoken	102-103 House		g’ar
 63253	South-western	102-103 House	537. (530c.)	g’ar
 63254	Siripuriā	102-103 House	541. (530d.)	g’ar
-63255	Eastern	102-103 House	546. (530e.)	g’ar
+63255	Bengali, Eastern	102-103 House	546. (530e.)	g’ar
 63256	Eastern	102-103 House		gar
 63257	of Cachar	102-103 House	548. (530f.)	g’ar
 63258	of Chittagong	102-103 House	550. (530g.)	g’ar
@@ -1573,7 +1573,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 63666	Bengali, spoken	104-105 Horse		g’õṛā
 63667	South-western	104-105 Horse	537. (530c.)	g’aṛā
 63668	Siripuriā	104-105 Horse	541. (530d.)	g’ōrā
-63669	Eastern	104-105 Horse	546. (530e.)	g’ōṛā
+63669	Bengali, Eastern	104-105 Horse	546. (530e.)	g’ōṛā
 63670	Eastern	104-105 Horse		goṛā
 63671	of Cachar	104-105 Horse	548. (530f.)	g’ōṛā
 63672	of Cachar	104-105 Horse		g’uṛā
@@ -1965,7 +1965,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 64058	Bengali, spoken	106-107 Ass		gādā
 64059	South-western	106-107 Ass	537. (530c.)	gādda’ā
 64060	Siripuriā	106-107 Ass	541. (530d.)	gād’ā
-64061	Eastern	106-107 Ass	546. (530e.)	gād’ā
+64061	Bengali, Eastern	106-107 Ass	546. (530e.)	gād’ā
 64062	Eastern	106-107 Ass		gādā
 64063	of Cachar	106-107 Ass	548. (530f.)	gāddā
 64064	of Chittagong	106-107 Ass	550. (530g.)	gād’ā
@@ -2359,7 +2359,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 64452	Bengali, spoken	108-109 Camel	530b.	uṭ
 64453	South-western	108-109 Camel	537. (530c.)	ũṭ
 64454	Siripuriā	108-109 Camel	541. (530d.)	uṭ
-64455	Eastern	108-109 Camel	546. (530e.)	uṭ
+64455	Bengali, Eastern	108-109 Camel	546. (530e.)	uṭ
 64456	of Cachar	108-109 Camel	548. (530f.)	uṭ
 64457	of Chittagong	108-109 Camel	550. (530g.)	uṭ
 64458	of Chittagong	108-109 Camel		ō̃ṭ
@@ -2767,7 +2767,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 64860	Bengali, spoken	110-111 Cow		gāi-goru
 64861	South-western	110-111 Cow	537. (530c.)	gāi
 64862	Siripuriā	110-111 Cow	541. (530d.)	gāy
-64863	Eastern	110-111 Cow	546. (530e.)	gāi
+64863	Bengali, Eastern	110-111 Cow	546. (530e.)	gāi
 64864	of Cachar	110-111 Cow	548. (530f.)	gāi
 64865	of Chittagong	110-111 Cow	550. (530g.)	gāi
 64866	Chākmā	110-111 Cow	551. (530h.)	garu
@@ -3182,7 +3182,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 65275	Bengali, spoken	112-113 Dog		kottā
 65276	South-western	112-113 Dog	537. (530c.)	kuttā
 65277	Siripuriā	112-113 Dog	541. (530d.)	kuttā
-65278	Eastern	112-113 Dog	546. (530e.)	kuttā
+65278	Bengali, Eastern	112-113 Dog	546. (530e.)	kuttā
 65279	of Cachar	112-113 Dog	548. (530f.)	kukur
 65280	of Chittagong	112-113 Dog	550. (530g.)	kuttā
 65281	of Chittagong	112-113 Dog		kũur
@@ -3590,7 +3590,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 65683	South-western	114-115 Cat	537. (530c.)	billi
 65684	South-western	114-115 Cat		bilāi
 65685	Siripuriā	114-115 Cat	541. (530d.)	bilāī
-65686	Eastern	114-115 Cat	546. (530e.)	mēkur
+65686	Bengali, Eastern	114-115 Cat	546. (530e.)	mēkur
 65687	Eastern	114-115 Cat		biṛail
 65688	of Cachar	114-115 Cat	548. (530f.)	mēkur
 65689	of Cachar	114-115 Cat		bilāi
@@ -4013,7 +4013,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 66106	Bengali, spoken	116-117 Bird		pākī
 66107	South-western	116-117 Bird	537. (530c.)	pāik (pak’āli)
 66108	Siripuriā	116-117 Bird	541. (530d.)	chir’iyā
-66109	Eastern	116-117 Bird	546. (530e.)	pāk’ī
+66109	Bengali, Eastern	116-117 Bird	546. (530e.)	pāk’ī
 66110	Eastern	116-117 Bird		pakki
 66111	Eastern	116-117 Bird		pāhi
 66112	of Cachar	116-117 Bird	548. (530f.)	pāk’iā
@@ -4463,7 +4463,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 66556	South-western	118-119 Cock	537. (530c.)	kũkṛā
 66557	South-western	118-119 Cock		murag
 66558	Siripuriā	118-119 Cock	541. (530d.)	murgā
-66559	Eastern	118-119 Cock	546. (530e.)	murug
+66559	Bengali, Eastern	118-119 Cock	546. (530e.)	murug
 66560	of Cachar	118-119 Cock	548. (530f.)	murug
 66561	of Chittagong	118-119 Cock	550. (530g.)	kũurā
 66562	of Chittagong	118-119 Cock		kuṛā
@@ -4869,7 +4869,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 741	Bengali, spoken	12-13 Six		ch’ǒ
 742	South-western	12-13 Six	537. (530c.)	ch’ay
 743	Siripuriā	12-13 Six	541. (530d.)	ch’a
-744	Eastern	12-13 Six	546. (530e.)	say
+744	Bengali, Eastern	12-13 Six	546. (530e.)	say
 745	of Cachar	12-13 Six	548. (530f.)	say
 746	of Chittagong	12-13 Six	550. (530g.)	ch’ay
 747	Chākmā	12-13 Six	551. (530h.)	ch’awā
@@ -5256,7 +5256,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 66941	Bengali, spoken	120-121 Duck	530b.	pāti-hā̃š
 66942	South-western	120-121 Duck	537. (530c.)	hā̃s
 66943	Siripuriā	120-121 Duck	541. (530d.)	hā̃s
-66944	Eastern	120-121 Duck	546. (530e.)	pēṛī-hāš
+66944	Bengali, Eastern	120-121 Duck	546. (530e.)	pēṛī-hāš
 66945	Eastern	120-121 Duck		pēti ās
 66946	of Cachar	120-121 Duck	548. (530f.)	pēṛī-hāš
 66947	of Chittagong	120-121 Duck	550. (530g.)	peti-hā̃s
@@ -5717,7 +5717,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 4492	Bengali, spoken	122-123 Father		pitā
 4493	South-western	122-123 Father	537. (530c.)	bāp’u
 4494	Siripuriā	122-123 Father	541. (530d.)	bāp
-4495	Eastern	122-123 Father	546. (530e.)	bāp
+4495	Bengali, Eastern	122-123 Father	546. (530e.)	bāp
 4496	Eastern	122-123 Father		bajān
 4497	of Cachar	122-123 Father	548. (530f.)	bāp
 4498	of Chittagong	122-123 Father	550. (530g.)	bāp
@@ -6127,7 +6127,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 4902	Bengali, spoken	124-125 Of a Father	530b.	bāper
 4903	South-western	124-125 Of a Father	537. (530c.)	bāp’ur
 4904	Siripuriā	124-125 Of a Father	541. (530d.)	bāpēr
-4905	Eastern	124-125 Of a Father	546. (530e.)	bāpēr
+4905	Bengali, Eastern	124-125 Of a Father	546. (530e.)	bāpēr
 4906	of Cachar	124-125 Of a Father	548. (530f.)	bāpår
 4907	of Chittagong	124-125 Of a Father	550. (530g.)	bāar
 4908	Chākmā	124-125 Of a Father	551. (530h.)	bābar
@@ -6507,7 +6507,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 5282	Bengali, spoken	126-127 To a Father	530b.	bāp-ke
 5283	South-western	126-127 To a Father	537. (530c.)	bāp’u-kē
 5284	Siripuriā	126-127 To a Father	541. (530d.)	bāpēr-lagī
-5285	Eastern	126-127 To a Father	546. (530e.)	bāp-rē
+5285	Bengali, Eastern	126-127 To a Father	546. (530e.)	bāp-rē
 5286	of Cachar	126-127 To a Father	548. (530f.)	bāpår-gěsě
 5287	of Chittagong	126-127 To a Father	550. (530g.)	bāa-rē
 5288	Chākmā	126-127 To a Father	551. (530h.)	bāba-kāy
@@ -6885,7 +6885,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 5660	Bengali, spoken	128-129 From a Father	530b.	bāp-hote (or t’eke)
 5661	South-western	128-129 From a Father	537. (530c.)	bāp’ur pās-nu
 5662	Siripuriā	128-129 From a Father	541. (530d.)	bāpēr lagī-sē
-5663	Eastern	128-129 From a Father	546. (530e.)	bāpēr t’ěkě
+5663	Bengali, Eastern	128-129 From a Father	546. (530e.)	bāpēr t’ěkě
 5664	of Cachar	128-129 From a Father	548. (530f.)	bāpår gěs-tanē
 5665	of Chittagong	128-129 From a Father	550. (530g.)	bāa-tun
 5666	Chākmā	128-129 From a Father	551. (530h.)	bāba-tun
@@ -7255,7 +7255,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 6030	Bengali, spoken	130-131 Two Fathers	530b.	dui (or dū) bāp
 6031	South-western	130-131 Two Fathers	537. (530c.)	du bāp’u
 6032	Siripuriā	130-131 Two Fathers	541. (530d.)	dui bāp
-6033	Eastern	130-131 Two Fathers	546. (530e.)	dui bāp
+6033	Bengali, Eastern	130-131 Two Fathers	546. (530e.)	dui bāp
 6034	of Cachar	130-131 Two Fathers	548. (530f.)	dui bāp
 6035	of Chittagong	130-131 Two Fathers	550. (530g.)	dui bāp
 6036	Chākmā	130-131 Two Fathers	551. (530h.)	dibā bāp
@@ -7639,7 +7639,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 6414	Bengali, spoken	132-133 Fathers	530b.	bāperā
 6415	South-western	132-133 Fathers	537. (530c.)	bāp’u gā
 6416	Siripuriā	132-133 Fathers	541. (530d.)	bāp lā
-6417	Eastern	132-133 Fathers	546. (530e.)	bāp šakal
+6417	Bengali, Eastern	132-133 Fathers	546. (530e.)	bāp šakal
 6418	Eastern	132-133 Fathers		bāpērā
 6419	of Cachar	132-133 Fathers	548. (530f.)	bāp hakkal
 6420	of Cachar	132-133 Fathers		bāp āin
@@ -8017,7 +8017,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 6792	Bengali, spoken	134-135 Of Fathers	530b.	bāp-der
 6793	South-western	134-135 Of Fathers	537. (530c.)	bāp’u mēn-kār
 6794	Siripuriā	134-135 Of Fathers	541. (530d.)	bāp lār
-6795	Eastern	134-135 Of Fathers	546. (530e.)	bāp šakalēr
+6795	Bengali, Eastern	134-135 Of Fathers	546. (530e.)	bāp šakalēr
 6796	Eastern	134-135 Of Fathers		bāpēr-gō
 6797	of Cachar	134-135 Of Fathers	548. (530f.)	bāp hakklår
 6798	of Cachar	134-135 Of Fathers		bāp āintår
@@ -8394,7 +8394,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 7169	Bengali, spoken	136-137 To Fathers	530b.	bāp-der
 7170	South-western	136-137 To Fathers	537. (530c.)	bāp’u gā-kē
 7171	Siripuriā	136-137 To Fathers	541. (530d.)	bāp lār-lagī
-7172	Eastern	136-137 To Fathers	546. (530e.)	bāp šakal-rē
+7172	Bengali, Eastern	136-137 To Fathers	546. (530e.)	bāp šakal-rē
 7173	of Cachar	136-137 To Fathers	548. (530f.)	bāp haklår gěsě
 7174	of Cachar	136-137 To Fathers		etc.
 7175	of Chittagong	136-137 To Fathers	550. (530g.)	bāp ha’ala-rē
@@ -8769,7 +8769,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 7544	Bengali, spoken	138-139 From Fathers	530b.	bāp-der hote (or t’eke)
 7545	South-western	138-139 From Fathers	537. (530c.)	bāp’ur kāch’-nu
 7546	Siripuriā	138-139 From Fathers	541. (530d.)	bāp lār lagī-sē
-7547	Eastern	138-139 From Fathers	546. (530e.)	bāp šakalēr t’ěkě
+7547	Bengali, Eastern	138-139 From Fathers	546. (530e.)	bāp šakalēr t’ěkě
 7548	of Cachar	138-139 From Fathers	548. (530f.)	bāp haklår gěs-tanē
 7549	of Cachar	138-139 From Fathers		etc.
 7550	of Chittagong	138-139 From Fathers	550. (530g.)	bāp ha’al-tun
@@ -9161,7 +9161,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 1138	Bengali, spoken	14-15 Seven	530b.	šāt
 1139	South-western	14-15 Seven	537. (530c.)	sāt
 1140	Siripuriā	14-15 Seven	541. (530d.)	sāt
-1141	Eastern	14-15 Seven	546. (530e.)	šāt
+1141	Bengali, Eastern	14-15 Seven	546. (530e.)	šāt
 1142	of Cachar	14-15 Seven	548. (530f.)	hāt
 1143	of Chittagong	14-15 Seven	550. (530g.)	hāt
 1144	of Chittagong	14-15 Seven		hātwā
@@ -9589,7 +9589,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 7973	Bengali, spoken	140-141 Mother	530b.	mā
 7974	South-western	140-141 Mother	537. (530c.)	mā
 7975	Siripuriā	140-141 Mother	541. (530d.)	mā
-7976	Eastern	140-141 Mother	546. (530e.)	mā
+7976	Bengali, Eastern	140-141 Mother	546. (530e.)	mā
 7977	of Cachar	140-141 Mother	548. (530f.)	māi
 7978	of Chittagong	140-141 Mother	550. (530g.)	mā
 7979	Chākmā	140-141 Mother	551. (530h.)	mā
@@ -10200,7 +10200,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 8584	Bengali, spoken	142-143 Brother	530b.	b’āi
 8585	South-western	142-143 Brother	537. (530c.)	b’āi
 8586	Siripuriā	142-143 Brother	541. (530d.)	b’āī
-8587	Eastern	142-143 Brother	546. (530e.)	b’āi
+8587	Bengali, Eastern	142-143 Brother	546. (530e.)	b’āi
 8588	Eastern	142-143 Brother		bāi
 8589	of Cachar	142-143 Brother	548. (530f.)	b’āi
 8590	of Chittagong	142-143 Brother	550. (530g.)	b’āi
@@ -10784,7 +10784,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 9168	South-western	144-145 Sister	537. (530c.)	baïn
 9169	South-western	144-145 Sister		baën
 9170	Siripuriā	144-145 Sister	541. (530d.)	bahin
-9171	Eastern	144-145 Sister	546. (530e.)	b’aïn
+9171	Bengali, Eastern	144-145 Sister	546. (530e.)	b’aïn
 9172	Eastern	144-145 Sister		buin
 9173	of Cachar	144-145 Sister	548. (530f.)	b’aïn
 9174	of Chittagong	144-145 Sister	550. (530g.)	b’aïn
@@ -11379,7 +11379,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 9763	South-western	146-147 Man	537. (530c.)	lok
 9764	South-western	146-147 Man		mannis
 9765	Siripuriā	146-147 Man	541. (530d.)	mānus
-9766	Eastern	146-147 Man	546. (530e.)	mānuš
+9766	Bengali, Eastern	146-147 Man	546. (530e.)	mānuš
 9767	Eastern	146-147 Man		bēṭā
 9768	of Cachar	146-147 Man	548. (530f.)	mānuš
 9769	of Cachar	146-147 Man		bēṭā
@@ -11852,7 +11852,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 10236	Bengali, spoken	148-149 Woman		meye(-mānuš)
 10237	South-western	148-149 Woman	537. (530c.)	māyā-mannis
 10238	Siripuriā	148-149 Woman	541. (530d.)	bēṭī-ch’ōān
-10239	Eastern	148-149 Woman	546. (530e.)	bēṭī
+10239	Bengali, Eastern	148-149 Woman	546. (530e.)	bēṭī
 10240	of Cachar	148-149 Woman	548. (530f.)	bēṭī
 10241	of Chittagong	148-149 Woman	550. (530g.)	māiyā-lōk
 10242	Chākmā	148-149 Woman	551. (530h.)	milā
@@ -12307,7 +12307,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 10691	South-western	150-151 Wife	537. (530c.)	b’ājʸā
 10692	South-western	150-151 Wife		koplʸa
 10693	Siripuriā	150-151 Wife	541. (530d.)	tirmāt
-10694	Eastern	150-151 Wife	546. (530e.)	strī
+10694	Bengali, Eastern	150-151 Wife	546. (530e.)	strī
 10695	Eastern	150-151 Wife		istirī
 10696	Eastern	150-151 Wife		kabilā
 10697	of Cachar	150-151 Wife	548. (530f.)	baü
@@ -12778,7 +12778,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 11162	South-western	152-153 Child	537. (530c.)	paṛek
 11163	South-western	152-153 Child		paṛʸāk
 11164	Siripuriā	152-153 Child	541. (530d.)	ch’ōā
-11165	Eastern	152-153 Child	546. (530e.)	šantān
+11165	Bengali, Eastern	152-153 Child	546. (530e.)	šantān
 11166	of Cachar	152-153 Child	548. (530f.)	sāo
 11167	of Cachar	152-153 Child		sāwāl
 11168	of Chittagong	152-153 Child	550. (530g.)	pōā
@@ -13217,7 +13217,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 11601	Bengali, spoken	154-155 Son		puttur
 11602	South-western	154-155 Son	537. (530c.)	pō
 11603	Siripuriā	154-155 Son	541. (530d.)	bēṭā
-11604	Eastern	154-155 Son	546. (530e.)	sāilā
+11604	Bengali, Eastern	154-155 Son	546. (530e.)	sāilā
 11605	of Cachar	154-155 Son	548. (530f.)	puā
 11606	of Chittagong	154-155 Son	550. (530g.)	put
 11607	Chākmā	154-155 Son	551. (530h.)	marat pwā
@@ -13638,7 +13638,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 12022	Bengali, spoken	156-157 Daughter	530b.	meye
 12023	South-western	156-157 Daughter	537. (530c.)	mʸāyā-j’i
 12024	Siripuriā	156-157 Daughter	541. (530d.)	bēṭī
-12025	Eastern	156-157 Daughter	546. (530e.)	māiā
+12025	Bengali, Eastern	156-157 Daughter	546. (530e.)	māiā
 12026	of Cachar	156-157 Daughter	548. (530f.)	puṛi
 12027	of Chittagong	156-157 Daughter	550. (530g.)	j’i
 12028	Chākmā	156-157 Daughter	551. (530h.)	milā pwā
@@ -14022,7 +14022,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 12406	Bengali, spoken	158-159 Daughters	530b.	meyerā
 12407	South-western	158-159 Daughters	537. (530c.)	mʸāyā-j’i-mēne
 12408	Siripuriā	158-159 Daughters	541. (530d.)	bēṭī-lā
-12409	Eastern	158-159 Daughters	546. (530e.)	māiārā
+12409	Bengali, Eastern	158-159 Daughters	546. (530e.)	māiārā
 12410	of Cachar	158-159 Daughters	548. (530f.)	puṛi-āin
 12411	of Chittagong	158-159 Daughters	550. (530g.)	j’i ha’al
 12412	Chākmā	158-159 Daughters	551. (530h.)	milā pwā šagal
@@ -14418,7 +14418,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 1528	Bengali, spoken	16-17 Eight	530b.	āṭ
 1529	South-western	16-17 Eight	537. (530c.)	āṭ
 1530	Siripuriā	16-17 Eight	541. (530d.)	āṭ’
-1531	Eastern	16-17 Eight	546. (530e.)	āṭ
+1531	Bengali, Eastern	16-17 Eight	546. (530e.)	āṭ
 1532	of Cachar	16-17 Eight	548. (530f.)	āṭ
 1533	of Chittagong	16-17 Eight	550. (530g.)	ašṭa
 1534	of Chittagong	16-17 Eight		ašṭwā
@@ -14795,7 +14795,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 12789	Bengali, spoken	160-161 Horse (male)	530b.	g’õṛā
 12790	South-western	160-161 Horse (male)	537. (530c.)	g’aṛā
 12791	Siripuriā	160-161 Horse (male)	541. (530d.)	g’ōrā
-12792	Eastern	160-161 Horse (male)	546. (530e.)	g’ōṛā
+12792	Bengali, Eastern	160-161 Horse (male)	546. (530e.)	g’ōṛā
 12793	of Cachar	160-161 Horse (male)	548. (530f.)	g’ōṛā
 12794	of Chittagong	160-161 Horse (male)	550. (530g.)	g’ōṛā
 12795	Chākmā	160-161 Horse (male)	551. (530h.)	g’ōṛā
@@ -15170,7 +15170,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 13164	Bengali, spoken	162-163 Mare	530b.	g’ũṛī
 13165	South-western	162-163 Mare	537. (530c.)	g’uṛi
 13166	Siripuriā	162-163 Mare	541. (530d.)	g’ōrī
-13167	Eastern	162-163 Mare	546. (530e.)	g’ōṛī
+13167	Bengali, Eastern	162-163 Mare	546. (530e.)	g’ōṛī
 13168	of Cachar	162-163 Mare	548. (530f.)	g’ōṛī
 13169	of Chittagong	162-163 Mare	550. (530g.)	g’urnī
 13170	Chākmā	162-163 Mare	551. (530h.)	g’ūri
@@ -15542,7 +15542,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 13536	Bengali, spoken	164-165 Horses	530b.	g’õṛā šǒkǒl
 13537	South-western	164-165 Horses	537. (530c.)	g’aṛā gā
 13538	Siripuriā	164-165 Horses	541. (530d.)	g’ōrā lā
-13539	Eastern	164-165 Horses	546. (530e.)	g’ōṛā šakal
+13539	Bengali, Eastern	164-165 Horses	546. (530e.)	g’ōṛā šakal
 13540	of Cachar	164-165 Horses	548. (530f.)	g’ōṛā-āin
 13541	of Cachar	164-165 Horses		g’uṛāin
 13542	of Chittagong	164-165 Horses	550. (530g.)	g’oṛāun
@@ -15918,7 +15918,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 13912	Bengali, spoken	166-167 Mares	530b.	g’ũṛī šǒkǒl
 13913	South-western	166-167 Mares	537. (530c.)	g’uṛi gā
 13914	Siripuriā	166-167 Mares	541. (530d.)	g’ōrī lā
-13915	Eastern	166-167 Mares	546. (530e.)	g’ōṛī šakal
+13915	Bengali, Eastern	166-167 Mares	546. (530e.)	g’ōṛī šakal
 13916	of Cachar	166-167 Mares	548. (530f.)	g’ōṛī-āin
 13917	of Cachar	166-167 Mares		g’uṛyāin
 13918	of Chittagong	166-167 Mares	550. (530g.)	g’urniun
@@ -16311,7 +16311,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 14305	South-western	168-169 Bull	537. (530c.)	yʸā̃ṛā
 14306	Siripuriā	168-169 Bull	541. (530d.)	sā̃r
 14307	Siripuriā	168-169 Bull		d’ākar
-14308	Eastern	168-169 Bull	546. (530e.)	hāṛ
+14308	Bengali, Eastern	168-169 Bull	546. (530e.)	hāṛ
 14309	Eastern	168-169 Bull		balad
 14310	of Cachar	168-169 Bull	548. (530f.)	hāṛ
 14311	of Chittagong	168-169 Bull	550. (530g.)	biriš
@@ -16706,7 +16706,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 14700	Bengali, spoken	170-171 Cow	530b.	gāi
 14701	South-western	170-171 Cow	537. (530c.)	gāi
 14702	Siripuriā	170-171 Cow	541. (530d.)	gāy
-14703	Eastern	170-171 Cow	546. (530e.)	gāi
+14703	Bengali, Eastern	170-171 Cow	546. (530e.)	gāi
 14704	of Cachar	170-171 Cow	548. (530f.)	gāi
 14705	of Chittagong	170-171 Cow	550. (530g.)	gāi
 14706	Chākmā	170-171 Cow	551. (530h.)	gēi
@@ -17089,7 +17089,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 15083	Bengali, spoken	172-173 Bulls	530b.	šā̃ṛ (or ẽṛe) šǒkǒl
 15084	South-western	172-173 Bulls	537. (530c.)	yʸāṛā gā
 15085	Siripuriā	172-173 Bulls	541. (530d.)	sā̃r (or dhākar) lā
-15086	Eastern	172-173 Bulls	546. (530e.)	hāṛ gulā
+15086	Bengali, Eastern	172-173 Bulls	546. (530e.)	hāṛ gulā
 15087	Eastern	172-173 Bulls		balad šakal
 15088	of Cachar	172-173 Bulls	548. (530f.)	hāṛ hakkal
 15089	of Chittagong	172-173 Bulls	550. (530g.)	birišun
@@ -17476,7 +17476,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 15470	Bengali, spoken	174-175 Cows	530b.	gāi šǒkǒl
 15471	South-western	174-175 Cows	537. (530c.)	gāi gā
 15472	Siripuriā	174-175 Cows	541. (530d.)	gāy lā
-15473	Eastern	174-175 Cows	546. (530e.)	gāi šakal
+15473	Bengali, Eastern	174-175 Cows	546. (530e.)	gāi šakal
 15474	of Cachar	174-175 Cows	548. (530f.)	gāi āin
 15475	of Chittagong	174-175 Cows	550. (530g.)	gāiun
 15476	Chākmā	174-175 Cows	551. (530h.)	gēiun
@@ -17863,7 +17863,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 15857	Bengali, spoken	176-177 Dog (male)	530b.	kottā
 15858	South-western	176-177 Dog (male)	537. (530c.)	kuttā
 15859	Siripuriā	176-177 Dog (male)	541. (530d.)	pillā kuttā
-15860	Eastern	176-177 Dog (male)	546. (530e.)	kuttā
+15860	Bengali, Eastern	176-177 Dog (male)	546. (530e.)	kuttā
 15861	of Cachar	176-177 Dog (male)	548. (530f.)	kukur
 15862	of Chittagong	176-177 Dog (male)	550. (530g.)	kũur
 15863	Chākmā	176-177 Dog (male)	551. (530h.)	kukur
@@ -18235,7 +18235,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 16229	Bengali, spoken	178-179 Bitch	530b.	kuttī
 16230	South-western	178-179 Bitch	537. (530c.)	kutti
 16231	Siripuriā	178-179 Bitch	541. (530d.)	pīliānī kuttī
-16232	Eastern	178-179 Bitch	546. (530e.)	kuttī
+16232	Bengali, Eastern	178-179 Bitch	546. (530e.)	kuttī
 16233	of Cachar	178-179 Bitch	548. (530f.)	kuttī
 16234	of Chittagong	178-179 Bitch	550. (530g.)	kuttī
 16235	Chākmā	178-179 Bitch	551. (530h.)	kutti
@@ -18622,7 +18622,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 1915	Bengali, spoken	18-19 Nine		nǒ
 1916	South-western	18-19 Nine	537. (530c.)	lay
 1917	Siripuriā	18-19 Nine	541. (530d.)	na
-1918	Eastern	18-19 Nine	546. (530e.)	nay
+1918	Bengali, Eastern	18-19 Nine	546. (530e.)	nay
 1919	of Cachar	18-19 Nine	548. (530f.)	nay
 1920	of Chittagong	18-19 Nine	550. (530g.)	na
 1921	of Chittagong	18-19 Nine		nawā
@@ -18993,7 +18993,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 16598	Bengali, spoken	180-181 Dogs	530b.	kottā šǒkǒl
 16599	South-western	180-181 Dogs	537. (530c.)	kuttā gā
 16600	Siripuriā	180-181 Dogs	541. (530d.)	kuttā lā
-16601	Eastern	180-181 Dogs	546. (530e.)	kuttā šakal
+16601	Bengali, Eastern	180-181 Dogs	546. (530e.)	kuttā šakal
 16602	of Cachar	180-181 Dogs	548. (530f.)	kuttā āin
 16603	of Cachar	180-181 Dogs		kuttāin
 16604	of Chittagong	180-181 Dogs	550. (530g.)	kũurgun
@@ -19365,7 +19365,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 16970	Bengali, spoken	182-183 Bitches	530b.	kuttī šǒkǒl
 16971	South-western	182-183 Bitches	537. (530c.)	kutti gā
 16972	Siripuriā	182-183 Bitches	541. (530d.)	pīliānī kuttī lā
-16973	Eastern	182-183 Bitches	546. (530e.)	kuttī šakal
+16973	Bengali, Eastern	182-183 Bitches	546. (530e.)	kuttī šakal
 16974	of Cachar	182-183 Bitches	548. (530f.)	kuttī āin
 16975	of Cachar	182-183 Bitches		kuttyāin
 16976	of Chittagong	182-183 Bitches	550. (530g.)	kuttīun
@@ -19751,7 +19751,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 17356	Bengali, spoken	184-185 He goat		pā̃ṭā
 17357	South-western	184-185 He goat	537. (530c.)	badā
 17358	Siripuriā	184-185 He goat	541. (530d.)	bokᵃrā
-17359	Eastern	184-185 He goat	546. (530e.)	pāṭ’ā
+17359	Bengali, Eastern	184-185 He goat	546. (530e.)	pāṭ’ā
 17360	Eastern	184-185 He goat		pā̃ṭā
 17361	of Cachar	184-185 He goat	548. (530f.)	badā
 17362	of Chittagong	184-185 He goat	550. (530g.)	pā̃ḍā
@@ -20129,7 +20129,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 17734	Bengali, spoken	186-187 Female goat		pā̃ṭī
 17735	South-western	186-187 Female goat	537. (530c.)	ch’ēlī
 17736	Siripuriā	186-187 Female goat	541. (530d.)	bakᵃrī
-17737	Eastern	186-187 Female goat	546. (530e.)	sāgī
+17737	Bengali, Eastern	186-187 Female goat	546. (530e.)	sāgī
 17738	of Cachar	186-187 Female goat	548. (530f.)	sāgī
 17739	of Chittagong	186-187 Female goat	550. (530g.)	pā̃ḍī
 17740	Chākmā	186-187 Female goat	551. (530h.)	šāgi
@@ -20514,7 +20514,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 18119	Bengali, spoken	188-189 Goats	530b.	pā̃ṭ’ā (or pā̃ṭā) šōkōl
 18120	South-western	188-189 Goats	537. (530c.)	badā gā
 18121	Siripuriā	188-189 Goats	541. (530d.)	bakᵃrī lā
-18122	Eastern	188-189 Goats	546. (530e.)	sāgal šakal
+18122	Bengali, Eastern	188-189 Goats	546. (530e.)	sāgal šakal
 18123	of Cachar	188-189 Goats	548. (530f.)	pāṭ’ā āin
 18124	of Chittagong	188-189 Goats	550. (530g.)	ch’āal-gun
 18125	Chākmā	188-189 Goats	551. (530h.)	šāgalun
@@ -20915,7 +20915,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 18520	Bengali, spoken	190-191 Male deer	530b.	maddā horiṅ
 18521	South-western	190-191 Male deer	537. (530c.)	harin
 18522	Siripuriā	190-191 Male deer	541. (530d.)	harin
-18523	Eastern	190-191 Male deer	546. (530e.)	harin
+18523	Bengali, Eastern	190-191 Male deer	546. (530e.)	harin
 18524	Eastern	190-191 Male deer		arin
 18525	of Cachar	190-191 Male deer	548. (530f.)	šiṅgāl
 18526	of Chittagong	190-191 Male deer	550. (530g.)	harin
@@ -21290,7 +21290,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 18895	Bengali, spoken	192-193 Female deer	530b.	mādī (or medī) horiṅ
 18896	South-western	192-193 Female deer	537. (530c.)	mǎddi harin
 18897	Siripuriā	192-193 Female deer	541. (530d.)	harin
-18898	Eastern	192-193 Female deer	546. (530e.)	harinī
+18898	Bengali, Eastern	192-193 Female deer	546. (530e.)	harinī
 18899	Eastern	192-193 Female deer		medi arin
 18900	of Cachar	192-193 Female deer	548. (530f.)	ḍ’ēli
 18901	of Chittagong	192-193 Female deer	550. (530g.)	māli harin
@@ -21666,7 +21666,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 19271	Bengali, spoken	194-195 Deer	530b.	horiṅ šǒkǒl
 19272	South-western	194-195 Deer	537. (530c.)	harin gā
 19273	Siripuriā	194-195 Deer	541. (530d.)	harin lā
-19274	Eastern	194-195 Deer	546. (530e.)	harin šakal
+19274	Bengali, Eastern	194-195 Deer	546. (530e.)	harin šakal
 19275	Eastern	194-195 Deer		arin gulā
 19276	of Cachar	194-195 Deer	548. (530f.)	harin
 19277	of Chittagong	194-195 Deer	550. (530g.)	harin gan
@@ -22056,7 +22056,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 19661	Bengali, spoken	196-197 Good man	530b.	b’ālo lōk
 19662	South-western	196-197 Good man	537. (530c.)	b’āla mannis
 19663	Siripuriā	196-197 Good man	541. (530d.)	b’ālā ādmī
-19664	Eastern	196-197 Good man	546. (530e.)	b’ālā (or bāla) mānuš
+19664	Bengali, Eastern	196-197 Good man	546. (530e.)	b’ālā (or bāla) mānuš
 19665	of Cachar	196-197 Good man	548. (530f.)	b’ālā mānuš
 19666	of Chittagong	196-197 Good man	550. (530g.)	b’ālā mānuš
 19667	Chākmā	196-197 Good man	551. (530h.)	gam mānus
@@ -22426,7 +22426,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 20031	Bengali, spoken	198-199 Good men	530b.	b’ālo lōkerā
 20032	South-western	198-199 Good men	537. (530c.)	b’āla lōk-manē
 20033	Siripuriā	198-199 Good men	541. (530d.)	b’ālā ādmī-lā
-20034	Eastern	198-199 Good men	546. (530e.)	b’ālā mānuš-šakal
+20034	Bengali, Eastern	198-199 Good men	546. (530e.)	b’ālā mānuš-šakal
 20035	of Cachar	198-199 Good men	548. (530f.)	b’āl mānuš hakkal
 20036	of Chittagong	198-199 Good men	550. (530g.)	b’ālā mānuš ha’al
 20037	Chākmā	198-199 Good men	551. (530h.)	gaam mānus chun
@@ -22881,7 +22881,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 2373	Bengali, spoken	2-3 One	530b.	ǎk
 2374	South-western	2-3 One	537. (530c.)	ek
 2375	Siripuriā	2-3 One	541. (530d.)	ek
-2376	Eastern	2-3 One	546. (530e.)	ek
+2376	Bengali, Eastern	2-3 One	546. (530e.)	ek
 2377	of Cachar	2-3 One	548. (530f.)	ek
 2378	of Chittagong	2-3 One	550. (530g.)	ēk
 2379	of Chittagong	2-3 One		ēgwā
@@ -23287,7 +23287,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 2779	Bengali, spoken	20-21 Ten	530b.	dǒš
 2780	South-western	20-21 Ten	537. (530c.)	das
 2781	Siripuriā	20-21 Ten	541. (530d.)	das
-2782	Eastern	20-21 Ten	546. (530e.)	daš
+2782	Bengali, Eastern	20-21 Ten	546. (530e.)	daš
 2783	of Cachar	20-21 Ten	548. (530f.)	daš
 2784	of Chittagong	20-21 Ten	550. (530g.)	daš
 2785	of Chittagong	20-21 Ten		dašwā
@@ -23663,7 +23663,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 20404	Bengali, spoken	200-201 Good woman	530b.	b’ālo meye
 20405	South-western	200-201 Good woman	537. (530c.)	b’āla mʸāyā-lōk
 20406	Siripuriā	200-201 Good woman	541. (530d.)	achch’ā bēṭī ch’ōān
-20407	Eastern	200-201 Good woman	546. (530e.)	b’ālā bēṭi
+20407	Bengali, Eastern	200-201 Good woman	546. (530e.)	b’ālā bēṭi
 20408	of Cachar	200-201 Good woman	548. (530f.)	b’ālā bēṭī
 20409	of Chittagong	200-201 Good woman	550. (530g.)	b’ālā māiyā lōk
 20410	Chākmā	200-201 Good woman	551. (530h.)	gam milā
@@ -24032,7 +24032,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 20773	Bengali, spoken	202-203 Good women	530b.	b’ālo strī-lokerā
 20774	South-western	202-203 Good women	537. (530c.)	b’āla mʸāyā-lōk-gā
 20775	Siripuriā	202-203 Good women	541. (530d.)	achch’ā bēṭī ch’ōā-lā
-20776	Eastern	202-203 Good women	546. (530e.)	b’ālā bēṭi-šakal
+20776	Bengali, Eastern	202-203 Good women	546. (530e.)	b’ālā bēṭi-šakal
 20777	of Cachar	202-203 Good women	548. (530f.)	b’ālā bēṭī-āin
 20778	of Chittagong	202-203 Good women	550. (530g.)	b’ālā māiyā pōā-ha’al
 20779	Chākmā	202-203 Good women	551. (530h.)	gam milā-šagal
@@ -24409,7 +24409,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 21150	Bengali, spoken	204-205 Bad boy	530b.	k’ārāp ch’okrä
 21151	South-western	204-205 Bad boy	537. (530c.)	bajjāt paṛek
 21152	Siripuriā	204-205 Bad boy	541. (530d.)	k’ārāb ch’ōā
-21153	Eastern	204-205 Bad boy	546. (530e.)	k’arāp sāilā
+21153	Bengali, Eastern	204-205 Bad boy	546. (530e.)	k’arāp sāilā
 21154	of Cachar	204-205 Bad boy	548. (530f.)	kapāl-puṛā puā
 21155	of Chittagong	204-205 Bad boy	550. (530g.)	k’ārāp pōā
 21156	Chākmā	204-205 Bad boy	551. (530h.)	bajaṅ pwā
@@ -24778,7 +24778,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 21519	Bengali, spoken	206-207 Bad girl	530b.	k’ārāp meye
 21520	South-western	206-207 Bad girl	537. (530c.)	bajjāt mʸāyā-j’i
 21521	Siripuriā	206-207 Bad girl	541. (530d.)	k’ārāb bēṭī
-21522	Eastern	206-207 Bad girl	546. (530e.)	k’arāp māiā
+21522	Bengali, Eastern	206-207 Bad girl	546. (530e.)	k’arāp māiā
 21523	of Cachar	206-207 Bad girl	548. (530f.)	kapāl-puṛā puṛi
 21524	of Chittagong	206-207 Bad girl	550. (530g.)	k’ārāp māiyā pōā
 21525	Chākmā	206-207 Bad girl	551. (530h.)	bajaṅ milā pwā
@@ -25167,7 +25167,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 21908	South-western	208-209 High	537. (530c.)	ũchchā
 21909	South-western	208-209 High		muchā
 21910	Siripuriā	208-209 High	541. (530d.)	uch
-21911	Eastern	208-209 High	546. (530e.)	utsā
+21911	Bengali, Eastern	208-209 High	546. (530e.)	utsā
 21912	of Cachar	208-209 High	548. (530f.)	uchā
 21913	of Chittagong	208-209 High	550. (530g.)	uchā
 21914	of Chittagong	208-209 High		ōchal
@@ -25591,7 +25591,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 22332	Bengali, spoken	210-211 Up		upor
 22333	South-western	210-211 Up	537. (530c.)	uprē
 22334	Siripuriā	210-211 Up	541. (530d.)	upar
-22335	Eastern	210-211 Up	546. (530e.)	uprē
+22335	Bengali, Eastern	210-211 Up	546. (530e.)	uprē
 22336	Eastern	210-211 Up		upur
 22337	of Cachar	210-211 Up	548. (530f.)	uprē
 22338	of Chittagong	210-211 Up	550. (530g.)	uarē
@@ -26028,7 +26028,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 22769	South-western	212-213 Down	537. (530c.)	nichōy
 22770	South-western	212-213 Down		talē
 22771	Siripuriā	212-213 Down	541. (530d.)	nichān
-22772	Eastern	212-213 Down	546. (530e.)	talē
+22772	Bengali, Eastern	212-213 Down	546. (530e.)	talē
 22773	Eastern	212-213 Down		lāmāy
 22774	of Cachar	212-213 Down	548. (530f.)	talē
 22775	of Chittagong	212-213 Down	550. (530g.)	nīchē
@@ -26478,7 +26478,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 23219	South-western	214-215 Near	537. (530c.)	lajik
 23220	Siripuriā	214-215 Near	541. (530d.)	bagal
 23221	Siripuriā	214-215 Near		bagᵃlat
-23222	Eastern	214-215 Near	546. (530e.)	kāsē
+23222	Bengali, Eastern	214-215 Near	546. (530e.)	kāsē
 23223	Eastern	214-215 Near		kātse
 23224	Eastern	214-215 Near		dārē
 23225	of Cachar	214-215 Near	548. (530f.)	kāndāt
@@ -26903,7 +26903,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 23644	Bengali, spoken	216-217 Far	530b.	dūr
 23645	South-western	216-217 Far	537. (530c.)	d’ūr
 23646	Siripuriā	216-217 Far	541. (530d.)	dūr
-23647	Eastern	216-217 Far	546. (530e.)	dūr
+23647	Bengali, Eastern	216-217 Far	546. (530e.)	dūr
 23648	Eastern	216-217 Far		dūrē
 23649	Eastern	216-217 Far		tāfāt
 23650	of Cachar	216-217 Far	548. (530f.)	duraï
@@ -27347,7 +27347,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 24088	South-western	218-219 Before	537. (530c.)	ch’āmu
 24089	South-western	218-219 Before		āgu
 24090	Siripuriā	218-219 Before	541. (530d.)	āgū
-24091	Eastern	218-219 Before	546. (530e.)	āgē
+24091	Bengali, Eastern	218-219 Before	546. (530e.)	āgē
 24092	of Cachar	218-219 Before	548. (530f.)	āgē
 24093	of Chittagong	218-219 Before	550. (530g.)	āgē
 24094	Chākmā	218-219 Before	551. (530h.)	āgē
@@ -27759,7 +27759,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 29258	South-western	22-23 Twenty	537. (530c.)	bis
 29259	Siripuriā	22-23 Twenty	541. (530d.)	bīs
 29260	Siripuriā	22-23 Twenty		kurī
-29261	Eastern	22-23 Twenty	546. (530e.)	biš
+29261	Bengali, Eastern	22-23 Twenty	546. (530e.)	biš
 29262	Eastern	22-23 Twenty		kuṛi
 29263	of Cachar	22-23 Twenty	548. (530f.)	biš
 29264	of Cachar	22-23 Twenty		kuṛi
@@ -28174,7 +28174,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 24517	South-western	220-221 Behind	537. (530c.)	pich’ur
 24518	South-western	220-221 Behind		bāṭe
 24519	Siripuriā	220-221 Behind	541. (530d.)	pīchu’ū
-24520	Eastern	220-221 Behind	546. (530e.)	pāsē
+24520	Bengali, Eastern	220-221 Behind	546. (530e.)	pāsē
 24521	of Cachar	220-221 Behind	548. (530f.)	pisē
 24522	of Chittagong	220-221 Behind	550. (530g.)	pich’ē
 24523	Chākmā	220-221 Behind	551. (530h.)	pijē
@@ -28615,7 +28615,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 24958	Bengali, spoken	222-223 Who?	530b.	kē
 24959	South-western	222-223 Who?	537. (530c.)	kē
 24960	Siripuriā	222-223 Who?	541. (530d.)	kē
-24961	Eastern	222-223 Who?	546. (530e.)	kēṭā
+24961	Bengali, Eastern	222-223 Who?	546. (530e.)	kēṭā
 24962	Eastern	222-223 Who?		kē
 24963	of Cachar	222-223 Who?	548. (530f.)	kēgu
 24964	of Chittagong	222-223 Who?	550. (530g.)	kan
@@ -29056,7 +29056,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 25399	Bengali, spoken	224-225 What?	530b.	kī
 25400	South-western	224-225 What?	537. (530c.)	kiṭā
 25401	Siripuriā	224-225 What?	541. (530d.)	kī
-25402	Eastern	224-225 What?	546. (530e.)	ki
+25402	Bengali, Eastern	224-225 What?	546. (530e.)	ki
 25403	Eastern	224-225 What?		kitā
 25404	of Cachar	224-225 What?	548. (530f.)	kitā
 25405	of Chittagong	224-225 What?	550. (530g.)	ki
@@ -29481,7 +29481,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 25824	Bengali, spoken	226-227 Why?	530b.	kǎno
 25825	South-western	226-227 Why?	537. (530c.)	kiske
 25826	Siripuriā	226-227 Why?	541. (530d.)	kiā̃e
-25827	Eastern	226-227 Why?	546. (530e.)	kērē
+25827	Bengali, Eastern	226-227 Why?	546. (530e.)	kērē
 25828	Eastern	226-227 Why?		kena
 25829	of Cachar	226-227 Why?	548. (530f.)	kēnē
 25830	of Cachar	226-227 Why?		kitār lāgi
@@ -29939,7 +29939,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 26282	Bengali, spoken	228-229 And	530b.	ār
 26283	South-western	228-229 And	537. (530c.)	ār
 26284	Siripuriā	228-229 And	541. (530d.)	ār’
-26285	Eastern	228-229 And	546. (530e.)	ār
+26285	Bengali, Eastern	228-229 And	546. (530e.)	ār
 26286	Eastern	228-229 And		āro
 26287	of Cachar	228-229 And	548. (530f.)	ār
 26288	of Chittagong	228-229 And	550. (530g.)	ār
@@ -30361,7 +30361,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 26704	Bengali, spoken	230-231 But	530b.	kintu
 26705	South-western	230-231 But	537. (530c.)	kintu
 26706	Siripuriā	230-231 But	541. (530d.)	magar
-26707	Eastern	230-231 But	546. (530e.)	kintu
+26707	Bengali, Eastern	230-231 But	546. (530e.)	kintu
 26708	of Cachar	230-231 But	548. (530f.)	ār
 26709	of Chittagong	230-231 But	550. (530g.)	kintu
 26710	Chākmā	230-231 But	551. (530h.)	māttar
@@ -30814,7 +30814,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 27157	Bengali, spoken	232-233 Yes		hǎ̃
 27158	South-western	232-233 Yes	537. (530c.)	hã
 27159	Siripuriā	232-233 Yes	541. (530d.)	hā̃
-27160	Eastern	232-233 Yes	546. (530e.)	hay
+27160	Bengali, Eastern	232-233 Yes	546. (530e.)	hay
 27161	of Cachar	232-233 Yes	548. (530f.)	hāin
 27162	of Cachar	232-233 Yes		āin
 27163	of Chittagong	232-233 Yes	550. (530g.)	hay
@@ -31268,7 +31268,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 27611	Bengali, spoken	234-235 No	530b.	nā
 27612	South-western	234-235 No	537. (530c.)	nā
 27613	Siripuriā	234-235 No	541. (530d.)	nī
-27614	Eastern	234-235 No	546. (530e.)	nā
+27614	Bengali, Eastern	234-235 No	546. (530e.)	nā
 27615	of Cachar	234-235 No	548. (530f.)	nā
 27616	of Chittagong	234-235 No	550. (530g.)	nā
 27617	of Chittagong	234-235 No		na
@@ -31736,7 +31736,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 28079	Bengali, spoken	236-237 Go	530b.	jā-
 28080	South-western	236-237 Go	537. (530c.)	jā-
 28081	Siripuriā	236-237 Go	541. (530d.)	jā-
-28082	Eastern	236-237 Go	546. (530e.)	ja-
+28082	Bengali, Eastern	236-237 Go	546. (530e.)	ja-
 28083	Eastern	236-237 Go		zā-
 28084	of Cachar	236-237 Go	548. (530f.)	zā-
 28085	of Chittagong	236-237 Go	550. (530g.)	zā-
@@ -32133,7 +32133,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 28476	Bengali, spoken	238-239 Eat	530b.	k’ā-
 28477	South-western	238-239 Eat	537. (530c.)	k’ā-
 28478	Siripuriā	238-239 Eat	541. (530d.)	k’ā-
-28479	Eastern	238-239 Eat	546. (530e.)	k’ā-
+28479	Bengali, Eastern	238-239 Eat	546. (530e.)	k’ā-
 28480	of Cachar	238-239 Eat	548. (530f.)	k’ā-
 28481	of Chittagong	238-239 Eat	550. (530g.)	k’ā-
 28482	Chākmā	238-239 Eat	551. (530h.)	k’ā-
@@ -32514,7 +32514,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 29642	Bengali, spoken	24-25 Fifty	530b.	panchāš
 29643	South-western	24-25 Fifty	537. (530c.)	panchās
 29644	Siripuriā	24-25 Fifty	541. (530d.)	pachās
-29645	Eastern	24-25 Fifty	546. (530e.)	panṯs̱āš
+29645	Bengali, Eastern	24-25 Fifty	546. (530e.)	panṯs̱āš
 29646	of Cachar	24-25 Fifty	548. (530f.)	pasāš
 29647	of Chittagong	24-25 Fifty	550. (530g.)	pañchās
 29648	Chākmā	24-25 Fifty	551. (530h.)	panjās
@@ -32897,7 +32897,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 28861	Bengali, spoken	240-241 Sit	530b.	boš-
 28862	South-western	240-241 Sit	537. (530c.)	bus-
 28863	Siripuriā	240-241 Sit	541. (530d.)	bōṭ’-
-28864	Eastern	240-241 Sit	546. (530e.)	baš-
+28864	Bengali, Eastern	240-241 Sit	546. (530e.)	baš-
 28865	Eastern	240-241 Sit		ba-
 28866	of Cachar	240-241 Sit	548. (530f.)	ba-
 28867	of Chittagong	240-241 Sit	550. (530g.)	bai-
@@ -33303,7 +33303,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 33963	South-western	242-243 Come	537. (530c.)	āis-
 33964	South-western	242-243 Come		ā-
 33965	Siripuriā	242-243 Come	541. (530d.)	ōs-
-33966	Eastern	242-243 Come	546. (530e.)	āš-
+33966	Bengali, Eastern	242-243 Come	546. (530e.)	āš-
 33967	Eastern	242-243 Come		ā-
 33968	of Cachar	242-243 Come	548. (530f.)	ā-
 33969	of Chittagong	242-243 Come	550. (530g.)	āi-
@@ -33688,7 +33688,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 34348	Bengali, spoken	244-245 Stand	530b.	ḍā̃ṛā-
 34349	South-western	244-245 Stand	537. (530c.)	dā̃ṛā-
 34350	Siripuriā	244-245 Stand	541. (530d.)	ṭ’ārō hō-
-34351	Eastern	244-245 Stand	546. (530e.)	k’ār
+34351	Bengali, Eastern	244-245 Stand	546. (530e.)	k’ār
 34352	of Cachar	244-245 Stand	548. (530f.)	ub’ā-
 34353	of Chittagong	244-245 Stand	550. (530g.)	t’iā-
 34354	Chākmā	244-245 Stand	551. (530h.)	t’i-
@@ -34073,7 +34073,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 34733	Bengali, spoken	246-247 Die	530b.	mǒr-
 34734	South-western	246-247 Die	537. (530c.)	mar-
 34735	Siripuriā	246-247 Die	541. (530d.)	mar-
-34736	Eastern	246-247 Die	546. (530e.)	mar-
+34736	Bengali, Eastern	246-247 Die	546. (530e.)	mar-
 34737	of Cachar	246-247 Die	548. (530f.)	mar-
 34738	of Chittagong	246-247 Die	550. (530g.)	mar-
 34739	Chākmā	246-247 Die	551. (530h.)	mar-
@@ -34483,7 +34483,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 35143	Bengali, spoken	248-249 Give	530b.	di-
 35144	South-western	248-249 Give	537. (530c.)	di-
 35145	Siripuriā	248-249 Give	541. (530d.)	dē-
-35146	Eastern	248-249 Give	546. (530e.)	dē-
+35146	Bengali, Eastern	248-249 Give	546. (530e.)	dē-
 35147	Eastern	248-249 Give		da-
 35148	of Cachar	248-249 Give	548. (530f.)	dē-
 35149	of Chittagong	248-249 Give	550. (530g.)	dē-
@@ -34881,7 +34881,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 35541	South-western	250-251 Run	537. (530c.)	dauṛ-
 35542	South-western	250-251 Run		d’ʸā̃yā jā-
 35543	Siripuriā	250-251 Run	541. (530d.)	daur-
-35544	Eastern	250-251 Run	546. (530e.)	dauṛ-
+35544	Bengali, Eastern	250-251 Run	546. (530e.)	dauṛ-
 35545	Eastern	250-251 Run		laṛ-
 35546	of Cachar	250-251 Run	548. (530f.)	laṛ dē-
 35547	of Chittagong	250-251 Run	550. (530g.)	dũuṛ-
@@ -35284,7 +35284,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 35944	Bengali, spoken	252-253 I am	530b.	āmi āch’i (āchi, or hoi)
 35945	South-western	252-253 I am	537. (530c.)	mui āch’i
 35946	Siripuriā	252-253 I am	541. (530d.)	mui ch’ī
-35947	Eastern	252-253 I am	546. (530e.)	āmi āsi (or aï)
+35947	Bengali, Eastern	252-253 I am	546. (530e.)	āmi āsi (or aï)
 35948	of Cachar	252-253 I am	548. (530f.)	mui āsō (or āsi)
 35949	of Chittagong	252-253 I am	550. (530g.)	ā̃i āch’i
 35950	Chākmā	252-253 I am	551. (530h.)	mui āgi
@@ -35662,7 +35662,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 36322	Bengali, spoken	254-255 Thou art	530b.	tui āch’iš (āchiš, or hoš)
 36323	South-western	254-255 Thou art	537. (530c.)	tui āch’u
 36324	Siripuriā	254-255 Thou art	541. (530d.)	tui ch’is
-36325	Eastern	254-255 Thou art	546. (530e.)	tui āsas
+36325	Bengali, Eastern	254-255 Thou art	546. (530e.)	tui āsas
 36326	of Cachar	254-255 Thou art	548. (530f.)	tuin āsas
 36327	of Chittagong	254-255 Thou art	550. (530g.)	tui āch’as
 36328	Chākmā	254-255 Thou art	551. (530h.)	tūi āgas (or nē)
@@ -36039,7 +36039,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 36699	Bengali, spoken	256-257 He is	530b.	šē āch’e (āche, or hǒě)
 36700	South-western	256-257 He is	537. (530c.)	sē āch’ē
 36701	Siripuriā	256-257 He is	541. (530d.)	ō̃hē̃ ch’ē
-36702	Eastern	256-257 He is	546. (530e.)	sē āsē (or ay)
+36702	Bengali, Eastern	256-257 He is	546. (530e.)	sē āsē (or ay)
 36703	of Cachar	256-257 He is	548. (530f.)	hē āsē
 36704	of Chittagong	256-257 He is	550. (530g.)	tē āch’e
 36705	Chākmā	256-257 He is	551. (530h.)	tē āgē (or nē)
@@ -36416,7 +36416,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 37076	Bengali, spoken	258-259 We are	530b.	āmrā āch’i (āchi, or hoi)
 37077	South-western	258-259 We are	537. (530c.)	mōr-mēne āch’i
 37078	Siripuriā	258-259 We are	541. (530d.)	hāmᵃrā ch’ī
-37079	Eastern	258-259 We are	546. (530e.)	āmrā āsi (or aï)
+37079	Bengali, Eastern	258-259 We are	546. (530e.)	āmrā āsi (or aï)
 37080	of Cachar	258-259 We are	548. (530f.)	āmrā āsi
 37081	of Chittagong	258-259 We are	550. (530g.)	ā̃yarā āch’i
 37082	Chākmā	258-259 We are	551. (530h.)	āmi āgi
@@ -36808,7 +36808,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 30034	Bengali, spoken	26-27 Hundred		šǒ
 30035	South-western	26-27 Hundred	537. (530c.)	ěk sa
 30036	Siripuriā	26-27 Hundred	541. (530d.)	sa
-30037	Eastern	26-27 Hundred	546. (530e.)	ša
+30037	Bengali, Eastern	26-27 Hundred	546. (530e.)	ša
 30038	of Cachar	26-27 Hundred	548. (530f.)	ša
 30039	of Chittagong	26-27 Hundred	550. (530g.)	šat
 30040	of Chittagong	26-27 Hundred		ša
@@ -37189,7 +37189,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 37452	Bengali, spoken	260-261 You are	530b.	tmrā āch’o (ācho, or hǒo)
 37453	South-western	260-261 You are	537. (530c.)	tumār-mēne āch’a
 37454	Siripuriā	260-261 You are	541. (530d.)	tumᵃrā ch’en
-37455	Eastern	260-261 You are	546. (530e.)	tomrā āsa (or aō)
+37455	Bengali, Eastern	260-261 You are	546. (530e.)	tomrā āsa (or aō)
 37456	of Cachar	260-261 You are	548. (530f.)	tomrā āsa
 37457	of Chittagong	260-261 You are	550. (530g.)	tũi āch’a
 37458	Chākmā	260-261 You are	551. (530h.)	tui āgas (or nē)
@@ -37567,7 +37567,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 37830	Bengali, spoken	262-263 They are	530b.	tārā āch’e (āche, or hǒě)
 37831	South-western	262-263 They are	537. (530c.)	tānne āch’ē
 37832	Siripuriā	262-263 They are	541. (530d.)	ōrā ch’ē
-37833	Eastern	262-263 They are	546. (530e.)	tārā āsē (or ay)
+37833	Bengali, Eastern	262-263 They are	546. (530e.)	tārā āsē (or ay)
 37834	of Cachar	262-263 They are	548. (530f.)	tārā āsē
 37835	of Chittagong	262-263 They are	550. (530g.)	tārā āch’ē
 37836	Chākmā	262-263 They are	551. (530h.)	tārā āgan (or nē)
@@ -37945,7 +37945,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 38208	Bengali, spoken	264-265 I was	530b.	āmi ch’ilum
 38209	South-western	264-265 I was	537. (530c.)	mui ch’ini (or t’āini)
 38210	Siripuriā	264-265 I was	541. (530d.)	mui ch’inu
-38211	Eastern	264-265 I was	546. (530e.)	āmi āslām
+38211	Bengali, Eastern	264-265 I was	546. (530e.)	āmi āslām
 38212	of Cachar	264-265 I was	548. (530f.)	mui āslum (or āslōm)
 38213	of Chittagong	264-265 I was	550. (530g.)	ā̃i āch’ilām
 38214	Chākmā	264-265 I was	551. (530h.)	mui ēluṅ
@@ -38321,7 +38321,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 38584	Bengali, spoken	266-267 Thou wast	530b.	tūi ch’ili
 38585	South-western	266-267 Thou wast	537. (530c.)	tui ch’inu (or t’āilu)
 38586	Siripuriā	266-267 Thou wast	541. (530d.)	tui ch’ilō
-38587	Eastern	266-267 Thou wast	546. (530e.)	tui āslē
+38587	Bengali, Eastern	266-267 Thou wast	546. (530e.)	tui āslē
 38588	of Cachar	266-267 Thou wast	548. (530f.)	tuin āslē
 38589	of Chittagong	266-267 Thou wast	550. (530g.)	tui āch’ili
 38590	Chākmā	266-267 Thou wast	551. (530h.)	tūi ēlē
@@ -38697,7 +38697,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 38960	Bengali, spoken	268-269 He was	530b.	šē ch’ilo
 38961	South-western	268-269 He was	537. (530c.)	sē ch’ila (or t’āila)
 38962	Siripuriā	268-269 He was	541. (530d.)	ō̃hē̃ ch’il
-38963	Eastern	268-269 He was	546. (530e.)	šē āsil
+38963	Bengali, Eastern	268-269 He was	546. (530e.)	šē āsil
 38964	of Cachar	268-269 He was	548. (530f.)	hē āsil
 38965	of Chittagong	268-269 He was	550. (530g.)	tē āch’il
 38966	Chākmā	268-269 He was	551. (530h.)	tē ēl
@@ -39073,7 +39073,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 39336	Bengali, spoken	270-271 We were	530b.	āmrā ch’ilum
 39337	South-western	270-271 We were	537. (530c.)	mōr-mēne ch’ini (or t’āini)
 39338	Siripuriā	270-271 We were	541. (530d.)	hāmᵃrā ch’inu
-39339	Eastern	270-271 We were	546. (530e.)	āmrā āslām
+39339	Bengali, Eastern	270-271 We were	546. (530e.)	āmrā āslām
 39340	of Cachar	270-271 We were	548. (530f.)	āmrā āslām
 39341	of Chittagong	270-271 We were	550. (530g.)	ā̃yarā āch’ilām
 39342	Chākmā	270-271 We were	551. (530h.)	āmi ēlaṅ
@@ -39449,7 +39449,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 39712	Bengali, spoken	272-273 You were	530b.	tomrā ch’ile
 39713	South-western	272-273 You were	537. (530c.)	tamār-mēne ch’ila (or t’āila)
 39714	Siripuriā	272-273 You were	541. (530d.)	tumᵃrā ch’ilhen
-39715	Eastern	272-273 You were	546. (530e.)	tomrā āslā
+39715	Bengali, Eastern	272-273 You were	546. (530e.)	tomrā āslā
 39716	of Cachar	272-273 You were	548. (530f.)	tomrā āslāy
 39717	of Chittagong	272-273 You were	550. (530g.)	tō̃rā āch’ilā
 39718	Chākmā	272-273 You were	551. (530h.)	tūmi ēlā
@@ -39824,7 +39824,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 40087	Bengali, spoken	274-275 They were	530b.	tārā ch’ilo
 40088	South-western	274-275 They were	537. (530c.)	tār-mēne ch’ila (or t’āila)
 40089	Siripuriā	274-275 They were	541. (530d.)	ōrā ch’il
-40090	Eastern	274-275 They were	546. (530e.)	tārā āsil
+40090	Bengali, Eastern	274-275 They were	546. (530e.)	tārā āsil
 40091	of Cachar	274-275 They were	548. (530f.)	tārā āsil
 40092	of Chittagong	274-275 They were	550. (530g.)	tārā āch’il
 40093	Chākmā	274-275 They were	551. (530h.)	tārā ēlāk
@@ -40241,7 +40241,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 40504	Bengali, spoken	276-277 Beat	530b.	mār-
 40505	South-western	276-277 Beat	537. (530c.)	mār-
 40506	Siripuriā	276-277 Beat	541. (530d.)	mār-
-40507	Eastern	276-277 Beat	546. (530e.)	piṭ-
+40507	Bengali, Eastern	276-277 Beat	546. (530e.)	piṭ-
 40508	of Cachar	276-277 Beat	548. (530f.)	mār-
 40509	of Chittagong	276-277 Beat	550. (530g.)	mār-
 40510	Chākmā	276-277 Beat	551. (530h.)	mār-
@@ -40619,7 +40619,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 40882	Bengali, spoken	278-279 I beat	530b.	āmi māri
 40883	South-western	278-279 I beat	537. (530c.)	mui māri
 40884	Siripuriā	278-279 I beat	541. (530d.)	mui mārōch’ī
-40885	Eastern	278-279 I beat	546. (530e.)	āmi piṭi
+40885	Bengali, Eastern	278-279 I beat	546. (530e.)	āmi piṭi
 40886	of Cachar	278-279 I beat	548. (530f.)	mui mārō
 40887	of Chittagong	278-279 I beat	550. (530g.)	ā̃i māri
 40888	Chākmā	278-279 I beat	551. (530h.)	mui māraṅ
@@ -41092,7 +41092,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 30513	Siripuriā	28-29 I	541. (530d.)	mui
 30514	Siripuriā	28-29 I		ham
 30515	Siripuriā	28-29 I		hāmi
-30516	Eastern	28-29 I	546. (530e.)	āmi
+30516	Bengali, Eastern	28-29 I	546. (530e.)	āmi
 30517	of Cachar	28-29 I	548. (530f.)	mui
 30518	of Chittagong	28-29 I	550. (530g.)	ā̃i
 30519	Chākmā	28-29 I	551. (530h.)	mui
@@ -41477,7 +41477,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 41254	Bengali, spoken	280-281 Thou beatest	530b.	tui māriš
 41255	South-western	280-281 Thou beatest	537. (530c.)	tui māru
 41256	Siripuriā	280-281 Thou beatest	541. (530d.)	tui mārōch’is
-41257	Eastern	280-281 Thou beatest	546. (530e.)	tui piṭas
+41257	Bengali, Eastern	280-281 Thou beatest	546. (530e.)	tui piṭas
 41258	of Cachar	280-281 Thou beatest	548. (530f.)	tuin māras
 41259	of Chittagong	280-281 Thou beatest	550. (530g.)	tui māras
 41260	Chākmā	280-281 Thou beatest	551. (530h.)	tūi māras
@@ -41848,7 +41848,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 41625	Bengali, spoken	282-283 He beats	530b.	šē māre
 41626	South-western	282-283 He beats	537. (530c.)	sē mārē
 41627	Siripuriā	282-283 He beats	541. (530d.)	ō̃hē̃ mārōch’ē
-41628	Eastern	282-283 He beats	546. (530e.)	šē piṭē
+41628	Bengali, Eastern	282-283 He beats	546. (530e.)	šē piṭē
 41629	of Cachar	282-283 He beats	548. (530f.)	hē mārēr
 41630	of Chittagong	282-283 He beats	550. (530g.)	tē mārē
 41631	Chākmā	282-283 He beats	551. (530h.)	tē mārē
@@ -42220,7 +42220,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 41997	Bengali, spoken	284-285 We beat	530b.	āmrā märi
 41998	South-western	284-285 We beat	537. (530c.)	mōr-mēne māri
 41999	Siripuriā	284-285 We beat	541. (530d.)	hāmᵃrā mārōch’ī
-42000	Eastern	284-285 We beat	546. (530e.)	āmrā piṭi
+42000	Bengali, Eastern	284-285 We beat	546. (530e.)	āmrā piṭi
 42001	of Cachar	284-285 We beat	548. (530f.)	āmrā māri
 42002	of Chittagong	284-285 We beat	550. (530g.)	ā̃yarā māri
 42003	Chākmā	284-285 We beat	551. (530h.)	āmi māri
@@ -42592,7 +42592,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 42369	Bengali, spoken	286-287 You beat	530b.	tomrā māro
 42370	South-western	286-287 You beat	537. (530c.)	tamār-mēne māra
 42371	Siripuriā	286-287 You beat	541. (530d.)	tumᵃrā mārōch’en
-42372	Eastern	286-287 You beat	546. (530e.)	tomrā piṭa
+42372	Bengali, Eastern	286-287 You beat	546. (530e.)	tomrā piṭa
 42373	of Cachar	286-287 You beat	548. (530f.)	tomrā māra
 42374	of Chittagong	286-287 You beat	550. (530g.)	tō̃rā māra
 42375	Chākmā	286-287 You beat	551. (530h.)	tūmi māra
@@ -42964,7 +42964,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 42741	Bengali, spoken	288-289 They beat	530b.	tārā māre
 42742	South-western	288-289 They beat	537. (530c.)	tār-mēne mārē
 42743	Siripuriā	288-289 They beat	541. (530d.)	ōrā mārōch’ē
-42744	Eastern	288-289 They beat	546. (530e.)	tārā piṭē
+42744	Bengali, Eastern	288-289 They beat	546. (530e.)	tārā piṭē
 42745	of Cachar	288-289 They beat	548. (530f.)	tārā mārēr
 42746	of Chittagong	288-289 They beat	550. (530g.)	tārā mārē
 42747	Chākmā	288-289 They beat	551. (530h.)	tārā mārē
@@ -43337,7 +43337,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 43114	Bengali, spoken	290-291 I beat (Past Tense)	530b.	āmi māllum
 43115	South-western	290-291 I beat (Past Tense)	537. (530c.)	mui mārchch’ini
 43116	Siripuriā	290-291 I beat (Past Tense)	541. (530d.)	mui mārnu
-43117	Eastern	290-291 I beat (Past Tense)	546. (530e.)	āmi piṭsilām
+43117	Bengali, Eastern	290-291 I beat (Past Tense)	546. (530e.)	āmi piṭsilām
 43118	of Cachar	290-291 I beat (Past Tense)	548. (530f.)	mui mārsilōm
 43119	of Chittagong	290-291 I beat (Past Tense)	550. (530g.)	ā̃i mārgyām (or mārzām)
 43120	Chākmā	290-291 I beat (Past Tense)	551. (530h.)	mui mārgyaṅ
@@ -43711,7 +43711,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 43488	Bengali, spoken	292-293 Thou beatest (Past Tense)		tumi mālle
 43489	South-western	292-293 Thou beatest (Past Tense)	537. (530c.)	tui mārchch’ilu
 43490	Siripuriā	292-293 Thou beatest (Past Tense)	541. (530d.)	tui mārlō
-43491	Eastern	292-293 Thou beatest (Past Tense)	546. (530e.)	tui piṭsilē
+43491	Bengali, Eastern	292-293 Thou beatest (Past Tense)	546. (530e.)	tui piṭsilē
 43492	of Cachar	292-293 Thou beatest (Past Tense)	548. (530f.)	tuin mārsilē
 43493	of Chittagong	292-293 Thou beatest (Past Tense)	550. (530g.)	tui mārgyas (or mārzi)
 43494	Chākmā	292-293 Thou beatest (Past Tense)	551. (530h.)	tūi mārgyas
@@ -44088,7 +44088,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 43865	Bengali, spoken	294-295 He beat (Past Tense)	530b.	šē mālle
 43866	South-western	294-295 He beat (Past Tense)	537. (530c.)	sē mārchch’ila
 43867	Siripuriā	294-295 He beat (Past Tense)	541. (530d.)	ō̃hē̃ mārlē
-43868	Eastern	294-295 He beat (Past Tense)	546. (530e.)	šē piṭsil
+43868	Bengali, Eastern	294-295 He beat (Past Tense)	546. (530e.)	šē piṭsil
 43869	of Cachar	294-295 He beat (Past Tense)	548. (530f.)	hē mārsil
 43870	of Chittagong	294-295 He beat (Past Tense)	550. (530g.)	tē mārgyē (or mārzē)
 43871	Chākmā	294-295 He beat (Past Tense)	551. (530h.)	tē mārgyē
@@ -44461,7 +44461,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 44238	Bengali, spoken	296-297 We beat (Past Tense)	530b.	āmrā māllum
 44239	South-western	296-297 We beat (Past Tense)	537. (530c.)	monne mārchch’ili
 44240	Siripuriā	296-297 We beat (Past Tense)	541. (530d.)	hāmᵃrā mārnu
-44241	Eastern	296-297 We beat (Past Tense)	546. (530e.)	āmrā piṭsilām
+44241	Bengali, Eastern	296-297 We beat (Past Tense)	546. (530e.)	āmrā piṭsilām
 44242	of Cachar	296-297 We beat (Past Tense)	548. (530f.)	āmrā mārsilām
 44243	of Chittagong	296-297 We beat (Past Tense)	550. (530g.)	ā̃rā mārgyām (or mārzām)
 44244	Chākmā	296-297 We beat (Past Tense)	551. (530h.)	āmi mārgēi
@@ -44835,7 +44835,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 44612	Bengali, spoken	298-299 You beat (Past Tense)	530b.	tomrā mālle
 44613	South-western	298-299 You beat (Past Tense)	537. (530c.)	tonne mārchch’ilu
 44614	Siripuriā	298-299 You beat (Past Tense)	541. (530d.)	tumᵃrā mārlē
-44615	Eastern	298-299 You beat (Past Tense)	546. (530e.)	tomrā piṭsilē
+44615	Bengali, Eastern	298-299 You beat (Past Tense)	546. (530e.)	tomrā piṭsilē
 44616	of Cachar	298-299 You beat (Past Tense)	548. (530f.)	tomrā mārsilāy
 44617	of Chittagong	298-299 You beat (Past Tense)	550. (530g.)	ōrā mārgyi (or mārzi)
 44618	Chākmā	298-299 You beat (Past Tense)	551. (530h.)	tārā mārgyan
@@ -45321,7 +45321,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 31010	Bengali, spoken	30-31 My		āmār
 31011	South-western	30-31 My	537. (530c.)	mōr
 31012	Siripuriā	30-31 My	541. (530d.)	mōr
-31013	Eastern	30-31 My	546. (530e.)	āmār
+31013	Bengali, Eastern	30-31 My	546. (530e.)	āmār
 31014	of Cachar	30-31 My	548. (530f.)	mår
 31015	of Chittagong	30-31 My	550. (530g.)	ā̃r
 31016	of Chittagong	30-31 My		ā̃yār
@@ -45709,7 +45709,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 44988	Bengali, spoken	300-301 They beat (Past Tense)	530b.	tārā mālle
 44989	South-western	300-301 They beat (Past Tense)	537. (530c.)	tānne mārchch’ila
 44990	Siripuriā	300-301 They beat (Past Tense)	541. (530d.)	ōrā mārlē
-44991	Eastern	300-301 They beat (Past Tense)	546. (530e.)	tārā piṭsil
+44991	Bengali, Eastern	300-301 They beat (Past Tense)	546. (530e.)	tārā piṭsil
 44992	of Cachar	300-301 They beat (Past Tense)	548. (530f.)	tārā mārsil
 44993	of Chittagong	300-301 They beat (Past Tense)	550. (530g.)	tārā mārgyē (or mārzē)
 44994	Chākmā	300-301 They beat (Past Tense)	551. (530h.)	tārā mārgyan
@@ -46075,7 +46075,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 45354	Bengali, spoken	302-303 I shall beat	530b.	āmi mārbo
 45355	South-western	302-303 I shall beat	537. (530c.)	mui mārbō
 45356	Siripuriā	302-303 I shall beat	541. (530d.)	mui mārmu
-45357	Eastern	302-303 I shall beat	546. (530e.)	āmi piṭmu
+45357	Bengali, Eastern	302-303 I shall beat	546. (530e.)	āmi piṭmu
 45358	of Cachar	302-303 I shall beat	548. (530f.)	mui mārmu
 45359	of Chittagong	302-303 I shall beat	550. (530g.)	ā̃i mārigam
 45360	Chākmā	302-303 I shall beat	551. (530h.)	mui mārim
@@ -46442,7 +46442,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 45721	Bengali, spoken	304-305 Thou wilt beat		tumi mārbe
 45722	South-western	304-305 Thou wilt beat	537. (530c.)	tui mārbi
 45723	Siripuriā	304-305 Thou wilt beat	541. (530d.)	tui mārbō
-45724	Eastern	304-305 Thou wilt beat	546. (530e.)	tui piṭbē
+45724	Bengali, Eastern	304-305 Thou wilt beat	546. (530e.)	tui piṭbē
 45725	of Cachar	304-305 Thou wilt beat	548. (530f.)	tuin mārbē
 45726	of Chittagong	304-305 Thou wilt beat	550. (530g.)	tui māribi (or māribāk)
 45727	Chākmā	304-305 Thou wilt beat	551. (530h.)	tūi māribē
@@ -46809,7 +46809,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 46088	Bengali, spoken	306-307 He will beat	530b.	šē mārbe
 46089	South-western	306-307 He will beat	537. (530c.)	sē mārbē
 46090	Siripuriā	306-307 He will beat	541. (530d.)	ō̃hē̃ mārbē
-46091	Eastern	306-307 He will beat	546. (530e.)	šē piṭba
+46091	Bengali, Eastern	306-307 He will beat	546. (530e.)	šē piṭba
 46092	of Cachar	306-307 He will beat	548. (530f.)	hē mārba
 46093	of Chittagong	306-307 He will beat	550. (530g.)	tē māribē
 46094	Chākmā	306-307 He will beat	551. (530h.)	tē māriba
@@ -47175,7 +47175,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 46454	Bengali, spoken	308-309 We shall beat	530b.	āmrā mārbo
 46455	South-western	308-309 We shall beat	537. (530c.)	monne mārbō
 46456	Siripuriā	308-309 We shall beat	541. (530d.)	hāmᵃrā mārmu
-46457	Eastern	308-309 We shall beat	546. (530e.)	āmrā piṭmu
+46457	Bengali, Eastern	308-309 We shall beat	546. (530e.)	āmrā piṭmu
 46458	of Cachar	308-309 We shall beat	548. (530f.)	āmrā mārmu
 46459	of Chittagong	308-309 We shall beat	550. (530g.)	ā̃rā mārgyam
 46460	Chākmā	308-309 We shall beat	551. (530h.)	āmi māribaṅ
@@ -47542,7 +47542,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 46821	Bengali, spoken	310-311 You will beat	530b.	tomrā mārbe
 46822	South-western	310-311 You will beat	537. (530c.)	tonne mārbi
 46823	Siripuriā	310-311 You will beat	541. (530d.)	tumᵃrā mārbhen
-46824	Eastern	310-311 You will beat	546. (530e.)	tomrā piṭbā
+46824	Bengali, Eastern	310-311 You will beat	546. (530e.)	tomrā piṭbā
 46825	of Cachar	310-311 You will beat	548. (530f.)	tomrā mārbāy
 46826	of Chittagong	310-311 You will beat	550. (530g.)	tōrā māribi
 46827	Chākmā	310-311 You will beat	551. (530h.)	tārā māribāk
@@ -47909,7 +47909,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 47188	Bengali, spoken	312-313 They will beat	530b.	tārā mārbe
 47189	South-western	312-313 They will beat	537. (530c.)	tānne mārbe
 47190	Siripuriā	312-313 They will beat	541. (530d.)	ōrā mārbē
-47191	Eastern	312-313 They will beat	546. (530e.)	tārā piṭba
+47191	Bengali, Eastern	312-313 They will beat	546. (530e.)	tārā piṭba
 47192	of Cachar	312-313 They will beat	548. (530f.)	tārā mārba
 47193	of Chittagong	312-313 They will beat	550. (530g.)	tārā māribya
 47194	Chākmā	312-313 They will beat	551. (530h.)	tārā māribāk
@@ -48282,7 +48282,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 47561	Bengali, spoken	314-315 I go	530b.	āmi jāi
 47562	South-western	314-315 I go	537. (530c.)	mui jāi
 47563	Siripuriā	314-315 I go	541. (530d.)	mui jāch’ī
-47564	Eastern	314-315 I go	546. (530e.)	āmi zāi
+47564	Bengali, Eastern	314-315 I go	546. (530e.)	āmi zāi
 47565	of Cachar	314-315 I go	548. (530f.)	mui zāi (or zāiār)
 47566	of Chittagong	314-315 I go	550. (530g.)	ā̃i zāi
 47567	Chākmā	314-315 I go	551. (530h.)	mui jāṅar
@@ -48655,7 +48655,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 47934	Bengali, spoken	316-317 Thou goest	530b.	tūi jāš
 47935	South-western	316-317 Thou goest	537. (530c.)	tui jāu
 47936	Siripuriā	316-317 Thou goest	541. (530d.)	tui jāch’is
-47937	Eastern	316-317 Thou goest	546. (530e.)	tui zās
+47937	Bengali, Eastern	316-317 Thou goest	546. (530e.)	tui zās
 47938	of Cachar	316-317 Thou goest	548. (530f.)	tuin zāsas
 47939	of Chittagong	316-317 Thou goest	550. (530g.)	tui zā
 47940	Chākmā	316-317 Thou goest	551. (530h.)	tūi jār
@@ -49031,7 +49031,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 48310	Bengali, spoken	318-319 He goes	530b.	šē jāě
 48311	South-western	318-319 He goes	537. (530c.)	sē jāy
 48312	Siripuriā	318-319 He goes	541. (530d.)	ō̃hē̃ jāch’ē
-48313	Eastern	318-319 He goes	546. (530e.)	šē zāy
+48313	Bengali, Eastern	318-319 He goes	546. (530e.)	šē zāy
 48314	of Cachar	318-319 He goes	548. (530f.)	hē zāy
 48315	of Chittagong	318-319 He goes	550. (530g.)	tē zār
 48316	Chākmā	318-319 He goes	551. (530h.)	tē jār
@@ -49572,7 +49572,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 31565	South-western	32-33 We		monne
 31566	South-western	32-33 We		āmānne
 31567	Siripuriā	32-33 We	541. (530d.)	hāmarā
-31568	Eastern	32-33 We	546. (530e.)	āmrā
+31568	Bengali, Eastern	32-33 We	546. (530e.)	āmrā
 31569	of Cachar	32-33 We	548. (530f.)	āmrā
 31570	of Chittagong	32-33 We	550. (530g.)	ā̃rā
 31571	of Chittagong	32-33 We		ā̃yarā
@@ -49966,7 +49966,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 48682	Bengali, spoken	320-321 We go	530b.	āmrā jāi
 48683	South-western	320-321 We go	537. (530c.)	monne jāi
 48684	Siripuriā	320-321 We go	541. (530d.)	hāmᵃrā jāch’ī
-48685	Eastern	320-321 We go	546. (530e.)	āmrā zāi
+48685	Bengali, Eastern	320-321 We go	546. (530e.)	āmrā zāi
 48686	of Cachar	320-321 We go	548. (530f.)	āmrā zāi (or zāiār)
 48687	of Chittagong	320-321 We go	550. (530g.)	ā̃rā zāi
 48688	Chākmā	320-321 We go	551. (530h.)	āmi jēi
@@ -50338,7 +50338,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 49054	Bengali, spoken	322-323 You go	530b.	tomrā jāo
 49055	South-western	322-323 You go	537. (530c.)	tonne jā
 49056	Siripuriā	322-323 You go	541. (530d.)	tumᵃrā jāch’en
-49057	Eastern	322-323 You go	546. (530e.)	tomrā zāo
+49057	Bengali, Eastern	322-323 You go	546. (530e.)	tomrā zāo
 49058	of Cachar	322-323 You go	548. (530f.)	tomrā zāo
 49059	of Chittagong	322-323 You go	550. (530g.)	tōrā zā
 49060	Chākmā	322-323 You go	551. (530h.)	tūmi jā
@@ -50710,7 +50710,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 49426	Bengali, spoken	324-325 They go	530b.	tārā jāě
 49427	South-western	324-325 They go	537. (530c.)	tānne jāy
 49428	Siripuriā	324-325 They go	541. (530d.)	ōrā jāch’ē
-49429	Eastern	324-325 They go	546. (530e.)	tārā zāy
+49429	Bengali, Eastern	324-325 They go	546. (530e.)	tārā zāy
 49430	of Cachar	324-325 They go	548. (530f.)	tārā zāy (or zāēr)
 49431	of Chittagong	324-325 They go	550. (530g.)	tārā zāyē
 49432	Chākmā	324-325 They go	551. (530h.)	tārā jēyan
@@ -51081,7 +51081,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 49797	Bengali, spoken	326-327 I went	530b.	āmi gelum
 49798	South-western	326-327 I went	537. (530c.)	mui gʸāt’li (or gʸāch’li)
 49799	Siripuriā	326-327 I went	541. (530d.)	mui gēnu
-49800	Eastern	326-327 I went	546. (530e.)	āmi gěslām
+49800	Bengali, Eastern	326-327 I went	546. (530e.)	āmi gěslām
 49801	of Cachar	326-327 I went	548. (530f.)	mui gěslum (or gěslōm)
 49802	of Chittagong	326-327 I went	550. (530g.)	ā̃i gēilām
 49803	Chākmā	326-327 I went	551. (530h.)	mui jēyaṅ
@@ -51452,7 +51452,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 50168	Bengali, spoken	328-329 Thou wentest		tumi gǎle
 50169	South-western	328-329 Thou wentest	537. (530c.)	tui gʸāt’nu (or gʸāch’lu)
 50170	Siripuriā	328-329 Thou wentest	541. (530d.)	tui gēlō
-50171	Eastern	328-329 Thou wentest	546. (530e.)	tui gēslē
+50171	Bengali, Eastern	328-329 Thou wentest	546. (530e.)	tui gēslē
 50172	of Cachar	328-329 Thou wentest	548. (530f.)	tuin gěslē
 50173	of Chittagong	328-329 Thou wentest	550. (530g.)	tui gēili
 50174	Chākmā	328-329 Thou wentest	551. (530h.)	tūi jēyas
@@ -51825,7 +51825,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 50541	Bengali, spoken	330-331 He went	530b.	šē gǎlō
 50542	South-western	330-331 He went	537. (530c.)	sē gʸāt’la (or gʸāch’la)
 50543	Siripuriā	330-331 He went	541. (530d.)	ō̃hē̃ gēl
-50544	Eastern	330-331 He went	546. (530e.)	šē gěsil
+50544	Bengali, Eastern	330-331 He went	546. (530e.)	šē gěsil
 50545	of Cachar	330-331 He went	548. (530f.)	hē gěsil
 50546	of Chittagong	330-331 He went	550. (530g.)	tē gēil (or gēl)
 50547	Chākmā	330-331 He went	551. (530h.)	tē jēyē
@@ -52196,7 +52196,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 50912	Bengali, spoken	332-333 We went	530b.	ämrā gelum
 50913	South-western	332-333 We went	537. (530c.)	monne gʸāch’ni
 50914	Siripuriā	332-333 We went	541. (530d.)	hāmᵃrā gēnu
-50915	Eastern	332-333 We went	546. (530e.)	āmrā gěslām
+50915	Bengali, Eastern	332-333 We went	546. (530e.)	āmrā gěslām
 50916	of Cachar	332-333 We went	548. (530f.)	āmrā gěslām
 50917	of Chittagong	332-333 We went	550. (530g.)	ā̃rā gēilām
 50918	Chākmā	332-333 We went	551. (530h.)	āmi jēyēy
@@ -52567,7 +52567,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 51283	Bengali, spoken	334-335 You went	530b.	tomrā gǎle
 51284	South-western	334-335 You went	537. (530c.)	tonne gʸāch’lu
 51285	Siripuriā	334-335 You went	541. (530d.)	tumᵃrā gēlhen
-51286	Eastern	334-335 You went	546. (530e.)	tomrā gěslā
+51286	Bengali, Eastern	334-335 You went	546. (530e.)	tomrā gěslā
 51287	of Cachar	334-335 You went	548. (530f.)	tomrā gěslāy
 51288	of Chittagong	334-335 You went	550. (530g.)	tōrā gēili
 51289	Chākmā	334-335 You went	551. (530h.)	tūmi jēya
@@ -52941,7 +52941,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 51657	Bengali, spoken	336-337 They went	530b.	tārā gǎlo
 51658	South-western	336-337 They went	537. (530c.)	tānne gʸāch’la
 51659	Siripuriā	336-337 They went	541. (530d.)	ōrā gēl
-51660	Eastern	336-337 They went	546. (530e.)	tārā gěsil
+51660	Bengali, Eastern	336-337 They went	546. (530e.)	tārā gěsil
 51661	of Cachar	336-337 They went	548. (530f.)	tārā gěsil
 51662	of Chittagong	336-337 They went	550. (530g.)	tārā gēil
 51663	Chākmā	336-337 They went	551. (530h.)	tārā jēyan
@@ -53428,7 +53428,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 32074	South-western	34-35 Our		monne-kār
 32075	South-western	34-35 Our		āmānne-kār
 32076	Siripuriā	34-35 Our	541. (530d.)	hām-sār
-32077	Eastern	34-35 Our	546. (530e.)	āmrār
+32077	Bengali, Eastern	34-35 Our	546. (530e.)	āmrār
 32078	of Cachar	34-35 Our	548. (530f.)	āmrār
 32079	of Chittagong	34-35 Our	550. (530g.)	ā̃rār
 32080	of Chittagong	34-35 Our		ā̃yarār
@@ -53906,7 +53906,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 32552	South-western	36-37 Thou	537. (530c.)	tui
 32553	Siripuriā	36-37 Thou	541. (530d.)	tui
 32554	Siripuriā	36-37 Thou		tai
-32555	Eastern	36-37 Thou	546. (530e.)	tui
+32555	Bengali, Eastern	36-37 Thou	546. (530e.)	tui
 32556	Eastern	36-37 Thou		tumi
 32557	of Cachar	36-37 Thou	548. (530f.)	tuin
 32558	of Cachar	36-37 Thou		tumi
@@ -54410,7 +54410,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 33056	South-western	38-39 Thy	537. (530c.)	tōr
 33057	Siripuriā	38-39 Thy	541. (530d.)	tōr
 33058	Siripuriā	38-39 Thy		tumhār
-33059	Eastern	38-39 Thy	546. (530e.)	tōr
+33059	Bengali, Eastern	38-39 Thy	546. (530e.)	tōr
 33060	Eastern	38-39 Thy		tomār
 33061	of Cachar	38-39 Thy	548. (530f.)	tår
 33062	of Chittagong	38-39 Thy	550. (530g.)	tōr
@@ -54855,7 +54855,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 3209	Bengali, spoken	4-5 Two		dū
 3210	South-western	4-5 Two	537. (530c.)	dui
 3211	Siripuriā	4-5 Two	541. (530d.)	dui
-3212	Eastern	4-5 Two	546. (530e.)	dui
+3212	Bengali, Eastern	4-5 Two	546. (530e.)	dui
 3213	of Cachar	4-5 Two	548. (530f.)	dui
 3214	of Chittagong	4-5 Two	550. (530g.)	dui
 3215	of Chittagong	4-5 Two		duā
@@ -55325,7 +55325,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 33538	South-western	40-41 You		tonne
 33539	South-western	40-41 You		tomänne
 33540	Siripuriā	40-41 You	541. (530d.)	tumarā
-33541	Eastern	40-41 You	546. (530e.)	tōrā
+33541	Bengali, Eastern	40-41 You	546. (530e.)	tōrā
 33542	Eastern	40-41 You		tomrā
 33543	of Cachar	40-41 You	548. (530f.)	tomrā
 33544	of Chittagong	40-41 You	550. (530g.)	tũi
@@ -55808,7 +55808,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 52116	Bengali, spoken	42-43 Your		āpnāder
 52117	South-western	42-43 Your	537. (530c.)	tamār
 52118	Siripuriā	42-43 Your	541. (530d.)	tum-sār
-52119	Eastern	42-43 Your	546. (530e.)	tōrār
+52119	Bengali, Eastern	42-43 Your	546. (530e.)	tōrār
 52120	Eastern	42-43 Your		tomrār
 52121	of Cachar	42-43 Your	548. (530f.)	tomrār
 52122	of Chittagong	42-43 Your	550. (530g.)	tō̃ā̃r
@@ -56376,7 +56376,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 52684	South-western	44-45 He	537. (530c.)	sē
 52685	South-western	44-45 He		tin
 52686	Siripuriā	44-45 He	541. (530d.)	ō̃hē̃
-52687	Eastern	44-45 He	546. (530e.)	sē
+52687	Bengali, Eastern	44-45 He	546. (530e.)	sē
 52688	Eastern	44-45 He		tāin
 52689	of Cachar	44-45 He	548. (530f.)	hē
 52690	of Cachar	44-45 He		tāin
@@ -56926,7 +56926,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 53234	South-western	46-47 His	537. (530c.)	tār
 53235	South-western	46-47 His		tān
 53236	Siripuriā	46-47 His	541. (530d.)	ohār
-53237	Eastern	46-47 His	546. (530e.)	tār
+53237	Bengali, Eastern	46-47 His	546. (530e.)	tār
 53238	Eastern	46-47 His		tāhān
 53239	Eastern	46-47 His		tān
 53240	of Cachar	46-47 His	548. (530f.)	hēr
@@ -57463,7 +57463,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 53771	Siripuriā	48-49 They	541. (530d.)	ōrā
 53772	Siripuriā	48-49 They		orāe
 53773	Siripuriā	48-49 They		ohi-sab
-53774	Eastern	48-49 They	546. (530e.)	tārā
+53774	Bengali, Eastern	48-49 They	546. (530e.)	tārā
 53775	Eastern	48-49 They		tānrā
 53776	Eastern	48-49 They		tāhānrā
 53777	of Cachar	48-49 They	548. (530f.)	hērā
@@ -57957,7 +57957,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 54265	South-western	50-51 Their	537. (530c.)	tār-mēn-kār
 54266	South-western	50-51 Their		tān-mēn-kār
 54267	Siripuriā	50-51 Their	541. (530d.)	us-mār
-54268	Eastern	50-51 Their	546. (530e.)	tārār
+54268	Bengali, Eastern	50-51 Their	546. (530e.)	tārār
 54269	Eastern	50-51 Their		tānrār
 54270	Eastern	50-51 Their		tāhānrār
 54271	of Cachar	50-51 Their	548. (530f.)	hērār
@@ -58374,7 +58374,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 54682	Bengali, spoken	52-53 Hand	530b.	hāt
 54683	South-western	52-53 Hand	537. (530c.)	hāt
 54684	Siripuriā	52-53 Hand	541. (530d.)	hāt’
-54685	Eastern	52-53 Hand	546. (530e.)	hāt
+54685	Bengali, Eastern	52-53 Hand	546. (530e.)	hāt
 54686	Eastern	52-53 Hand		āt
 54687	of Cachar	52-53 Hand	548. (530f.)	hāt
 54688	of Chittagong	52-53 Hand	550. (530g.)	hāt
@@ -58791,7 +58791,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 55099	South-western	54-55 Foot	537. (530c.)	chāṭuā
 55100	South-western	54-55 Foot		talipā
 55101	Siripuriā	54-55 Foot	541. (530d.)	pā̃o
-55102	Eastern	54-55 Foot	546. (530e.)	pāo
+55102	Bengali, Eastern	54-55 Foot	546. (530e.)	pāo
 55103	of Cachar	54-55 Foot	548. (530f.)	pāo
 55104	of Chittagong	54-55 Foot	550. (530g.)	pā
 55105	of Chittagong	54-55 Foot		ṭ’eṅg
@@ -59199,7 +59199,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 55507	Bengali, spoken	56-57 Nose	530b.	nāk
 55508	South-western	56-57 Nose	537. (530c.)	nāk
 55509	Siripuriā	56-57 Nose	541. (530d.)	nāk
-55510	Eastern	56-57 Nose	546. (530e.)	nāk
+55510	Bengali, Eastern	56-57 Nose	546. (530e.)	nāk
 55511	of Cachar	56-57 Nose	548. (530f.)	nāk
 55512	of Chittagong	56-57 Nose	550. (530g.)	nāk
 55513	Chākmā	56-57 Nose	551. (530h.)	nāk
@@ -59598,7 +59598,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 55906	South-western	58-59 Eye	537. (530c.)	chōk
 55907	South-western	58-59 Eye		ā̃ik’
 55908	Siripuriā	58-59 Eye	541. (530d.)	ā̃k’
-55909	Eastern	58-59 Eye	546. (530e.)	ṯs̱auk
+55909	Bengali, Eastern	58-59 Eye	546. (530e.)	ṯs̱auk
 55910	of Cachar	58-59 Eye	548. (530f.)	sauk
 55911	of Chittagong	58-59 Eye	550. (530g.)	chōk
 55912	Chākmā	58-59 Eye	551. (530h.)	chōk
@@ -60018,7 +60018,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 3624	Bengali, spoken	6-7 Three	530b.	tīn
 3625	South-western	6-7 Three	537. (530c.)	tin
 3626	Siripuriā	6-7 Three	541. (530d.)	tīn
-3627	Eastern	6-7 Three	546. (530e.)	tin
+3627	Bengali, Eastern	6-7 Three	546. (530e.)	tin
 3628	of Cachar	6-7 Three	548. (530f.)	tin
 3629	of Chittagong	6-7 Three	550. (530g.)	tin
 3630	of Chittagong	6-7 Three		tinwā
@@ -60441,7 +60441,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 56333	South-western	60-61 Mouth		byā̃t
 56334	South-western	60-61 Mouth		tuṛ
 56335	Siripuriā	60-61 Mouth	541. (530d.)	muk’
-56336	Eastern	60-61 Mouth	546. (530e.)	muk’
+56336	Bengali, Eastern	60-61 Mouth	546. (530e.)	muk’
 56337	Eastern	60-61 Mouth		muk
 56338	of Cachar	60-61 Mouth	548. (530f.)	muk’
 56339	of Chittagong	60-61 Mouth	550. (530g.)	muk’
@@ -60836,7 +60836,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 56728	Bengali, spoken	62-63 Tooth	530b.	dā̃t
 56729	South-western	62-63 Tooth	537. (530c.)	dā̃t
 56730	Siripuriā	62-63 Tooth	541. (530d.)	dā̃t
-56731	Eastern	62-63 Tooth	546. (530e.)	dāt
+56731	Bengali, Eastern	62-63 Tooth	546. (530e.)	dāt
 56732	of Cachar	62-63 Tooth	548. (530f.)	dāt
 56733	of Chittagong	62-63 Tooth	550. (530g.)	dāt
 56734	Chākmā	62-63 Tooth	551. (530h.)	dāt
@@ -61227,7 +61227,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 57119	South-western	64-65 Ear	537. (530c.)	kān
 57120	South-western	64-65 Ear		lai
 57121	Siripuriā	64-65 Ear	541. (530d.)	kān
-57122	Eastern	64-65 Ear	546. (530e.)	kān
+57122	Bengali, Eastern	64-65 Ear	546. (530e.)	kān
 57123	of Cachar	64-65 Ear	548. (530f.)	kān
 57124	of Chittagong	64-65 Ear	550. (530g.)	kān
 57125	Chākmā	64-65 Ear	551. (530h.)	kān
@@ -61680,7 +61680,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 57572	Bengali, spoken	66-67 Hair	530b.	chūl
 57573	South-western	66-67 Hair	537. (530c.)	chul
 57574	Siripuriā	66-67 Hair	541. (530d.)	chūl
-57575	Eastern	66-67 Hair	546. (530e.)	ṯs̱ul
+57575	Bengali, Eastern	66-67 Hair	546. (530e.)	ṯs̱ul
 57576	of Cachar	66-67 Hair	548. (530f.)	sul
 57577	of Chittagong	66-67 Hair	550. (530g.)	chul
 57578	Chākmā	66-67 Hair	551. (530h.)	chūl
@@ -62091,7 +62091,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 57983	Bengali, spoken	68-69 Head		mātā
 57984	South-western	68-69 Head	537. (530c.)	muṛ
 57985	Siripuriā	68-69 Head	541. (530d.)	māt’ā
-57986	Eastern	68-69 Head	546. (530e.)	māt’ā
+57986	Bengali, Eastern	68-69 Head	546. (530e.)	māt’ā
 57987	of Cachar	68-69 Head	548. (530f.)	mur
 57988	of Chittagong	68-69 Head	550. (530g.)	māt’ā
 57989	Chākmā	68-69 Head	551. (530h.)	māt’ā
@@ -62485,7 +62485,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 58377	Bengali, spoken	70-71 Tongue	530b.	jīb
 58378	South-western	70-71 Tongue	537. (530c.)	jib
 58379	Siripuriā	70-71 Tongue	541. (530d.)	jīb’ā
-58380	Eastern	70-71 Tongue	546. (530e.)	jihbā
+58380	Bengali, Eastern	70-71 Tongue	546. (530e.)	jihbā
 58381	Eastern	70-71 Tongue		jebbā
 58382	of Cachar	70-71 Tongue	548. (530f.)	zib’rā
 58383	of Chittagong	70-71 Tongue	550. (530g.)	jirb’ā
@@ -62893,7 +62893,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 58785	Bengali, spoken	72-73 Belly	530b.	pēṭ
 58786	South-western	72-73 Belly	537. (530c.)	peṭ
 58787	Siripuriā	72-73 Belly	541. (530d.)	pēṭ
-58788	Eastern	72-73 Belly	546. (530e.)	pēṭ
+58788	Bengali, Eastern	72-73 Belly	546. (530e.)	pēṭ
 58789	Eastern	72-73 Belly		peṭ
 58790	of Cachar	72-73 Belly	548. (530f.)	pēṭ
 58791	of Chittagong	72-73 Belly	550. (530g.)	pēṭ
@@ -63300,7 +63300,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 59192	Bengali, spoken	74-75 Back	530b.	pīṭ
 59193	South-western	74-75 Back	537. (530c.)	piṭ’
 59194	Siripuriā	74-75 Back	541. (530d.)	pīṭ’
-59195	Eastern	74-75 Back	546. (530e.)	piṭ’
+59195	Bengali, Eastern	74-75 Back	546. (530e.)	piṭ’
 59196	Eastern	74-75 Back		piṭ
 59197	Eastern	74-75 Back		piḍ
 59198	of Cachar	74-75 Back	548. (530f.)	piṭ’
@@ -63703,7 +63703,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 59595	Bengali, spoken	76-77 Iron		lohā
 59596	South-western	76-77 Iron	537. (530c.)	luhā
 59597	Siripuriā	76-77 Iron	541. (530d.)	lōhā
-59598	Eastern	76-77 Iron	546. (530e.)	lohā
+59598	Bengali, Eastern	76-77 Iron	546. (530e.)	lohā
 59599	Eastern	76-77 Iron		lōyā
 59600	of Cachar	76-77 Iron	548. (530f.)	lōā
 59601	of Cachar	76-77 Iron		luā
@@ -64095,7 +64095,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 59987	Bengali, spoken	78-79 Gold	530b.	šonā
 59988	South-western	78-79 Gold	537. (530c.)	sanā
 59989	Siripuriā	78-79 Gold	541. (530d.)	sōnā
-59990	Eastern	78-79 Gold	546. (530e.)	šōnā
+59990	Bengali, Eastern	78-79 Gold	546. (530e.)	šōnā
 59991	of Cachar	78-79 Gold	548. (530f.)	hōnā
 59992	of Cachar	78-79 Gold		hunā
 59993	of Chittagong	78-79 Gold	550. (530g.)	sōnā
@@ -64493,7 +64493,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 4025	Bengali, spoken	8-9 Four	530b.	chār
 4026	South-western	8-9 Four	537. (530c.)	chyār
 4027	Siripuriā	8-9 Four	541. (530d.)	chār
-4028	Eastern	8-9 Four	546. (530e.)	ṯs̱ār
+4028	Bengali, Eastern	8-9 Four	546. (530e.)	ṯs̱ār
 4029	of Cachar	8-9 Four	548. (530f.)	s̄ir
 4030	of Chittagong	8-9 Four	550. (530g.)	chāir
 4031	of Chittagong	8-9 Four		chārgwā
@@ -64884,7 +64884,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 60375	Bengali, spoken	80-81 Silver	530b.	rupō
 60376	South-western	80-81 Silver	537. (530c.)	rūpā
 60377	Siripuriā	80-81 Silver	541. (530d.)	rūpā
-60378	Eastern	80-81 Silver	546. (530e.)	rupā
+60378	Bengali, Eastern	80-81 Silver	546. (530e.)	rupā
 60379	of Cachar	80-81 Silver	548. (530f.)	rupā
 60380	of Chittagong	80-81 Silver	550. (530g.)	rupā
 60381	of Chittagong	80-81 Silver		ruā
@@ -65283,7 +65283,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 60774	Bengali, spoken	82-83 Slave	530b.	golām
 60775	South-western	82-83 Slave	537. (530c.)	kinā golām
 60776	Siripuriā	82-83 Slave	541. (530d.)	golām
-60777	Eastern	82-83 Slave	546. (530e.)	golām
+60777	Bengali, Eastern	82-83 Slave	546. (530e.)	golām
 60778	of Cachar	82-83 Slave	548. (530f.)	b’āṛāri
 60779	of Chittagong	82-83 Slave	550. (530g.)	gōlām
 60780	of Chittagong	82-83 Slave		mānuš
@@ -65686,7 +65686,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 61177	Bengali, spoken	84-85 Cultivator	530b.	chāšā
 61178	South-western	84-85 Cultivator	537. (530c.)	chāsi
 61179	Siripuriā	84-85 Cultivator	541. (530d.)	girᵃhast
-61180	Eastern	84-85 Cultivator	546. (530e.)	haluā
+61180	Bengali, Eastern	84-85 Cultivator	546. (530e.)	haluā
 61181	Eastern	84-85 Cultivator		ṯs̱āšā
 61182	of Cachar	84-85 Cultivator	548. (530f.)	halvā
 61183	of Chittagong	84-85 Cultivator	550. (530g.)	chāšā
@@ -66079,7 +66079,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 61570	Bengali, spoken	86-87 Shepherd	530b.	b’ǎṛār rāk’āl
 61571	South-western	86-87 Shepherd	537. (530c.)	bāgāl
 61572	Siripuriā	86-87 Shepherd	541. (530d.)	rak’wāl
-61573	Eastern	86-87 Shepherd	546. (530e.)	rāhāl
+61573	Bengali, Eastern	86-87 Shepherd	546. (530e.)	rāhāl
 61574	of Cachar	86-87 Shepherd	548. (530f.)	…
 61575	of Chittagong	86-87 Shepherd	550. (530g.)	b’ēṛā-charānyā
 61576	Chākmā	86-87 Shepherd	551. (530h.)	b’ērā-rāk’wāl
@@ -66499,7 +66499,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 61990	South-western	88-89 God	537. (530c.)	B’agabān
 61991	Siripuriā	88-89 God	541. (530d.)	K’odā
 61992	Siripuriā	88-89 God		K’odāe
-61993	Eastern	88-89 God	546. (530e.)	Dēbtā
+61993	Bengali, Eastern	88-89 God	546. (530e.)	Dēbtā
 61994	Eastern	88-89 God		Īšᵛar
 61995	Eastern	88-89 God		Āllā
 61996	of Cachar	88-89 God	548. (530f.)	Dēbta
@@ -66929,7 +66929,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 62420	South-western	90-91 Devil	537. (530c.)	daitʸi
 62421	Siripuriā	90-91 Devil	541. (530d.)	b’ūt
 62422	Siripuriā	90-91 Devil		perēt
-62423	Eastern	90-91 Devil	546. (530e.)	b’ut
+62423	Bengali, Eastern	90-91 Devil	546. (530e.)	b’ut
 62424	Eastern	90-91 Devil		haytān
 62425	of Cachar	90-91 Devil	548. (530f.)	b’ut
 62426	of Chittagong	90-91 Devil	550. (530g.)	b’ūt
@@ -67352,7 +67352,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 67351	South-western	92-93 Sun		sujʸu
 67352	Siripuriā	92-93 Sun	541. (530d.)	sūruj
 67353	Siripuriā	92-93 Sun		bēṭa
-67354	Eastern	92-93 Sun	546. (530e.)	šuruj
+67354	Bengali, Eastern	92-93 Sun	546. (530e.)	šuruj
 67355	Eastern	92-93 Sun		huijyō
 67356	of Cachar	92-93 Sun	548. (530f.)	huruj
 67357	of Chittagong	92-93 Sun	550. (530g.)	sūrjya
@@ -67767,7 +67767,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 67766	Bengali, spoken	94-95 Moon		chandor
 67767	South-western	94-95 Moon	537. (530c.)	chā̃d
 67768	Siripuriā	94-95 Moon	541. (530d.)	chān
-67769	Eastern	94-95 Moon	546. (530e.)	ṯs̱ānd
+67769	Bengali, Eastern	94-95 Moon	546. (530e.)	ṯs̱ānd
 67770	Eastern	94-95 Moon		ṯs̱andōr
 67771	of Cachar	94-95 Moon	548. (530f.)	sānd
 67772	of Chittagong	94-95 Moon	550. (530g.)	chandra
@@ -68180,7 +68180,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 68179	South-western	96-97 Star	537. (530c.)	tārā
 68180	South-western	96-97 Star		lak’ʸitri
 68181	Siripuriā	96-97 Star	541. (530d.)	tārā
-68182	Eastern	96-97 Star	546. (530e.)	tārā
+68182	Bengali, Eastern	96-97 Star	546. (530e.)	tārā
 68183	of Cachar	96-97 Star	548. (530f.)	tārā
 68184	of Chittagong	96-97 Star	550. (530g.)	tārā
 68185	Chākmā	96-97 Star	551. (530h.)	tārā
@@ -68579,7 +68579,7 @@ ID	DOCULECT	CONCEPT	NUMBER	FORM
 68578	Bengali, spoken	98-99 Fire	530b.	āgun
 68579	South-western	98-99 Fire	537. (530c.)	āgun
 68580	Siripuriā	98-99 Fire	541. (530d.)	āgin
-68581	Eastern	98-99 Fire	546. (530e.)	āgun
+68581	Bengali, Eastern	98-99 Fire	546. (530e.)	āgun
 68582	of Cachar	98-99 Fire	548. (530f.)	aguin
 68583	of Chittagong	98-99 Fire	550. (530g.)	āun
 68584	of Chittagong	98-99 Fire		āain
