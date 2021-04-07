@@ -80,6 +80,8 @@ class Dataset(BaseDataset):
                     language = current_language
                 else:
                     current_language = language
+                if number[:4] == "546.":
+                    language = "Bengali, Eastern"
                 if language.strip():
                     D[idx] = [language, concept, number, form]
                     idx += 1
