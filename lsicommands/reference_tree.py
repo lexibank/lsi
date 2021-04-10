@@ -3,7 +3,6 @@ Compute the Glottolog reference tree.
 """
 import collections
 
-import newick
 from cldfbench.cli_util import add_catalog_spec
 
 from lexibank_lsi import Dataset
@@ -40,7 +39,9 @@ def run(args):
             if n.name in tips:
                 n.name = tips[n.name]
                 return
-            # An internal node with just one child - look it up!
+            # An internal node with just one child. These are created by `remove_redundant_nodes`
+            # above. Since only a single LSI language will have such a node in its lineage, we can
+            # still figure out how to rename the node.
             for gc in tips:
                 glang = nodes[gc]
                 for _, fid, _ in reversed(glang.lineage):
