@@ -32,24 +32,13 @@ def run(args):
         tree = nodes[fid].newick_node(nodes=nodes, template="{l.id}")
         # prune to the contained tips,
         tree.prune_by_names(list(tips), inverse=True)
-        tree.remove_redundant_nodes()
+        tree.remove_redundant_nodes(keep_leaf_name=True)
         tree.remove_internal_names()
 
         def rename(n):
-            if n.name in tips:
+            if n.name:
                 n.name = tips[n.name]
                 return
-            # An internal node with just one child. These are created by `remove_redundant_nodes`
-            # above. Since only a single LSI language will have such a node in its lineage, we can
-            # still figure out how to rename the node.
-            for gc in tips:
-                glang = nodes[gc]
-                for _, fid, _ in reversed(glang.lineage):
-                    if n.name == fid:
-                        n.name = tips[gc]
-                        return
-            if n.name:
-                raise ValueError(n.name)
 
         # rename tip labels.
         tree.visit(visitor=rename)

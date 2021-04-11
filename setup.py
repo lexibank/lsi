@@ -23,6 +23,7 @@ setup(
         ]
     },
     install_requires=[
+        'newick>=1.1.0',
         'pylexibank>=3.0.0',
     ],
     extras_require={
