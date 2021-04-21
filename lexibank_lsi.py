@@ -2,6 +2,7 @@ from pathlib import Path
 import unicodedata
 
 import attr
+from csvw.metadata import URITemplate
 from pylexibank import Concept, Language, FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank import progressbar
@@ -12,16 +13,39 @@ from clldutils.misc import slug
 
 @attr.s
 class CustomConcept(Concept):
-    PageNumber = attr.ib(default=None)
+    PageNumber = attr.ib(
+        default=None,
+        metadata={"dc:description": "Range of pages in the printed survey"}
+    )
+    ScanNumbers = attr.ib(
+        default=None,
+        metadata={
+            'separator': ' ',
+            'dc:description': "Numbers of scans in the Digital South Asia Library",
+            'valueUrl': 'https://dsal.uchicago.edu/books/lsi/images/lsi-v1-2-{ScanNumber}.jpg',
+        }
+    )
 
 
 @attr.s
 class CustomLanguage(Language):
     NameInSource = attr.ib(default=None)
-    NumberInSource = attr.ib(default=None)
-    Order = attr.ib(default=None)
-    FamilyInSource = attr.ib(default=None)
-    SubGroup = attr.ib(default=None)
+    NumberInSource = attr.ib(
+        default=None,
+        metadata={"dc:description": "Number of the language in the General List of the printed survey"}
+    )
+    Order = attr.ib(
+        default=None,
+        metadata={"dc:description": "Position of the language on the vocabulary pages of the printed survey"}
+    )
+    FamilyInSource = attr.ib(
+        default=None,
+        metadata={"dc:description": "Classification of the language in the printed survey"}
+    )
+    SubGroup = attr.ib(
+        default=None,
+        metadata={"dc:description": "Sub-classification of the language in the printed survey"}
+    )
 
 
 class Dataset(BaseDataset):
@@ -43,7 +67,14 @@ class Dataset(BaseDataset):
         strip_inside_brackets=True)
 
     def cmd_makecldf(self, args):
+        args.writer.cldf['FormTable', 'Profile'].valueUrl = URITemplate(
+            '../etc/orthography/{Profile}.tsv')
+        args.writer.cldf['FormTable', 'Profile'].common_props['dc:description'] = \
+            "Orthography profile according to Moran & Cysouw 2018 used to segment this form"
         args.writer.add_sources()
+
+        def scan_number(s):
+            return str(int(s) + 42).rjust(3, '0')
 
         # add concepts from list
         concepts = {}
@@ -52,6 +83,7 @@ class Dataset(BaseDataset):
             args.writer.add_concept(
                 ID=cid,
                 PageNumber=concept.attributes['pagenumber'],
+                ScanNumbers=map(scan_number, concept.attributes['pagenumber'].split('-')),
                 Name=concept.english,
                 Concepticon_ID=concept.concepticon_id,
                 Concepticon_Gloss=concept.concepticon_gloss,

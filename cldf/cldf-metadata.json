@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/lsi",
-            "dc:created": "7dedc5c"
+            "dc:created": "44fc9d4"
         },
         {
             "rdf:type": "prov:Entity",
@@ -35,7 +35,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v2.0.0"
+            "dc:created": "v2.1.0"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -123,7 +123,9 @@
                         "name": "Graphemes"
                     },
                     {
+                        "dc:description": "Orthography profile according to Moran & Cysouw 2018 used to segment this form",
                         "datatype": "string",
+                        "valueUrl": "../etc/orthography/{Profile}.tsv",
                         "name": "Profile"
                     }
                 ],
@@ -221,18 +223,22 @@
                         "name": "NameInSource"
                     },
                     {
+                        "dc:description": "Number of the language in the General List of the printed survey",
                         "datatype": "string",
                         "name": "NumberInSource"
                     },
                     {
+                        "dc:description": "Position of the language on the vocabulary pages of the printed survey",
                         "datatype": "string",
                         "name": "Order"
                     },
                     {
+                        "dc:description": "Classification of the language in the printed survey",
                         "datatype": "string",
                         "name": "FamilyInSource"
                     },
                     {
+                        "dc:description": "Sub-classification of the language in the printed survey",
                         "datatype": "string",
                         "name": "SubGroup"
                     }
@@ -269,8 +275,16 @@
                         "name": "Concepticon_Gloss"
                     },
                     {
+                        "dc:description": "Range of pages in the printed survey",
                         "datatype": "string",
                         "name": "PageNumber"
+                    },
+                    {
+                        "dc:description": "Numbers of scans in the Digital South Asia Library",
+                        "datatype": "string",
+                        "separator": " ",
+                        "valueUrl": "https://dsal.uchicago.edu/books/lsi/images/lsi-v1-2-{ScanNumber}.jpg",
+                        "name": "ScanNumbers"
                     }
                 ],
                 "primaryKey": [
