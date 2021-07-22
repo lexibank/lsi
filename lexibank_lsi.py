@@ -108,12 +108,13 @@ class Dataset(BaseDataset):
                 if len(cells) != 3:
                     continue
                 number, language, form = cells
+                if number[:4] == "546.":
+                    language = "Bengali, Eastern"
+                
                 if not language.strip():
                     language = current_language
                 else:
                     current_language = language
-                if number[:4] == "546.":
-                    language = "Bengali, Eastern"
                 if language.strip():
                     D[idx] = [language, concept, number, form]
                     idx += 1
@@ -135,7 +136,7 @@ class Dataset(BaseDataset):
                 if slug(doculect) not in languages:
                     missingl.add(slug(doculect))
         for m in missingc:
-            print(m)
+            print("Missing concept ", m)
         print('')
         for m in missingl:
-            print(m)
+            print("Missing lang ", m)

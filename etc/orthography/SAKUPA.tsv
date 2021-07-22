@@ -1,5 +1,7 @@
 Grapheme	IPA	Frequency
 ^t’	t̪ʰ	7
+t’	t̪ʰ	7
+t’$	t̪ʰ	7
 å	ɔ	26
 b	b	5
 $	NULL	53
@@ -34,6 +36,8 @@ v	v	2
 ^m	m	3
 ^b	b	1
 ^ch’	tʃʰ	2
+ch’$	tʃʰ
+ch’	tʃʰ
 a	ʌ	1
 t	t̪	1
 ^š	ʃ	1
@@ -46,3 +50,12 @@ w	w	3
 š	ʃ	1
 ng	ŋ	1
 ^s	s	3
+^ö	ø
+ö	ø
+ö$	ø
+^d	d̪
+d$	d̪
+d	d̪
+ṅ	ŋ
+^ṅ	ŋ
+ṅ$	ŋ

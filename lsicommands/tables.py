@@ -1,5 +1,5 @@
 """
-Compute partial cognates and alignments and create a wordlist.
+Template for creating tables
 """
 
 from lingpy import *

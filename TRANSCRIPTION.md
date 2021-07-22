@@ -12,13 +12,13 @@
 | i | 15802 | ✓ | ✓ |
 | m | 15737 | ✓ | ✓ |
 | k | 12528 | ✓ | ✓ |
-| t̪ | 12266 | ✓ | ✓ |
+| t̪ | 12264 | ✓ | ✓ |
 | r | 11525 | ✓ | ✓ |
 | u | 11324 | ✓ | ✓ |
 | l | 8360 | ✓ | ✓ |
 | p | 8338 | ✓ | ✓ |
 | e | 8100 | ✓ | ✓ |
-| ŋ | 7744 | ✓ | ✓ |
+| ŋ | 7746 | ✓ | ✓ |
 | s | 7703 | ✓ | ✓ |
 | h | 7682 | ✓ | ✓ |
 | a | 7567 | ✓ | ✓ |
@@ -26,13 +26,13 @@
 | b | 6743 | ✓ | ✓ |
 | eː | 6687 | ✓ | ✓ |
 | iː | 6380 | ✓ | ✓ |
-| d̪ | 6197 | ✓ | ✓ |
+| d̪ | 6198 | ✓ | ✓ |
 | oː | 6183 | ✓ | ✓ |
 | j | 5419 | ✓ | ✓ |
 | uː | 4976 | ✓ | ✓ |
 | g | 4927 | ✓ | ✓ |
 | w | 3829 | ✓ | ✓ |
-| tʃ | 3752 | ✓ | ✓ |
+| tʃ | 3750 | ✓ | ✓ |
 | ai | 3090 | ✓ | ✓ |
 | ɔ | 2944 | ✓ | ✓ |
 | ʃ | 2607 | ✓ | ✓ |
@@ -42,13 +42,13 @@
 | ă | 1727 | ✓ | ✓ |
 | v | 1599 | ✓ | ✓ |
 | au | 1489 | ✓ | ✓ |
-| t̪ʰ | 1449 | ✓ | ✓ |
+| t̪ʰ | 1451 | ✓ | ✓ |
 | ãː | 1428 | ✓ | ✓ |
 | y | 1335 | ✓ | ✓ |
 | ʈ | 1273 | ✓ | ✓ |
-| ø | 1215 | ✓ | ✓ |
+| ø | 1216 | ✓ | ✓ |
 | ɖ | 1197 | ✓ | ✓ |
-| tʃʰ | 1140 | ✓ | ✓ |
+| tʃʰ | 1142 | ✓ | ✓ |
 | ɽ | 1130 | ✓ | ✓ |
 | z | 1114 | ✓ | ✓ |
 | ɒ | 1058 | ✓ | ✓ |
@@ -149,7 +149,6 @@
 | ɑ | 6 | ✓ | ✓ |
 | ɕ | 5 | ✓ | ✓ |
 | ỹ | 5 | ✓ | ✓ |
-| <<’>> | 4 | ? | ? |
 | tɕ | 4 | ✓ | ✓ |
 | tɕʰ | 4 | ✓ | ✓ |
 | ɪː | 4 | ✓ | ✓ |
@@ -157,14 +156,11 @@
 | ɛ̃ː | 3 | ✓ | ✓ |
 | ɯ̃ | 3 | ✓ | ✓ |
 | ⁴³ | 3 | ✓ | ✓ |
-| <<ṅ>> | 2 | ? | ? |
 | d̪ˤ | 2 | ✓ | ✓ |
 | mˤ | 2 | ✓ | ✓ |
 | ¹³ | 2 | ✓ | ✓ |
 | ø̜ː | 2 | ✓ | ✓ |
 | ʌ̃ | 2 | ✓ | ✓ |
-| <<d>> | 1 | ? | ? |
-| <<ö>> | 1 | ? | ? |
 | n̚ | 1 | ✓ | ✓ |
 | ou | 1 | ✓ | ✓ |
 | rˡ | 1 | ✓ | ✓ |
@@ -180,7 +176,7 @@
 | ʋ | 1 | ✓ | ✓ |
 | ⁵³ | 1 | ✓ | ✓ |
 
-(174 rows)
+(170 rows)
 
 
 
@@ -217,6 +213,7 @@
 | GYAOMI-64_fromafather-1 | GYAOMI | 64_fromafather | d’å-då-li 9?) | d̪ʰ ɔ + d̪ ɔ + l i + |
 | KEZAMA-98_goodman-1 | KEZAMA | 98_goodman | -mi ke-vē | + m i + k e + v eː |
 | KHARIA-63_toafather-2 | KHARIA | 63_toafather | -te | + t̪ e |
+| KOREAN-114_and-1 | KOREAN | 114_and | -oà | + o a |
 | KULUI-63_toafather-1 | KULUI | 63_toafather | bābē -bě | b ʌː b eː + + b e |
 | KULUI-64_fromafather-1 | KULUI | 64_fromafather | bābē -na | b ʌː b eː + + n̪ ʌ |
 | KULUI-68_tofathers-1 | KULUI | 68_tofathers | bābē -bě | b ʌː b eː + + b e |
@@ -261,6 +258,7 @@
 | OLDMEITHEI-71_brother-2 | OLDMEITHEI | 71_brother | -sā-nau | + s ʌː + n̪ au |
 | OLDMEITHEI-72_sister-1 | OLDMEITHEI | 72_sister | -chem | + tʃ e m |
 | OLDMEITHEI-72_sister-2 | OLDMEITHEI | 72_sister | -chal | + tʃ ʌ l |
+| OLDPERSIAN-112_what-1 | OLDPERSIAN | 112_what | -chiy | + tʃ i j |
 | OLDPERSIAN-63_toafather-1 | OLDPERSIAN | 63_toafather | -rādiy | + r ʌː d̪ i j |
 | OLDPERSIAN-68_tofathers-1 | OLDPERSIAN | 68_tofathers | -rādiy | + r ʌː d̪ i j |
 | PERSIAN-90_dogs-1 | PERSIAN | 90_dogs | sagān -i-nar | s ʌ g ʌː n̪ + + i + n̪ ʌ r |
@@ -275,13 +273,11 @@
 | PWOLITERARY-94_goats-1 | PWOLITERARY | 94_goats | = bē = θī | + + b eː + + + θ iː |
 | RUNGCHHENBUNG-10_ten-4 | RUNGCHHENBUNG | 10_ten | -paṅ | + p ʌ ŋ |
 | RUNGCHHENBUNG-10_ten-5 | RUNGCHHENBUNG | 10_ten | -ka-pop | + k ʌ + p o p |
-| SAKUPA-104_high-1 | SAKUPA | 104_high | ūn dūr | uː n̪ + <s> <<d>> </s> uː r |
-| SAKUPA-107_near-1 | SAKUPA | 107_near | nàṅni | n̪ a <s> <<ṅ>> </s> n̪ i |
-| SAKUPA-98_goodman-1 | SAKUPA | 98_goodman | chåṅ bainai | tʃ ɔ <s> <<ṅ>> </s> + b ai n̪ ai |
 | SALON-102_badboy-1 | SALON | 102_badboy | àdut * | a d̪ u t̪ + |
 | SALON-92_hegoat-1 | SALON | 92_hegoat | pet * | p e t̪ + |
 | SGALITERARY-106_down-1 | SGALITERARY | 106_down | = lö | + + l ø |
 | SGALITERARY-106_down-2 | SGALITERARY | 106_down | = lä° | + + l ɛ |
+| SGALITERARY-108_far-1 | SGALITERARY | 108_far | = yī | + + j iː |
 | SGALITERARY-73_man-2 | SGALITERARY | 73_man | = pɣā | + + p ɣ ʌː |
 | SGALITERARY-98_goodman-2 | SGALITERARY | 98_goodman | = pɣā = ɣā | + + p ɣ ʌː + + + ɣ ʌː |
 | TABLENG-100_goodwoman-1 | TABLENG | 100_goodwoman | š--kāw ā-mai | ʃ + + k ʌː w + ʌː + m ai |

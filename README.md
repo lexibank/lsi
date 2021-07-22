@@ -1,8 +1,14 @@
 # CLDF dataset derived from Grierson's "Linguistic Survey of India" from 1928
 
-Cite the source dataset as
+## How to cite
 
-> Grierson, George Abraham (1928): Linguistic Survey of India. Comparative Vocabulary. Calcutta: Government of India Central Publication Branch.
+If you use these data please cite
+- the original source
+  > Grierson, George Abraham (1928): Linguistic Survey of India. Comparative Vocabulary. Calcutta: Government of India Central Publication Branch.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
@@ -18,10 +24,10 @@ Conceptlists in Concepticon:
 
 
 ![Glottolog: 98%](https://img.shields.io/badge/Glottolog-98%25-green.svg "Glottolog: 98%")
-![Concepticon: 67%](https://img.shields.io/badge/Concepticon-67%25-orange.svg "Concepticon: 67%")
+![Concepticon: 68%](https://img.shields.io/badge/Concepticon-68%25-orange.svg "Concepticon: 68%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
-![BIPA: 98%](https://img.shields.io/badge/BIPA-98%25-green.svg "BIPA: 98%")
-![CLTS SoundClass: 98%](https://img.shields.io/badge/CLTS%20SoundClass-98%25-green.svg "CLTS SoundClass: 98%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 363
 - **Concepts:** 168
@@ -29,9 +35,9 @@ Conceptlists in Concepticon:
 - **Sources:** 0
 - **Synonymy:** 1.14
 - **Invalid lexemes:** 0
-- **Tokens:** 364,240
-- **Segments:** 174 (4 BIPA errors, 4 CTLS sound class errors, 170 CLTS modified)
-- **Inventory size (avg):** 42.33
+- **Tokens:** 364,236
+- **Segments:** 170 (0 BIPA errors, 0 CTLS sound class errors, 170 CLTS modified)
+- **Inventory size (avg):** 42.32
 
 ## Possible Improvements:
 
@@ -46,6 +52,14 @@ Conceptlists in Concepticon:
 Name               | GitHub user | Role
 ---                | ---         | ---
 Taraka Rama | @phylostar | maintainer
+Robert Forkel | @xrotwang | maintainer
 Johann-Mattis List | @lingulist | maintainer
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
