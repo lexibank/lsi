@@ -6,6 +6,7 @@
     "dc:format": [
         "http://concepticon.clld.org/contributions/Grierson-1928-168"
     ],
+    "dc:identifier": "https://lsi.clld.org",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
@@ -16,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/lsi",
             "rdf:type": "prov:Entity",
-            "dc:created": "6eeda60",
+            "dc:created": "e8f217b",
             "dc:title": "Repository"
         },
         {

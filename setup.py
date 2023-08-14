@@ -18,9 +18,6 @@ setup(
         'lexibank.dataset': [
             'lsi=lexibank_lsi:Dataset',
         ],
-        'cldfbench.commands': [
-            'lsi=lsicommands',
-        ]
     },
     install_requires=[
         'newick>=1.1.0',

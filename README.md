@@ -14,6 +14,8 @@ If you use these data please cite
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
+Available online at https://lsi.clld.org
+
 
 Conceptlists in Concepticon:
 - [Grierson-1928-168](https://concepticon.clld.org/contributions/Grierson-1928-168)
