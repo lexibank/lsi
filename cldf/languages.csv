@@ -1,9 +1,9 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,NameInSource,NumberInSource,Order,FamilyInSource,SubGroup
 JAPANESE,JAPANESE,nucl1643,Japanese,jpn,Eurasia,35.0,135.0,Japonic,Japanese,,1,,
 AINU,AINU,sakh1245,Sakhalin Ainu,,Eurasia,48.141866,142.329834,Ainu,Ainu,,2,,
-KOREAN,KOREAN,kore1280,Korean,kor,Eurasia,37.5,128.0,Koreanic,Korean,,3,,
+KOREAN,KOREAN,kore1280,Korean,kor,Eurasia,37.54,126.98,Koreanic,Korean,,3,,
 TURKI,TURKI,nucl1301,Turkish,tur,Eurasia,39.8667,32.8667,Turkic,Turkī,,4,,
-MANCHU,MANCHU,manc1252,Manchu,mnc,Eurasia,47.3122,126.557,Tungusic,Manchu,,5,,
+MANCHU,MANCHU,manc1252,Manchu,mnc,Eurasia,47.31225,126.55713,Tungusic,Manchu,,5,,
 MONGOLIAN,MONGOLIAN,mong1331,Mongolian,mon,Eurasia,,,Mongolic-Khitan,Mongolian,,6,,
 SAKUPA,SAKUPA,,,,,,,,Sakupà,,7,,
 BASQUE,BASQUE,basq1248,Basque,eus,Eurasia,43.2787,-1.31622,Basque,Basque,,9,,
@@ -40,7 +40,7 @@ JUANG,JUANG,juan1238,Juang,jun,Eurasia,21.2606,85.5845,Austroasiatic,Juāṅg,28
 SAVARA,SAVARA,sora1254,Sora,srb,Eurasia,19.1213,84.19,Austroasiatic,Savara,29.,40,Austro-Asiatic,Munda
 GADABA,GADABA,bodo1267,Bodo Gadaba,gbj,Eurasia,18.3857,82.771,Austroasiatic,Gadabā,30.,41,Austro-Asiatic,Munda
 MANDARIN,MANDARIN,mand1415,Mandarin Chinese,cmn,Eurasia,40.0209,116.228,Sino-Tibetan,Mandarin,,42,Sinitic,Tai-Chinese
-CANTONESE,CANTONESE,cant1236,Cantonese,,Eurasia,,,Sino-Tibetan,Cantonese,,43,Sinitic,Tai-Chinese
+CANTONESE,CANTONESE,cant1236,Cantonese,,Eurasia,23.0118,113.2021,Sino-Tibetan,Cantonese,,43,Sinitic,Tai-Chinese
 GYAOMI,GYAOMI,mand1415,Mandarin Chinese,cmn,Eurasia,40.0209,116.228,Sino-Tibetan,Gyåmi,,44,Sinitic,Tai-Chinese
 SIAMESEWRITTEN,SIAMESE_WRITTEN,thai1261,Thai,tha,Eurasia,14.192,100.671,Tai-Kadai,"Siamese, written",45.,45,Sinitic,Tai-Chinese
 SIAMESESPOKEN,SIAMESE_SPOKEN,thai1261,Thai,,Eurasia,14.192,100.671,Tai-Kadai,"Siamese, spoken",,46,Sinitic,Tai-Chinese
@@ -109,8 +109,8 @@ GURUNG,GURUNG,east2345,Eastern Gurung,ggn,Eurasia,28.4368,84.58145,Sino-Tibetan,
 MURMI,MURMI,west2415,Western Tamang,tdg,Eurasia,28.0239,85.0563,Sino-Tibetan,Murmi,112.,116,Tibeto-Burman,Himalayan
 SUNWAR,SUNWAR,sunw1242,Sunwar,suz,Eurasia,27.5201,86.2476,Sino-Tibetan,Sunwār,113.,117,Tibeto-Burman,Himalayan
 MAGARI,MAGARI,west2418,Western Magar,mrd,Eurasia,28.2462,83.511,Sino-Tibetan,Mãgarī,114.,118,Tibeto-Burman,Himalayan
-NEWARI,NEWARI,newa1246,Kathmandu Valley Newari,new,Eurasia,27.2614,84.9577,Sino-Tibetan,Nēwārī,116.,119,Tibeto-Burman,Himalayan
-PADIPAHRIORPAHI,PADI_PAHRI_OR_PAHI,newa1246,Kathmandu Valley Newari,new,Eurasia,27.2614,84.9577,Sino-Tibetan,Paḍ’ī /Pahrī/Pahī,117.,120,Tibeto-Burman,Himalayan
+NEWARI,NEWARI,newa1246,Kathmandu Valley Newari,new,Eurasia,27.67,85.326,Sino-Tibetan,Nēwārī,116.,119,Tibeto-Burman,Himalayan
+PADIPAHRIORPAHI,PADI_PAHRI_OR_PAHI,newa1246,Kathmandu Valley Newari,new,Eurasia,27.67,85.326,Sino-Tibetan,Paḍ’ī /Pahrī/Pahī,117.,120,Tibeto-Burman,Himalayan
 RONGORLEPCHA,RONG_OR_LEPCHA,lepc1244,Lepcha,lep,Eurasia,27.0869,88.5726,Sino-Tibetan,Róng/Lepcha,118.,121,Tibeto-Burman,Himalayan
 TOTO,TOTO,toto1302,Toto,txo,Eurasia,26.67,88.975,Sino-Tibetan,Ṭōṭō,121.,122,Tibeto-Burman,Himalayan
 AKA,AKA,hrus1242,Hruso,hru,Eurasia,27.27,92.63,Hruso,Aka,122.,123,Tibeto-Burman,Himalayan
@@ -177,7 +177,7 @@ MARAM,MARAM,mara1379,Maram Naga,nma,Eurasia,25.4378,94.2205,Sino-Tibetan,Marām,
 KWOIRENG,KWOIRENG,lian1251,Liangmai Naga,njn,Eurasia,25.16,93.542,Sino-Tibetan,Kwoireng,197.,191,Tibeto-Burman,Naga
 TANGKHUL,TANGKHUL,ukhr1238,Ukhrul,nmf,Eurasia,,,Sino-Tibetan,Tāngk’ul,199.,192,Tibeto-Burman,Naga
 PHADANG,PHADANG,phad1238,Phadang,nmf,Eurasia,,,Sino-Tibetan,P’adāng,200.,193,Tibeto-Burman,Naga
-KHANGOI,KHANGOI,khan1277,Southern Tangkhul Naga,nmf,Eurasia,25.73633,94.247299,Sino-Tibetan,K’angoi,201.,194,Tibeto-Burman,Naga
+KHANGOI,KHANGOI,khan1277,Southern Tangkhul Naga,nmf,Eurasia,25.74,94.25,Sino-Tibetan,K’angoi,201.,194,Tibeto-Burman,Naga
 MARING,MARING,mari1416,Maring Naga,nng,Eurasia,24.2854,94.0723,Sino-Tibetan,Maring,202.,195,Tibeto-Burman,Naga
 CHINGPAORKACHIN,CHINGPA_OR_KACHIN,kach1280,Southern Jinghpaw,kac,Eurasia,25.4634,97.3278,Sino-Tibetan,Chingpå/Kachin,204.,196,Tibeto-Burman,Kachin
 MARAN,MARAN,,,,,,,,Maran,,197,Tibeto-Burman,Kachin
@@ -189,10 +189,10 @@ SIYIN,SIYIN,siyi1240,Sizang Chin,csy,Eurasia,23.8192,93.6884,Sino-Tibetan,Siyin,
 LAI,LAI,haka1240,Haka Chin,cnh,Eurasia,22.8735,92.8208,Sino-Tibetan,Lai,219.,203,Tibeto-Burman,Kuki-Chin
 LUSHEI,LUSHEI,lush1249,Mizo,lus,Eurasia,22.6138,92.6247,Sino-Tibetan,LušēI,224.,204,Tibeto-Burman,Kuki-Chin
 BANJOGI,BANJOGI,zotu1235,Zotung Chin,czt,Eurasia,22.5298,93.29,Sino-Tibetan,Banjōgi,227.,206,Tibeto-Burman,Kuki-Chin
-PANKHU,PANKHU,pank1249,Pankhu,pkh,Eurasia,22.6797,92.9461,Sino-Tibetan,Pānk’ū,228.,207,Tibeto-Burman,Kuki-Chin
+PANKHU,PANKHU,pank1249,Pangkhua,pkh,Eurasia,22.4124,92.4581,Sino-Tibetan,Pānk’ū,228.,207,Tibeto-Burman,Kuki-Chin
 HRANGKHOL,HRANGKHOL,hran1239,Hrangkhol,hra,Eurasia,24.4559,93.351,Sino-Tibetan,Hrāngk’ol,229.,208,Tibeto-Burman,Kuki-Chin
 HALLAM,HALLAM,fala1243,Falam Chin,cfm,Eurasia,23.7892833333,92.3254633333,Sino-Tibetan,Hallām,232.,209,Tibeto-Burman,Kuki-Chin
-LANGRONG,LANGRONG,lang1312,Langrong,aim,Eurasia,,,Sino-Tibetan,Langrong,236.,210,Tibeto-Burman,Kuki-Chin
+LANGRONG,LANGRONG,lang1312,,aim,,,,,Langrong,236.,210,Tibeto-Burman,Kuki-Chin
 AIMOL,AIMOL,aimo1244,Aimol,aim,Eurasia,24.6437,94.3556,Sino-Tibetan,Aimol,237.,211,Tibeto-Burman,Kuki-Chin
 CHIRU,CHIRU,chir1283,Chiru,cdf,Eurasia,25.4643,94.4072,Sino-Tibetan,Chiru,238.,212,Tibeto-Burman,Kuki-Chin
 KOLHRENG,KOLHRENG,kolh1240,Kolhreng,kmm,Eurasia,,,Sino-Tibetan,Kolhreng,239.,213,Tibeto-Burman,Kuki-Chin
@@ -207,10 +207,10 @@ CHINBON,CHINBON,chin1478,Chinbon Chin,cnb,Eurasia,20.0776,94.0506,Sino-Tibetan,C
 THAYETMYOCHIN,THAYETMYO_CHIN,thay1247,Thayetmyo,csh,Eurasia,,,Sino-Tibetan,Thayetmyo Chin,,222,Tibeto-Burman,Kuki-Chin
 SHOORKHYANG,SHO_OR_KHYANG,asho1236,Asho Chin,csh,Eurasia,21.393,93.5069,Sino-Tibetan,Šö/K’yang,256.,223,Tibeto-Burman,Kuki-Chin
 KHAMI,KHAMI,kham1284,Khami,cnk,Eurasia,,,Sino-Tibetan,K’ami,257.,224,Tibeto-Burman,Kuki-Chin
-ANDRO,ANDRO,kadu1254,Kadu,zkd,Eurasia,,,Sino-Tibetan,Andro,279.,225,Tibeto-Burman,Lui
-SENGMAI,SENGMAI,kadu1254,Kadu,zkd,Eurasia,,,Sino-Tibetan,Sengmai,279.,226,Tibeto-Burman,Lui
+ANDRO,ANDRO,kadu1254,Kadu,zkd,Eurasia,24.2042,95.6332,Sino-Tibetan,Andro,279.,225,Tibeto-Burman,Lui
+SENGMAI,SENGMAI,kadu1254,Kadu,zkd,Eurasia,24.2042,95.6332,Sino-Tibetan,Sengmai,279.,226,Tibeto-Burman,Lui
 CHAIREL,CHAIREL,chai1254,Chairel,,Eurasia,24.30438,93.866431,Sino-Tibetan,Chairel,280.,227,Tibeto-Burman,Lui
-KADU,KADU,kadu1254,Kadu,zkd,Eurasia,,,Sino-Tibetan,Kadu,281.,228,Tibeto-Burman,Lui
+KADU,KADU,kadu1254,Kadu,zkd,Eurasia,24.2042,95.6332,Sino-Tibetan,Kadu,281.,228,Tibeto-Burman,Lui
 SZIORATSI,SZI_OR_ATSI,zaiw1241,Zaiwa,atb,Eurasia,24.1726,98.3643,Sino-Tibetan,Szi/Atsi,261.,229,Tibeto-Burman,Burma
 LASHIORLECHI,LASHI_OR_LECHI,lash1243,Lashi,lsi,Eurasia,26.0992,98.5481,Sino-Tibetan,Laši/Lechi,262.,230,Tibeto-Burman,Burma
 MARU,MARU,maru1249,Maru,mhx,Eurasia,24.942535,99.8338,Sino-Tibetan,Maru,263.,231,Tibeto-Burman,Burma
@@ -223,7 +223,7 @@ BURMESESPOKEN,BURMESE_SPOKEN,nucl1310,Burmese,,Eurasia,20.7926,93.9665,Sino-Tibe
 ARAKANESE,ARAKANESE,marm1234,Marma,rmz,Eurasia,22.759948,92.210748,Sino-Tibetan,Arakanese,266.,238,Tibeto-Burman,Burma
 TAUNGYO,TAUNGYO,taun1248,Taungyo,tco,Eurasia,20.4104,96.7401,Sino-Tibetan,Taungyo,267.,239,Tibeto-Burman,Burma
 DANU,DANU,danu1251,Danu,dnv,Eurasia,,,Sino-Tibetan,Danu,269.,240,Tibeto-Burman,Burma
-INTHA,INTHA,inth1239,Intha,int,,,,Sino-Tibetan,Inθa,268.,241,Tibeto-Burman,Burma
+INTHA,INTHA,inth1239,Intha,int,Eurasia,,,Sino-Tibetan,Inθa,268.,241,Tibeto-Burman,Burma
 TAVOYAN,TAVOYAN,tavo1242,Tavoyan,tvn,Eurasia,14.1078,98.194,Sino-Tibetan,Tavoyan,270.,242,Tibeto-Burman,Burma
 TAMIL,TAMIL,tami1289,Tamil,tam,Eurasia,10.520219,78.825989,Dravidian,Tamil̤,285.,243,Dravidian,
 KORAVA,KORAVA,yeru1240,Yerukula,yeu,Eurasia,17.3702,81.9748,Dravidian,Korava,287.,244,Dravidian,
@@ -236,7 +236,7 @@ KODAGU,KODAGU,koda1255,Kodava,kfa,Eurasia,12.2443,75.9161,Dravidian,Koḍagu,301
 TULU,TULU,tulu1258,Tulu,tcy,Eurasia,12.8114,75.2651,Dravidian,Tuḷu,302.,251,Dravidian,
 TODA,TODA,toda1252,Toda,tcx,Eurasia,11.4184,77.0168,Dravidian,Toda,303.,252,Dravidian,
 KOTA,KOTA,kota1263,Kota (India),kfe,Eurasia,11.4978,76.9387,Dravidian,Kōta,304.,253,Dravidian,
-KURUXORORAO,KURUX_OR_ORAO,kuru1302,Kurukh,kru,Eurasia,24.4644,86.4657,Dravidian,Kurunꭓ,305.,254,Dravidian,
+KURUXORORAO,KURUX_OR_ORAO,kuru1302,Indian Kurux,kru,Eurasia,24.4644,86.4657,Dravidian,Kurunꭓ,305.,254,Dravidian,
 MALTOORMALER,MALTO_OR_MALER,kuma1274,Kumarbhag Paharia,kmj,Eurasia,24.1217,87.2699,Dravidian,Malto/Maler,307.,257,Dravidian,
 KUIKANDHIORKHOND,KUI_KANDHI_OR_KHOND,kuii1252,Kui (India),kxu,Eurasia,19.2043,83.5859,Dravidian,Kui/Kand’ī/Khond,308.,258,Dravidian,
 KOLAMI,KOLAMI,nort2699,Northwestern Kolami,kfb,Eurasia,20.1022,78.4934,Dravidian,Kōlāmī,310.,259,Dravidian,
@@ -245,12 +245,12 @@ TELUGU,TELUGU,telu1262,Telugu,tel,Eurasia,16.4529,78.7024,Dravidian,Telugu,320.,
 BRAHUI,BRAHUI,brah1256,Brahui,brh,Eurasia,29.04,66.56,Dravidian,Brāhūī,328.,262,Dravidian,
 ARABIC,ARABIC,stan1318,Standard Arabic,arb,Eurasia,27.9625,43.8525,Afro-Asiatic,Arabic,,263,Semitic,
 OLDPERSIAN,OLD_PERSIAN,oldp1254,Old Persian (ca. 600-400 B.C.),peo,Eurasia,32.0,54.0,Indo-European,Old Persian,,264,"Indo-European Family, Aryan sub-family",Eranian
-AVESTAN,AVESTAN,aves1237,Avestan,ave,Eurasia,31.541,53.633,Indo-European,Avesta,,265,"Indo-European Family, Aryan sub-family",Eranian
+AVESTAN,AVESTAN,aves1237,Avestan,ave,Eurasia,34.217,62.112,Indo-European,Avesta,,265,"Indo-European Family, Aryan sub-family",Eranian
 PAHLAVI,PAHLAVI,pahl1241,Pahlavi,pal,Eurasia,30.06,52.7,Indo-European,Pahlavī,,266,"Indo-European Family, Aryan sub-family",Eranian
 PERSIAN,PERSIAN,west2369,Western Farsi,pes,Eurasia,32.9,53.3,Indo-European,Persian,331.,267,"Indo-European Family, Aryan sub-family",Eranian
 PASHTOOFPESHAWAR,PASHTO_OF_PESHAWAR,nort2646,Northern Pashto,pbu,Eurasia,34.0,71.33,Indo-European,"Paṣ̌tō, of Peshawar",339.,268,"Indo-European Family, Aryan sub-family",Eranian
 WAZIRI,WAZIRI,cent1973,Central Pashto,pst,Eurasia,31.9153,69.4529,Indo-European,Wazīrī,353.,269,"Indo-European Family, Aryan sub-family",Eranian
-PASHTOOFKANDAHAR,PASHTO_OF_KANDAHAR,sout2649,Southern Pashto,pbt,Eurasia,37.17,68.25,Indo-European,of Kandahar,354.,270,"Indo-European Family, Aryan sub-family",Eranian
+PASHTOOFKANDAHAR,PASHTO_OF_KANDAHAR,sout2649,Southern Pashto,pbt,Eurasia,31.5,65.7,Indo-European,of Kandahar,354.,270,"Indo-European Family, Aryan sub-family",Eranian
 ORMURI,ORMURI,ormu1247,Ormuri,oru,Eurasia,32.6819,69.3444,Indo-European,Ōrmuṛī,360.,271,"Indo-European Family, Aryan sub-family",Eranian
 BALOCHIMAKRANI,BALOCHI_MAKRANI,sout2642,Southern Balochi,bcc,Eurasia,26.0,64.0,Indo-European,"Balōchī, Makrānī",363.,272,"Indo-European Family, Aryan sub-family",Eranian
 EASTERNBALOCHI,EASTERN_BALOCHI,east2304,Eastern Balochi,bgp,Eurasia,28.0,62.0,Indo-European,Eastern,366.,273,"Indo-European Family, Aryan sub-family",Eranian
@@ -260,12 +260,12 @@ SARIKOLI,SARIKOLI,sari1246,Sarikoli,srh,Eurasia,37.905,75.1449,Indo-European,Sar
 ISHKASHMIZEBAKI,ISHKASHMI_ZEBAKI,ishk1246,Ishkashimi,isk,Eurasia,36.67,71.55,Indo-European,"Iškāšmī, Zēbakī",376.,277,"Indo-European Family, Aryan sub-family",Eranian
 MUNJANIORMUNGI,MUNJANI_OR_MUNGI,munj1244,Munji,mnj,Eurasia,35.9321,70.9404,Indo-European,Munjānī/Mungī,377.,278,"Indo-European Family, Aryan sub-family",Eranian
 YUDYA,YUDYA,yidg1240,Yidgha,ydg,Eurasia,36.014,71.5077,Indo-European,Yüdɣa,378.,279,"Indo-European Family, Aryan sub-family",Eranian
-BASHGALI,BASHGALI,kati1270,Kati,bsh,Eurasia,35.4145,70.9826,Indo-European,Bašgali,379.,280,"Indo-European Family, Aryan sub-family",Dardic or Pisacha
-WAIALA,WAI_ALA,waig1243,Waigali,wbk,Eurasia,35.0358,70.9761,Indo-European,Wai-alā,380.,281,"Indo-European Family, Aryan sub-family",Dardic or Pisacha
-WASIVERIORVERON,WASI_VERI_OR_VERON,pras1239,Prasuni,prn,Eurasia,35.1731,70.8004,Indo-European,Wasĩ-veru/Veron,381.,282,"Indo-European Family, Aryan sub-family",Dardic or Pisacha
-KALASHA,KALASHA,kala1372,Kalasha,kls,Eurasia,35.6415,71.6657,Indo-European,Kalāšā,383.,284,"Indo-European Family, Aryan sub-family",Dardic or Pisacha
+BASHGALI,BASHGALI,kati1270,Katë,bsh,Eurasia,35.4145,70.9826,Indo-European,Bašgali,379.,280,"Indo-European Family, Aryan sub-family",Dardic or Pisacha
+WAIALA,WAI_ALA,waig1243,Nuristani Kalasha,wbk,Eurasia,35.191171,70.993533,Indo-European,Wai-alā,380.,281,"Indo-European Family, Aryan sub-family",Dardic or Pisacha
+WASIVERIORVERON,WASI_VERI_OR_VERON,pras1239,Prasun,prn,Eurasia,35.420531,70.922783,Indo-European,Wasĩ-veru/Veron,381.,282,"Indo-European Family, Aryan sub-family",Dardic or Pisacha
+KALASHA,KALASHA,kala1372,Chitral Kalasha,kls,Eurasia,35.6415,71.6657,Indo-European,Kalāšā,383.,284,"Indo-European Family, Aryan sub-family",Dardic or Pisacha
 GAWARBATI,GAWAR_BATI,gawa1247,Gawar-Bati,gwt,Eurasia,35.1982,71.5428,Indo-European,Gawar-bati,384.,285,"Indo-European Family, Aryan sub-family",Dardic or Pisacha
-PASHAIEASTERN,PASHAI_EASTERN,sout2672,Southeast Pashayi,psi,Eurasia,34.43099,70.30351,Indo-European,"Pašai, Eastern",386.,286,"Indo-European Family, Aryan sub-family",Dardic or Pisacha
+PASHAIEASTERN,PASHAI_EASTERN,sout2672,Southeast Pashayi,psi,Eurasia,34.66597,70.592042,Indo-European,"Pašai, Eastern",386.,286,"Indo-European Family, Aryan sub-family",Dardic or Pisacha
 PASHAIWESTERN,PASHAI_WESTERN,sout2671,Southwest Pashayi,psh,Eurasia,34.8478,69.8734,Indo-European,"Pašai, Western",387.,287,"Indo-European Family, Aryan sub-family",Dardic or Pisacha
 KHOWARORCHITRALI,KHOWAR_OR_CHITRALI,khow1242,Khowar,khw,Eurasia,36.0,72.0,Indo-European,K’ōwār/Chitrālī,390.,288,"Indo-European Family, Aryan sub-family",Dardic or Pisacha
 SHINAGILGITI,SHINA_GILGITI,gilg1242,Gilgiti,scl,Eurasia,,,Indo-European,"Šiṇā, Gilgitī",392.,289,"Indo-European Family, Aryan sub-family",Dardic or Pisacha
@@ -300,7 +300,7 @@ LARI,LARI,lari1254,Lari (Sindhi),snd,Eurasia,,,Indo-European,Lāṛī,450.,317
 KACHCHHI,KACHCHHI,kach1277,Kachchi,kfr,Eurasia,23.83,69.0,Indo-European,Kachch’ī,452.,318,"Indo-European Family, Aryan sub-family",Indo-Aryan
 MARATHIDESHI,MARATHI_DESHI,mara1378,Marathi,mar,Eurasia,17.9344,76.6665,Indo-European,"Marāṭ’ī, Dēšī",456.,319,"Indo-European Family, Aryan sub-family",Indo-Aryan
 NAGPURI,NAGPURI,varh1239,Varhadi-Nagpuri,vah,Eurasia,20.7139,79.7516,Indo-European,Nāgpurī,478.,320,"Indo-European Family, Aryan sub-family",Indo-Aryan
-KONKANI,KONKANI,konk1267,Maharashtrian Konkani,knn,Eurasia,19.2414,73.9166,Indo-European,Kōṅkaṇī,494.,321,"Indo-European Family, Aryan sub-family",Indo-Aryan
+KONKANI,KONKANI,konk1267,Konkan Marathi,knn,Eurasia,18.404,73.994,Indo-European,Kōṅkaṇī,494.,321,"Indo-European Family, Aryan sub-family",Indo-Aryan
 SINGHALESE,SINGHALESE,sinh1246,Sinhala,sin,Eurasia,8.0,81.0,Indo-European,Singhalese,499.,322,"Indo-European Family, Aryan sub-family",Indo-Aryan
 ORIYA,ORIYA,oriy1255,Odia,ory,Eurasia,21.0,85.0,Indo-European,Oṛiyā,502.,323,"Indo-European Family, Aryan sub-family",Indo-Aryan
 BIHARIMAITHILI,BIHARI_MAITHILI,mait1250,Maithili,mai,Eurasia,26.3817,86.2211,Indo-European,"Bihārī, Mait’ilī",507.,324,"Indo-European Family, Aryan sub-family",Indo-Aryan
@@ -322,7 +322,7 @@ BAGHELI,BAGHELI,bagh1251,Bagheli,bfy,Eurasia,24.6837,87.4994,Indo-European,Bag�
 CHHATTISGARHI,CHHATTISGARHI,chha1249,Chhattisgarhi,hne,Eurasia,20.3601,82.0483,Indo-European,Ch’attīsgaṛ’ī,573.,340,"Indo-European Family, Aryan sub-family",Indo-Aryan
 WESTERNHINDIHINDOSTANI,WESTERN_HINDI_HINDOSTANI,hind1269,Hindi,hin,Eurasia,25.0,77.0,Indo-European,"Western Hindī, Hindōstānī",582.,341,"Indo-European Family, Aryan sub-family",Indo-Aryan
 VERNACULARHINDOSTANI,VERNACULAR_HINDOSTANI,hind1269,Hindi,hin,Eurasia,25.0,77.0,Indo-European,Vernacular Hindōstānī,583.,342,"Indo-European Family, Aryan sub-family",Indo-Aryan
-DAKHINI,DAKHINI,decc1239,Deccan,dcc,Eurasia,18.5919,75.717,Indo-European,Dak’inī,587.,343,"Indo-European Family, Aryan sub-family",Indo-Aryan
+DAKHINI,DAKHINI,decc1239,Deccan Marathi,dcc,Eurasia,18.5919,75.717,Indo-European,Dak’inī,587.,343,"Indo-European Family, Aryan sub-family",Indo-Aryan
 BANGARU,BANGARU,hary1238,Haryanvi,bgc,Eurasia,29.0166,76.0432,Indo-European,Bāngarū,589.,344,"Indo-European Family, Aryan sub-family",Indo-Aryan
 BRAJBHAKHA,BRAJ_BHAKHA,braj1242,Braj,bra,Eurasia,26.4758,78.0813,Indo-European,Braj B’āk’ā,593.,345,"Indo-European Family, Aryan sub-family",Indo-Aryan
 KANAUJI,KANAUJI,kana1281,Kanauji,bjj,Eurasia,27.1074,79.2883,Indo-European,Kanaujī,605.,346,"Indo-European Family, Aryan sub-family",Indo-Aryan
@@ -352,7 +352,7 @@ CENTRALPAHARIKUMAUNI,CENTRAL_PAHARI_KUMAUNI,kuma1273,Kumaoni,kfy,Eurasia,29.5622
 GARHWALI,GARHWALI,garh1243,Garhwali,gbm,Eurasia,30.5061,78.7201,Indo-European,Gaṛ’wālī,805.,372,"Indo-European Family, Aryan sub-family",Indo-Aryan
 WESTERNPAHARIJAUNSARI,WESTERN_PAHARI_JAUNSARI,jaun1243,Jaunsari,jns,Eurasia,30.5587,77.9084,Indo-European,"Western Pahāṛī, Jaunsārī",815.,373,"Indo-European Family, Aryan sub-family",Indo-Aryan
 SIRMAURI,SIRMAURI,sirm1239,Sirmauri,srx,Eurasia,31.1,77.17,Indo-European,Sirmaurī,816.,374,"Indo-European Family, Aryan sub-family",Indo-Aryan
-BAGHATI,BAGHATI,bagh1249,Baghati,bfz,Eurasia,,,Indo-European,Bag’āṭī,820.,375,"Indo-European Family, Aryan sub-family",Indo-Aryan
+BAGHATI,BAGHATI,bagh1249,Baghati,bfz,Eurasia,31.194,77.0471,Indo-European,Bag’āṭī,820.,375,"Indo-European Family, Aryan sub-family",Indo-Aryan
 KIUTHALI,KIUTHALI,kiun1241,Kiunthali,bfz,Eurasia,,,Indo-European,Kiū̃ṭ’alī,822.,376,"Indo-European Family, Aryan sub-family",Indo-Aryan
 SHODOCHI,SHODOCHI,maha1287,Mahasu Pahari,bfz,Eurasia,31.0088,77.5317,Indo-European,Šǒdōchī,830.,377,"Indo-European Family, Aryan sub-family",Indo-Aryan
 KULUI,KULUI,kllu1238,Kullui,kfx,Eurasia,,,Indo-European,Kuḷuī,833.,378,"Indo-European Family, Aryan sub-family",Indo-Aryan

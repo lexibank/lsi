@@ -22,7 +22,7 @@ class CustomConcept(Concept):
         metadata={
             'separator': ' ',
             'dc:description': "Numbers of scans in the Digital South Asia Library",
-            'valueUrl': 'https://dsal.uchicago.edu/books/lsi/images/lsi-v1-2-{ScanNumber}.jpg',
+            'valueUrl': 'https://dsal.uchicago.edu/books/lsi/images/lsi-v1-2-{ScanNumbers}.jpg',
         }
     )
 
@@ -121,22 +121,10 @@ class Dataset(BaseDataset):
         wl = Wordlist(D)
         wl.output('tsv', prettify=False, filename=str(self.raw_dir.joinpath('wordlist')))
 
-        missingc, missingl = set(), set()
         for idx, doculect, concept, number, form in progressbar(wl.iter_rows(
                 'doculect', 'concept', 'number', 'form'), desc='cldfify'):
-            if concept in concepts and slug(doculect) in languages:
-                args.writer.add_forms_from_value(
-                    Value=form,
-                    Parameter_ID=concepts[concept],
-                    Language_ID=languages[slug(doculect)]
-                )
-            else:
-                if concept not in concepts:
-                    missingc.add(concept)
-                if slug(doculect) not in languages:
-                    missingl.add(slug(doculect))
-        for m in missingc:
-            print("Missing concept ", m)
-        print('')
-        for m in missingl:
-            print("Missing lang ", m)
+            args.writer.add_forms_from_value(
+                Value=form,
+                Parameter_ID=concepts[concept],
+                Language_ID=languages[slug(doculect)]
+            )

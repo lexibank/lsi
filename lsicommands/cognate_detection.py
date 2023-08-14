@@ -73,4 +73,3 @@ def run(args):
     alm = Alignments(lex, ref='scaid')
     alm.align()
     alm.output('html', filename="computed"+"/"+"lsi_borrowings_scaid")
-    

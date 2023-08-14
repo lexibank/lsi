@@ -1,5 +1,7 @@
 # CLDF dataset derived from Grierson's "Linguistic Survey of India" from 1928
 
+[![CLDF validation](https://github.com/lexibank/lsi/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/lsi/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -23,6 +25,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/lsi/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/lsi/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 98%](https://img.shields.io/badge/Glottolog-98%25-green.svg "Glottolog: 98%")
 ![Concepticon: 68%](https://img.shields.io/badge/Concepticon-68%25-orange.svg "Concepticon: 68%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
@@ -36,7 +39,7 @@ Conceptlists in Concepticon:
 - **Synonymy:** 1.14
 - **Invalid lexemes:** 0
 - **Tokens:** 364,236
-- **Segments:** 170 (0 BIPA errors, 0 CTLS sound class errors, 170 CLTS modified)
+- **Segments:** 170 (0 BIPA errors, 0 CLTS sound class errors, 170 CLTS modified)
 - **Inventory size (avg):** 42.32
 
 ## Possible Improvements:
