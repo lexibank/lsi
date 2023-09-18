@@ -7,16 +7,23 @@
     ],
     "creators": [
         {
-            "name": "Taraka Rama"
-        },
-        {
-            "name": "Robert Forkel"
-        },
-        {
-            "name": "Johann-Mattis List"
+            "name": "Grierson, George Abraham"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Taraka Rama",
+            "type": "Editor"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Editor"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Editor"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"

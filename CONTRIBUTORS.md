@@ -2,6 +2,7 @@
 
 Name               | GitHub user | Role
 ---                | ---         | ---
-Taraka Rama | @phylostar | maintainer
-Robert Forkel | @xrotwang | maintainer
-Johann-Mattis List | @lingulist | maintainer
+Grierson, George Abraham | | Author
+Taraka Rama | @phylostar | Editor
+Robert Forkel | @xrotwang | Editor
+Johann-Mattis List | @lingulist | Editor

@@ -88,7 +88,7 @@ class Dataset(BaseDataset):
                 Concepticon_ID=concept.concepticon_id,
                 Concepticon_Gloss=concept.concepticon_gloss,
             )
-            concepts[concept.attributes['pagenumber']+' '+concept.english] = cid
+            concepts[concept.attributes['pagenumber'] + ' ' + concept.english] = cid
 
         languages = args.writer.add_languages(
             id_factory=lambda l: slug(l['Name'], lowercase=False),
@@ -119,12 +119,11 @@ class Dataset(BaseDataset):
                     D[idx] = [language, concept, number, form]
                     idx += 1
         wl = Wordlist(D)
-        wl.output('tsv', prettify=False, filename=str(self.raw_dir.joinpath('wordlist')))
-
         for idx, doculect, concept, number, form in progressbar(wl.iter_rows(
                 'doculect', 'concept', 'number', 'form'), desc='cldfify'):
             args.writer.add_forms_from_value(
                 Value=form,
                 Parameter_ID=concepts[concept],
-                Language_ID=languages[slug(doculect)]
+                Language_ID=languages[slug(doculect)],
+                Source=['Grierson1928'],
             )
