@@ -115,6 +115,14 @@ v | v | ʋ typically common in Indian languages. Alternates between v and w
 ![](map.svg)
 
 
+## Data model
+
+See [cldf/README.md](cldf) for a description of the tables and columns and the
+entity-relationship diagram below for how they relate.
+
+![](erd.svg)
+
+
 
 ## Statistics
 
@@ -135,13 +143,6 @@ v | v | ʋ typically common in Indian languages. Alternates between v and w
 - **Tokens:** 364,236
 - **Segments:** 170 (0 BIPA errors, 0 CLTS sound class errors, 170 CLTS modified)
 - **Inventory size (avg):** 42.32
-
-## Possible Improvements:
-
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - TAKPA [tawa1289](http://glottolog.org/resource/languoid/id/tawa1289)
-
-
 
 # Contributors
 

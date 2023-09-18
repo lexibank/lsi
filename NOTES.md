@@ -90,3 +90,11 @@ v | v | ʋ typically common in Indian languages. Alternates between v and w
 ## Coverage
 
 ![](map.svg)
+
+
+## Data model
+
+See [cldf/README.md](cldf) for a description of the tables and columns and the
+entity-relationship diagram below for how they relate.
+
+![](erd.svg)
