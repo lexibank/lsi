@@ -95,6 +95,6 @@ v | v | ʋ typically common in Indian languages. Alternates between v and w
 ## Data model
 
 See [cldf/README.md](cldf) for a description of the tables and columns and the
-entity-relationship diagram below for how they relate.
+[entity-relationship diagram](erd.svg) for how they relate.
 
 ![](erd.svg)
