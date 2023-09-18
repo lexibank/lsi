@@ -2,6 +2,7 @@
 
 ```shell
 cldfbench lexibank.makecldf lexibank_lsi.py --glottolog-version v4.8 --concepticon-version v3.1.0 --clts-version v2.2.0
+pytest
 ```
 
 ```shell

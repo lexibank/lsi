@@ -93,6 +93,17 @@ class Dataset(BaseDataset):
         languages = args.writer.add_languages(
             id_factory=lambda l: slug(l['Name'], lowercase=False),
             lookup_factory=lambda l: slug(l['NameInSource']))
+        glangs = {l.id: l for l in args.glottolog.api.languoids()}
+        for l in args.writer.objects['LanguageTable']:
+            if l['Latitude'] is None:
+                glang = glangs.get(l['Glottocode'])
+                if glang and glang.level.id == 'dialect':
+                    for _, gc, _ in glang.lineage:
+                        parent = glangs[gc]
+                        if parent.level.id == 'language':
+                            l['Latitude'] = parent.latitude
+                            l['Longitude'] = parent.longitude
+                            break
 
         D = {0: ['doculect', 'concept', 'number', 'form']}
         idx = 1
