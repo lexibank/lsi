@@ -20,6 +20,7 @@ setup(
         ],
     },
     install_requires=[
+        'cldfbench>=1.14.0',
         'newick>=1.1.0',
         'pylexibank>=3.1.0',
     ],

@@ -10,19 +10,21 @@ from pylexibank import progressbar
 from lingpy import *
 from clldutils.misc import slug
 
+DSAL_BASE_URL = 'https://dsal.uchicago.edu/books/lsi/'
+
 
 @attr.s
 class CustomConcept(Concept):
+    DSAL_URL = attr.ib(default=None)
     PageNumber = attr.ib(
         default=None,
         metadata={"dc:description": "Range of pages in the printed survey"}
     )
-    ScanNumbers = attr.ib(
+    Scans = attr.ib(
         default=None,
         metadata={
             'separator': ' ',
-            'dc:description': "Numbers of scans in the Digital South Asia Library",
-            'valueUrl': 'https://dsal.uchicago.edu/books/lsi/images/lsi-v1-2-{ScanNumbers}.jpg',
+            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#mediaReference',
         }
     )
 
@@ -67,23 +69,50 @@ class Dataset(BaseDataset):
         strip_inside_brackets=True)
 
     def cmd_makecldf(self, args):
+        t = args.writer.cldf.add_component(
+            'MediaTable',
+            {
+                'name': 'Source',
+                'separator': ';',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source',
+            }
+        )
+        t.common_props['dc:description'] = 'Scans in the Digital South Asia Library'
         args.writer.cldf['FormTable', 'Profile'].valueUrl = URITemplate(
             '../etc/orthography/{Profile}.tsv')
         args.writer.cldf['FormTable', 'Profile'].common_props['dc:description'] = \
             "Orthography profile according to Moran & Cysouw 2018 used to segment this form"
         args.writer.add_sources()
 
-        def scan_number(s):
-            return str(int(s) + 42).rjust(3, '0')
+        def scan_number(s, pad=True):
+            res = str(int(s) + 42)
+            return res.rjust(3, '0') if pad else res
 
         # add concepts from list
         concepts = {}
         for concept in self.conceptlists[0].concepts.values():
             cid = '{0}_{1}'.format(concept.number, slug(concept.english))
+
+            firstscan = None
+            for i, pnumber in enumerate(concept.attributes['pagenumber'].split('-')):
+                if i == 0:
+                    firstscan = scan_number(pnumber, pad=False)
+                snumber = scan_number(pnumber)
+                args.writer.objects['MediaTable'].append(dict(
+                    ID=snumber,
+                    Name=pnumber,
+                    Description='Scan of page {} of Vol. 1, Pt. 2'.format(pnumber),
+                    Media_Type='image/jpeg',
+                    Download_URL='{}images/lsi-v1-2-{}.jpg'.format(DSAL_BASE_URL, snumber),
+                    Source=['LSIatDSAL'],
+                ))
+
             args.writer.add_concept(
                 ID=cid,
+                DSAL_URL='{}lsi.php?volume=1-2&pages=381#page/{}/mode/2up'.format(
+                    DSAL_BASE_URL, firstscan),
                 PageNumber=concept.attributes['pagenumber'],
-                ScanNumbers=map(scan_number, concept.attributes['pagenumber'].split('-')),
+                Scans=map(scan_number, concept.attributes['pagenumber'].split('-')),
                 Name=concept.english,
                 Concepticon_ID=concept.concepticon_id,
                 Concepticon_Gloss=concept.concepticon_gloss,
@@ -93,17 +122,12 @@ class Dataset(BaseDataset):
         languages = args.writer.add_languages(
             id_factory=lambda l: slug(l['Name'], lowercase=False),
             lookup_factory=lambda l: slug(l['NameInSource']))
-        glangs = {l.id: l for l in args.glottolog.api.languoids()}
         for l in args.writer.objects['LanguageTable']:
-            if l['Latitude'] is None:
-                glang = glangs.get(l['Glottocode'])
-                if glang and glang.level.id == 'dialect':
-                    for _, gc, _ in glang.lineage:
-                        parent = glangs[gc]
-                        if parent.level.id == 'language':
-                            l['Latitude'] = parent.latitude
-                            l['Longitude'] = parent.longitude
-                            break
+            if l['Latitude'] is None and l['Glottocode']:
+                glang = args.glottolog.api.get_language(l['Glottocode'])
+                if glang:
+                    l['Latitude'] = glang.latitude
+                    l['Longitude'] = glang.longitude
 
         D = {0: ['doculect', 'concept', 'number', 'form']}
         idx = 1

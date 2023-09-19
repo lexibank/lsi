@@ -12,9 +12,9 @@ property | value
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
 [dc:format](http://purl.org/dc/terms/format) | <ol><li>http://concepticon.clld.org/contributions/Grierson-1928-168</li></ol>
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://lsi.clld.org
-[dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by-nc/4.0/
+[dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/lsi
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/lsi/tree/df9ccb0">lexibank/lsi df9ccb0</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.1.0">Concepticon v3.1.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.2.0">CLTS v2.2.0</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/lsi/tree/ac29409">lexibank/lsi ac29409</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.1.0">Concepticon v3.1.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.2.0">CLTS v2.2.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.10.12</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | lsi
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -98,6 +98,29 @@ Name/Property | Datatype | Description
 [Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
 [Concepticon_ID](http://cldf.clld.org/v1.0/terms.rdf#concepticonReference) | `string` | 
 `Concepticon_Gloss` | `string` | 
+`DSAL_URL` | `string` | 
 `PageNumber` | `string` | Range of pages in the printed survey
-`ScanNumbers` | list of `string` (separated by ` `) | Numbers of scans in the Digital South Asia Library
+[Scans](http://cldf.clld.org/v1.0/terms.rdf#mediaReference) | list of `string` (separated by ` `) | References [media.csv::ID](#table-mediacsv)
+
+## <a name="table-mediacsv"></a>Table [media.csv](./media.csv)
+
+Scans in the Digital South Asia Library
+
+property | value
+ --- | ---
+[dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF MediaTable](http://cldf.clld.org/v1.0/terms.rdf#MediaTable)
+[dc:extent](http://purl.org/dc/terms/extent) | 336
+
+
+### Columns
+
+Name/Property | Datatype | Description
+ --- | --- | --- 
+[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
+[Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
+[Description](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
+[Media_Type](http://cldf.clld.org/v1.0/terms.rdf#mediaType) | `string` | 
+[Download_URL](http://cldf.clld.org/v1.0/terms.rdf#downloadUrl) | `anyURI` | 
+[Path_In_Zip](http://cldf.clld.org/v1.0/terms.rdf#pathInZip) | `string` | 
+[Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
 

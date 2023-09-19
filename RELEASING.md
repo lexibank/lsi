@@ -10,6 +10,9 @@ cldfbench cldfreadme lexibank_lsi.py
 ```
 
 ```shell
-cldfbench cldfviz.map cldf --format svg --width 20 --output map.svg --with-ocean --no-legend
+cldfbench cldfviz.map cldf --format svg --width 20 --output map.svg --with-ocean --language-properties Family
+```
+
+```shell
 cldferd --format compact.svg cldf > erd.svg
 ```

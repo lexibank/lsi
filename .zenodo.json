@@ -16,6 +16,14 @@
             "type": "Editor"
         },
         {
+            "name": "Patrick Lundberg",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Christoph Rzymski",
+            "type": "DataCurator"
+        },
+        {
             "name": "Robert Forkel",
             "type": "Editor"
         },
@@ -32,6 +40,6 @@
     "upload_type": "dataset",
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Grierson, George Abraham (1928): Linguistic Survey of India. Comparative Vocabulary. Calcutta: Government of India Central Publication Branch.</p>\n</blockquote>",
     "license": {
-        "id": "CC-BY-NC-4.0"
+        "id": "CC-BY-4.0"
     }
 }

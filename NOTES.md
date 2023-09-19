@@ -1,3 +1,9 @@
+### Digitization
+
+The first pass on the digitization was done by Patrick Lundberg and Taraka Rama,
+who typed the text from the tables in the scanned book pages into text files in 
+a format easy to parse computationally. From this dataset, available in [raw/LSI_txt](https://github.com/lexibank/lsi/tree/master/raw/LSI_txt), the data was then parsed and successively converted to CLDF, adding orthography profiles, providing links of language names to Glottolog, and linking the concept list to Concepticon (see [Grierson-1928-168](https://concepticon.clld.org/contributions/Grierson-1928-168)).
+
 The following considerations went into creating the [orthography profiles](etc/orthography):
 
 Grapheme | IPA | Comment
@@ -88,6 +94,8 @@ v | v | ʋ typically common in Indian languages. Alternates between v and w
 
 
 ## Coverage
+
+LSI covers more than 350 language varieties from multiple language families.
 
 ![](map.svg)
 

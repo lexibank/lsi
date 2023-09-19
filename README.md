@@ -12,7 +12,7 @@ If you use these data please cite
 ## Description
 
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://lsi.clld.org
 
@@ -20,6 +20,12 @@ Available online at https://lsi.clld.org
 Conceptlists in Concepticon:
 - [Grierson-1928-168](https://concepticon.clld.org/contributions/Grierson-1928-168)
 ## Notes
+
+### Digitization
+
+The first pass on the digitization was done by Patrick Lundberg and Taraka Rama,
+who typed the text from the tables in the scanned book pages into text files in 
+a format easy to parse computationally. From this dataset, available in [raw/LSI_txt](https://github.com/lexibank/lsi/tree/master/raw/LSI_txt), the data was then parsed and successively converted to CLDF, adding orthography profiles, providing links of language names to Glottolog, and linking the concept list to Concepticon (see [Grierson-1928-168](https://concepticon.clld.org/contributions/Grierson-1928-168)).
 
 The following considerations went into creating the [orthography profiles](etc/orthography):
 
@@ -112,6 +118,8 @@ v | v | ʋ typically common in Indian languages. Alternates between v and w
 
 ## Coverage
 
+LSI covers more than 350 language varieties from multiple language families.
+
 ![](map.svg)
 
 
@@ -150,8 +158,11 @@ Name               | GitHub user | Role
 ---                | ---         | ---
 Grierson, George Abraham | | Author
 Taraka Rama | @phylostar | Editor
+Patrick Lundberg | | DataCurator
+Christoph Rzymski | @chrzyki | DataCurator
 Robert Forkel | @xrotwang | Editor
 Johann-Mattis List | @lingulist | Editor
+
 
 
 
