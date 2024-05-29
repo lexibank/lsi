@@ -1,11 +1,16 @@
-from pathlib import Path
+import shutil
+import pathlib
 import unicodedata
 
 import attr
 from csvw.metadata import URITemplate
+from csvw.dsv import UnicodeWriter
 from pylexibank import Concept, Language, FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank import progressbar
+import pycldf
+from pycldf.media import File
+from clldutils.jsonlib import dump, load
 
 from lingpy import *
 from clldutils.misc import slug
@@ -52,7 +57,7 @@ class CustomLanguage(Language):
 
 class Dataset(BaseDataset):
     id = "lsi"
-    dir = Path(__file__).parent
+    dir = pathlib.Path(__file__).parent
     concept_class = CustomConcept
     language_class = CustomLanguage
     form_spec = FormSpec(
@@ -67,6 +72,45 @@ class Dataset(BaseDataset):
         ),
         first_form_only=True,
         strip_inside_brackets=True)
+
+    def cmd_download(self, args):
+        cols = ['NAME', 'FAMCODE', 'SUBGRPCD', 'LANGCODE', 'DIALCODE']
+        with UnicodeWriter(self.etc_dir / 'geolangs.csv') as w:
+            w.writerow(['dir'] + cols + ['Glottocode', 'LSI_ID'])
+            for p in self.raw_dir.joinpath('geo').glob('*/features.geojson'):
+                rows = set()
+                for f in load(p)['features']:
+                    if 'Polygon' in f['geometry']['type'] and f['properties']['NAME']:
+                        rows.add(tuple(f['properties'].get(col, '') for col in cols))
+                for row in sorted(rows):
+                    w.writerow([p.parent.name] + list(row) + ['', ''])
+        return
+        # copy ll-map images over here
+        llmap = pycldf.Dataset.from_metadata(
+            self.raw_dir / 'LL-MAP' / 'cldf' / 'Generic-metadata.json')
+        for contrib in llmap.objects('ContributionTable'):
+            if contrib.cldf.name.startswith('Linguistic Survey of India'):
+                d = None
+                for f in contrib.all_related('mediaReference'):
+                    if not f.cldf.pathInZip:
+                        p = pathlib.Path(f.cldf.downloadUrl.path)
+                        d = self.raw_dir / 'geo' / p.stem
+                        if not d.exists():
+                            d.mkdir()
+                        shutil.copy(p, d / p.name)
+                        for name in ['{}.points'.format(p.name), '{}_modified.tif'.format(p.stem)]:
+                            if p.parent.joinpath(name).exists():
+                                shutil.copy(p.parent / name, d / name)
+                        break
+                assert d
+                features = []
+                for f in contrib.all_related('mediaReference'):
+                    if f.cldf.pathInZip:
+                        features.extend(File.from_dataset(llmap, f).read_json()['features'])
+                if features:
+                    dump(dict(type='FeatureCollection', features=features),
+                         d / 'features.geojson',
+                         indent=2)
 
     def cmd_makecldf(self, args):
         t = args.writer.cldf.add_component(
