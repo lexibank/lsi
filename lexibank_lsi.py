@@ -75,15 +75,26 @@ class Dataset(BaseDataset):
 
     def cmd_download(self, args):
         cols = ['NAME', 'FAMCODE', 'SUBGRPCD', 'LANGCODE', 'DIALCODE']
-        with UnicodeWriter(self.etc_dir / 'geolangs.csv') as w:
-            w.writerow(['dir'] + cols + ['Glottocode', 'LSI_ID'])
-            for p in self.raw_dir.joinpath('geo').glob('*/features.geojson'):
-                rows = set()
+        glottocodes = set()
+        glottocode_map = {
+            tuple(r[c] for c in cols): r['Glottocode']
+            for r in self.etc_dir.read_csv('geolangs.csv', dicts=True)}
+        for p in list(self.raw_dir.joinpath('geo').glob('*/features.geojson')) + list(self.raw_dir.joinpath('geo', 'dsal_maps').glob('*.geojson')):
+            try:
                 for f in load(p)['features']:
-                    if 'Polygon' in f['geometry']['type'] and f['properties']['NAME']:
-                        rows.add(tuple(f['properties'].get(col, '') for col in cols))
-                for row in sorted(rows):
-                    w.writerow([p.parent.name] + list(row) + ['', ''])
+                    if 'glottocode' in f['properties']:
+                        glottocodes.add(f['properties']['glottocode'])
+                    elif 'Polygon' in f['geometry']['type'] and f['properties']['NAME']:
+                        key = tuple(f['properties'].get(col, '') or '' for col in cols)
+                        glottocodes.add(glottocode_map[key])
+            except:
+                print(p)
+                raise
+        cldf = self.cldf_reader()
+        for l in cldf.objects('LanguageTable'):
+            if l.cldf.glottocode in glottocodes:
+                print(l.cldf.name)
+        print(len(glottocodes))
         return
         # copy ll-map images over here
         llmap = pycldf.Dataset.from_metadata(
