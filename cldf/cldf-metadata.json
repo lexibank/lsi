@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/lexibank/lsi",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-3-gbfae847",
+            "dc:created": "50b2761",
             "dc:title": "Repository"
         },
         {
