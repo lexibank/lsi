@@ -1,16 +1,12 @@
-import shutil
 import pathlib
+import dataclasses
 import unicodedata
+from typing import Optional
 
-import attr
 from csvw.metadata import URITemplate
-from csvw.dsv import UnicodeWriter
 from pylexibank import Concept, Language, FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank import progressbar
-import pycldf
-from pycldf.media import File
-from clldutils.jsonlib import dump, load
 
 from lingpy import *
 from clldutils.misc import slug
@@ -18,14 +14,14 @@ from clldutils.misc import slug
 DSAL_BASE_URL = 'https://dsal.uchicago.edu/books/lsi/'
 
 
-@attr.s
+@dataclasses.dataclass
 class CustomConcept(Concept):
-    DSAL_URL = attr.ib(default=None)
-    PageNumber = attr.ib(
+    DSAL_URL: Optional[str] = None
+    PageNumber: Optional[str] = dataclasses.field(
         default=None,
         metadata={"dc:description": "Range of pages in the printed survey"}
     )
-    Scans = attr.ib(
+    Scans: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             'separator': ' ',
@@ -34,22 +30,22 @@ class CustomConcept(Concept):
     )
 
 
-@attr.s
+@dataclasses.dataclass
 class CustomLanguage(Language):
-    NameInSource = attr.ib(default=None)
-    NumberInSource = attr.ib(
+    NameInSource: Optional[str] = None
+    NumberInSource: Optional[str] = dataclasses.field(
         default=None,
         metadata={"dc:description": "Number of the language in the General List of the printed survey"}
     )
-    Order = attr.ib(
+    Order: Optional[str] = dataclasses.field(
         default=None,
         metadata={"dc:description": "Position of the language on the vocabulary pages of the printed survey"}
     )
-    FamilyInSource = attr.ib(
+    FamilyInSource: Optional[str] = dataclasses.field(
         default=None,
         metadata={"dc:description": "Classification of the language in the printed survey"}
     )
-    SubGroup = attr.ib(
+    SubGroup: Optional[str] = dataclasses.field(
         default=None,
         metadata={"dc:description": "Sub-classification of the language in the printed survey"}
     )
@@ -72,56 +68,6 @@ class Dataset(BaseDataset):
         ),
         first_form_only=True,
         strip_inside_brackets=True)
-
-    def cmd_download(self, args):
-        cols = ['NAME', 'FAMCODE', 'SUBGRPCD', 'LANGCODE', 'DIALCODE']
-        glottocodes = set()
-        glottocode_map = {
-            tuple(r[c] for c in cols): r['Glottocode']
-            for r in self.etc_dir.read_csv('geolangs.csv', dicts=True)}
-        for p in list(self.raw_dir.joinpath('geo').glob('*/features.geojson')) + list(self.raw_dir.joinpath('geo', 'dsal_maps').glob('*.geojson')):
-            try:
-                for f in load(p)['features']:
-                    if 'glottocode' in f['properties']:
-                        glottocodes.add(f['properties']['glottocode'])
-                    elif 'Polygon' in f['geometry']['type'] and f['properties']['NAME']:
-                        key = tuple(f['properties'].get(col, '') or '' for col in cols)
-                        glottocodes.add(glottocode_map[key])
-            except:
-                print(p)
-                raise
-        cldf = self.cldf_reader()
-        for l in cldf.objects('LanguageTable'):
-            if l.cldf.glottocode in glottocodes:
-                print(l.cldf.name)
-        print(len(glottocodes))
-        return
-        # copy ll-map images over here
-        llmap = pycldf.Dataset.from_metadata(
-            self.raw_dir / 'LL-MAP' / 'cldf' / 'Generic-metadata.json')
-        for contrib in llmap.objects('ContributionTable'):
-            if contrib.cldf.name.startswith('Linguistic Survey of India'):
-                d = None
-                for f in contrib.all_related('mediaReference'):
-                    if not f.cldf.pathInZip:
-                        p = pathlib.Path(f.cldf.downloadUrl.path)
-                        d = self.raw_dir / 'geo' / p.stem
-                        if not d.exists():
-                            d.mkdir()
-                        shutil.copy(p, d / p.name)
-                        for name in ['{}.points'.format(p.name), '{}_modified.tif'.format(p.stem)]:
-                            if p.parent.joinpath(name).exists():
-                                shutil.copy(p.parent / name, d / name)
-                        break
-                assert d
-                features = []
-                for f in contrib.all_related('mediaReference'):
-                    if f.cldf.pathInZip:
-                        features.extend(File.from_dataset(llmap, f).read_json()['features'])
-                if features:
-                    dump(dict(type='FeatureCollection', features=features),
-                         d / 'features.geojson',
-                         indent=2)
 
     def cmd_makecldf(self, args):
         t = args.writer.cldf.add_component(
@@ -146,7 +92,7 @@ class Dataset(BaseDataset):
         # add concepts from list
         concepts = {}
         for concept in self.conceptlists[0].concepts.values():
-            cid = '{0}_{1}'.format(concept.number, slug(concept.english))
+            cid = f'{concept.number}_{slug(concept.english)}'
 
             firstscan = None
             for i, pnumber in enumerate(concept.attributes['pagenumber'].split('-')):
@@ -156,16 +102,15 @@ class Dataset(BaseDataset):
                 args.writer.objects['MediaTable'].append(dict(
                     ID=snumber,
                     Name=pnumber,
-                    Description='Scan of page {} of Vol. 1, Pt. 2'.format(pnumber),
+                    Description=f'Scan of page {pnumber} of Vol. 1, Pt. 2',
                     Media_Type='image/jpeg',
-                    Download_URL='{}images/lsi-v1-2-{}.jpg'.format(DSAL_BASE_URL, snumber),
+                    Download_URL=f'{DSAL_BASE_URL}images/lsi-v1-2-{snumber}.jpg',
                     Source=['LSIatDSAL'],
                 ))
 
             args.writer.add_concept(
                 ID=cid,
-                DSAL_URL='{}lsi.php?volume=1-2&pages=381#page/{}/mode/2up'.format(
-                    DSAL_BASE_URL, firstscan),
+                DSAL_URL=f'{DSAL_BASE_URL}lsi.php?volume=1-2&pages=381#page/{firstscan}/mode/2up',
                 PageNumber=concept.attributes['pagenumber'],
                 Scans=map(scan_number, concept.attributes['pagenumber'].split('-')),
                 Name=concept.english,

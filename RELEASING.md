@@ -1,7 +1,13 @@
 # Releasing LSI
 
 ```shell
-cldfbench lexibank.makecldf lexibank_lsi.py --glottolog-version v4.8 --concepticon-version v3.1.0 --clts-version v2.2.0
+git clone https://github.com/lexibank/lsi lsi-cldf
+cd lsi-cldf
+pip install -e .[test]
+```
+
+```shell
+cldfbench lexibank.makecldf lexibank_lsi.py --glottolog-version v5.3 --concepticon-version v3.4.0 --clts-version v2.3.0
 pytest
 ```
 
