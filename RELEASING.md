@@ -16,9 +16,6 @@ cldfbench cldfreadme lexibank_lsi.py
 ```
 
 ```shell
+pip install cldfviz[cartopy]
 cldfbench cldfviz.map cldf --format svg --width 20 --output map.svg --with-ocean --language-properties Family
-```
-
-```shell
-cldferd --format compact.svg cldf > erd.svg
 ```
